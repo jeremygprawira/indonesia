@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.13.13.1017",
+      "name": "MUARA SOMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3806059,
+        "latitude": 0.697829,
+        "elevation": 407
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2001",
+      "name": "AEK GUO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4614138,
+        "latitude": 0.671431,
+        "elevation": 595
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2002",
+      "name": "AEK HOLBUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4309007,
+        "latitude": 0.7411988,
+        "elevation": 471
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2003",
+      "name": "AEK MANGGIS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3041997,
+        "latitude": 0.7417036,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2004",
+      "name": "AEK NABARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4497627,
+        "latitude": 0.5880227,
+        "elevation": 430
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2005",
+      "name": "AEK NANGALI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4972314,
+        "latitude": 0.6001746,
+        "elevation": 841
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2006",
+      "name": "AMPUNG JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.5227526,
+        "latitude": 0.6247897,
+        "elevation": 1230
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2007",
+      "name": "AMPUNG PADANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3823967,
+        "latitude": 0.6695199,
+        "elevation": 310
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2008",
+      "name": "AMPUNG SIALA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3539416,
+        "latitude": 0.6318753,
+        "elevation": 209
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2009",
+      "name": "BANGKELANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4221195,
+        "latitude": 0.6766879,
+        "elevation": 394
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2010",
+      "name": "BANJAR MALAYU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3686788,
+        "latitude": 0.7758602,
+        "elevation": 773
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2011",
+      "name": "BATU MADINDING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3164822,
+        "latitude": 0.6591479,
+        "elevation": 233
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2012",
+      "name": "BULU SOMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.5094001,
+        "latitude": 0.6899245,
+        "elevation": 1380
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2013",
+      "name": "GUO BATU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3209857,
+        "latitude": 0.7407011,
+        "elevation": 462
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2014",
+      "name": "HADANGKAHAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.2746977,
+        "latitude": 0.7277265,
+        "elevation": 715
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2015",
+      "name": "HATUPANGAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4049259,
+        "latitude": 0.651917,
+        "elevation": 695
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2016",
+      "name": "MUARA PARLAMPUNGAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3115987,
+        "latitude": 0.6859109,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2018",
+      "name": "RANTOBI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3025285,
+        "latitude": 0.6631062,
+        "elevation": 206
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2019",
+      "name": "RAO RAO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27261,
+      "coordinate": {
+        "longitude": 100.547041,
+        "latitude": -0.3762325,
+        "elevation": 907
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2020",
+      "name": "SIMANGUNTONG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3325462,
+        "latitude": 0.7045684,
+        "elevation": 286
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2021",
+      "name": "SIPOGU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3981738,
+        "latitude": 0.684322,
+        "elevation": 304
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2022",
+      "name": "SOPO TINJAK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.5131789,
+        "latitude": 0.7004502,
+        "elevation": 1252
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2023",
+      "name": "TARLOLA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4959526,
+        "latitude": 0.6587692,
+        "elevation": 1009
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2024",
+      "name": "TOMBANG KALUANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4116049,
+        "latitude": 0.6854405,
+        "elevation": 635
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2025",
+      "name": "HUTA LOBU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.4016848,
+        "latitude": 0.6683975,
+        "elevation": 406
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2026",
+      "name": "LUBUK SAMBOA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3194024,
+        "latitude": 0.7287453,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2027",
+      "name": "JAMBUR BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3358361,
+        "latitude": 0.6897303,
+        "elevation": 165
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2028",
+      "name": "AEK BARU JAE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3232737,
+        "latitude": 0.7097456,
+        "elevation": 231
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2029",
+      "name": "AEK BARU JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3546661,
+        "latitude": 0.7822664,
+        "elevation": 815
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2030",
+      "name": "LUBUK BONDAR PANJANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3757453,
+        "latitude": 0.7174679,
+        "elevation": 627
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.13.2031",
+      "name": "TOR NAINCAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.13",
+      "districtName": "BATANG NATAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22983,
+      "coordinate": {
+        "longitude": 99.3406486,
+        "latitude": 0.6539388,
+        "elevation": 435
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 31
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.74.10.1001",
+      "name": "PESANGGRAHAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.10",
+      "districtName": "PESANGGRAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83663,
+      "coordinate": {
+        "longitude": 116.399299,
+        "latitude": -8.5527759,
+        "elevation": 565
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.10.1002",
+      "name": "BINTARO",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.10",
+      "districtName": "PESANGGRAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83118,
+      "coordinate": {
+        "longitude": 116.0735221,
+        "latitude": -8.5609236,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.10.1003",
+      "name": "PETUKANGAN UTARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.10",
+      "districtName": "PESANGGRAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 12260,
+      "coordinate": {
+        "longitude": 106.7512342,
+        "latitude": -6.2293619,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.10.1004",
+      "name": "PETUKANGAN SELATAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.10",
+      "districtName": "PESANGGRAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 12270,
+      "coordinate": {
+        "longitude": 106.7533474,
+        "latitude": -6.2444888,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.10.1005",
+      "name": "ULUJAMI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.10",
+      "districtName": "PESANGGRAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 12250,
+      "coordinate": {
+        "longitude": 106.7642096,
+        "latitude": -6.2344449,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.11.20.1001",
+      "name": "TEMU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.20",
+      "districtName": "KANATANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98912,
+      "coordinate": {
+        "longitude": 137.9260563,
+        "latitude": -3.7317508,
+        "elevation": 1788
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.20.2002",
+      "name": "KUTA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.20",
+      "districtName": "KANATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87154,
+      "coordinate": {
+        "longitude": 120.1826546,
+        "latitude": -9.6228704,
+        "elevation": 371
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.20.2003",
+      "name": "HAMBAPRAING",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.20",
+      "districtName": "KANATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87154,
+      "coordinate": {
+        "longitude": 120.197398,
+        "latitude": -9.525359,
+        "elevation": 205
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.20.2004",
+      "name": "MONDU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.20",
+      "districtName": "KANATANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98931,
+      "coordinate": {
+        "longitude": 138.263625,
+        "latitude": -3.6645217,
+        "elevation": 2620
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.20.2005",
+      "name": "NDAPAYAMI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.20",
+      "districtName": "KANATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87154,
+      "coordinate": {
+        "longitude": 120.1310802,
+        "latitude": -9.6183668,
+        "elevation": 525
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

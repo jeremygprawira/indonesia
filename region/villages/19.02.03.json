@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.02.03.2001",
+      "name": "SELAT NASIK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.03",
+      "districtName": "SELAT NASIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33481,
+      "coordinate": {
+        "longitude": 107.4279852,
+        "latitude": -2.7892525,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.03.2002",
+      "name": "PETALING",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.03",
+      "districtName": "SELAT NASIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33481,
+      "coordinate": {
+        "longitude": 107.4145776,
+        "latitude": -2.9211242,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.03.2003",
+      "name": "SUAK GUAL",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.03",
+      "districtName": "SELAT NASIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33481,
+      "coordinate": {
+        "longitude": 107.3398801,
+        "latitude": -2.8601827,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.03.2004",
+      "name": "PULAU GERSIK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.03",
+      "districtName": "SELAT NASIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33481,
+      "coordinate": {
+        "longitude": 107.2709401,
+        "latitude": -3.0003029,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

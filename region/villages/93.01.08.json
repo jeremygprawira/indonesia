@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.08.2001",
+      "name": "SOTA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.08",
+      "districtName": "SOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99648,
+      "coordinate": {
+        "longitude": 140.8235975,
+        "latitude": -8.4118399,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.08.2002",
+      "name": "YANGGANDUR",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.08",
+      "districtName": "SOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99648,
+      "coordinate": {
+        "longitude": 140.7734523,
+        "latitude": -8.5260851,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.08.2003",
+      "name": "RAWA BIRU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.08",
+      "districtName": "SOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99648,
+      "coordinate": {
+        "longitude": 140.8499578,
+        "latitude": -8.5982219,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.08.2004",
+      "name": "TORAY",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.08",
+      "districtName": "SOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99648,
+      "coordinate": {
+        "longitude": 140.9516464,
+        "latitude": -7.9735437,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.08.2005",
+      "name": "ERAMBU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.08",
+      "districtName": "SOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99648,
+      "coordinate": {
+        "longitude": 140.8917284,
+        "latitude": -8.1466621,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

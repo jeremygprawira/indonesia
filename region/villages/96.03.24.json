@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.24.2002",
+      "name": "AMDUI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.24",
+      "districtName": "BATANTA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98491,
+      "coordinate": {
+        "longitude": 130.889554,
+        "latitude": -0.7823137,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.24.2003",
+      "name": "WAILEBET",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.24",
+      "districtName": "BATANTA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98491,
+      "coordinate": {
+        "longitude": 130.4936298,
+        "latitude": -0.8785301,
+        "elevation": 217
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.24.2001",
+      "name": "YENANAS",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.24",
+      "districtName": "BATANTA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98491,
+      "coordinate": {
+        "longitude": 130.8257858,
+        "latitude": -0.810224,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.24.2004",
+      "name": "WAIMAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.24",
+      "districtName": "BATANTA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98491,
+      "coordinate": {
+        "longitude": 130.7747397,
+        "latitude": -0.8662463,
+        "elevation": 138
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.11.07.1001",
+      "name": "TAKKALASI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.11",
+      "cityName": "KAB. BARRU",
+      "districtCode": "73.11.07",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91611,
+      "coordinate": {
+        "longitude": 119.7841905,
+        "latitude": -3.9673474,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.11.07.2002",
+      "name": "BALUSU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.11",
+      "cityName": "KAB. BARRU",
+      "districtCode": "73.11.07",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91855,
+      "coordinate": {
+        "longitude": 119.9542905,
+        "latitude": -2.9110036,
+        "elevation": 903
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.11.07.2003",
+      "name": "LAMPOKO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.11",
+      "cityName": "KAB. BARRU",
+      "districtCode": "73.11.07",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91357,
+      "coordinate": {
+        "longitude": 119.1545627,
+        "latitude": -3.4418468,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.11.07.2004",
+      "name": "KAMIRI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.11",
+      "cityName": "KAB. BARRU",
+      "districtCode": "73.11.07",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92961,
+      "coordinate": {
+        "longitude": 120.2962751,
+        "latitude": -2.5163283,
+        "elevation": 151
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.11.07.2005",
+      "name": "MADELLO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.11",
+      "cityName": "KAB. BARRU",
+      "districtCode": "73.11.07",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90762,
+      "coordinate": {
+        "longitude": 119.6281243,
+        "latitude": -4.3433611,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.11.07.2006",
+      "name": "BINUANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.11",
+      "cityName": "KAB. BARRU",
+      "districtCode": "73.11.07",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90762,
+      "coordinate": {
+        "longitude": 119.6662596,
+        "latitude": -4.3464065,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

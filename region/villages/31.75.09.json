@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.75.09.1001",
+      "name": "CIRACAS",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.09",
+      "districtName": "CIRACAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41175,
+      "coordinate": {
+        "longitude": 107.5825686,
+        "latitude": -6.6485237,
+        "elevation": 480
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.09.1002",
+      "name": "CIBUBUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.09",
+      "districtName": "CIRACAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13720,
+      "coordinate": {
+        "longitude": 106.8803917,
+        "latitude": -6.3580986,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.09.1003",
+      "name": "KELAPA DUA WETAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.09",
+      "districtName": "CIRACAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13730,
+      "coordinate": {
+        "longitude": 106.8825222,
+        "latitude": -6.338914,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.09.1004",
+      "name": "SUSUKAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.09",
+      "districtName": "CIRACAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42193,
+      "coordinate": {
+        "longitude": 106.2652323,
+        "latitude": -5.9787113,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.09.1005",
+      "name": "RAMBUTAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.09",
+      "districtName": "CIRACAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13830,
+      "coordinate": {
+        "longitude": 106.8756055,
+        "latitude": -6.3023683,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

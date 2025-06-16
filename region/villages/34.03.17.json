@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.03.17.2001",
+      "name": "HARGOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.17",
+      "districtName": "TANJUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63264,
+      "coordinate": {
+        "longitude": 111.1710883,
+        "latitude": -7.5349045,
+        "elevation": 644
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.17.2002",
+      "name": "KEMIRI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.17",
+      "districtName": "TANJUNGSARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99565,
+      "coordinate": {
+        "longitude": 138.648302,
+        "latitude": -3.9863651,
+        "elevation": 2771
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.17.2003",
+      "name": "KEMADANG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.17",
+      "districtName": "TANJUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55881,
+      "coordinate": {
+        "longitude": 110.5612004,
+        "latitude": -8.1202188,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.17.2004",
+      "name": "BANJAREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.17",
+      "districtName": "TANJUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63137,
+      "coordinate": {
+        "longitude": 111.5391242,
+        "latitude": -7.6533845,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.17.2005",
+      "name": "NGESTIREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.17",
+      "districtName": "TANJUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55881,
+      "coordinate": {
+        "longitude": 110.6068083,
+        "latitude": -8.1110479,
+        "elevation": 204
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

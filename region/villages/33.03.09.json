@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.03.09.2001",
+      "name": "GANDASULI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97791,
+      "coordinate": {
+        "longitude": 127.4966514,
+        "latitude": -0.6866635,
+        "elevation": 194
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2002",
+      "name": "KALAPACUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3817959,
+        "latitude": -7.3140012,
+        "elevation": 123
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2003",
+      "name": "KARANGMALANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63281,
+      "coordinate": {
+        "longitude": 111.5174883,
+        "latitude": -7.4154479,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2004",
+      "name": "BANJARSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2005",
+      "name": "MAJAPURA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3753171,
+        "latitude": -7.3026471,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2006",
+      "name": "BOBOTSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3638164,
+        "latitude": -7.3042518,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2007",
+      "name": "KARANGDUREN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68161,
+      "coordinate": {
+        "longitude": 113.486167,
+        "latitude": -8.263181,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2008",
+      "name": "PAKUNCEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42454,
+      "coordinate": {
+        "longitude": 106.0526233,
+        "latitude": -5.9406065,
+        "elevation": 232
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2009",
+      "name": "KARANGTALUN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64172,
+      "coordinate": {
+        "longitude": 111.9667602,
+        "latitude": -7.9653891,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2010",
+      "name": "GUNUNGKARANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3539492,
+        "latitude": -7.2899766,
+        "elevation": 233
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2011",
+      "name": "TALAGENING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.341137,
+        "latitude": -7.2833886,
+        "elevation": 331
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2012",
+      "name": "TLAGAYASA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3472278,
+        "latitude": -7.2781056,
+        "elevation": 300
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2013",
+      "name": "DAGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62265,
+      "coordinate": {
+        "longitude": 112.4035425,
+        "latitude": -6.9093014,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2014",
+      "name": "PALUMBUNGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3571681,
+        "latitude": -7.268473,
+        "elevation": 319
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2015",
+      "name": "LIMBASARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3754328,
+        "latitude": -7.2602513,
+        "elevation": 363
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.09.2016",
+      "name": "PALUMBUNGAN WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.09",
+      "districtName": "BOBOTSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53353,
+      "coordinate": {
+        "longitude": 109.3662512,
+        "latitude": -7.2611804,
+        "elevation": 424
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.13.2001",
+      "name": "TASINIFU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.13",
+      "districtName": "MUTIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85663,
+      "coordinate": {
+        "longitude": 124.2439054,
+        "latitude": -9.4575799,
+        "elevation": 907
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.13.2002",
+      "name": "NAEKAKE A",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.13",
+      "districtName": "MUTIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85663,
+      "coordinate": {
+        "longitude": 124.2085244,
+        "latitude": -9.3992794,
+        "elevation": 696
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.13.2003",
+      "name": "NAEKAKE B",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.13",
+      "districtName": "MUTIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85663,
+      "coordinate": {
+        "longitude": 124.1215115,
+        "latitude": -9.4167808,
+        "elevation": 504
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.13.2004",
+      "name": "NOELELO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.13",
+      "districtName": "MUTIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85663,
+      "coordinate": {
+        "longitude": 124.1928788,
+        "latitude": -9.4750254,
+        "elevation": 847
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

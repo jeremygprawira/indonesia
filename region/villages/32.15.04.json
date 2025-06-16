@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.15.04.2001",
+      "name": "KUTAPOHACI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.15",
+      "cityName": "KAB. KARAWANG",
+      "districtCode": "32.15.04",
+      "districtName": "CIAMPEL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41363,
+      "coordinate": {
+        "longitude": 107.3524601,
+        "latitude": -6.3961673,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.15.04.2003",
+      "name": "PARUNGMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.15",
+      "cityName": "KAB. KARAWANG",
+      "districtCode": "32.15.04",
+      "districtName": "CIAMPEL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41363,
+      "coordinate": {
+        "longitude": 107.2963661,
+        "latitude": -6.3891049,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.15.04.2004",
+      "name": "KUTAMEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.15",
+      "cityName": "KAB. KARAWANG",
+      "districtCode": "32.15.04",
+      "districtName": "CIAMPEL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42280,
+      "coordinate": {
+        "longitude": 105.7797659,
+        "latitude": -6.5947891,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.15.04.2005",
+      "name": "KUTANEGARA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.15",
+      "cityName": "KAB. KARAWANG",
+      "districtCode": "32.15.04",
+      "districtName": "CIAMPEL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41363,
+      "coordinate": {
+        "longitude": 107.3215834,
+        "latitude": -6.4203874,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.15.04.2006",
+      "name": "MULYASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.15",
+      "cityName": "KAB. KARAWANG",
+      "districtCode": "32.15.04",
+      "districtName": "CIAMPEL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93879,
+      "coordinate": {
+        "longitude": 122.2453715,
+        "latitude": -4.0948754,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.15.04.2007",
+      "name": "MULYASEJATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.15",
+      "cityName": "KAB. KARAWANG",
+      "districtCode": "32.15.04",
+      "districtName": "CIAMPEL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41363,
+      "coordinate": {
+        "longitude": 107.3311732,
+        "latitude": -6.4579782,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.15.04.2008",
+      "name": "TEGALLEGA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.15",
+      "cityName": "KAB. KARAWANG",
+      "districtCode": "32.15.04",
+      "districtName": "CIAMPEL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16129,
+      "coordinate": {
+        "longitude": 106.8126418,
+        "latitude": -6.595677,
+        "elevation": 244
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.11.2001",
+      "name": "MANGUNAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.11",
+      "districtName": "DLINGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61455,
+      "coordinate": {
+        "longitude": 112.1961946,
+        "latitude": -7.4006481,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.11.2002",
+      "name": "MUNTUK",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.11",
+      "districtName": "DLINGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55783,
+      "coordinate": {
+        "longitude": 110.4506924,
+        "latitude": -7.9142222,
+        "elevation": 299
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.11.2003",
+      "name": "DLINGO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.11",
+      "districtName": "DLINGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55783,
+      "coordinate": {
+        "longitude": 110.4672907,
+        "latitude": -7.9550177,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.11.2004",
+      "name": "TEMUWUH",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.11",
+      "districtName": "DLINGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55783,
+      "coordinate": {
+        "longitude": 110.468417,
+        "latitude": -7.9198309,
+        "elevation": 239
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.11.2005",
+      "name": "TERONG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.11",
+      "districtName": "DLINGO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86560,
+      "coordinate": {
+        "longitude": 120.3424796,
+        "latitude": -8.7823877,
+        "elevation": 776
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.11.2006",
+      "name": "JATIMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.11",
+      "districtName": "DLINGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65141,
+      "coordinate": {
+        "longitude": 112.6184438,
+        "latitude": -7.9427529,
+        "elevation": 506
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

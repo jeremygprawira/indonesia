@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.72.07.1001",
+      "name": "RATU SIMA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.07",
+      "districtName": "DUMAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28825,
+      "coordinate": {
+        "longitude": 101.4224666,
+        "latitude": 1.6665208,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.07.1002",
+      "name": "BUKIT TIMAH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.07",
+      "districtName": "DUMAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28826,
+      "coordinate": {
+        "longitude": 101.405571,
+        "latitude": 1.6171205,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.07.1003",
+      "name": "MEKAR SARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.07",
+      "districtName": "DUMAI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97865,
+      "coordinate": {
+        "longitude": 128.2817326,
+        "latitude": 1.159059,
+        "elevation": 517
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.07.1004",
+      "name": "BUKIT DATUK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.07",
+      "districtName": "DUMAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28825,
+      "coordinate": {
+        "longitude": 101.4328348,
+        "latitude": 1.6518659,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.07.1005",
+      "name": "BUMI AYU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.07",
+      "districtName": "DUMAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35371,
+      "coordinate": {
+        "longitude": 104.9369094,
+        "latitude": -5.3440805,
+        "elevation": 123
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

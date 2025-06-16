@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.04.28.2001",
+      "name": "MUARA PAYANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.04",
+      "cityName": "KAB. LAHAT",
+      "districtCode": "16.04.28",
+      "districtName": "MUARAPAYANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76253,
+      "coordinate": {
+        "longitude": 115.8453562,
+        "latitude": -1.4851656,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.04.28.2002",
+      "name": "MUARA GELUMPAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.04",
+      "cityName": "KAB. LAHAT",
+      "districtCode": "16.04.28",
+      "districtName": "MUARAPAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31590,
+      "coordinate": {
+        "longitude": 103.1354429,
+        "latitude": -3.9155061,
+        "elevation": 748
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.04.28.2003",
+      "name": "TALANG TINGGI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.04",
+      "cityName": "KAB. LAHAT",
+      "districtCode": "16.04.28",
+      "districtName": "MUARAPAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38883,
+      "coordinate": {
+        "longitude": 102.5343858,
+        "latitude": -4.0305348,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.04.28.2004",
+      "name": "LAWANG AGUNG LAMA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.04",
+      "cityName": "KAB. LAHAT",
+      "districtCode": "16.04.28",
+      "districtName": "MUARAPAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31590,
+      "coordinate": {
+        "longitude": 103.1533387,
+        "latitude": -3.8998538,
+        "elevation": 706
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.04.28.2005",
+      "name": "LAWANG AGUNG BARU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.04",
+      "cityName": "KAB. LAHAT",
+      "districtCode": "16.04.28",
+      "districtName": "MUARAPAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31590,
+      "coordinate": {
+        "longitude": 103.1505933,
+        "latitude": -3.8795576,
+        "elevation": 927
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.04.28.2006",
+      "name": "MUARA JAUH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.04",
+      "cityName": "KAB. LAHAT",
+      "districtCode": "16.04.28",
+      "districtName": "MUARAPAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31590,
+      "coordinate": {
+        "longitude": 103.1294057,
+        "latitude": -3.9301606,
+        "elevation": 875
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.04.28.2007",
+      "name": "BANDU AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.04",
+      "cityName": "KAB. LAHAT",
+      "districtCode": "16.04.28",
+      "districtName": "MUARAPAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38956,
+      "coordinate": {
+        "longitude": 103.2248446,
+        "latitude": -4.5190009,
+        "elevation": 179
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

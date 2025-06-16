@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.12.07.2001",
+      "name": "RASAU JAYA UMUM",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.07",
+      "districtName": "RASAU JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78382,
+      "coordinate": {
+        "longitude": 109.4165617,
+        "latitude": -0.3168178,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.07.2002",
+      "name": "RASAU JAYA SATU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.07",
+      "districtName": "RASAU JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78381,
+      "coordinate": {
+        "longitude": 109.375819,
+        "latitude": -0.2522204,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.07.2003",
+      "name": "RASAU JAYA DUA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.07",
+      "districtName": "RASAU JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78382,
+      "coordinate": {
+        "longitude": 109.398017,
+        "latitude": -0.3013986,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.07.2004",
+      "name": "RASAU JAYA TIGA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.07",
+      "districtName": "RASAU JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78382,
+      "coordinate": {
+        "longitude": 109.3437451,
+        "latitude": -0.2510994,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.07.2005",
+      "name": "BINTANG MAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.07",
+      "districtName": "RASAU JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78382,
+      "coordinate": {
+        "longitude": 109.2847289,
+        "latitude": -0.2760143,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.07.2006",
+      "name": "PEMATANG TUJUH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.07",
+      "districtName": "RASAU JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78382,
+      "coordinate": {
+        "longitude": 109.2541437,
+        "latitude": -0.2598823,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

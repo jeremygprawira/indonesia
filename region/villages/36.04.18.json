@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.04.18.2001",
+      "name": "BINUANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.18",
+      "districtName": "BINUANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90762,
+      "coordinate": {
+        "longitude": 119.6662596,
+        "latitude": -4.3464065,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.18.2002",
+      "name": "CAKUNG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.18",
+      "districtName": "BINUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42196,
+      "coordinate": {
+        "longitude": 106.3579225,
+        "latitude": -6.1283817,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.18.2003",
+      "name": "RENGED",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.18",
+      "districtName": "BINUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42196,
+      "coordinate": {
+        "longitude": 106.3805285,
+        "latitude": -6.1439638,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.18.2004",
+      "name": "GEMBOR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.18",
+      "districtName": "BINUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15133,
+      "coordinate": {
+        "longitude": 106.5808539,
+        "latitude": -6.1705387,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.18.2005",
+      "name": "WARAKAS",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.18",
+      "districtName": "BINUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42196,
+      "coordinate": {
+        "longitude": 106.3304567,
+        "latitude": -6.1238995,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.18.2006",
+      "name": "SUKAMAMPIR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.18",
+      "districtName": "BINUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42196,
+      "coordinate": {
+        "longitude": 106.3278392,
+        "latitude": -6.1097032,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.18.2007",
+      "name": "LAMARAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.18",
+      "districtName": "BINUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42196,
+      "coordinate": {
+        "longitude": 106.3531313,
+        "latitude": -6.1337044,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

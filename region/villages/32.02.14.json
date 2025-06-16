@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.14.2001",
+      "name": "BOJONGGENTENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.14",
+      "districtName": "BOJONGGENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43170,
+      "coordinate": {
+        "longitude": 106.6218842,
+        "latitude": -7.2967351,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.14.2002",
+      "name": "CIBODAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.14",
+      "districtName": "BOJONGGENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15138,
+      "coordinate": {
+        "longitude": 106.6077617,
+        "latitude": -6.198842,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.14.2003",
+      "name": "BEREKAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.14",
+      "districtName": "BOJONGGENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43353,
+      "coordinate": {
+        "longitude": 106.7044162,
+        "latitude": -6.8488465,
+        "elevation": 504
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.14.2004",
+      "name": "CIPANENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.14",
+      "districtName": "BOJONGGENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43134,
+      "coordinate": {
+        "longitude": 106.9063864,
+        "latitude": -6.9646131,
+        "elevation": 449
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.14.2005",
+      "name": "BOJONGGALING",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.14",
+      "districtName": "BOJONGGENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43353,
+      "coordinate": {
+        "longitude": 106.7140635,
+        "latitude": -6.8315176,
+        "elevation": 515
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

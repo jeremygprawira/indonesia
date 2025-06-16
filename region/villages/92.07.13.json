@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.07.13.2001",
+      "name": "KAPRUS",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.13",
+      "districtName": "SOUG JAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98325,
+      "coordinate": {
+        "longitude": 133.9866176,
+        "latitude": -1.823289,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.13.2002",
+      "name": "YARMATUM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.13",
+      "districtName": "SOUG JAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98325,
+      "coordinate": {
+        "longitude": 133.9688318,
+        "latitude": -1.7786813,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.13.2003",
+      "name": "REYOB",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.13",
+      "districtName": "SOUG JAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98325,
+      "coordinate": {
+        "longitude": 133.9421226,
+        "latitude": -1.7925314,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.13.2004",
+      "name": "SIRESI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.13",
+      "districtName": "SOUG JAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98334,
+      "coordinate": {
+        "longitude": 134.090747,
+        "latitude": -1.8934967,
+        "elevation": 295
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.13.2005",
+      "name": "NUSPAIRO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.13",
+      "districtName": "SOUG JAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98334,
+      "coordinate": {
+        "longitude": 134.089873,
+        "latitude": -1.8764827,
+        "elevation": 295
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

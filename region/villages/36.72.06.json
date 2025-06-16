@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.72.06.1001",
+      "name": "KOTASARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.06",
+      "districtName": "GEROGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42436,
+      "coordinate": {
+        "longitude": 106.0243778,
+        "latitude": -5.9913256,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.06.1002",
+      "name": "GROGOL",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.06",
+      "districtName": "GEROGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42436,
+      "coordinate": {
+        "longitude": 106.032367,
+        "latitude": -5.9754441,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.06.1003",
+      "name": "RAWA ARUM",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.06",
+      "districtName": "GEROGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42436,
+      "coordinate": {
+        "longitude": 106.0065611,
+        "latitude": -5.9815393,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.06.1004",
+      "name": "GEREM",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.06",
+      "districtName": "GEROGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42438,
+      "coordinate": {
+        "longitude": 106.0094768,
+        "latitude": -5.9611072,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.09.2001",
+      "name": "TEMBUNI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.09",
+      "districtName": "TEMBUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98144,
+      "coordinate": {
+        "longitude": 133.2952977,
+        "latitude": -2.0618254,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.09.2002",
+      "name": "MOGOI BARU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.09",
+      "districtName": "TEMBUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98144,
+      "coordinate": {
+        "longitude": 133.2269341,
+        "latitude": -1.8819993,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.09.2003",
+      "name": "ARAISUM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.09",
+      "districtName": "TEMBUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98144,
+      "coordinate": {
+        "longitude": 133.3338936,
+        "latitude": -2.0056472,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.09.2004",
+      "name": "BANGUN MULYA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.09",
+      "districtName": "TEMBUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98144,
+      "coordinate": {
+        "longitude": 133.1804594,
+        "latitude": -1.9779237,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

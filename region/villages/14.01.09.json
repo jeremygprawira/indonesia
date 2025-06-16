@@ -1,0 +1,490 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.01.09.2001",
+      "name": "GEMA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78854,
+      "coordinate": {
+        "longitude": 110.4061095,
+        "latitude": -0.8762374,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2002",
+      "name": "TANJUNG BELIT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37256,
+      "coordinate": {
+        "longitude": 101.7203757,
+        "latitude": -1.3869512,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2003",
+      "name": "TANJUNG BELIT SELATAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 101.0502147,
+        "latitude": -0.1250428,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2004",
+      "name": "KOTO LAMA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 101.0000887,
+        "latitude": -0.1534687,
+        "elevation": 261
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2005",
+      "name": "BATU SANGGAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 101.066204,
+        "latitude": -0.2042864,
+        "elevation": 378
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2006",
+      "name": "AUR KUNING",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 101.0789846,
+        "latitude": -0.3016501,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2007",
+      "name": "LUDAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.9258419,
+        "latitude": -0.1111726,
+        "elevation": 218
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2008",
+      "name": "TANJUNG KARANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97572,
+      "coordinate": {
+        "longitude": 126.3126149,
+        "latitude": -3.1984121,
+        "elevation": 647
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2009",
+      "name": "BATU SASAK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.8677982,
+        "latitude": -0.023404,
+        "elevation": 202
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2010",
+      "name": "PANGKALAN KAPAS",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.8398702,
+        "latitude": -0.1410548,
+        "elevation": 345
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2011",
+      "name": "KEBUN TINGGI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.8092008,
+        "latitude": -0.0732585,
+        "elevation": 214
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2012",
+      "name": "TANJUNG BERINGIN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74660,
+      "coordinate": {
+        "longitude": 111.0114753,
+        "latitude": -1.8123563,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2013",
+      "name": "GAJAH BERTALUT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 101.0875122,
+        "latitude": -0.2644591,
+        "elevation": 247
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2014",
+      "name": "DANAU SONTUL",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 101.006305,
+        "latitude": -0.0882791,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2015",
+      "name": "PANGKALAN SERAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.8729043,
+        "latitude": -0.2149425,
+        "elevation": 652
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2016",
+      "name": "DUA SEPAKAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.961777,
+        "latitude": -0.140751,
+        "elevation": 166
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2017",
+      "name": "TERUSAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7130734,
+        "latitude": 0.0544505,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2018",
+      "name": "DERAS TAJAK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.9381807,
+        "latitude": -0.0531424,
+        "elevation": 388
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2019",
+      "name": "SUNGAI SANTI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 100.9697257,
+        "latitude": -0.19678,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2020",
+      "name": "SUBAYANG JAYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28474,
+      "coordinate": {
+        "longitude": 101.0050221,
+        "latitude": -0.2957478,
+        "elevation": 246
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2021",
+      "name": "TANJUNG PERMAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29153,
+      "coordinate": {
+        "longitude": 104.2389945,
+        "latitude": 1.0439574,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2022",
+      "name": "BUKIT BETUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33211,
+      "coordinate": {
+        "longitude": 106.1011772,
+        "latitude": -1.8902178,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2023",
+      "name": "MUARO BIO",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.09.2024",
+      "name": "LUBUK BIGAU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.09",
+      "districtName": "KAMPAR KIRI HULU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 24
+  }
+}

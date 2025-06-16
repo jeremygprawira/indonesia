@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "51.05.01",
+      "name": "NUSA PENIDA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.05",
+      "cityName": "KAB. KLUNGKUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.05.02",
+      "name": "BANJARANGKAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.05",
+      "cityName": "KAB. KLUNGKUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.05.03",
+      "name": "KLUNGKUNG",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.05",
+      "cityName": "KAB. KLUNGKUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.05.04",
+      "name": "DAWAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.05",
+      "cityName": "KAB. KLUNGKUNG"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.16.10.2001",
+      "name": "SUKARAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92966,
+      "coordinate": {
+        "longitude": 120.5109491,
+        "latitude": -2.6549828,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.10.2002",
+      "name": "KARANGRAHAYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17535,
+      "coordinate": {
+        "longitude": 107.17854,
+        "latitude": -6.2340569,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.10.2003",
+      "name": "KARANGSETIA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17535,
+      "coordinate": {
+        "longitude": 107.1799786,
+        "latitude": -6.218849,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.10.2004",
+      "name": "KARANGANYAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67131,
+      "coordinate": {
+        "longitude": 112.9011027,
+        "latitude": -7.6377667,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.10.2005",
+      "name": "KARANGBAHAGIA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17535,
+      "coordinate": {
+        "longitude": 107.1979003,
+        "latitude": -6.1994208,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.10.2006",
+      "name": "KARANGSENTOSA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17535,
+      "coordinate": {
+        "longitude": 107.1852339,
+        "latitude": -6.1891039,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.10.2007",
+      "name": "KARANGSATU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17535,
+      "coordinate": {
+        "longitude": 107.2112855,
+        "latitude": -6.2210976,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.10.2008",
+      "name": "KARANGMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.10",
+      "districtName": "KARANG BAHAGIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17535,
+      "coordinate": {
+        "longitude": 107.2315389,
+        "latitude": -6.219829,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

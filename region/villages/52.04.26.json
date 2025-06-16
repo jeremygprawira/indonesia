@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.26.2001",
+      "name": "PUNGKIT",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.26",
+      "districtName": "LOPOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84388,
+      "coordinate": {
+        "longitude": 117.5280484,
+        "latitude": -8.6752945,
+        "elevation": 332
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.26.2002",
+      "name": "BERORA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.26",
+      "districtName": "LOPOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84388,
+      "coordinate": {
+        "longitude": 117.571493,
+        "latitude": -8.6395225,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.26.2003",
+      "name": "LOPOK",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.26",
+      "districtName": "LOPOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84388,
+      "coordinate": {
+        "longitude": 117.5384259,
+        "latitude": -8.6005741,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.26.2004",
+      "name": "LANGAM",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.26",
+      "districtName": "LOPOK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99083,
+      "coordinate": {
+        "longitude": 139.543126,
+        "latitude": -3.941285,
+        "elevation": 994
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.26.2005",
+      "name": "MAMA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.26",
+      "districtName": "LOPOK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.26.2006",
+      "name": "LOPOK BERU",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.26",
+      "districtName": "LOPOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84388,
+      "coordinate": {
+        "longitude": 117.5296006,
+        "latitude": -8.6149827,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.26.2007",
+      "name": "TATEDE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.26",
+      "districtName": "LOPOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84388,
+      "coordinate": {
+        "longitude": 117.5352089,
+        "latitude": -8.6311978,
+        "elevation": 50
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

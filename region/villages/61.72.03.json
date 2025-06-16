@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.72.03.1001",
+      "name": "PAJINTAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.03",
+      "districtName": "SINGKAWANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79251,
+      "coordinate": {
+        "longitude": 109.0442757,
+        "latitude": 0.8859117,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.03.1002",
+      "name": "NYARUMKOP",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.03",
+      "districtName": "SINGKAWANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79251,
+      "coordinate": {
+        "longitude": 109.0742457,
+        "latitude": 0.9124956,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.03.1003",
+      "name": "MAYA SOPA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.03",
+      "districtName": "SINGKAWANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79251,
+      "coordinate": {
+        "longitude": 109.1279284,
+        "latitude": 0.9323538,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.03.1004",
+      "name": "BAGAK SAHWA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.03",
+      "districtName": "SINGKAWANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79251,
+      "coordinate": {
+        "longitude": 109.0995631,
+        "latitude": 0.9013719,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.03.1005",
+      "name": "SANGGAU KULOR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.03",
+      "districtName": "SINGKAWANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79251,
+      "coordinate": {
+        "longitude": 109.0158894,
+        "latitude": 0.871588,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

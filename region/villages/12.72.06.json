@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.72.06.1001",
+      "name": "SUMBER JAYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.06",
+      "districtName": "SIANTAR MARTOBA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93885,
+      "coordinate": {
+        "longitude": 122.0026173,
+        "latitude": -4.3689575,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.06.1003",
+      "name": "TAMBUN NABOLON",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.06",
+      "districtName": "SIANTAR MARTOBA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21137,
+      "coordinate": {
+        "longitude": 99.0932902,
+        "latitude": 3.0093444,
+        "elevation": 275
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.06.1007",
+      "name": "NAGA PITA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.06",
+      "districtName": "SIANTAR MARTOBA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21137,
+      "coordinate": {
+        "longitude": 99.0705355,
+        "latitude": 2.9825208,
+        "elevation": 349
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.06.1008",
+      "name": "PONDOK SAYUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.06",
+      "districtName": "SIANTAR MARTOBA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21137,
+      "coordinate": {
+        "longitude": 99.0736895,
+        "latitude": 2.9926207,
+        "elevation": 310
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.06.1009",
+      "name": "TANJUNG TONGAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.06",
+      "districtName": "SIANTAR MARTOBA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21137,
+      "coordinate": {
+        "longitude": 99.0774144,
+        "latitude": 3.0109431,
+        "elevation": 291
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.06.1010",
+      "name": "NAGA PITU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.06",
+      "districtName": "SIANTAR MARTOBA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21137,
+      "coordinate": {
+        "longitude": 99.0751376,
+        "latitude": 2.9783701,
+        "elevation": 355
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.06.1011",
+      "name": "TANJUNG PINGGIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.06",
+      "districtName": "SIANTAR MARTOBA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29428,
+      "coordinate": {
+        "longitude": 103.9386235,
+        "latitude": 1.1322061,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

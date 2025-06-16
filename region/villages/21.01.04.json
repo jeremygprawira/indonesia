@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.01.04.1005",
+      "name": "KAWAL",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.04",
+      "districtName": "GUNUNG KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29155,
+      "coordinate": {
+        "longitude": 104.6362402,
+        "latitude": 0.9938855,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.04.2001",
+      "name": "GUNUNG KIJANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.04",
+      "districtName": "GUNUNG KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29155,
+      "coordinate": {
+        "longitude": 104.6320916,
+        "latitude": 0.9297375,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.04.2002",
+      "name": "MALANG RAPAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.04",
+      "districtName": "GUNUNG KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29155,
+      "coordinate": {
+        "longitude": 104.6001599,
+        "latitude": 1.1311931,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.04.2003",
+      "name": "TELUK BAKAU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.04",
+      "districtName": "GUNUNG KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29155,
+      "coordinate": {
+        "longitude": 104.6282165,
+        "latitude": 1.0480602,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

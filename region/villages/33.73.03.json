@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.73.03.1001",
+      "name": "NOBOREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.03",
+      "districtName": "ARGOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50736,
+      "coordinate": {
+        "longitude": 110.5042093,
+        "latitude": -7.3755307,
+        "elevation": 745
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.03.1002",
+      "name": "LEDOK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.03",
+      "districtName": "ARGOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50732,
+      "coordinate": {
+        "longitude": 110.510034,
+        "latitude": -7.3485487,
+        "elevation": 648
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.03.1003",
+      "name": "TEGALREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.03",
+      "districtName": "ARGOMULYO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94615,
+      "coordinate": {
+        "longitude": 120.7810818,
+        "latitude": -1.373442,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.03.1004",
+      "name": "KUMPULREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.03",
+      "districtName": "ARGOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62366,
+      "coordinate": {
+        "longitude": 111.8156686,
+        "latitude": -7.0755285,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.03.1005",
+      "name": "RANDUACIR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.03",
+      "districtName": "ARGOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50735,
+      "coordinate": {
+        "longitude": 110.4986274,
+        "latitude": -7.3729775,
+        "elevation": 756
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.03.1006",
+      "name": "CEBONGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.03",
+      "districtName": "ARGOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50736,
+      "coordinate": {
+        "longitude": 110.5102288,
+        "latitude": -7.3624877,
+        "elevation": 691
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

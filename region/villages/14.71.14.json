@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.14.1001",
+      "name": "KULIM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.14",
+      "districtName": "KULIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28286,
+      "coordinate": {
+        "longitude": 101.517745,
+        "latitude": 0.467082,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.14.1002",
+      "name": "MENTANGOR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.14",
+      "districtName": "KULIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28286,
+      "coordinate": {
+        "longitude": 101.5130296,
+        "latitude": 0.4750465,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.14.1003",
+      "name": "SIALANGRAMPAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.14",
+      "districtName": "KULIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28286,
+      "coordinate": {
+        "longitude": 101.52211,
+        "latitude": 0.4586485,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.14.1004",
+      "name": "PEBATUAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.14",
+      "districtName": "KULIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28286,
+      "coordinate": {
+        "longitude": 101.5027905,
+        "latitude": 0.4679821,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.14.1005",
+      "name": "PEMATANGKAPAU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.14",
+      "districtName": "KULIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28286,
+      "coordinate": {
+        "longitude": 101.495812,
+        "latitude": 0.4670819,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

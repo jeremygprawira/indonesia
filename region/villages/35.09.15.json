@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.15.2001",
+      "name": "JUBUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.15",
+      "districtName": "SUKORAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68151,
+      "coordinate": {
+        "longitude": 113.6363904,
+        "latitude": -8.1944861,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.15.2002",
+      "name": "DUKUHMENCEK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.15",
+      "districtName": "SUKORAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68151,
+      "coordinate": {
+        "longitude": 113.6478396,
+        "latitude": -8.1677289,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.15.2003",
+      "name": "SUKORAMBI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.15",
+      "districtName": "SUKORAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68151,
+      "coordinate": {
+        "longitude": 113.6591997,
+        "latitude": -8.1361471,
+        "elevation": 248
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.15.2004",
+      "name": "KARANGPRING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.15",
+      "districtName": "SUKORAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68151,
+      "coordinate": {
+        "longitude": 113.6610358,
+        "latitude": -8.1091588,
+        "elevation": 368
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.15.2005",
+      "name": "KLUNGKUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.15",
+      "districtName": "SUKORAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68151,
+      "coordinate": {
+        "longitude": 113.6757231,
+        "latitude": -8.0868385,
+        "elevation": 527
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

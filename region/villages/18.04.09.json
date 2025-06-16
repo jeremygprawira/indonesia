@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.04.09.2003",
+      "name": "SUKA MARGA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.09",
+      "districtName": "SUOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34887,
+      "coordinate": {
+        "longitude": 104.3585833,
+        "latitude": -5.5533466,
+        "elevation": 227
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.09.2004",
+      "name": "SUMBER AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.09",
+      "districtName": "SUOH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 127.8898438,
+        "latitude": 1.3047166,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.09.2005",
+      "name": "TUGU RATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.09",
+      "districtName": "SUOH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.09.2006",
+      "name": "BANDING AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.09",
+      "districtName": "SUOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35454,
+      "coordinate": {
+        "longitude": 105.1523711,
+        "latitude": -5.7210514,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.09.2010",
+      "name": "ROWO REJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.09",
+      "districtName": "SUOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35353,
+      "coordinate": {
+        "longitude": 105.0464717,
+        "latitude": -5.2985405,
+        "elevation": 123
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.09.2017",
+      "name": "SIDO REJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.09",
+      "districtName": "SUOH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72276,
+      "coordinate": {
+        "longitude": 107.5217394,
+        "latitude": -3.8520772,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.09.2018",
+      "name": "RINGIN SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.09",
+      "districtName": "SUOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34684,
+      "coordinate": {
+        "longitude": 105.3767267,
+        "latitude": -4.2566044,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

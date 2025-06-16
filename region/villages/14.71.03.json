@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.03.1001",
+      "name": "CINTA RAJA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.03",
+      "districtName": "SAIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28131,
+      "coordinate": {
+        "longitude": 101.456684,
+        "latitude": 0.5068497,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.03.1002",
+      "name": "SUKAMULYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.03",
+      "districtName": "SAIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15612,
+      "coordinate": {
+        "longitude": 106.418246,
+        "latitude": -6.161344,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.03.1003",
+      "name": "SUKAMAJU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.03",
+      "districtName": "SAIL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

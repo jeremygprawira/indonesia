@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.03.2001",
+      "name": "SAONEK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.03",
+      "districtName": "WAIGEO SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98475,
+      "coordinate": {
+        "longitude": 130.7691309,
+        "latitude": -0.4270872,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.03.2002",
+      "name": "SAPORKREN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.03",
+      "districtName": "WAIGEO SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98475,
+      "coordinate": {
+        "longitude": 130.723287,
+        "latitude": -0.4113442,
+        "elevation": 205
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.03.2003",
+      "name": "YENBESER",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.03",
+      "districtName": "WAIGEO SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98475,
+      "coordinate": {
+        "longitude": 130.660545,
+        "latitude": -0.4615174,
+        "elevation": 166
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.03.2004",
+      "name": "FRIWEN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.03",
+      "districtName": "WAIGEO SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98475,
+      "coordinate": {
+        "longitude": 130.6922778,
+        "latitude": -0.4728498,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.03.2005",
+      "name": "WAWIYAI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.03",
+      "districtName": "WAIGEO SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98475,
+      "coordinate": {
+        "longitude": 130.6166965,
+        "latitude": -0.3240834,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

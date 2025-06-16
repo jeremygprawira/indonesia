@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.09.08.2001",
+      "name": "BETUMONGA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.08",
+      "districtName": "SIPORA UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25398,
+      "coordinate": {
+        "longitude": 99.6020961,
+        "latitude": -2.2335211,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.08.2002",
+      "name": "GOISOOINAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.08",
+      "districtName": "SIPORA UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25398,
+      "coordinate": {
+        "longitude": 99.6561604,
+        "latitude": -2.0608074,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.08.2003",
+      "name": "TUAPEJAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.08",
+      "districtName": "SIPORA UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25398,
+      "coordinate": {
+        "longitude": 99.5685604,
+        "latitude": -2.1073878,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.08.2004",
+      "name": "SIDO MAKMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.08",
+      "districtName": "SIPORA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98131,
+      "coordinate": {
+        "longitude": 133.2601858,
+        "latitude": -2.4652014,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.08.2005",
+      "name": "BUKIT PAMEWA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.08",
+      "districtName": "SIPORA UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25398,
+      "coordinate": {
+        "longitude": 99.6050962,
+        "latitude": -2.0840586,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.08.2006",
+      "name": "SIPORA JAYA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.08",
+      "districtName": "SIPORA UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25398,
+      "coordinate": {
+        "longitude": 99.6017849,
+        "latitude": -2.0734076,
+        "elevation": 72
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

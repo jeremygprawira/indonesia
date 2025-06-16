@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.15.04.2001",
+      "name": "ULUMERAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.04",
+      "districtName": "SITELU TALI URANG JULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22276,
+      "coordinate": {
+        "longitude": 98.3634564,
+        "latitude": 2.5089029,
+        "elevation": 1050
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.04.2002",
+      "name": "PARDOMUAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.04",
+      "districtName": "SITELU TALI URANG JULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21131,
+      "coordinate": {
+        "longitude": 99.072904,
+        "latitude": 2.9648187,
+        "elevation": 381
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.04.2003",
+      "name": "SILIMA KUTA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.04",
+      "districtName": "SITELU TALI URANG JULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22277,
+      "coordinate": {
+        "longitude": 98.3338395,
+        "latitude": 2.5877627,
+        "elevation": 837
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.04.2004",
+      "name": "LAE LANGGE NAMUSENG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.04",
+      "districtName": "SITELU TALI URANG JULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22276,
+      "coordinate": {
+        "longitude": 98.3920053,
+        "latitude": 2.5281282,
+        "elevation": 1054
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.04.2005",
+      "name": "CIKAOK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.04",
+      "districtName": "SITELU TALI URANG JULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22276,
+      "coordinate": {
+        "longitude": 98.3528563,
+        "latitude": 2.5227503,
+        "elevation": 964
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

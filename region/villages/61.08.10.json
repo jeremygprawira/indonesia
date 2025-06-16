@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.08.10.2001",
+      "name": "SEBANGKI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.10",
+      "districtName": "SEBANGKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79358,
+      "coordinate": {
+        "longitude": 109.6654411,
+        "latitude": 0.0755411,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.10.2002",
+      "name": "KUMPANG TENGAH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.10",
+      "districtName": "SEBANGKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79358,
+      "coordinate": {
+        "longitude": 109.6924169,
+        "latitude": 0.1364466,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.10.2003",
+      "name": "AGAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.10",
+      "districtName": "SEBANGKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79358,
+      "coordinate": {
+        "longitude": 109.5230628,
+        "latitude": 0.1978444,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.10.2004",
+      "name": "RANTAU PANJANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.10",
+      "districtName": "SEBANGKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75554,
+      "coordinate": {
+        "longitude": 116.9135588,
+        "latitude": 0.933645,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.10.2005",
+      "name": "SUNGAI SEGAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.10",
+      "districtName": "SEBANGKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79358,
+      "coordinate": {
+        "longitude": 109.5095496,
+        "latitude": 0.0835603,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

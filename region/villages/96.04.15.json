@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.04.15.2002",
+      "name": "ASUON",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.15",
+      "districtName": "ASES",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98364,
+      "coordinate": {
+        "longitude": 132.423888,
+        "latitude": -1.0018777,
+        "elevation": 441
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.15.2004",
+      "name": "FRASAYOAH",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.15",
+      "districtName": "ASES",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98364,
+      "coordinate": {
+        "longitude": 132.4596617,
+        "latitude": -0.9257529,
+        "elevation": 692
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.15.2001",
+      "name": "ASES",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.15",
+      "districtName": "ASES",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98364,
+      "coordinate": {
+        "longitude": 132.3293116,
+        "latitude": -0.941716,
+        "elevation": 301
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.15.2003",
+      "name": "SAFOTIEK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.15",
+      "districtName": "ASES",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

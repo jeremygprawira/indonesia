@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.07.13.2001",
+      "name": "LOA DERAS",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.07",
+      "cityName": "KAB. KUTAI BARAT",
+      "districtCode": "64.07.13",
+      "districtName": "PENYINGGAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75763,
+      "coordinate": {
+        "longitude": 116.2876917,
+        "latitude": -0.3450898,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.07.13.2002",
+      "name": "MINTA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.07",
+      "cityName": "KAB. KUTAI BARAT",
+      "districtCode": "64.07.13",
+      "districtName": "PENYINGGAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75763,
+      "coordinate": {
+        "longitude": 116.2569979,
+        "latitude": -0.332345,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.07.13.2003",
+      "name": "TANJUNG HAUR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.07",
+      "cityName": "KAB. KUTAI BARAT",
+      "districtCode": "64.07.13",
+      "districtName": "PENYINGGAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75763,
+      "coordinate": {
+        "longitude": 116.2091939,
+        "latitude": -0.4007091,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.07.13.2004",
+      "name": "PENYINGGAHAN ILIR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.07",
+      "cityName": "KAB. KUTAI BARAT",
+      "districtCode": "64.07.13",
+      "districtName": "PENYINGGAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75763,
+      "coordinate": {
+        "longitude": 116.2140403,
+        "latitude": -0.419994,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.07.13.2005",
+      "name": "PENYINGGAHAN ULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.07",
+      "cityName": "KAB. KUTAI BARAT",
+      "districtCode": "64.07.13",
+      "districtName": "PENYINGGAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75763,
+      "coordinate": {
+        "longitude": 116.2037776,
+        "latitude": -0.348042,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.07.13.2006",
+      "name": "BAKUNG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.07",
+      "cityName": "KAB. KUTAI BARAT",
+      "districtCode": "64.07.13",
+      "districtName": "PENYINGGAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90242,
+      "coordinate": {
+        "longitude": 119.534968,
+        "latitude": -5.0929452,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

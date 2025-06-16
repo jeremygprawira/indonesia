@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.23.2001",
+      "name": "AKLE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.23",
+      "districtName": "SEMAU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85353,
+      "coordinate": {
+        "longitude": 123.3833246,
+        "latitude": -10.312492,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.23.2002",
+      "name": "UITIUH ANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.23",
+      "districtName": "SEMAU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85353,
+      "coordinate": {
+        "longitude": 123.3979176,
+        "latitude": -10.2887143,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.23.2003",
+      "name": "ONANSILA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.23",
+      "districtName": "SEMAU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85353,
+      "coordinate": {
+        "longitude": 123.4025314,
+        "latitude": -10.263034,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.23.2004",
+      "name": "UITIUH TUAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.23",
+      "districtName": "SEMAU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85353,
+      "coordinate": {
+        "longitude": 123.3108657,
+        "latitude": -10.2825643,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.23.2005",
+      "name": "NAIKEAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.23",
+      "districtName": "SEMAU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85353,
+      "coordinate": {
+        "longitude": 123.3345998,
+        "latitude": -10.3115057,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.23.2006",
+      "name": "UIBOA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.23",
+      "districtName": "SEMAU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85353,
+      "coordinate": {
+        "longitude": 123.3294232,
+        "latitude": -10.2512879,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

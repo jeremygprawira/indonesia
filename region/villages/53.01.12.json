@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.12.1003",
+      "name": "LELOGAMA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.12",
+      "districtName": "AMFOANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85373,
+      "coordinate": {
+        "longitude": 123.9584722,
+        "latitude": -9.6995755,
+        "elevation": 1023
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.12.2001",
+      "name": "FATUSUKI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.12",
+      "districtName": "AMFOANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85373,
+      "coordinate": {
+        "longitude": 123.853883,
+        "latitude": -9.7845798,
+        "elevation": 625
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.12.2002",
+      "name": "OELBANU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.12",
+      "districtName": "AMFOANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85373,
+      "coordinate": {
+        "longitude": 123.8565028,
+        "latitude": -9.7064016,
+        "elevation": 599
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.12.2004",
+      "name": "FATUMETAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.12",
+      "districtName": "AMFOANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85373,
+      "coordinate": {
+        "longitude": 123.900825,
+        "latitude": -9.7579058,
+        "elevation": 348
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.12.2005",
+      "name": "OH-AEM",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.12",
+      "districtName": "AMFOANG SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.12.2008",
+      "name": "LELOBOKO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.12",
+      "districtName": "AMFOANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85552,
+      "coordinate": {
+        "longitude": 124.1673154,
+        "latitude": -9.6967035,
+        "elevation": 691
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.12.2011",
+      "name": "OH-AEM II",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.12",
+      "districtName": "AMFOANG SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

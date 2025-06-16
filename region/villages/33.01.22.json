@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.01.22.1001",
+      "name": "LOMANIS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.22",
+      "districtName": "CILACAP TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53221,
+      "coordinate": {
+        "longitude": 109.0103075,
+        "latitude": -7.6919631,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.22.1002",
+      "name": "GUNUNGSIMPING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.22",
+      "districtName": "CILACAP TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53224,
+      "coordinate": {
+        "longitude": 109.0248878,
+        "latitude": -7.7027307,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.22.1003",
+      "name": "SIDANEGARA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.22",
+      "districtName": "CILACAP TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53391,
+      "coordinate": {
+        "longitude": 109.4196098,
+        "latitude": -7.3614899,
+        "elevation": 134
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.22.1004",
+      "name": "DONAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.22",
+      "districtName": "CILACAP TENGAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98376,
+      "coordinate": {
+        "longitude": 132.6033378,
+        "latitude": -0.5948921,
+        "elevation": 932
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.22.1005",
+      "name": "KUTAWARU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.22",
+      "districtName": "CILACAP TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53225,
+      "coordinate": {
+        "longitude": 108.9775405,
+        "latitude": -7.7025663,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

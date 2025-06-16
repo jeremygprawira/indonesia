@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.25.2001",
+      "name": "KORA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.25",
+      "districtName": "KORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99923,
+      "coordinate": {
+        "longitude": 138.6195645,
+        "latitude": -4.6792169,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.25.2002",
+      "name": "NANGGOAL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.25",
+      "districtName": "KORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99923,
+      "coordinate": {
+        "longitude": 138.6397668,
+        "latitude": -4.5390246,
+        "elevation": 839
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.25.2003",
+      "name": "WENAM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.25",
+      "districtName": "KORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99923,
+      "coordinate": {
+        "longitude": 138.7033612,
+        "latitude": -4.5946905,
+        "elevation": 532
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.25.2004",
+      "name": "WILIMI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.25",
+      "districtName": "KORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99923,
+      "coordinate": {
+        "longitude": 138.688768,
+        "latitude": -4.511026,
+        "elevation": 1408
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.25.2005",
+      "name": "BRUTNAI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.25",
+      "districtName": "KORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99923,
+      "coordinate": {
+        "longitude": 138.6958887,
+        "latitude": -4.5463443,
+        "elevation": 1315
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

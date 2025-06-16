@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.06.15.2001",
+      "name": "KEPENUHAN HULU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.15",
+      "districtName": "KEPENUHAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28564,
+      "coordinate": {
+        "longitude": 100.4754979,
+        "latitude": 1.0181063,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.15.2002",
+      "name": "PEKAN TEBIH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.15",
+      "districtName": "KEPENUHAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28564,
+      "coordinate": {
+        "longitude": 100.4910919,
+        "latitude": 1.0261999,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.15.2003",
+      "name": "KEPAYANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.15",
+      "districtName": "KEPENUHAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71161,
+      "coordinate": {
+        "longitude": 115.1032255,
+        "latitude": -2.9370708,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.15.2004",
+      "name": "MUARA JAYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.15",
+      "districtName": "KEPENUHAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94475,
+      "coordinate": {
+        "longitude": 120.2091973,
+        "latitude": 0.2881809,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.15.2005",
+      "name": "KEPENUHAN JAYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.15",
+      "districtName": "KEPENUHAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28564,
+      "coordinate": {
+        "longitude": 100.5192576,
+        "latitude": 0.9014009,
+        "elevation": 65
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.01.1006",
+      "name": "BAMBALAMOTU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.01",
+      "districtName": "BAMBALAMOTU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91575,
+      "coordinate": {
+        "longitude": 119.466002,
+        "latitude": -1.112666,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.01.2003",
+      "name": "POLEWALI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.01",
+      "districtName": "BAMBALAMOTU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91311,
+      "coordinate": {
+        "longitude": 119.3512271,
+        "latitude": -3.4356575,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.01.2004",
+      "name": "RANDOMAYANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.01",
+      "districtName": "BAMBALAMOTU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91575,
+      "coordinate": {
+        "longitude": 119.4916476,
+        "latitude": -1.0600112,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.01.2007",
+      "name": "PANGIANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.01",
+      "districtName": "BAMBALAMOTU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91575,
+      "coordinate": {
+        "longitude": 119.4190117,
+        "latitude": -1.1369861,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.01.2008",
+      "name": "KALOLA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.01",
+      "districtName": "BAMBALAMOTU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91575,
+      "coordinate": {
+        "longitude": 119.5244817,
+        "latitude": -1.1090742,
+        "elevation": 256
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.01.2009",
+      "name": "WULAI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.01",
+      "districtName": "BAMBALAMOTU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91575,
+      "coordinate": {
+        "longitude": 119.5485588,
+        "latitude": -1.0512894,
+        "elevation": 336
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

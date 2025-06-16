@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.17.2001",
+      "name": "ARGODADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.17",
+      "districtName": "SEDAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55752,
+      "coordinate": {
+        "longitude": 110.248131,
+        "latitude": -7.8384029,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.17.2002",
+      "name": "ARGOREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.17",
+      "districtName": "SEDAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55752,
+      "coordinate": {
+        "longitude": 110.2594696,
+        "latitude": -7.8225995,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.17.2003",
+      "name": "ARGOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.17",
+      "districtName": "SEDAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67362,
+      "coordinate": {
+        "longitude": 113.0304621,
+        "latitude": -7.9969335,
+        "elevation": 1615
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.17.2004",
+      "name": "ARGOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.17",
+      "districtName": "SEDAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92973,
+      "coordinate": {
+        "longitude": 120.8943981,
+        "latitude": -2.5081642,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.05.2001",
+      "name": "GETENTIRI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.05",
+      "districtName": "JAIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99651,
+      "coordinate": {
+        "longitude": 140.3652468,
+        "latitude": -6.607411,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.05.2002",
+      "name": "ANGGAI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.05",
+      "districtName": "JAIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99651,
+      "coordinate": {
+        "longitude": 140.1731507,
+        "latitude": -6.3935879,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.05.2003",
+      "name": "BUTIPTIRI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.05",
+      "districtName": "JAIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99651,
+      "coordinate": {
+        "longitude": 140.5303791,
+        "latitude": -6.4808896,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.05.2004",
+      "name": "ASIKI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.05",
+      "districtName": "JAIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99651,
+      "coordinate": {
+        "longitude": 140.4673198,
+        "latitude": -6.5963973,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.05.2005",
+      "name": "KAPOGU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.05",
+      "districtName": "JAIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99651,
+      "coordinate": {
+        "longitude": 140.1876614,
+        "latitude": -6.629727,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.05.2006",
+      "name": "MIRI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.05",
+      "districtName": "JAIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99913,
+      "coordinate": {
+        "longitude": 138.3366425,
+        "latitude": -4.2177932,
+        "elevation": 1956
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

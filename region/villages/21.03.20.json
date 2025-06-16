@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.20.2001",
+      "name": "BATUBI JAYA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.20",
+      "districtName": "BUNGURAN BATUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29787,
+      "coordinate": {
+        "longitude": 108.1707821,
+        "latitude": 3.8601913,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.20.2002",
+      "name": "GUNUNG PUTRI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.20",
+      "districtName": "BUNGURAN BATUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68354,
+      "coordinate": {
+        "longitude": 113.7456788,
+        "latitude": -7.7775681,
+        "elevation": 269
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.20.2003",
+      "name": "SEDARAT BARU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.20",
+      "districtName": "BUNGURAN BATUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29787,
+      "coordinate": {
+        "longitude": 108.0999803,
+        "latitude": 3.8545606,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.20.2004",
+      "name": "SEDANAU TIMUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.20",
+      "districtName": "BUNGURAN BATUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29787,
+      "coordinate": {
+        "longitude": 108.1998395,
+        "latitude": 3.8390488,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.20.2005",
+      "name": "SEMEDANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.20",
+      "districtName": "BUNGURAN BATUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79367,
+      "coordinate": {
+        "longitude": 110.0320236,
+        "latitude": 0.6423085,
+        "elevation": 66
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

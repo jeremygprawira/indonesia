@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.11.05.2001",
+      "name": "SEPONTI JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA",
+      "districtCode": "61.11.05",
+      "districtName": "SEPONTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78857,
+      "coordinate": {
+        "longitude": 109.8141265,
+        "latitude": -0.8479038,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.11.05.2002",
+      "name": "TELAGA ARUM",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA",
+      "districtCode": "61.11.05",
+      "districtName": "SEPONTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78857,
+      "coordinate": {
+        "longitude": 109.8623862,
+        "latitude": -0.8887627,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.11.05.2003",
+      "name": "WONOREJO",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA",
+      "districtCode": "61.11.05",
+      "districtName": "SEPONTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98813,
+      "coordinate": {
+        "longitude": 135.4938422,
+        "latitude": -3.3900543,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.11.05.2004",
+      "name": "PODORUKUN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA",
+      "districtCode": "61.11.05",
+      "districtName": "SEPONTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78857,
+      "coordinate": {
+        "longitude": 109.7883491,
+        "latitude": -0.9157461,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.11.05.2005",
+      "name": "SUNGAI SEPETI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA",
+      "districtCode": "61.11.05",
+      "districtName": "SEPONTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78857,
+      "coordinate": {
+        "longitude": 109.8905586,
+        "latitude": -0.8557627,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.11.05.2006",
+      "name": "DURIAN SEBATANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA",
+      "districtCode": "61.11.05",
+      "districtName": "SEPONTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78857,
+      "coordinate": {
+        "longitude": 110.0145577,
+        "latitude": -0.7742268,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

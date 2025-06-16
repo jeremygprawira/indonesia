@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.04.12.2001",
+      "name": "TANJUANG ALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.12",
+      "districtName": "TANJUANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27281,
+      "coordinate": {
+        "longitude": 100.518592,
+        "latitude": -0.3071022,
+        "elevation": 968
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.12.2002",
+      "name": "BARULAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.12",
+      "districtName": "TANJUANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27281,
+      "coordinate": {
+        "longitude": 100.5681255,
+        "latitude": -0.2934285,
+        "elevation": 593
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

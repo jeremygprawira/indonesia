@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "35.77.01",
+      "name": "KARTOHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.77",
+      "cityName": "KOTA MADIUN"
+    },
+    {
+      "type": "district",
+      "code": "35.77.02",
+      "name": "MANGUHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.77",
+      "cityName": "KOTA MADIUN"
+    },
+    {
+      "type": "district",
+      "code": "35.77.03",
+      "name": "TAMAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.77",
+      "cityName": "KOTA MADIUN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

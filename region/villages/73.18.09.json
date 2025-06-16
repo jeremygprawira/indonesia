@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.18.09.1008",
+      "name": "SIMA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.09",
+      "districtName": "SIMBUANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98852,
+      "coordinate": {
+        "longitude": 135.1185119,
+        "latitude": -3.373089,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.09.2003",
+      "name": "SIMBUANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.09",
+      "districtName": "SIMBUANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91870,
+      "coordinate": {
+        "longitude": 119.9583036,
+        "latitude": -3.1980377,
+        "elevation": 1056
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.09.2004",
+      "name": "PONGBEMBE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.09",
+      "districtName": "SIMBUANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91874,
+      "coordinate": {
+        "longitude": 119.5258838,
+        "latitude": -3.206236,
+        "elevation": 1529
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.09.2006",
+      "name": "SIMBUANG BATUTALLU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.09",
+      "districtName": "SIMBUANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91874,
+      "coordinate": {
+        "longitude": 119.6113874,
+        "latitude": -3.2548324,
+        "elevation": 609
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.09.2009",
+      "name": "MAKKODO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.09",
+      "districtName": "SIMBUANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91874,
+      "coordinate": {
+        "longitude": 119.622825,
+        "latitude": -3.1575747,
+        "elevation": 840
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.09.2010",
+      "name": "PUANGBEMBE MESAKADA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.09",
+      "districtName": "SIMBUANG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

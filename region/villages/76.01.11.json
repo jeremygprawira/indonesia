@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.11.2001",
+      "name": "SARJO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.11",
+      "districtName": "SARJO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91591,
+      "coordinate": {
+        "longitude": 119.5547899,
+        "latitude": -0.882919,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.11.2002",
+      "name": "MAPONU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.11",
+      "districtName": "SARJO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91591,
+      "coordinate": {
+        "longitude": 119.5380357,
+        "latitude": -0.9288827,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.11.2003",
+      "name": "LETAWA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.11",
+      "districtName": "SARJO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91591,
+      "coordinate": {
+        "longitude": 119.5543626,
+        "latitude": -0.9068617,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.11.2004",
+      "name": "SARUDE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.11",
+      "districtName": "SARJO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91591,
+      "coordinate": {
+        "longitude": 119.5659122,
+        "latitude": -0.867392,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

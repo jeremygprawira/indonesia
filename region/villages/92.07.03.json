@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.07.03.2001",
+      "name": "AISANDAMI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.03",
+      "districtName": "TELUK DUAIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98345,
+      "coordinate": {
+        "longitude": 134.5461982,
+        "latitude": -2.4835964,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.03.2002",
+      "name": "SOBEY",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.03",
+      "districtName": "TELUK DUAIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98345,
+      "coordinate": {
+        "longitude": 134.498296,
+        "latitude": -2.582169,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.03.2006",
+      "name": "YOPANGGAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.03",
+      "districtName": "TELUK DUAIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98345,
+      "coordinate": {
+        "longitude": 134.583118,
+        "latitude": -2.5280879,
+        "elevation": 297
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.03.2011",
+      "name": "SOBEY INDAH",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.03",
+      "districtName": "TELUK DUAIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98345,
+      "coordinate": {
+        "longitude": 134.5007001,
+        "latitude": -2.5376703,
+        "elevation": 119
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.01.1001",
+      "name": "SUKARASA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.01",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15111,
+      "coordinate": {
+        "longitude": 106.631533,
+        "latitude": -6.1715255,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.01.1002",
+      "name": "GEGERKALONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.01",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40153,
+      "coordinate": {
+        "longitude": 107.5875355,
+        "latitude": -6.8676716,
+        "elevation": 876
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.01.1003",
+      "name": "ISOLA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.01",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40154,
+      "coordinate": {
+        "longitude": 107.5924144,
+        "latitude": -6.8507103,
+        "elevation": 990
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.01.1004",
+      "name": "SARIJADI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.01",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40151,
+      "coordinate": {
+        "longitude": 107.5764406,
+        "latitude": -6.8746019,
+        "elevation": 821
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.01.10.2001",
+      "name": "SUKARAJA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2002",
+      "name": "SUKABAKTI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15810,
+      "coordinate": {
+        "longitude": 106.5708034,
+        "latitude": -6.2542563,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2003",
+      "name": "SUKAMULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15612,
+      "coordinate": {
+        "longitude": 106.418246,
+        "latitude": -6.161344,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2004",
+      "name": "TANJUNG SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75772,
+      "coordinate": {
+        "longitude": 116.235402,
+        "latitude": -0.7190938,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2005",
+      "name": "BANGUNAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.667508,
+        "latitude": -5.6481026,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2006",
+      "name": "REJO MULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34694,
+      "coordinate": {
+        "longitude": 105.1485905,
+        "latitude": -4.0534773,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2007",
+      "name": "PALAS AJI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.6934356,
+        "latitude": -5.6465393,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2008",
+      "name": "PALAS PASEMAH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.6925725,
+        "latitude": -5.6250654,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2009",
+      "name": "PALAS JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.6963081,
+        "latitude": -5.6033293,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2010",
+      "name": "BANDAN HURIP",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.7283116,
+        "latitude": -5.5990035,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2011",
+      "name": "PULAU TENGAH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94975,
+      "coordinate": {
+        "longitude": 122.7194008,
+        "latitude": -3.3630752,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2012",
+      "name": "BALI AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.6593418,
+        "latitude": -5.6032311,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2013",
+      "name": "BUMI DAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.6302439,
+        "latitude": -5.6204067,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2014",
+      "name": "TANJUNG JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35613,
+      "coordinate": {
+        "longitude": 104.8353286,
+        "latitude": -5.6220517,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2015",
+      "name": "BUMI RESTU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97865,
+      "coordinate": {
+        "longitude": 128.1570639,
+        "latitude": 1.0691082,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2016",
+      "name": "PEMATANG BARU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70617,
+      "coordinate": {
+        "longitude": 114.8685416,
+        "latitude": -3.3837387,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2017",
+      "name": "MEKAR MULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74165,
+      "coordinate": {
+        "longitude": 111.5617394,
+        "latitude": -2.2837606,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2018",
+      "name": "BUMI ASIH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72160,
+      "coordinate": {
+        "longitude": 116.1776634,
+        "latitude": -3.124735,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2019",
+      "name": "KALIREJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61155,
+      "coordinate": {
+        "longitude": 112.4980455,
+        "latitude": -7.0090794,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2020",
+      "name": "BUMI ASRI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35594,
+      "coordinate": {
+        "longitude": 105.6349332,
+        "latitude": -5.5698869,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.10.2021",
+      "name": "PULAU JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.10",
+      "districtName": "PALAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78661,
+      "coordinate": {
+        "longitude": 111.3058178,
+        "latitude": -0.2178597,
+        "elevation": 162
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

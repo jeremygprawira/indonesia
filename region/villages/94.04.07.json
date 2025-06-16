@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.04.07.2001",
+      "name": "AYUKA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.04",
+      "cityName": "KAB. MIMIKA",
+      "districtCode": "94.04.07",
+      "districtName": "MIMIKA TIMUR JAUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99971,
+      "coordinate": {
+        "longitude": 136.9614416,
+        "latitude": -4.7433373,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.04.07.2002",
+      "name": "AMAMAPARE",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.04",
+      "cityName": "KAB. MIMIKA",
+      "districtCode": "94.04.07",
+      "districtName": "MIMIKA TIMUR JAUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99971,
+      "coordinate": {
+        "longitude": 136.8148509,
+        "latitude": -4.8865888,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.04.07.2003",
+      "name": "OHOTYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.04",
+      "cityName": "KAB. MIMIKA",
+      "districtCode": "94.04.07",
+      "districtName": "MIMIKA TIMUR JAUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99971,
+      "coordinate": {
+        "longitude": 137.3428589,
+        "latitude": -5.0528677,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.04.07.2004",
+      "name": "OMAWITA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.04",
+      "cityName": "KAB. MIMIKA",
+      "districtCode": "94.04.07",
+      "districtName": "MIMIKA TIMUR JAUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99971,
+      "coordinate": {
+        "longitude": 136.9860772,
+        "latitude": -4.9227471,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.04.07.2005",
+      "name": "FANAMO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.04",
+      "cityName": "KAB. MIMIKA",
+      "districtCode": "94.04.07",
+      "districtName": "MIMIKA TIMUR JAUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99971,
+      "coordinate": {
+        "longitude": 137.1561284,
+        "latitude": -4.9362662,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

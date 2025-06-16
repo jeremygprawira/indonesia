@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.71.07.1001",
+      "name": "PANTOLOAN",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.07",
+      "districtName": "TAWAELI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94143,
+      "coordinate": {
+        "longitude": 119.8567876,
+        "latitude": -0.7028141,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.07.1002",
+      "name": "PANTOLOAN BOYA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.07",
+      "districtName": "TAWAELI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94143,
+      "coordinate": {
+        "longitude": 119.8743627,
+        "latitude": -0.679153,
+        "elevation": 147
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.07.1003",
+      "name": "BAIYA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.07",
+      "districtName": "TAWAELI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94142,
+      "coordinate": {
+        "longitude": 119.891214,
+        "latitude": -0.7143254,
+        "elevation": 135
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.07.1004",
+      "name": "LAMBARA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.07",
+      "districtName": "TAWAELI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94141,
+      "coordinate": {
+        "longitude": 119.8732658,
+        "latitude": -0.7358961,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.07.1005",
+      "name": "PANAWU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.07",
+      "districtName": "TAWAELI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94141,
+      "coordinate": {
+        "longitude": 119.8576335,
+        "latitude": -0.7385054,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

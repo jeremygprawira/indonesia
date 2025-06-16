@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.71.01.1001",
+      "name": "KARANG ANYAR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.01",
+      "districtName": "TARAKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90134,
+      "coordinate": {
+        "longitude": 119.411647,
+        "latitude": -5.1766095,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.01.1002",
+      "name": "KARANG REJO",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.01",
+      "districtName": "TARAKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77112,
+      "coordinate": {
+        "longitude": 117.5797443,
+        "latitude": 3.3033031,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.01.1003",
+      "name": "KARANG ANYAR PANTAI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.01",
+      "districtName": "TARAKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77111,
+      "coordinate": {
+        "longitude": 117.5629386,
+        "latitude": 3.3281683,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.01.1004",
+      "name": "KARANG BALIK",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.01",
+      "districtName": "TARAKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77112,
+      "coordinate": {
+        "longitude": 117.5902892,
+        "latitude": 3.3068049,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.01.1005",
+      "name": "KARANG HARAPAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.01",
+      "districtName": "TARAKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77111,
+      "coordinate": {
+        "longitude": 117.5565724,
+        "latitude": 3.3560612,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.71.06.1001",
+      "name": "PASIR PANJANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.06",
+      "districtName": "DANAU TELUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95553,
+      "coordinate": {
+        "longitude": 125.1781887,
+        "latitude": 1.3969501,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.06.1002",
+      "name": "TANJUNG RADEN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.06",
+      "districtName": "DANAU TELUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36264,
+      "coordinate": {
+        "longitude": 103.5873935,
+        "latitude": -1.5826456,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.06.1003",
+      "name": "OLAK KEMANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.06",
+      "districtName": "DANAU TELUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36262,
+      "coordinate": {
+        "longitude": 103.5983352,
+        "latitude": -1.5735259,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.06.1004",
+      "name": "TANJUNG PASIR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.06",
+      "districtName": "DANAU TELUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15510,
+      "coordinate": {
+        "longitude": 106.6658564,
+        "latitude": -6.0240936,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.06.1005",
+      "name": "ULU GEDONG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.06",
+      "districtName": "DANAU TELUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36261,
+      "coordinate": {
+        "longitude": 103.6074704,
+        "latitude": -1.5705039,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

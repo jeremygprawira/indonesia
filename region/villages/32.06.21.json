@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.06.21.2001",
+      "name": "SIRNAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.21",
+      "districtName": "KARANGJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40565,
+      "coordinate": {
+        "longitude": 107.2991628,
+        "latitude": -7.0444434,
+        "elevation": 1178
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.21.2002",
+      "name": "KARANGJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.21",
+      "districtName": "KARANGJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17710,
+      "coordinate": {
+        "longitude": 107.2447448,
+        "latitude": -6.1560592,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.21.2003",
+      "name": "KARANG LAYUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.21",
+      "districtName": "KARANGJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45259,
+      "coordinate": {
+        "longitude": 107.9592584,
+        "latitude": -6.30035,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.21.2004",
+      "name": "CITALAHAB",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.21",
+      "districtName": "KARANGJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42252,
+      "coordinate": {
+        "longitude": 106.112024,
+        "latitude": -6.3844413,
+        "elevation": 108
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

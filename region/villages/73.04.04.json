@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.04.04.1001",
+      "name": "TOGO TOGO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.04",
+      "cityName": "KAB. JENEPONTO",
+      "districtCode": "73.04.04",
+      "districtName": "BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92360,
+      "coordinate": {
+        "longitude": 119.8136507,
+        "latitude": -5.6160185,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.04.04.1002",
+      "name": "BONTO RAYA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.04",
+      "cityName": "KAB. JENEPONTO",
+      "districtCode": "73.04.04",
+      "districtName": "BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92360,
+      "coordinate": {
+        "longitude": 119.8239521,
+        "latitude": -5.6088189,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.04.04.2003",
+      "name": "MACCINIBAJI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.04",
+      "cityName": "KAB. JENEPONTO",
+      "districtCode": "73.04.04",
+      "districtName": "BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92152,
+      "coordinate": {
+        "longitude": 119.4674928,
+        "latitude": -5.3046825,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.04.04.2008",
+      "name": "CAMBA CAMBA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.04",
+      "cityName": "KAB. JENEPONTO",
+      "districtCode": "73.04.04",
+      "districtName": "BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92360,
+      "coordinate": {
+        "longitude": 119.8107441,
+        "latitude": -5.6429944,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.04.04.2009",
+      "name": "KALUKU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.04",
+      "cityName": "KAB. JENEPONTO",
+      "districtCode": "73.04.04",
+      "districtName": "BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92963,
+      "coordinate": {
+        "longitude": 120.4629451,
+        "latitude": -2.5880289,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.04.04.2014",
+      "name": "BUNGENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.04",
+      "cityName": "KAB. JENEPONTO",
+      "districtCode": "73.04.04",
+      "districtName": "BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92360,
+      "coordinate": {
+        "longitude": 119.848193,
+        "latitude": -5.6257248,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

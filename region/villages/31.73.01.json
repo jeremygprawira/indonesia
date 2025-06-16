@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.73.01.1001",
+      "name": "CENGKARENG BARAT",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.01",
+      "districtName": "CENGKARENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11730,
+      "coordinate": {
+        "longitude": 106.7231022,
+        "latitude": -6.1354743,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.01.1002",
+      "name": "DURI KOSAMBI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.01",
+      "districtName": "CENGKARENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11750,
+      "coordinate": {
+        "longitude": 106.7169565,
+        "latitude": -6.1749387,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.01.1003",
+      "name": "RAWA BUAYA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.01",
+      "districtName": "CENGKARENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11740,
+      "coordinate": {
+        "longitude": 106.7375936,
+        "latitude": -6.1681639,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.01.1004",
+      "name": "KEDAUNG KALI ANGKE",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.01",
+      "districtName": "CENGKARENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11710,
+      "coordinate": {
+        "longitude": 106.7592461,
+        "latitude": -6.1503119,
+        "elevation": -2
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.01.1005",
+      "name": "KAPUK",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.01",
+      "districtName": "CENGKARENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74357,
+      "coordinate": {
+        "longitude": 112.3932043,
+        "latitude": -2.1619405,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.01.1006",
+      "name": "CENGKARENG TIMUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.01",
+      "districtName": "CENGKARENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11730,
+      "coordinate": {
+        "longitude": 106.7394263,
+        "latitude": -6.1437865,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.06.09.2001",
+      "name": "MERTAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.09",
+      "districtName": "BOJONGASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46475,
+      "coordinate": {
+        "longitude": 108.1023327,
+        "latitude": -7.5588779,
+        "elevation": 301
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.09.2002",
+      "name": "CIKADONGDONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.09",
+      "districtName": "BOJONGASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42395,
+      "coordinate": {
+        "longitude": 106.1548669,
+        "latitude": -6.7997447,
+        "elevation": 386
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.09.2003",
+      "name": "BOJONGASIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.09",
+      "districtName": "BOJONGASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46475,
+      "coordinate": {
+        "longitude": 108.1384728,
+        "latitude": -7.5808296,
+        "elevation": 265
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.09.2004",
+      "name": "SINDANGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.09",
+      "districtName": "BOJONGASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.1305872,
+        "latitude": -6.1903024,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.09.2005",
+      "name": "GIRIJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.09",
+      "districtName": "BOJONGASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42278,
+      "coordinate": {
+        "longitude": 105.9838792,
+        "latitude": -6.3845068,
+        "elevation": 279
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.09.2006",
+      "name": "TOBLONGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.09",
+      "districtName": "BOJONGASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46475,
+      "coordinate": {
+        "longitude": 108.1054058,
+        "latitude": -7.5286915,
+        "elevation": 411
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

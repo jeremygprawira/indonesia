@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "81.71.01",
+      "name": "NUSANIWE",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON"
+    },
+    {
+      "type": "district",
+      "code": "81.71.02",
+      "name": "SIRIMAU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON"
+    },
+    {
+      "type": "district",
+      "code": "81.71.03",
+      "name": "BAGUALA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON"
+    },
+    {
+      "type": "district",
+      "code": "81.71.04",
+      "name": "TELUK AMBON",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON"
+    },
+    {
+      "type": "district",
+      "code": "81.71.05",
+      "name": "LEITIMUR SELATAN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

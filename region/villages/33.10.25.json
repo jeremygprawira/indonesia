@@ -1,0 +1,190 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.10.25.1001",
+      "name": "BARENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86692,
+      "coordinate": {
+        "longitude": 123.7768762,
+        "latitude": -8.1790014,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.1002",
+      "name": "KABUPATEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57413,
+      "coordinate": {
+        "longitude": 110.6019541,
+        "latitude": -7.7039692,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.1003",
+      "name": "KLATEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57411,
+      "coordinate": {
+        "longitude": 110.600309,
+        "latitude": -7.7090544,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.1004",
+      "name": "TONGGALAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57412,
+      "coordinate": {
+        "longitude": 110.5960069,
+        "latitude": -7.7126415,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.1006",
+      "name": "BUNTALAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62184,
+      "coordinate": {
+        "longitude": 111.9024463,
+        "latitude": -7.2860711,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.1008",
+      "name": "MOJAYAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57416,
+      "coordinate": {
+        "longitude": 110.609773,
+        "latitude": -7.7093556,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.2005",
+      "name": "SEMANGKAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57415,
+      "coordinate": {
+        "longitude": 110.6008566,
+        "latitude": -7.6965716,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.2007",
+      "name": "JOMBORAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57418,
+      "coordinate": {
+        "longitude": 110.6111072,
+        "latitude": -7.7237002,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.25.2009",
+      "name": "GUMULAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.25",
+      "districtName": "KLATEN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61484,
+      "coordinate": {
+        "longitude": 112.2803938,
+        "latitude": -7.4486082,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 9
+  }
+}

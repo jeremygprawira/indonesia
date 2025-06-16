@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.03.08.2001",
+      "name": "LIMO KOTO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.08",
+      "districtName": "KOTO VII",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26381,
+      "coordinate": {
+        "longitude": 100.2205283,
+        "latitude": -0.0732366,
+        "elevation": 335
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.08.2002",
+      "name": "PALALUAR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.08",
+      "districtName": "KOTO VII",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27562,
+      "coordinate": {
+        "longitude": 100.849863,
+        "latitude": -0.612084,
+        "elevation": 215
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.08.2003",
+      "name": "GUGUAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.08",
+      "districtName": "KOTO VII",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25585,
+      "coordinate": {
+        "longitude": 100.3608364,
+        "latitude": -0.4930114,
+        "elevation": 827
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.08.2004",
+      "name": "PADANG LAWEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.08",
+      "districtName": "KOTO VII",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27682,
+      "coordinate": {
+        "longitude": 101.7259366,
+        "latitude": -0.9984194,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.08.2005",
+      "name": "TANJUNG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.08",
+      "districtName": "KOTO VII",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.08.2006",
+      "name": "BUKIT BUAL",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.08",
+      "districtName": "KOTO VII",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27562,
+      "coordinate": {
+        "longitude": 100.8346252,
+        "latitude": -0.6256713,
+        "elevation": 222
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.08.2007",
+      "name": "PADANG LAWEH SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.08",
+      "districtName": "KOTO VII",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27562,
+      "coordinate": {
+        "longitude": 100.863354,
+        "latitude": -0.6066575,
+        "elevation": 195
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

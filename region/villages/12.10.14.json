@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.10.14.2001",
+      "name": "SIDORUKUN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.10",
+      "cityName": "KAB. LABUHANBATU",
+      "districtCode": "12.10.14",
+      "districtName": "PANGKATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96469,
+      "coordinate": {
+        "longitude": 121.7477019,
+        "latitude": 0.565981,
+        "elevation": 257
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.10.14.2002",
+      "name": "TEBING TINGGI PANGKATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.10",
+      "cityName": "KAB. LABUHANBATU",
+      "districtCode": "12.10.14",
+      "districtName": "PANGKATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21462,
+      "coordinate": {
+        "longitude": 99.9958678,
+        "latitude": 2.1025295,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.10.14.2003",
+      "name": "PERKEBUNAN PANGKATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.10",
+      "cityName": "KAB. LABUHANBATU",
+      "districtCode": "12.10.14",
+      "districtName": "PANGKATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21462,
+      "coordinate": {
+        "longitude": 99.9578225,
+        "latitude": 2.1003247,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.10.14.2004",
+      "name": "KAMPUNG PADANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.10",
+      "cityName": "KAB. LABUHANBATU",
+      "districtCode": "12.10.14",
+      "districtName": "PANGKATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22912,
+      "coordinate": {
+        "longitude": 99.5664968,
+        "latitude": 0.8768129,
+        "elevation": 230
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.10.14.2005",
+      "name": "PANGKATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.10",
+      "cityName": "KAB. LABUHANBATU",
+      "districtCode": "12.10.14",
+      "districtName": "PANGKATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21462,
+      "coordinate": {
+        "longitude": 100.016747,
+        "latitude": 2.1516027,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.10.14.2006",
+      "name": "SENNAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.10",
+      "cityName": "KAB. LABUHANBATU",
+      "districtCode": "12.10.14",
+      "districtName": "PANGKATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20986,
+      "coordinate": {
+        "longitude": 98.937097,
+        "latitude": 3.4481771,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.10.14.2007",
+      "name": "TANJUNG HARAPAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.10",
+      "cityName": "KAB. LABUHANBATU",
+      "districtCode": "12.10.14",
+      "districtName": "PANGKATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4552093,
+        "latitude": 0.7507995,
+        "elevation": 95
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

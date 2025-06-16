@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.06.2001",
+      "name": "BOMAKIA I",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.06",
+      "districtName": "BOMAKIA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99672,
+      "coordinate": {
+        "longitude": 139.8658635,
+        "latitude": -5.8137054,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.06.2002",
+      "name": "BOMAKIA II",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.06",
+      "districtName": "BOMAKIA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99672,
+      "coordinate": {
+        "longitude": 139.8802875,
+        "latitude": -5.7911841,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.06.2003",
+      "name": "SOMI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.06",
+      "districtName": "BOMAKIA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99672,
+      "coordinate": {
+        "longitude": 139.9367468,
+        "latitude": -5.8384947,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.06.2004",
+      "name": "AIFA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.06",
+      "districtName": "BOMAKIA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99672,
+      "coordinate": {
+        "longitude": 139.803181,
+        "latitude": -5.7438323,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.06.2005",
+      "name": "UNI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.06",
+      "districtName": "BOMAKIA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99672,
+      "coordinate": {
+        "longitude": 139.9036777,
+        "latitude": -5.7407009,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

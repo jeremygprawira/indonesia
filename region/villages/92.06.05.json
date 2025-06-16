@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.05.2001",
+      "name": "JAGIRO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.05",
+      "districtName": "MOSKONA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98155,
+      "coordinate": {
+        "longitude": 133.1205606,
+        "latitude": -1.7978229,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.05.2004",
+      "name": "MEYENDA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.05",
+      "districtName": "MOSKONA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98155,
+      "coordinate": {
+        "longitude": 133.0189286,
+        "latitude": -1.7175338,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.05.2005",
+      "name": "RAWARA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.05",
+      "districtName": "MOSKONA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98155,
+      "coordinate": {
+        "longitude": 133.093178,
+        "latitude": -1.7422994,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.05.2006",
+      "name": "BARMA BARAT",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.05",
+      "districtName": "MOSKONA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98155,
+      "coordinate": {
+        "longitude": 133.0568971,
+        "latitude": -1.850445,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.05.2011",
+      "name": "INGGOF",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.05",
+      "districtName": "MOSKONA SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98155,
+      "coordinate": {
+        "longitude": 133.1877918,
+        "latitude": -1.7464004,
+        "elevation": 72
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.17.1001",
+      "name": "WAISAI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.17",
+      "districtName": "KOTA WAISAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98471,
+      "coordinate": {
+        "longitude": 130.8189993,
+        "latitude": -0.3903726,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.17.1004",
+      "name": "WARMASEN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.17",
+      "districtName": "KOTA WAISAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98471,
+      "coordinate": {
+        "longitude": 130.8368413,
+        "latitude": -0.4033039,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.17.1003",
+      "name": "BONKAWIR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.17",
+      "districtName": "KOTA WAISAI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.17.1002",
+      "name": "SAPORDANCO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.17",
+      "districtName": "KOTA WAISAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98471,
+      "coordinate": {
+        "longitude": 130.7985723,
+        "latitude": -0.4045843,
+        "elevation": 83
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

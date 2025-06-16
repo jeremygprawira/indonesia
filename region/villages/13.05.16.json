@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.16.2001",
+      "name": "SUNGAI DURIAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.16",
+      "districtName": "PATAMUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72167,
+      "coordinate": {
+        "longitude": 115.2776327,
+        "latitude": -2.3492173,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.16.2002",
+      "name": "TANDIKEK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.16",
+      "districtName": "PATAMUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26567,
+      "coordinate": {
+        "longitude": 99.7013258,
+        "latitude": -0.2456174,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.16.2003",
+      "name": "TANDIKEK UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.16",
+      "districtName": "PATAMUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25574,
+      "coordinate": {
+        "longitude": 100.2755425,
+        "latitude": -0.4707443,
+        "elevation": 454
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.16.2004",
+      "name": "TANDIKEK SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.16",
+      "districtName": "PATAMUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25574,
+      "coordinate": {
+        "longitude": 100.2702355,
+        "latitude": -0.5291415,
+        "elevation": 183
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.16.2005",
+      "name": "TANDIKEK BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.16",
+      "districtName": "PATAMUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25574,
+      "coordinate": {
+        "longitude": 100.2324369,
+        "latitude": -0.5062854,
+        "elevation": 226
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.16.2006",
+      "name": "KAMPUANG TANJUANG KOTO MAMBANG SUNGAI DURIAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.16",
+      "districtName": "PATAMUAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.01.01.1001",
+      "name": "BENTENG UTARA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.01",
+      "districtName": "BENTENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92812,
+      "coordinate": {
+        "longitude": 120.4673053,
+        "latitude": -6.1025134,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.01.01.1002",
+      "name": "BENTENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.01",
+      "districtName": "BENTENG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97117,
+      "coordinate": {
+        "longitude": 128.1628113,
+        "latitude": -3.7101868,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.01.01.1003",
+      "name": "BENTENG SELATAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.01",
+      "districtName": "BENTENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92812,
+      "coordinate": {
+        "longitude": 120.4614408,
+        "latitude": -6.1253075,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

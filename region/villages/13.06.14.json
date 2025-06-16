@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.14.2001",
+      "name": "CANDUANG KOTO LAWEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.14",
+      "districtName": "CANDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26191,
+      "coordinate": {
+        "longitude": 100.4532751,
+        "latitude": -0.3038104,
+        "elevation": 971
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.14.2002",
+      "name": "LASI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.14",
+      "districtName": "CANDUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85564,
+      "coordinate": {
+        "longitude": 124.4577972,
+        "latitude": -9.9741802,
+        "elevation": 586
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.14.2003",
+      "name": "BUKIK BATABUAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.14",
+      "districtName": "CANDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26191,
+      "coordinate": {
+        "longitude": 100.4300896,
+        "latitude": -0.3457683,
+        "elevation": 1250
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

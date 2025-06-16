@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.03.06.2001",
+      "name": "SADAI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.06",
+      "districtName": "TUKAK SADAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29432,
+      "coordinate": {
+        "longitude": 104.0451715,
+        "latitude": 1.1519485,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.06.2002",
+      "name": "TUKAK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.06",
+      "districtName": "TUKAK SADAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33784,
+      "coordinate": {
+        "longitude": 106.6597985,
+        "latitude": -2.9865802,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.06.2003",
+      "name": "PASIR PUTIH",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.06",
+      "districtName": "TUKAK SADAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.06.2004",
+      "name": "TIRAM",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.06",
+      "districtName": "TUKAK SADAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33784,
+      "coordinate": {
+        "longitude": 106.6100623,
+        "latitude": -3.0090546,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.06.2005",
+      "name": "BUKIT TERAP",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.06",
+      "districtName": "TUKAK SADAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33784,
+      "coordinate": {
+        "longitude": 106.6099071,
+        "latitude": -2.9898679,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

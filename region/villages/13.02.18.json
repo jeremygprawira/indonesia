@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.18.2001",
+      "name": "RANGKIANG LULUIH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.18",
+      "districtName": "TIGO LURAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27374,
+      "coordinate": {
+        "longitude": 100.8776676,
+        "latitude": -0.9496203,
+        "elevation": 657
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.18.2002",
+      "name": "BATU BAJANJANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.18",
+      "districtName": "TIGO LURAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27374,
+      "coordinate": {
+        "longitude": 100.9383418,
+        "latitude": -1.0333387,
+        "elevation": 960
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.18.2003",
+      "name": "GARABAK DATA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.18",
+      "districtName": "TIGO LURAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27374,
+      "coordinate": {
+        "longitude": 101.1316552,
+        "latitude": -1.1031752,
+        "elevation": 588
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.18.2004",
+      "name": "TANJUNG BALIK SUMISO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.18",
+      "districtName": "TIGO LURAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27374,
+      "coordinate": {
+        "longitude": 100.9889803,
+        "latitude": -0.8846626,
+        "elevation": 651
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.18.2005",
+      "name": "SIMANAU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.18",
+      "districtName": "TIGO LURAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27374,
+      "coordinate": {
+        "longitude": 100.8620227,
+        "latitude": -0.9189709,
+        "elevation": 900
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

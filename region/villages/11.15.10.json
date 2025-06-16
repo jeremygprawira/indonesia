@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.15.10.2001",
+      "name": "BLANG PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.10",
+      "districtName": "BEUTONG ATEUH BANGGALANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23673,
+      "coordinate": {
+        "longitude": 96.5969367,
+        "latitude": 4.4214311,
+        "elevation": 1072
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.10.2002",
+      "name": "BABAH SUAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.10",
+      "districtName": "BEUTONG ATEUH BANGGALANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23673,
+      "coordinate": {
+        "longitude": 96.489939,
+        "latitude": 4.5553451,
+        "elevation": 1242
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.10.2003",
+      "name": "KUTA TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.10",
+      "districtName": "BEUTONG ATEUH BANGGALANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23673,
+      "coordinate": {
+        "longitude": 96.561729,
+        "latitude": 4.5355656,
+        "elevation": 1632
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.10.2004",
+      "name": "BLANG MEURANDEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.10",
+      "districtName": "BEUTONG ATEUH BANGGALANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23673,
+      "coordinate": {
+        "longitude": 96.6288424,
+        "latitude": 4.3924418,
+        "elevation": 1082
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

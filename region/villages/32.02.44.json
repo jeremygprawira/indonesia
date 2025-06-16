@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.44.2001",
+      "name": "PADASENANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.44",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43183,
+      "coordinate": {
+        "longitude": 106.9406813,
+        "latitude": -7.2627451,
+        "elevation": 265
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.44.2002",
+      "name": "CIDADAP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.44",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42381,
+      "coordinate": {
+        "longitude": 106.361974,
+        "latitude": -6.3998211,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.44.2003",
+      "name": "BANJARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.44",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.44.2004",
+      "name": "HEGARMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.44",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43183,
+      "coordinate": {
+        "longitude": 106.9050566,
+        "latitude": -7.3220605,
+        "elevation": 285
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.44.2005",
+      "name": "TENJOLAUT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.44",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40556,
+      "coordinate": {
+        "longitude": 107.427105,
+        "latitude": -6.711392,
+        "elevation": 599
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.44.2006",
+      "name": "MEKARTANI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.44",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44170,
+      "coordinate": {
+        "longitude": 107.9335291,
+        "latitude": -7.501865,
+        "elevation": 638
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

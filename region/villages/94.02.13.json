@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.02.13.2001",
+      "name": "ILAMBURAWI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.13",
+      "districtName": "ILAMBURAWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98912,
+      "coordinate": {
+        "longitude": 137.9750824,
+        "latitude": -3.8312556,
+        "elevation": 3439
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.13.2002",
+      "name": "BERELEMA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.13",
+      "districtName": "ILAMBURAWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98912,
+      "coordinate": {
+        "longitude": 137.9991067,
+        "latitude": -3.7893911,
+        "elevation": 3249
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.13.2003",
+      "name": "KALOME",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.13",
+      "districtName": "ILAMBURAWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98921,
+      "coordinate": {
+        "longitude": 137.9827424,
+        "latitude": -3.5111003,
+        "elevation": 1305
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.13.2004",
+      "name": "TEMU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.13",
+      "districtName": "ILAMBURAWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98912,
+      "coordinate": {
+        "longitude": 137.9260563,
+        "latitude": -3.7317508,
+        "elevation": 1788
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.13.2005",
+      "name": "JIGUNIKIME",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.13",
+      "districtName": "ILAMBURAWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98912,
+      "coordinate": {
+        "longitude": 137.9507337,
+        "latitude": -3.7349912,
+        "elevation": 2362
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

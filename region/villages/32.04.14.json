@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.14.2001",
+      "name": "SUKASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.14",
+      "districtName": "PAMEUNGPEUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15118,
+      "coordinate": {
+        "longitude": 106.63731,
+        "latitude": -6.1812425,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.14.2002",
+      "name": "BOJONGMANGGU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.14",
+      "districtName": "PAMEUNGPEUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40376,
+      "coordinate": {
+        "longitude": 107.6026713,
+        "latitude": -7.0279283,
+        "elevation": 670
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.14.2003",
+      "name": "RANCATUNGKU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.14",
+      "districtName": "PAMEUNGPEUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40376,
+      "coordinate": {
+        "longitude": 107.5802947,
+        "latitude": -7.0229404,
+        "elevation": 666
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.14.2004",
+      "name": "BOJONGKUNCI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.14",
+      "districtName": "PAMEUNGPEUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40376,
+      "coordinate": {
+        "longitude": 107.571073,
+        "latitude": -7.0192517,
+        "elevation": 668
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.14.2005",
+      "name": "RANCAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.14",
+      "districtName": "PAMEUNGPEUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41263,
+      "coordinate": {
+        "longitude": 107.6222097,
+        "latitude": -6.3853478,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.14.2006",
+      "name": "LANGONSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.14",
+      "districtName": "PAMEUNGPEUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40376,
+      "coordinate": {
+        "longitude": 107.6075088,
+        "latitude": -7.0194438,
+        "elevation": 664
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

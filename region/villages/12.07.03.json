@@ -1,0 +1,610 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.07.03.2001",
+      "name": "BANDAR BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34868,
+      "coordinate": {
+        "longitude": 104.0899236,
+        "latitude": -4.9410263,
+        "elevation": 1027
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2002",
+      "name": "BATU LAYANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38374,
+      "coordinate": {
+        "longitude": 102.3174793,
+        "latitude": -3.4703248,
+        "elevation": 377
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2003",
+      "name": "BATU MBELIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6696573,
+        "latitude": 3.4387857,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2004",
+      "name": "BETIMUS MBARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5632054,
+        "latitude": 3.3043338,
+        "elevation": 692
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2005",
+      "name": "BENGKURUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.6041555,
+        "latitude": 3.3417854,
+        "elevation": 311
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2006",
+      "name": "BINGKAWAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5845878,
+        "latitude": 3.3605837,
+        "elevation": 299
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2007",
+      "name": "BUAH NABAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5729812,
+        "latitude": 3.3530163,
+        "elevation": 417
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2008",
+      "name": "BUKUM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5722738,
+        "latitude": 3.2400139,
+        "elevation": 937
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2009",
+      "name": "BULUH AWAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5976232,
+        "latitude": 3.298989,
+        "elevation": 511
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2010",
+      "name": "CINTA RAKYAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20371,
+      "coordinate": {
+        "longitude": 98.7570918,
+        "latitude": 3.6707878,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2011",
+      "name": "DURIN SERUGUN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5434193,
+        "latitude": 3.2862657,
+        "elevation": 811
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2012",
+      "name": "KETANGKUHEN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5796816,
+        "latitude": 3.2879439,
+        "elevation": 549
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2013",
+      "name": "KUALA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95765,
+      "coordinate": {
+        "longitude": 123.2816993,
+        "latitude": 0.9006094,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2014",
+      "name": "MARTELU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5633855,
+        "latitude": 3.2483728,
+        "elevation": 896
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2015",
+      "name": "NEGERI GUGUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5993469,
+        "latitude": 3.2314891,
+        "elevation": 757
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2016",
+      "name": "PUANGAJA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5767094,
+        "latitude": 3.3296836,
+        "elevation": 433
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2017",
+      "name": "RUMAH KINANGKUNG SP",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5950235,
+        "latitude": 3.3125929,
+        "elevation": 435
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2018",
+      "name": "RAMBUNG BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5886171,
+        "latitude": 3.3733101,
+        "elevation": 303
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2019",
+      "name": "RUMAH PIL PIL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5621609,
+        "latitude": 3.3204424,
+        "elevation": 475
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2020",
+      "name": "RUMAH SUMBUL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20582,
+      "coordinate": {
+        "longitude": 98.7511727,
+        "latitude": 3.2697198,
+        "elevation": 236
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2021",
+      "name": "SALA BULAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.600591,
+        "latitude": 3.3324355,
+        "elevation": 336
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2022",
+      "name": "SAYUM SABAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.6036233,
+        "latitude": 3.3605401,
+        "elevation": 281
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2023",
+      "name": "SEMBAHE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5871499,
+        "latitude": 3.3459077,
+        "elevation": 330
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2024",
+      "name": "SIBOLANGIT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5821972,
+        "latitude": 3.3285296,
+        "elevation": 521
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2025",
+      "name": "SIKEBEN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5560678,
+        "latitude": 3.2584926,
+        "elevation": 931
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2026",
+      "name": "SUKA MAJU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2027",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2028",
+      "name": "TAMBUNEN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.551593,
+        "latitude": 3.346347,
+        "elevation": 358
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2029",
+      "name": "TANJUNG BERINGIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74660,
+      "coordinate": {
+        "longitude": 111.0114753,
+        "latitude": -1.8123563,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.03.2030",
+      "name": "UJUNG DELENG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.03",
+      "districtName": "SIBOLANGIT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20357,
+      "coordinate": {
+        "longitude": 98.5280001,
+        "latitude": 3.293577,
+        "elevation": 814
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 30
+  }
+}

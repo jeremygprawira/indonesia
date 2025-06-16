@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.06.1001",
+      "name": "WUMIALO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.06",
+      "districtName": "KOTA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96128,
+      "coordinate": {
+        "longitude": 123.0499378,
+        "latitude": 0.5569082,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.06.1002",
+      "name": "DULALOWO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.06",
+      "districtName": "KOTA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96128,
+      "coordinate": {
+        "longitude": 123.0477877,
+        "latitude": 0.5597545,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.06.1003",
+      "name": "LILUWO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.06",
+      "districtName": "KOTA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96129,
+      "coordinate": {
+        "longitude": 123.0573757,
+        "latitude": 0.5629676,
+        "elevation": -2
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.06.1004",
+      "name": "PULUBALA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.06",
+      "districtName": "KOTA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96127,
+      "coordinate": {
+        "longitude": 123.0581767,
+        "latitude": 0.5667298,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.06.1005",
+      "name": "PAGUYAMAN",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.06",
+      "districtName": "KOTA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96129,
+      "coordinate": {
+        "longitude": 123.0578114,
+        "latitude": 0.570281,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.06.1006",
+      "name": "DULALOWO TIMUR",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.06",
+      "districtName": "KOTA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96128,
+      "coordinate": {
+        "longitude": 123.0581945,
+        "latitude": 0.5570407,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

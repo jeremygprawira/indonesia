@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.15.12.1003",
+      "name": "KASSA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.12",
+      "districtName": "BATULAPPA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91253,
+      "coordinate": {
+        "longitude": 119.7127255,
+        "latitude": -3.6708184,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.12.2001",
+      "name": "BATULAPPA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.12",
+      "districtName": "BATULAPPA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91998,
+      "coordinate": {
+        "longitude": 120.3990172,
+        "latitude": -3.6553902,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.12.2004",
+      "name": "TAPPORANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.12",
+      "districtName": "BATULAPPA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91253,
+      "coordinate": {
+        "longitude": 119.6623516,
+        "latitude": -3.6559171,
+        "elevation": 215
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.12.2005",
+      "name": "KASERALAU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.12",
+      "districtName": "BATULAPPA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91253,
+      "coordinate": {
+        "longitude": 119.7009977,
+        "latitude": -3.5244126,
+        "elevation": 828
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.12.2006",
+      "name": "WATANG KASSA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.12",
+      "districtName": "BATULAPPA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91253,
+      "coordinate": {
+        "longitude": 119.7013642,
+        "latitude": -3.621374,
+        "elevation": 153
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

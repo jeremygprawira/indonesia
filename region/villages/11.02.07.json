@@ -1,0 +1,570 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.02.07.2001",
+      "name": "GULO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 128.0043618,
+        "latitude": 1.4335069,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2002",
+      "name": "PULO PIKU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7647408,
+        "latitude": 3.5355935,
+        "elevation": 204
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2003",
+      "name": "TERUTUNG KUTE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7626059,
+        "latitude": 3.5409317,
+        "elevation": 213
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2004",
+      "name": "KUTE UJUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7661079,
+        "latitude": 3.5487512,
+        "elevation": 212
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2005",
+      "name": "LAWE STUL",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7695337,
+        "latitude": 3.5262899,
+        "elevation": 198
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2006",
+      "name": "KITE MERANGUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7710859,
+        "latitude": 3.5371911,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2007",
+      "name": "MAMAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7640609,
+        "latitude": 3.5557267,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2008",
+      "name": "TANJUNG LAMA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31663,
+      "coordinate": {
+        "longitude": 103.2211306,
+        "latitude": -3.135506,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2009",
+      "name": "TANJUNG MUDA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37151,
+      "coordinate": {
+        "longitude": 101.4242308,
+        "latitude": -2.065674,
+        "elevation": 789
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2010",
+      "name": "RAMBUNG TELDAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7416335,
+        "latitude": 3.5785447,
+        "elevation": 295
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2011",
+      "name": "TANJUNG AMAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31611,
+      "coordinate": {
+        "longitude": 102.8482844,
+        "latitude": -3.3101036,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2012",
+      "name": "SRI MUDA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7331408,
+        "latitude": 3.6005966,
+        "elevation": 274
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2013",
+      "name": "UJUNG BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91131,
+      "coordinate": {
+        "longitude": 119.6335797,
+        "latitude": -4.0093169,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2014",
+      "name": "KUTE RAMBE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7687432,
+        "latitude": 3.5408929,
+        "elevation": 204
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2015",
+      "name": "MAMAS BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7614742,
+        "latitude": 3.5563737,
+        "elevation": 224
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2016",
+      "name": "RAMBUNG JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7412218,
+        "latitude": 3.5863604,
+        "elevation": 238
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2017",
+      "name": "MAKMUR JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91579,
+      "coordinate": {
+        "longitude": 119.409388,
+        "latitude": -1.3443041,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2018",
+      "name": "DARUL MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24783,
+      "coordinate": {
+        "longitude": 97.9531681,
+        "latitude": 2.8335404,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2019",
+      "name": "TANJUNG BAKHU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7536365,
+        "latitude": 3.5641489,
+        "elevation": 244
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2020",
+      "name": "PULO GABUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7701292,
+        "latitude": 3.5320811,
+        "elevation": 198
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2021",
+      "name": "KOKHTAN JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7587738,
+        "latitude": 3.54553,
+        "elevation": 232
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2022",
+      "name": "ISTIQAMAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7605086,
+        "latitude": 3.5369593,
+        "elevation": 217
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2023",
+      "name": "LAWE MAMAS INDAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7651079,
+        "latitude": 3.5587376,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2024",
+      "name": "TANJUNG LEUSER",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7551593,
+        "latitude": 3.5618848,
+        "elevation": 232
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2025",
+      "name": "SIMPANG IV TANJUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7630587,
+        "latitude": 3.5627737,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2026",
+      "name": "LAWE PINIS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7311544,
+        "latitude": 3.5998456,
+        "elevation": 294
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2027",
+      "name": "BUNTUL KENDAWI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7015326,
+        "latitude": 3.6344163,
+        "elevation": 330
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.07.2028",
+      "name": "KUNING ABADI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.07",
+      "districtName": "DARUL HASANAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24663,
+      "coordinate": {
+        "longitude": 97.7247749,
+        "latitude": 3.6139271,
+        "elevation": 323
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 28
+  }
+}

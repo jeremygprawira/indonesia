@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.03.25.2001",
+      "name": "CIBANGGALA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.03",
+      "cityName": "KAB. CIANJUR",
+      "districtCode": "32.03.25",
+      "districtName": "CAMPAKAMULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43269,
+      "coordinate": {
+        "longitude": 107.2124846,
+        "latitude": -7.0808096,
+        "elevation": 1036
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.03.25.2002",
+      "name": "CAMPAKAWARNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.03",
+      "cityName": "KAB. CIANJUR",
+      "districtCode": "32.03.25",
+      "districtName": "CAMPAKAMULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43269,
+      "coordinate": {
+        "longitude": 107.1648428,
+        "latitude": -7.050389,
+        "elevation": 954
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.03.25.2003",
+      "name": "SUKASIRNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.03",
+      "cityName": "KAB. CIANJUR",
+      "districtCode": "32.03.25",
+      "districtName": "CAMPAKAMULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43273,
+      "coordinate": {
+        "longitude": 107.0370166,
+        "latitude": -7.3571284,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.03.25.2004",
+      "name": "CAMPAKAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.03",
+      "cityName": "KAB. CIANJUR",
+      "districtCode": "32.03.25",
+      "districtName": "CAMPAKAMULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40374,
+      "coordinate": {
+        "longitude": 107.6035416,
+        "latitude": -7.1161058,
+        "elevation": 1361
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.03.25.2005",
+      "name": "SUKABUNGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.03",
+      "cityName": "KAB. CIANJUR",
+      "districtCode": "32.03.25",
+      "districtName": "CAMPAKAMULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40162,
+      "coordinate": {
+        "longitude": 107.5941162,
+        "latitude": -6.8952957,
+        "elevation": 753
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

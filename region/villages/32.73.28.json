@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.28.1001",
+      "name": "CIPADUNG KULON",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.28",
+      "districtName": "PANYILEUKAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40614,
+      "coordinate": {
+        "longitude": 107.7033852,
+        "latitude": -6.9211564,
+        "elevation": 688
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.28.1002",
+      "name": "CIPADUNG KIDUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.28",
+      "districtName": "PANYILEUKAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40614,
+      "coordinate": {
+        "longitude": 107.713101,
+        "latitude": -6.9427598,
+        "elevation": 665
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.28.1003",
+      "name": "CIPADUNG WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.28",
+      "districtName": "PANYILEUKAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40614,
+      "coordinate": {
+        "longitude": 107.710804,
+        "latitude": -6.9314192,
+        "elevation": 680
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.28.1004",
+      "name": "MEKAR MULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.28",
+      "districtName": "PANYILEUKAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74165,
+      "coordinate": {
+        "longitude": 111.5617394,
+        "latitude": -2.2837606,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.06.09.2001",
+      "name": "KARANG BUAH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70563,
+      "coordinate": {
+        "longitude": 114.6312828,
+        "latitude": -3.1559838,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2002",
+      "name": "SAWANG BALAK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.8275583,
+        "latitude": -5.7987768,
+        "elevation": 245
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2003",
+      "name": "WAY RILAU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.9142961,
+        "latitude": -5.6762098,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2004",
+      "name": "TANJUNG RAJA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.9306442,
+        "latitude": -5.6754913,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2005",
+      "name": "TENGOR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.9068531,
+        "latitude": -5.6651953,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2006",
+      "name": "TANJUNG JATI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78714,
+      "coordinate": {
+        "longitude": 112.9341583,
+        "latitude": 0.8498819,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2007",
+      "name": "KEJADIAN LOM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.9429154,
+        "latitude": -5.6145751,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2008",
+      "name": "SUKARAJA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2009",
+      "name": "BANJAR NEGERI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35367,
+      "coordinate": {
+        "longitude": 105.0448627,
+        "latitude": -5.4185325,
+        "elevation": 130
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2010",
+      "name": "GEDUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.9437189,
+        "latitude": -5.6562132,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2011",
+      "name": "SUKA PADANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.925071,
+        "latitude": -5.6371319,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2012",
+      "name": "KACAMARGA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.9211983,
+        "latitude": -5.6016878,
+        "elevation": 176
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2013",
+      "name": "PAMPANGAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35366,
+      "coordinate": {
+        "longitude": 105.0642061,
+        "latitude": -5.4079676,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2014",
+      "name": "BANJAR MANIS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35378,
+      "coordinate": {
+        "longitude": 104.7466233,
+        "latitude": -5.417821,
+        "elevation": 425
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2015",
+      "name": "TANJUNG BETUAH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.8847243,
+        "latitude": -5.6214805,
+        "elevation": 223
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2016",
+      "name": "PUTIH DOH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.8684512,
+        "latitude": -5.5902144,
+        "elevation": 400
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2017",
+      "name": "PEKONDOH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35367,
+      "coordinate": {
+        "longitude": 105.0322948,
+        "latitude": -5.4115088,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2028",
+      "name": "KUBULANGKA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.9864026,
+        "latitude": -5.6162739,
+        "elevation": 281
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2029",
+      "name": "KUTAKAKHANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35683,
+      "coordinate": {
+        "longitude": 104.7894135,
+        "latitude": -5.7794829,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.09.2030",
+      "name": "SUKA BANJAR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.09",
+      "districtName": "CUKUH BALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34883,
+      "coordinate": {
+        "longitude": 104.2020463,
+        "latitude": -5.4262012,
+        "elevation": 101
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

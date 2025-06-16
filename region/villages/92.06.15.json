@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.15.2001",
+      "name": "SARA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.15",
+      "districtName": "KAITARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98113,
+      "coordinate": {
+        "longitude": 134.0482694,
+        "latitude": -3.4738567,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.15.2002",
+      "name": "WARGA NUSA I",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.15",
+      "districtName": "KAITARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98134,
+      "coordinate": {
+        "longitude": 133.6272332,
+        "latitude": -2.7471104,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.15.2003",
+      "name": "WARGA NUSA II",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.15",
+      "districtName": "KAITARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98134,
+      "coordinate": {
+        "longitude": 133.6623265,
+        "latitude": -2.8504232,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.15.2004",
+      "name": "TUGARAMA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.15",
+      "districtName": "KAITARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98134,
+      "coordinate": {
+        "longitude": 133.6968164,
+        "latitude": -2.6590325,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.15.2005",
+      "name": "SUGA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.15",
+      "districtName": "KAITARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98134,
+      "coordinate": {
+        "longitude": 133.8263707,
+        "latitude": -2.7677915,
+        "elevation": 304
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

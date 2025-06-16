@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.03.1001",
+      "name": "DEMANGAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.03",
+      "districtName": "GONDOKUSUMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63136,
+      "coordinate": {
+        "longitude": 111.5250648,
+        "latitude": -7.6615104,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.03.1002",
+      "name": "KOTABARU",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.03",
+      "districtName": "GONDOKUSUMAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94771,
+      "coordinate": {
+        "longitude": 123.1630309,
+        "latitude": -0.8745506,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.03.1003",
+      "name": "KLITREN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.03",
+      "districtName": "GONDOKUSUMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55222,
+      "coordinate": {
+        "longitude": 110.382444,
+        "latitude": -7.7847171,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.03.1004",
+      "name": "BACIRO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.03",
+      "districtName": "GONDOKUSUMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55225,
+      "coordinate": {
+        "longitude": 110.3850138,
+        "latitude": -7.7924778,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.03.1005",
+      "name": "TERBAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.03",
+      "districtName": "GONDOKUSUMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55223,
+      "coordinate": {
+        "longitude": 110.3751182,
+        "latitude": -7.7791734,
+        "elevation": 131
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

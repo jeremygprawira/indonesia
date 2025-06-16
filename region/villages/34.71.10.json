@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.10.1001",
+      "name": "NGUPASAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.10",
+      "districtName": "GONDOMANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55122,
+      "coordinate": {
+        "longitude": 110.3652702,
+        "latitude": -7.7996334,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.10.1002",
+      "name": "PRAWIRODIRJAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.10",
+      "districtName": "GONDOMANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55121,
+      "coordinate": {
+        "longitude": 110.369992,
+        "latitude": -7.8041903,
+        "elevation": 108
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

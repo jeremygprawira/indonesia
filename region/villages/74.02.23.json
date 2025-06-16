@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.02.23.1001",
+      "name": "RUOTA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.02",
+      "cityName": "KAB. KONAWE",
+      "districtCode": "74.02.23",
+      "districtName": "ROUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93453,
+      "coordinate": {
+        "longitude": 121.6660231,
+        "latitude": -2.9319986,
+        "elevation": 338
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.02.23.2002",
+      "name": "TIRAWONUA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.02",
+      "cityName": "KAB. KONAWE",
+      "districtCode": "74.02.23",
+      "districtName": "ROUTA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.02.23.2003",
+      "name": "PARUDONGKA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.02",
+      "cityName": "KAB. KONAWE",
+      "districtCode": "74.02.23",
+      "districtName": "ROUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93453,
+      "coordinate": {
+        "longitude": 121.5411029,
+        "latitude": -3.0616538,
+        "elevation": 897
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.02.23.2004",
+      "name": "WALANDAWE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.02",
+      "cityName": "KAB. KONAWE",
+      "districtCode": "74.02.23",
+      "districtName": "ROUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93354,
+      "coordinate": {
+        "longitude": 122.0193197,
+        "latitude": -3.3986465,
+        "elevation": 879
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.02.23.2005",
+      "name": "PUUWIWIRANO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.02",
+      "cityName": "KAB. KONAWE",
+      "districtCode": "74.02.23",
+      "districtName": "ROUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93453,
+      "coordinate": {
+        "longitude": 121.6768434,
+        "latitude": -3.208205,
+        "elevation": 180
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.02.23.2006",
+      "name": "TANGGOLA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.02",
+      "cityName": "KAB. KONAWE",
+      "districtCode": "74.02.23",
+      "districtName": "ROUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93453,
+      "coordinate": {
+        "longitude": 121.6140798,
+        "latitude": -3.1435506,
+        "elevation": 298
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.02.23.2007",
+      "name": "LALOMERUI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.02",
+      "cityName": "KAB. KONAWE",
+      "districtCode": "74.02.23",
+      "districtName": "ROUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93453,
+      "coordinate": {
+        "longitude": 121.8410983,
+        "latitude": -3.1141464,
+        "elevation": 290
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

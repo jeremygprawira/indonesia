@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "51.71.01",
+      "name": "DENPASAR SELATAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.71",
+      "cityName": "KOTA DENPASAR"
+    },
+    {
+      "type": "district",
+      "code": "51.71.02",
+      "name": "DENPASAR TIMUR",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.71",
+      "cityName": "KOTA DENPASAR"
+    },
+    {
+      "type": "district",
+      "code": "51.71.03",
+      "name": "DENPASAR BARAT",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.71",
+      "cityName": "KOTA DENPASAR"
+    },
+    {
+      "type": "district",
+      "code": "51.71.04",
+      "name": "DENPASAR UTARA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.71",
+      "cityName": "KOTA DENPASAR"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

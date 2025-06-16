@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.71.03.1018",
+      "name": "LATERI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON",
+      "districtCode": "81.71.03",
+      "districtName": "BAGUALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97231,
+      "coordinate": {
+        "longitude": 128.243233,
+        "latitude": -3.6466323,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.71.03.2001",
+      "name": "PASSO",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON",
+      "districtCode": "81.71.03",
+      "districtName": "BAGUALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97232,
+      "coordinate": {
+        "longitude": 128.2536975,
+        "latitude": -3.6147297,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.71.03.2002",
+      "name": "HALONG",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON",
+      "districtCode": "81.71.03",
+      "districtName": "BAGUALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97231,
+      "coordinate": {
+        "longitude": 128.2351705,
+        "latitude": -3.6614245,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.71.03.2003",
+      "name": "LATTA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON",
+      "districtCode": "81.71.03",
+      "districtName": "BAGUALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97231,
+      "coordinate": {
+        "longitude": 128.2312549,
+        "latitude": -3.6543982,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.71.03.2004",
+      "name": "NEGERI LAMA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON",
+      "districtCode": "81.71.03",
+      "districtName": "BAGUALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97232,
+      "coordinate": {
+        "longitude": 128.2364341,
+        "latitude": -3.6120158,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.71.03.2005",
+      "name": "NANIA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON",
+      "districtCode": "81.71.03",
+      "districtName": "BAGUALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97232,
+      "coordinate": {
+        "longitude": 128.2289657,
+        "latitude": -3.6180064,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.71.03.2006",
+      "name": "WAIHERU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.71",
+      "cityName": "KOTA AMBON",
+      "districtCode": "81.71.03",
+      "districtName": "BAGUALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97233,
+      "coordinate": {
+        "longitude": 128.2213224,
+        "latitude": -3.6232371,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

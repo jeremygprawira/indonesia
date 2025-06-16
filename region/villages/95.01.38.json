@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.01.38.2001",
+      "name": "PUPUGOBA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.38",
+      "districtName": "POPUGOBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99506,
+      "coordinate": {
+        "longitude": 139.1924365,
+        "latitude": -4.1256736,
+        "elevation": 3416
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.38.2002",
+      "name": "WAIMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.38",
+      "districtName": "POPUGOBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99506,
+      "coordinate": {
+        "longitude": 139.064324,
+        "latitude": -4.0839068,
+        "elevation": 2174
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.38.2003",
+      "name": "YOMOTE",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.38",
+      "districtName": "POPUGOBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99506,
+      "coordinate": {
+        "longitude": 139.0870709,
+        "latitude": -4.0873049,
+        "elevation": 2351
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.38.2004",
+      "name": "YELELO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.38",
+      "districtName": "POPUGOBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99506,
+      "coordinate": {
+        "longitude": 139.1360668,
+        "latitude": -4.1072298,
+        "elevation": 2666
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

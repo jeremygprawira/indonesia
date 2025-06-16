@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.13.2001",
+      "name": "YENGGELO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.13",
+      "districtName": "YENGGELO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99918,
+      "coordinate": {
+        "longitude": 138.0082415,
+        "latitude": -4.2801994,
+        "elevation": 1188
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.13.2002",
+      "name": "MAIMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.13",
+      "districtName": "YENGGELO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99918,
+      "coordinate": {
+        "longitude": 137.992114,
+        "latitude": -4.2851558,
+        "elevation": 1161
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.13.2003",
+      "name": "NOLO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.13",
+      "districtName": "YENGGELO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99918,
+      "coordinate": {
+        "longitude": 138.0359123,
+        "latitude": -4.3623137,
+        "elevation": 745
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.13.2004",
+      "name": "WUAREM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.13",
+      "districtName": "YENGGELO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99918,
+      "coordinate": {
+        "longitude": 138.01276,
+        "latitude": -4.2470982,
+        "elevation": 1684
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

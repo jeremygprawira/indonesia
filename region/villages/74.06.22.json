@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.22.2001",
+      "name": "KOLOMBI MATAUSU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.22",
+      "districtName": "MATA USU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93786,
+      "coordinate": {
+        "longitude": 121.7608361,
+        "latitude": -4.551992,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.22.2002",
+      "name": "MORENGKE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.22",
+      "districtName": "MATA USU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93786,
+      "coordinate": {
+        "longitude": 121.8505138,
+        "latitude": -4.4862594,
+        "elevation": 199
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.22.2003",
+      "name": "WIA-WIA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.22",
+      "districtName": "MATA USU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93579,
+      "coordinate": {
+        "longitude": 121.920575,
+        "latitude": -4.2080687,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.22.2004",
+      "name": "LAMURU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.22",
+      "districtName": "MATA USU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93786,
+      "coordinate": {
+        "longitude": 121.7913743,
+        "latitude": -4.5115741,
+        "elevation": 182
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.22.2005",
+      "name": "TOTOLE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.22",
+      "districtName": "MATA USU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93786,
+      "coordinate": {
+        "longitude": 121.8057788,
+        "latitude": -4.5672515,
+        "elevation": 119
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

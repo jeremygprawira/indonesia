@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.09.33.2001",
+      "name": "SUKADANA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.09",
+      "cityName": "KAB. CIREBON",
+      "districtCode": "32.09.33",
+      "districtName": "PABUARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72168,
+      "coordinate": {
+        "longitude": 116.3378563,
+        "latitude": -2.7600863,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.09.33.2002",
+      "name": "PABUARAN KIDUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.09",
+      "cityName": "KAB. CIREBON",
+      "districtCode": "32.09.33",
+      "districtName": "PABUARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45194,
+      "coordinate": {
+        "longitude": 108.72206,
+        "latitude": -6.9061617,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.09.33.2003",
+      "name": "PABUARAN WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.09",
+      "cityName": "KAB. CIREBON",
+      "districtCode": "32.09.33",
+      "districtName": "PABUARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45194,
+      "coordinate": {
+        "longitude": 108.7280139,
+        "latitude": -6.8982404,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.09.33.2004",
+      "name": "PABUARAN LOR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.09",
+      "cityName": "KAB. CIREBON",
+      "districtCode": "32.09.33",
+      "districtName": "PABUARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45194,
+      "coordinate": {
+        "longitude": 108.7215184,
+        "latitude": -6.8961539,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.09.33.2005",
+      "name": "JATIRENGGANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.09",
+      "cityName": "KAB. CIREBON",
+      "districtCode": "32.09.33",
+      "districtName": "PABUARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45194,
+      "coordinate": {
+        "longitude": 108.7099427,
+        "latitude": -6.8892423,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.09.33.2006",
+      "name": "HULUBANTENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.09",
+      "cityName": "KAB. CIREBON",
+      "districtCode": "32.09.33",
+      "districtName": "PABUARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45194,
+      "coordinate": {
+        "longitude": 108.730764,
+        "latitude": -6.8862075,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.09.33.2007",
+      "name": "HULUBANTENG LOR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.09",
+      "cityName": "KAB. CIREBON",
+      "districtCode": "32.09.33",
+      "districtName": "PABUARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45194,
+      "coordinate": {
+        "longitude": 108.7349415,
+        "latitude": -6.8802523,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

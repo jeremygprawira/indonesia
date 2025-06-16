@@ -1,0 +1,790 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.05.03.2001",
+      "name": "NANGA SEPAUK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1944743,
+        "latitude": 0.0667054,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2002",
+      "name": "TANJUNG RIA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99117,
+      "coordinate": {
+        "longitude": 140.7040317,
+        "latitude": -2.4912547,
+        "elevation": 205
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2003",
+      "name": "SEKUBANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1136721,
+        "latitude": -0.2348826,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2004",
+      "name": "KENYAUK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1486003,
+        "latitude": 0.0783446,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2005",
+      "name": "LENGKENAT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2164358,
+        "latitude": 0.0062186,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2006",
+      "name": "MANIS RAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1704867,
+        "latitude": -0.0198054,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2007",
+      "name": "TEMIANG KAPUAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2520435,
+        "latitude": 0.1132335,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2008",
+      "name": "ENSABANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2808524,
+        "latitude": 0.2364081,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2009",
+      "name": "MAIT HILIR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.26701,
+        "latitude": -0.0969809,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2010",
+      "name": "SEKUJAM TIMBAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2031336,
+        "latitude": -0.1499447,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2011",
+      "name": "SEMUNTAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78652,
+      "coordinate": {
+        "longitude": 111.2364554,
+        "latitude": 0.3402371,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2012",
+      "name": "SIRANG SETAMBANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1757798,
+        "latitude": -0.072826,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2013",
+      "name": "NANGA LIBAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1151529,
+        "latitude": -0.1590942,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2014",
+      "name": "BERNAYAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1277502,
+        "latitude": -0.3437199,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2015",
+      "name": "SINAR PEKAYAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.0845183,
+        "latitude": -0.3401591,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2016",
+      "name": "NANGA PARI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.0978078,
+        "latitude": -0.4341185,
+        "elevation": 454
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2017",
+      "name": "BULUH KUNING",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72167,
+      "coordinate": {
+        "longitude": 115.9057644,
+        "latitude": -2.484693,
+        "elevation": 230
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2018",
+      "name": "TEMAWANG MUNTAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2164141,
+        "latitude": -0.0817237,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2019",
+      "name": "TAWANG SARI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1915431,
+        "latitude": -0.1227328,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2020",
+      "name": "GERNIS JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2596779,
+        "latitude": -0.0191521,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2021",
+      "name": "PAOH BENUA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2753352,
+        "latitude": -0.0294049,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2022",
+      "name": "BEDAYAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1702108,
+        "latitude": -0.1228775,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2023",
+      "name": "TANJUNG HULU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77457,
+      "coordinate": {
+        "longitude": 116.7227176,
+        "latitude": 3.7654398,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2024",
+      "name": "SUNGAI RAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70673,
+      "coordinate": {
+        "longitude": 115.054434,
+        "latitude": -3.2845258,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2025",
+      "name": "LANDAU PANJANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1810997,
+        "latitude": -0.2679087,
+        "elevation": 176
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2026",
+      "name": "BANGUN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99673,
+      "coordinate": {
+        "longitude": 139.8075939,
+        "latitude": -6.3056317,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2027",
+      "name": "SUKAU BERSATU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2964157,
+        "latitude": 0.1304745,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2028",
+      "name": "KEMANTAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1483863,
+        "latitude": -0.3067434,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2029",
+      "name": "PENINSUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2777003,
+        "latitude": -0.1717257,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2030",
+      "name": "SEPULUT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1742137,
+        "latitude": -0.0013292,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2031",
+      "name": "TEMAWANG BULAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2495928,
+        "latitude": -0.4274956,
+        "elevation": 260
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2032",
+      "name": "SUNGAI SEGAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79358,
+      "coordinate": {
+        "longitude": 109.5095496,
+        "latitude": 0.0835603,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2033",
+      "name": "TANJUNG BALAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79367,
+      "coordinate": {
+        "longitude": 109.9340975,
+        "latitude": 0.5878558,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2034",
+      "name": "SINAR HARAPAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.1537274,
+        "latitude": 0.0445672,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2035",
+      "name": "RIAM KEMPADIK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2513072,
+        "latitude": -0.2007362,
+        "elevation": 214
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2036",
+      "name": "NANGA LAYUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2176901,
+        "latitude": -0.2175815,
+        "elevation": 175
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2037",
+      "name": "LIMAU BAKTI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.10241,
+        "latitude": -0.3101847,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2038",
+      "name": "TANJUNG MAWANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.0351939,
+        "latitude": -0.3631889,
+        "elevation": 249
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.03.2040",
+      "name": "SUNGAI JAUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.03",
+      "districtName": "SEPAUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78662,
+      "coordinate": {
+        "longitude": 111.2891549,
+        "latitude": 0.1614512,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 39
+  }
+}

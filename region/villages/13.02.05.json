@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.05.2001",
+      "name": "SUPAYANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.05",
+      "districtName": "PAYUNG SEKAKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27263,
+      "coordinate": {
+        "longitude": 100.5723859,
+        "latitude": -0.3504463,
+        "elevation": 787
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.05.2002",
+      "name": "SIRUKAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.05",
+      "districtName": "PAYUNG SEKAKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27387,
+      "coordinate": {
+        "longitude": 100.7753866,
+        "latitude": -0.9186896,
+        "elevation": 1202
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.05.2003",
+      "name": "AIE LUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.05",
+      "districtName": "PAYUNG SEKAKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27387,
+      "coordinate": {
+        "longitude": 100.8734447,
+        "latitude": -0.8229191,
+        "elevation": 460
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

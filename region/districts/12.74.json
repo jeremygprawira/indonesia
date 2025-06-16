@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "12.74.01",
+      "name": "TANJUNGBALAI SELATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI"
+    },
+    {
+      "type": "district",
+      "code": "12.74.02",
+      "name": "TANJUNGBALAI UTARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI"
+    },
+    {
+      "type": "district",
+      "code": "12.74.03",
+      "name": "SEI TUALANG RASO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI"
+    },
+    {
+      "type": "district",
+      "code": "12.74.04",
+      "name": "TELUK NIBUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI"
+    },
+    {
+      "type": "district",
+      "code": "12.74.05",
+      "name": "DATUK BANDAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI"
+    },
+    {
+      "type": "district",
+      "code": "12.74.06",
+      "name": "DATUK BANDAR TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

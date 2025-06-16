@@ -1,0 +1,350 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.14.02.2001",
+      "name": "BAHAGIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94366,
+      "coordinate": {
+        "longitude": 120.1319338,
+        "latitude": -1.0910146,
+        "elevation": 1159
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2002",
+      "name": "SENTOSA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30261,
+      "coordinate": {
+        "longitude": 104.7999605,
+        "latitude": -2.9999446,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2003",
+      "name": "DAYAH BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.5888526,
+        "latitude": 4.6328149,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2004",
+      "name": "GAMPONG BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23234,
+      "coordinate": {
+        "longitude": 95.2857769,
+        "latitude": 5.5494334,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2005",
+      "name": "KEUTAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6128325,
+        "latitude": 4.6324147,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2006",
+      "name": "PANTON MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23658,
+      "coordinate": {
+        "longitude": 95.3200688,
+        "latitude": 5.0937246,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2007",
+      "name": "KEUDE KRUENG SABEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6489006,
+        "latitude": 4.5968645,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2008",
+      "name": "KABONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6705875,
+        "latitude": 4.5853381,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2009",
+      "name": "PADANG DATAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.623155,
+        "latitude": 4.6246906,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2010",
+      "name": "DATAR LUAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6553595,
+        "latitude": 4.6104815,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2011",
+      "name": "RANTO PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6737284,
+        "latitude": 4.650445,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2012",
+      "name": "BUNTHA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6680283,
+        "latitude": 4.6671049,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2013",
+      "name": "PANGGONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.7565771,
+        "latitude": 4.7901046,
+        "elevation": 325
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2014",
+      "name": "CUREK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.7793046,
+        "latitude": 4.7856847,
+        "elevation": 254
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2015",
+      "name": "ALUE THO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23671,
+      "coordinate": {
+        "longitude": 96.3292731,
+        "latitude": 4.2502686,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2016",
+      "name": "MON MATA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6388278,
+        "latitude": 4.6030927,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.14.02.2017",
+      "name": "PAYA SEUMANTOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.14",
+      "cityName": "KAB. ACEH JAYA",
+      "districtCode": "11.14.02",
+      "districtName": "KRUENG SABEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6685284,
+        "latitude": 4.6186721,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 17
+  }
+}

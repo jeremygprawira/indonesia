@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.06.2001",
+      "name": "MOYEBA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.06",
+      "districtName": "MOSKONA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98165,
+      "coordinate": {
+        "longitude": 132.9876863,
+        "latitude": -1.4326557,
+        "elevation": 826
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.06.2004",
+      "name": "MERESTIM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.06",
+      "districtName": "MOSKONA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98165,
+      "coordinate": {
+        "longitude": 133.0811205,
+        "latitude": -1.4601779,
+        "elevation": 683
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.06.2005",
+      "name": "INOFINA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.06",
+      "districtName": "MOSKONA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98165,
+      "coordinate": {
+        "longitude": 132.9589504,
+        "latitude": -1.3540861,
+        "elevation": 1299
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.06.2006",
+      "name": "MOSUM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.06",
+      "districtName": "MOSKONA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98165,
+      "coordinate": {
+        "longitude": 133.0363199,
+        "latitude": -1.4978052,
+        "elevation": 629
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

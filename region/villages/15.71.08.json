@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.71.08.1001",
+      "name": "TALANG JAUH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.08",
+      "districtName": "JELUTUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36133,
+      "coordinate": {
+        "longitude": 103.6192193,
+        "latitude": -1.6057248,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.08.1002",
+      "name": "CEMPAKA PUTIH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.08",
+      "districtName": "JELUTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96524,
+      "coordinate": {
+        "longitude": 122.0277051,
+        "latitude": 0.9151975,
+        "elevation": 747
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.08.1003",
+      "name": "KEBUN HANDIL",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.08",
+      "districtName": "JELUTUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36137,
+      "coordinate": {
+        "longitude": 103.6199086,
+        "latitude": -1.6241273,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.08.1004",
+      "name": "LEBAK BANDUNG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.08",
+      "districtName": "JELUTUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36135,
+      "coordinate": {
+        "longitude": 103.6087724,
+        "latitude": -1.6075272,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.08.1005",
+      "name": "PAYO LEBAR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.08",
+      "districtName": "JELUTUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36135,
+      "coordinate": {
+        "longitude": 103.6021856,
+        "latitude": -1.6102061,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.08.1006",
+      "name": "JELUTUNG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.08",
+      "districtName": "JELUTUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79455,
+      "coordinate": {
+        "longitude": 108.9975448,
+        "latitude": 1.1360639,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.08.1007",
+      "name": "HANDIL JAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.08",
+      "districtName": "JELUTUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36137,
+      "coordinate": {
+        "longitude": 103.6182178,
+        "latitude": -1.6353797,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

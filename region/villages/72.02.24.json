@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.02.24.2001",
+      "name": "WINOWANGA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.24",
+      "districtName": "LORE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94657,
+      "coordinate": {
+        "longitude": 120.3688265,
+        "latitude": -1.4466575,
+        "elevation": 1101
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.24.2002",
+      "name": "MAHOLO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.24",
+      "districtName": "LORE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94657,
+      "coordinate": {
+        "longitude": 120.39712,
+        "latitude": -1.5285638,
+        "elevation": 1148
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.24.2003",
+      "name": "TAMADUE",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.24",
+      "districtName": "LORE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94657,
+      "coordinate": {
+        "longitude": 120.413438,
+        "latitude": -1.4589309,
+        "elevation": 1110
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.24.2004",
+      "name": "MEKARSARI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.24",
+      "districtName": "LORE TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.24.2005",
+      "name": "KALEMAGO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.24",
+      "districtName": "LORE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94657,
+      "coordinate": {
+        "longitude": 120.4083046,
+        "latitude": -1.5069379,
+        "elevation": 1110
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

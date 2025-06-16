@@ -1,0 +1,470 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.05.15.2001",
+      "name": "SUGIHWARAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2153908,
+        "latitude": -3.3864373,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2002",
+      "name": "TAMBAHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59119,
+      "coordinate": {
+        "longitude": 111.0555365,
+        "latitude": -6.7216428,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2003",
+      "name": "TEPAKYANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.5587799,
+        "latitude": -7.6954198,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2004",
+      "name": "SIDOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2005",
+      "name": "WAJASARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.5803229,
+        "latitude": -7.6959389,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2006",
+      "name": "CANDIWULAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.580541,
+        "latitude": -7.6831907,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2007",
+      "name": "ADIKARTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56415,
+      "coordinate": {
+        "longitude": 110.2452526,
+        "latitude": -7.6079563,
+        "elevation": 251
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2008",
+      "name": "ADIMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.5767233,
+        "latitude": -7.6645976,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2009",
+      "name": "TEMANGGAL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56161,
+      "coordinate": {
+        "longitude": 110.1416329,
+        "latitude": -7.5134416,
+        "elevation": 449
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2010",
+      "name": "JOHO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63172,
+      "coordinate": {
+        "longitude": 111.5703983,
+        "latitude": -7.7270397,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2011",
+      "name": "ADILUHUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.5588356,
+        "latitude": -7.6838144,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2012",
+      "name": "TEGALSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42183,
+      "coordinate": {
+        "longitude": 106.2098711,
+        "latitude": -6.1564995,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2013",
+      "name": "SEKARTEJA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83611,
+      "coordinate": {
+        "longitude": 116.529025,
+        "latitude": -8.6376449,
+        "elevation": 175
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2014",
+      "name": "KEMUJAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59455,
+      "coordinate": {
+        "longitude": 110.4739843,
+        "latitude": -5.8043961,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2015",
+      "name": "MANGUNHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67217,
+      "coordinate": {
+        "longitude": 113.2282547,
+        "latitude": -7.7402359,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2016",
+      "name": "BANYUROTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55671,
+      "coordinate": {
+        "longitude": 110.1772476,
+        "latitude": -7.8012518,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2017",
+      "name": "MELES",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.5665787,
+        "latitude": -7.6509611,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2018",
+      "name": "CARUBAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62193,
+      "coordinate": {
+        "longitude": 112.02081,
+        "latitude": -7.1259605,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2019",
+      "name": "BONJOK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.5394544,
+        "latitude": -7.6558146,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2020",
+      "name": "ARJOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54363,
+      "coordinate": {
+        "longitude": 109.5324875,
+        "latitude": -7.6523573,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2021",
+      "name": "ARJOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65126,
+      "coordinate": {
+        "longitude": 112.6584388,
+        "latitude": -7.9326633,
+        "elevation": 459
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2022",
+      "name": "PEKUWON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62370,
+      "coordinate": {
+        "longitude": 111.973873,
+        "latitude": -7.0691138,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.15.2023",
+      "name": "SIDOMUKTI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.15",
+      "districtName": "ADIMULYO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96157,
+      "coordinate": {
+        "longitude": 122.6533617,
+        "latitude": 0.6760994,
+        "elevation": 57
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 23
+  }
+}

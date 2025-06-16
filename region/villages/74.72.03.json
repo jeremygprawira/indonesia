@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.72.03.1001",
+      "name": "KAISABU BARU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.03",
+      "districtName": "SORAWOLIO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93731,
+      "coordinate": {
+        "longitude": 122.694054,
+        "latitude": -5.4368475,
+        "elevation": 241
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.03.1002",
+      "name": "KARYA BARU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.03",
+      "districtName": "SORAWOLIO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96361,
+      "coordinate": {
+        "longitude": 122.0534119,
+        "latitude": 0.7172047,
+        "elevation": 1223
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.03.1003",
+      "name": "GONDA BARU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.03",
+      "districtName": "SORAWOLIO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93731,
+      "coordinate": {
+        "longitude": 122.7454202,
+        "latitude": -5.4563663,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.03.1004",
+      "name": "BUGI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.03",
+      "districtName": "SORAWOLIO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99543,
+      "coordinate": {
+        "longitude": 138.8209792,
+        "latitude": -3.866144,
+        "elevation": 1835
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.02.09.2001",
+      "name": "KERTA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80572,
+      "coordinate": {
+        "longitude": 115.275653,
+        "latitude": -8.3387235,
+        "elevation": 806
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2002",
+      "name": "BOJONGJURUH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9836741,
+        "latitude": -6.6438949,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2003",
+      "name": "LEUWIIPUH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9961765,
+        "latitude": -6.6115578,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2004",
+      "name": "LEBAKKEUSIK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9521402,
+        "latitude": -6.6129963,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2005",
+      "name": "CILEGONGILIR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9681551,
+        "latitude": -6.5907146,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2006",
+      "name": "KEUSIK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 106.0009012,
+        "latitude": -6.5442302,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2007",
+      "name": "CIBATURKEUSIK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 106.0053413,
+        "latitude": -6.5023315,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2009",
+      "name": "KUMPAY",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 106.0213632,
+        "latitude": -6.4774399,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2010",
+      "name": "JALUPANGGIRANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9770178,
+        "latitude": -6.562357,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2011",
+      "name": "BENDUNGAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96265,
+      "coordinate": {
+        "longitude": 122.1497879,
+        "latitude": 0.6770698,
+        "elevation": 425
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2012",
+      "name": "KERTARAHARJA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9595024,
+        "latitude": -6.6678965,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2013",
+      "name": "CISAMPIH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9828252,
+        "latitude": -6.5819863,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2014",
+      "name": "GUNUNGSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94480,
+      "coordinate": {
+        "longitude": 121.0110708,
+        "latitude": 0.6432046,
+        "elevation": 444
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2015",
+      "name": "TAMANSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42438,
+      "coordinate": {
+        "longitude": 106.0013817,
+        "latitude": -5.9296445,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2016",
+      "name": "CIDAHU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42178,
+      "coordinate": {
+        "longitude": 106.3796073,
+        "latitude": -6.2848537,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2017",
+      "name": "CIRUJI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9914383,
+        "latitude": -6.5291296,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2018",
+      "name": "KADUHAUK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.994034,
+        "latitude": -6.5084224,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2019",
+      "name": "LABANJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9451095,
+        "latitude": -6.5962727,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2020",
+      "name": "UMBULJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9541752,
+        "latitude": -6.6409326,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.09.2021",
+      "name": "KERTARAHAYU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.09",
+      "districtName": "BANJARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42355,
+      "coordinate": {
+        "longitude": 105.9919328,
+        "latitude": -6.6634702,
+        "elevation": 154
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

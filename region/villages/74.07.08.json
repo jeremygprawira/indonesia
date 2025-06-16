@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.07.08.1003",
+      "name": "SOWA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.07",
+      "cityName": "KAB. WAKATOBI",
+      "districtCode": "74.07.08",
+      "districtName": "TOGO BINONGKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93796,
+      "coordinate": {
+        "longitude": 123.9903702,
+        "latitude": -5.9558261,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.07.08.1004",
+      "name": "POPALIA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.07",
+      "cityName": "KAB. WAKATOBI",
+      "districtCode": "74.07.08",
+      "districtName": "TOGO BINONGKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93796,
+      "coordinate": {
+        "longitude": 124.0133866,
+        "latitude": -5.9692316,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.07.08.2001",
+      "name": "WALOINDI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.07",
+      "cityName": "KAB. WAKATOBI",
+      "districtCode": "74.07.08",
+      "districtName": "TOGO BINONGKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93796,
+      "coordinate": {
+        "longitude": 124.0443279,
+        "latitude": -6.0164597,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.07.08.2002",
+      "name": "OIHU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.07",
+      "cityName": "KAB. WAKATOBI",
+      "districtCode": "74.07.08",
+      "districtName": "TOGO BINONGKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93796,
+      "coordinate": {
+        "longitude": 124.0382113,
+        "latitude": -5.9739145,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.07.08.2005",
+      "name": "HAKA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.07",
+      "cityName": "KAB. WAKATOBI",
+      "districtCode": "74.07.08",
+      "districtName": "TOGO BINONGKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93796,
+      "coordinate": {
+        "longitude": 124.043145,
+        "latitude": -6.0103876,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

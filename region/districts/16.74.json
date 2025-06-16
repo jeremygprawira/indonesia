@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "16.74.01",
+      "name": "PRABUMULIH BARAT",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH"
+    },
+    {
+      "type": "district",
+      "code": "16.74.02",
+      "name": "PRABUMULIH TIMUR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH"
+    },
+    {
+      "type": "district",
+      "code": "16.74.03",
+      "name": "CAMBAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH"
+    },
+    {
+      "type": "district",
+      "code": "16.74.04",
+      "name": "RAMBANG KAPAK TENGAH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH"
+    },
+    {
+      "type": "district",
+      "code": "16.74.05",
+      "name": "PRABUMULIH UTARA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH"
+    },
+    {
+      "type": "district",
+      "code": "16.74.06",
+      "name": "PRABUMULIH SELATAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

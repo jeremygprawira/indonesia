@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.08.2001",
+      "name": "LANGGOAN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.08",
+      "districtName": "INIYANDIT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99661,
+      "coordinate": {
+        "longitude": 140.6007563,
+        "latitude": -5.7799244,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.08.2002",
+      "name": "TETOP",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.08",
+      "districtName": "INIYANDIT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99661,
+      "coordinate": {
+        "longitude": 140.6215431,
+        "latitude": -5.6627573,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.08.2003",
+      "name": "WARIKTOP",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.08",
+      "districtName": "INIYANDIT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99661,
+      "coordinate": {
+        "longitude": 140.6161874,
+        "latitude": -5.726786,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.08.2004",
+      "name": "AUTRIOP",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.08",
+      "districtName": "INIYANDIT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99661,
+      "coordinate": {
+        "longitude": 140.5404832,
+        "latitude": -5.901028,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.08.2005",
+      "name": "OGENATAN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.08",
+      "districtName": "INIYANDIT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99661,
+      "coordinate": {
+        "longitude": 140.5783644,
+        "latitude": -5.8350755,
+        "elevation": 55
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

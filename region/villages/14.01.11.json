@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.01.11.2001",
+      "name": "KOTO GARO",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.324072,
+        "latitude": 0.6431769,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2002",
+      "name": "SEKIJANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 100.9988077,
+        "latitude": 0.7936219,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2003",
+      "name": "BERINGIN LESTARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.1722521,
+        "latitude": 0.8553853,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2004",
+      "name": "KOTA BANGUN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2005",
+      "name": "CINTA DAMAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30750,
+      "coordinate": {
+        "longitude": 103.9811678,
+        "latitude": -2.4899101,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2006",
+      "name": "SUKA MAJU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2007",
+      "name": "KOTA BARU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2008",
+      "name": "TEBING LESTARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 100.9972729,
+        "latitude": 0.8159918,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2009",
+      "name": "TANAH TINGGI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98443,
+      "coordinate": {
+        "longitude": 131.4357968,
+        "latitude": -1.2003898,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2010",
+      "name": "KOTO AMAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.1822922,
+        "latitude": 0.7908073,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2011",
+      "name": "TAPUNG LESTARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.1719831,
+        "latitude": 0.8156157,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2012",
+      "name": "TAPUNG MAKMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.1573706,
+        "latitude": 0.8384502,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2013",
+      "name": "TANDAN SARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.1637868,
+        "latitude": 0.8720219,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2014",
+      "name": "GERBANG SARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.1170141,
+        "latitude": 0.8824272,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2015",
+      "name": "KIJANG JAYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.0819195,
+        "latitude": 0.8385568,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.11.2016",
+      "name": "KIJANG MAKMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.11",
+      "districtName": "TAPUNG HILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28465,
+      "coordinate": {
+        "longitude": 101.0577614,
+        "latitude": 0.8310937,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

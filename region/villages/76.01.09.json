@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.09.2001",
+      "name": "MALEI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.09",
+      "districtName": "PEDONGGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91570,
+      "coordinate": {
+        "longitude": 119.3368209,
+        "latitude": -1.2796357,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.09.2002",
+      "name": "PEDANDA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.09",
+      "districtName": "PEDONGGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91570,
+      "coordinate": {
+        "longitude": 119.3635002,
+        "latitude": -1.2562908,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.09.2003",
+      "name": "BATU OGE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.09",
+      "districtName": "PEDONGGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91570,
+      "coordinate": {
+        "longitude": 119.3125006,
+        "latitude": -1.2703226,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.09.2004",
+      "name": "MARTASARI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.09",
+      "districtName": "PEDONGGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91570,
+      "coordinate": {
+        "longitude": 119.3971716,
+        "latitude": -1.2660026,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

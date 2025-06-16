@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.71.06.1001",
+      "name": "PRAPATAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.06",
+      "districtName": "BALIKPAPAN KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76111,
+      "coordinate": {
+        "longitude": 116.8138618,
+        "latitude": -1.2667685,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.06.1002",
+      "name": "TELAGA SARI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.06",
+      "districtName": "BALIKPAPAN KOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99646,
+      "coordinate": {
+        "longitude": 140.4099893,
+        "latitude": -8.2601894,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.06.1003",
+      "name": "KLANDASAN ULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.06",
+      "districtName": "BALIKPAPAN KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76112,
+      "coordinate": {
+        "longitude": 116.8289025,
+        "latitude": -1.277192,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.06.1004",
+      "name": "KLANDASAN ILIR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.06",
+      "districtName": "BALIKPAPAN KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76113,
+      "coordinate": {
+        "longitude": 116.8438683,
+        "latitude": -1.2731845,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.06.1005",
+      "name": "DAMAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.06",
+      "districtName": "BALIKPAPAN KOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99951,
+      "coordinate": {
+        "longitude": 136.889099,
+        "latitude": -4.4816991,
+        "elevation": 49
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

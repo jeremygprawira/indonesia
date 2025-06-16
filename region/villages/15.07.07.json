@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.07.07.1001",
+      "name": "KAMPUNG SINGKEP",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.07",
+      "districtName": "MUARA SABAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36761,
+      "coordinate": {
+        "longitude": 103.8211878,
+        "latitude": -1.1426782,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.07.1002",
+      "name": "NIBUNG PUTIH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.07",
+      "districtName": "MUARA SABAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36761,
+      "coordinate": {
+        "longitude": 103.8220802,
+        "latitude": -1.1684991,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.07.1003",
+      "name": "RANO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.07",
+      "districtName": "MUARA SABAK BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91875,
+      "coordinate": {
+        "longitude": 119.7350144,
+        "latitude": -3.244983,
+        "elevation": 337
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.07.1004",
+      "name": "TALANG BABAT",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.07",
+      "districtName": "MUARA SABAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36761,
+      "coordinate": {
+        "longitude": 103.7993712,
+        "latitude": -1.2264035,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.07.1005",
+      "name": "PARIT CULUM I",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.07",
+      "districtName": "MUARA SABAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36761,
+      "coordinate": {
+        "longitude": 103.8020638,
+        "latitude": -1.2428527,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.07.1006",
+      "name": "PARIT CULUM II",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.07",
+      "districtName": "MUARA SABAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36761,
+      "coordinate": {
+        "longitude": 103.7773483,
+        "latitude": -1.2484565,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.07.1007",
+      "name": "TELUK DAWAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.07",
+      "districtName": "MUARA SABAK BARAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

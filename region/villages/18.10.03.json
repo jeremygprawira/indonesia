@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.10.03.2001",
+      "name": "AMBARAWA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78385,
+      "coordinate": {
+        "longitude": 109.2722762,
+        "latitude": -0.8446847,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.10.03.2002",
+      "name": "AMBARAWA BARAT",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35376,
+      "coordinate": {
+        "longitude": 104.9496404,
+        "latitude": -5.414056,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.10.03.2003",
+      "name": "KRESNO MULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35376,
+      "coordinate": {
+        "longitude": 104.9240093,
+        "latitude": -5.426052,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.10.03.2004",
+      "name": "SUMBER AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 127.8898438,
+        "latitude": 1.3047166,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.10.03.2005",
+      "name": "TANJUNG ANOM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15531,
+      "coordinate": {
+        "longitude": 106.5408078,
+        "latitude": -6.0199031,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.10.03.2006",
+      "name": "JATI AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35376,
+      "coordinate": {
+        "longitude": 104.9471353,
+        "latitude": -5.3903636,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.10.03.2007",
+      "name": "MARGODADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55561,
+      "coordinate": {
+        "longitude": 110.2943233,
+        "latitude": -7.7372855,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.10.03.2008",
+      "name": "AMBARAWA TIMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.10",
+      "cityName": "KAB. PRINGSEWU",
+      "districtCode": "18.10.03",
+      "districtName": "AMBARAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35376,
+      "coordinate": {
+        "longitude": 104.9753686,
+        "latitude": -5.4110672,
+        "elevation": 110
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.72.04.2001",
+      "name": "TUBYAL",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.04",
+      "districtName": "PULAU-PULAU KUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97615,
+      "coordinate": {
+        "longitude": 132.0100003,
+        "latitude": -5.3317481,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.04.2002",
+      "name": "KAIMEAR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.04",
+      "districtName": "PULAU-PULAU KUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97615,
+      "coordinate": {
+        "longitude": 132.0187724,
+        "latitude": -5.1716337,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.04.2004",
+      "name": "LOKWIRIN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.04",
+      "districtName": "PULAU-PULAU KUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97615,
+      "coordinate": {
+        "longitude": 132.0103404,
+        "latitude": -5.3090624,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.04.2005",
+      "name": "FINUALEN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.04",
+      "districtName": "PULAU-PULAU KUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97615,
+      "coordinate": {
+        "longitude": 132.0090668,
+        "latitude": -5.3191363,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.04.2012",
+      "name": "SERMAF",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.04",
+      "districtName": "PULAU-PULAU KUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97615,
+      "coordinate": {
+        "longitude": 131.9845798,
+        "latitude": -5.319779,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

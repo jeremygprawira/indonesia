@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.04.2001",
+      "name": "PILINI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.04",
+      "districtName": "WOSAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99929,
+      "coordinate": {
+        "longitude": 138.776182,
+        "latitude": -4.3249125,
+        "elevation": 2726
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.04.2002",
+      "name": "NDUGWA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.04",
+      "districtName": "WOSAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99929,
+      "coordinate": {
+        "longitude": 138.6077614,
+        "latitude": -4.352244,
+        "elevation": 3287
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.04.2003",
+      "name": "BIALA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.04",
+      "districtName": "WOSAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99929,
+      "coordinate": {
+        "longitude": 138.7717089,
+        "latitude": -4.381704,
+        "elevation": 1799
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.04.2004",
+      "name": "BAMBISIK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.04",
+      "districtName": "WOSAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99929,
+      "coordinate": {
+        "longitude": 138.6657939,
+        "latitude": -4.352244,
+        "elevation": 3182
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.04.2005",
+      "name": "SITPOGOL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.04",
+      "districtName": "WOSAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99929,
+      "coordinate": {
+        "longitude": 138.7623458,
+        "latitude": -4.3287764,
+        "elevation": 2668
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

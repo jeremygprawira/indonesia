@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.02.20.2001",
+      "name": "TAIPA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.20",
+      "districtName": "PAMONA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93350,
+      "coordinate": {
+        "longitude": 122.3891293,
+        "latitude": -3.7363423,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.20.2002",
+      "name": "MEKO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.20",
+      "districtName": "PAMONA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94662,
+      "coordinate": {
+        "longitude": 120.4862102,
+        "latitude": -1.9078113,
+        "elevation": 812
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.20.2003",
+      "name": "TOINASA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.20",
+      "districtName": "PAMONA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94662,
+      "coordinate": {
+        "longitude": 120.4901728,
+        "latitude": -1.8141237,
+        "elevation": 756
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.20.2004",
+      "name": "SALUKAIA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.20",
+      "districtName": "PAMONA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94662,
+      "coordinate": {
+        "longitude": 120.4826568,
+        "latitude": -1.8815103,
+        "elevation": 553
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.20.2005",
+      "name": "URANOSARI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.20",
+      "districtName": "PAMONA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94662,
+      "coordinate": {
+        "longitude": 120.4958397,
+        "latitude": -1.85091,
+        "elevation": 525
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.20.2006",
+      "name": "OWINI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.20",
+      "districtName": "PAMONA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94662,
+      "coordinate": {
+        "longitude": 120.5088838,
+        "latitude": -1.9572137,
+        "elevation": 1222
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

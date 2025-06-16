@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.07.07.2001",
+      "name": "TERAWAN",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.07",
+      "districtName": "SERUYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74260,
+      "coordinate": {
+        "longitude": 112.3583801,
+        "latitude": -2.5193426,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.07.2002",
+      "name": "SELUNUK",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.07",
+      "districtName": "SERUYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74260,
+      "coordinate": {
+        "longitude": 112.4364125,
+        "latitude": -2.4387453,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.07.2003",
+      "name": "LANPASA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.07",
+      "districtName": "SERUYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74260,
+      "coordinate": {
+        "longitude": 112.3910759,
+        "latitude": -2.6255312,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.07.2005",
+      "name": "BANGKAL",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.07",
+      "districtName": "SERUYAN RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70732,
+      "coordinate": {
+        "longitude": 114.8012824,
+        "latitude": -3.5238466,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.07.2006",
+      "name": "TABIKU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.07",
+      "districtName": "SERUYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74260,
+      "coordinate": {
+        "longitude": 112.4808246,
+        "latitude": -2.6415399,
+        "elevation": 32
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

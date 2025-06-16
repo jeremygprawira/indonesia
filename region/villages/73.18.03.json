@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.18.03.1007",
+      "name": "RATTE BUTTU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.03",
+      "districtName": "BONGGAKARADENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91872,
+      "coordinate": {
+        "longitude": 119.7205174,
+        "latitude": -3.1914419,
+        "elevation": 383
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.03.2001",
+      "name": "BAU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.03",
+      "districtName": "BONGGAKARADENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91872,
+      "coordinate": {
+        "longitude": 119.6741829,
+        "latitude": -3.271607,
+        "elevation": 512
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.03.2002",
+      "name": "BUAKAYU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.03",
+      "districtName": "BONGGAKARADENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91872,
+      "coordinate": {
+        "longitude": 119.7351473,
+        "latitude": -3.1810471,
+        "elevation": 582
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.03.2004",
+      "name": "MAPPA-",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.03",
+      "districtName": "BONGGAKARADENG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.03.2006",
+      "name": "POTON",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.03",
+      "districtName": "BONGGAKARADENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91872,
+      "coordinate": {
+        "longitude": 119.6761374,
+        "latitude": -3.1628455,
+        "elevation": 1035
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.03.2008",
+      "name": "BAU SELATAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.03",
+      "districtName": "BONGGAKARADENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91872,
+      "coordinate": {
+        "longitude": 119.6830497,
+        "latitude": -3.3341382,
+        "elevation": 262
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

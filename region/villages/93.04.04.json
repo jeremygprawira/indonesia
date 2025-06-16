@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.04.04.2001",
+      "name": "AYAM",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.04",
+      "districtName": "AKAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99779,
+      "coordinate": {
+        "longitude": 138.3114313,
+        "latitude": -5.3527849,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.04.2006",
+      "name": "WAW",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.04",
+      "districtName": "AKAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99779,
+      "coordinate": {
+        "longitude": 138.2802227,
+        "latitude": -5.3479122,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.04.2007",
+      "name": "BAYIW PINAM",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.04",
+      "districtName": "AKAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99779,
+      "coordinate": {
+        "longitude": 138.3192884,
+        "latitude": -5.3511566,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.04.2008",
+      "name": "CUMNEW",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.04",
+      "districtName": "AKAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99779,
+      "coordinate": {
+        "longitude": 138.3263751,
+        "latitude": -5.3489665,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.04.2009",
+      "name": "JEWES",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.04",
+      "districtName": "AKAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99779,
+      "coordinate": {
+        "longitude": 138.3801016,
+        "latitude": -5.3384459,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.73.03.2001",
+      "name": "SILUNGKANG DUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO",
+      "districtCode": "13.73.03",
+      "districtName": "SILUNGKANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27432,
+      "coordinate": {
+        "longitude": 100.7552018,
+        "latitude": -0.7252509,
+        "elevation": 408
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.73.03.2002",
+      "name": "SILUNGKANG OSO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO",
+      "districtCode": "13.73.03",
+      "districtName": "SILUNGKANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27433,
+      "coordinate": {
+        "longitude": 100.773836,
+        "latitude": -0.7319101,
+        "elevation": 688
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.73.03.2003",
+      "name": "SILUNGKANG TIGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO",
+      "districtCode": "13.73.03",
+      "districtName": "SILUNGKANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27431,
+      "coordinate": {
+        "longitude": 100.7691474,
+        "latitude": -0.7172156,
+        "elevation": 379
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.73.03.2004",
+      "name": "MUARO KALABAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO",
+      "districtCode": "13.73.03",
+      "districtName": "SILUNGKANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27435,
+      "coordinate": {
+        "longitude": 100.7876384,
+        "latitude": -0.7070055,
+        "elevation": 237
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.73.03.2005",
+      "name": "TARATAK BONCAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO",
+      "districtCode": "13.73.03",
+      "districtName": "SILUNGKANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27434,
+      "coordinate": {
+        "longitude": 100.7917552,
+        "latitude": -0.7381317,
+        "elevation": 537
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

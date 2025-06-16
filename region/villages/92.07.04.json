@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.07.04.2002",
+      "name": "WONDIBOY",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.04",
+      "districtName": "WONDIBOY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98347,
+      "coordinate": {
+        "longitude": 134.5576837,
+        "latitude": -2.8091271,
+        "elevation": 639
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.04.2009",
+      "name": "KABOUW",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.04",
+      "districtName": "WONDIBOY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98347,
+      "coordinate": {
+        "longitude": 134.5750685,
+        "latitude": -2.7922892,
+        "elevation": 1481
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.04.2010",
+      "name": "ISSUI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.04",
+      "districtName": "WONDIBOY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98347,
+      "coordinate": {
+        "longitude": 134.5215523,
+        "latitude": -2.8108498,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.04.2015",
+      "name": "KAIBI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.04",
+      "districtName": "WONDIBOY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98347,
+      "coordinate": {
+        "longitude": 134.5706211,
+        "latitude": -2.7884852,
+        "elevation": 1224
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

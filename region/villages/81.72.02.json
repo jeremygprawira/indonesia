@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.72.02.1003",
+      "name": "KETSOBLAK",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.02",
+      "districtName": "PULAU DULLAH SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97611,
+      "coordinate": {
+        "longitude": 132.7458599,
+        "latitude": -5.6411953,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.02.1004",
+      "name": "MASRUM",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.02",
+      "districtName": "PULAU DULLAH SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97611,
+      "coordinate": {
+        "longitude": 132.7460469,
+        "latitude": -5.6299889,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.02.1005",
+      "name": "LODAR EL",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.02",
+      "districtName": "PULAU DULLAH SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97611,
+      "coordinate": {
+        "longitude": 132.7498128,
+        "latitude": -5.6322715,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.02.2001",
+      "name": "TUAL",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.02",
+      "districtName": "PULAU DULLAH SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99443,
+      "coordinate": {
+        "longitude": 140.8479843,
+        "latitude": -4.2676028,
+        "elevation": 424
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.02.2002",
+      "name": "TAAR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.02",
+      "districtName": "PULAU DULLAH SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97611,
+      "coordinate": {
+        "longitude": 132.7681994,
+        "latitude": -5.6559045,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

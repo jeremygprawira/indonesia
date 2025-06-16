@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.13.2001",
+      "name": "PANINGGAHAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.13",
+      "districtName": "JUNJUNG SIRIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27389,
+      "coordinate": {
+        "longitude": 100.4944778,
+        "latitude": -0.6913841,
+        "elevation": 1213
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.13.2002",
+      "name": "MUARO PINGAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.13",
+      "districtName": "JUNJUNG SIRIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27389,
+      "coordinate": {
+        "longitude": 100.531019,
+        "latitude": -0.708323,
+        "elevation": 782
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

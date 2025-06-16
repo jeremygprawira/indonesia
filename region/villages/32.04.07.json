@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.07.2001",
+      "name": "JATIENDAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.07",
+      "districtName": "CILENGKRANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40616,
+      "coordinate": {
+        "longitude": 107.6980901,
+        "latitude": -6.90025,
+        "elevation": 767
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.07.2002",
+      "name": "CILENGKRANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.07",
+      "districtName": "CILENGKRANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45373,
+      "coordinate": {
+        "longitude": 108.1100685,
+        "latitude": -7.0095868,
+        "elevation": 808
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.07.2003",
+      "name": "CIPANJALU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.07",
+      "districtName": "CILENGKRANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40618,
+      "coordinate": {
+        "longitude": 107.7202277,
+        "latitude": -6.8635277,
+        "elevation": 1222
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.07.2004",
+      "name": "MELATIWANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.07",
+      "districtName": "CILENGKRANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40618,
+      "coordinate": {
+        "longitude": 107.706352,
+        "latitude": -6.8815425,
+        "elevation": 1018
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.07.2005",
+      "name": "CIPOREAT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.07",
+      "districtName": "CILENGKRANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40617,
+      "coordinate": {
+        "longitude": 107.7223192,
+        "latitude": -6.8851764,
+        "elevation": 996
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.07.2006",
+      "name": "GIRIMEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.07",
+      "districtName": "CILENGKRANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40619,
+      "coordinate": {
+        "longitude": 107.7045488,
+        "latitude": -6.8714602,
+        "elevation": 1083
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

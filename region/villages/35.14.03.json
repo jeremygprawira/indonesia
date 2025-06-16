@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.14.03.2001",
+      "name": "KEMIRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.14",
+      "cityName": "KAB. PASURUAN",
+      "districtCode": "35.14.03",
+      "districtName": "PUSPO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99565,
+      "coordinate": {
+        "longitude": 138.648302,
+        "latitude": -3.9863651,
+        "elevation": 2771
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.14.03.2002",
+      "name": "JANJANGWULUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.14",
+      "cityName": "KAB. PASURUAN",
+      "districtCode": "35.14.03",
+      "districtName": "PUSPO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67176,
+      "coordinate": {
+        "longitude": 112.8352031,
+        "latitude": -7.8471493,
+        "elevation": 834
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.14.03.2003",
+      "name": "PALANGSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.14",
+      "cityName": "KAB. PASURUAN",
+      "districtCode": "35.14.03",
+      "districtName": "PUSPO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67176,
+      "coordinate": {
+        "longitude": 112.8474474,
+        "latitude": -7.8680313,
+        "elevation": 939
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.14.03.2004",
+      "name": "PUSPO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.14",
+      "cityName": "KAB. PASURUAN",
+      "districtCode": "35.14.03",
+      "districtName": "PUSPO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67176,
+      "coordinate": {
+        "longitude": 112.8690505,
+        "latitude": -7.8323859,
+        "elevation": 664
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.14.03.2005",
+      "name": "JIMBARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.14",
+      "cityName": "KAB. PASURUAN",
+      "districtCode": "35.14.03",
+      "districtName": "PUSPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80362,
+      "coordinate": {
+        "longitude": 115.1576901,
+        "latitude": -8.7889403,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.14.03.2006",
+      "name": "PUSUNG MALANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.14",
+      "cityName": "KAB. PASURUAN",
+      "districtCode": "35.14.03",
+      "districtName": "PUSPO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67176,
+      "coordinate": {
+        "longitude": 112.9315681,
+        "latitude": -7.8448345,
+        "elevation": 1249
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.14.03.2007",
+      "name": "KEDUWUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.14",
+      "cityName": "KAB. PASURUAN",
+      "districtCode": "35.14.03",
+      "districtName": "PUSPO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67176,
+      "coordinate": {
+        "longitude": 112.9261716,
+        "latitude": -7.8588388,
+        "elevation": 1420
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

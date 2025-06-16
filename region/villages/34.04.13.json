@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.13.2001",
+      "name": "CATURHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.13",
+      "districtName": "SLEMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55515,
+      "coordinate": {
+        "longitude": 110.3220353,
+        "latitude": -7.6890757,
+        "elevation": 241
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.13.2002",
+      "name": "TRIHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.13",
+      "districtName": "SLEMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55514,
+      "coordinate": {
+        "longitude": 110.3418533,
+        "latitude": -7.6971054,
+        "elevation": 243
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.13.2003",
+      "name": "TRIDADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.13",
+      "districtName": "SLEMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55511,
+      "coordinate": {
+        "longitude": 110.3543679,
+        "latitude": -7.71188,
+        "elevation": 217
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.13.2004",
+      "name": "PANDOWOHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.13",
+      "districtName": "SLEMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55512,
+      "coordinate": {
+        "longitude": 110.3684402,
+        "latitude": -7.6994866,
+        "elevation": 255
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.13.2005",
+      "name": "TRIMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.13",
+      "districtName": "SLEMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55513,
+      "coordinate": {
+        "longitude": 110.3571563,
+        "latitude": -7.6790932,
+        "elevation": 302
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

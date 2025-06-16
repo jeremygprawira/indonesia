@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.79.04.2001",
+      "name": "LANGENSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.04",
+      "districtName": "LANGENSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42278,
+      "coordinate": {
+        "longitude": 105.9342596,
+        "latitude": -6.4407472,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.04.2002",
+      "name": "REJASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.04",
+      "districtName": "LANGENSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53452,
+      "coordinate": {
+        "longitude": 109.6789547,
+        "latitude": -7.3538695,
+        "elevation": 336
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.04.2003",
+      "name": "WARINGINSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.04",
+      "districtName": "LANGENSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46342,
+      "coordinate": {
+        "longitude": 108.6515339,
+        "latitude": -7.3599073,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.04.1004",
+      "name": "MUKTISARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.04",
+      "districtName": "LANGENSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92966,
+      "coordinate": {
+        "longitude": 120.5094484,
+        "latitude": -2.6262331,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.04.1005",
+      "name": "BOJONGKANTONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.04",
+      "districtName": "LANGENSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46325,
+      "coordinate": {
+        "longitude": 108.6155398,
+        "latitude": -7.3771662,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.04.2006",
+      "name": "KUJANGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.04",
+      "districtName": "LANGENSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42394,
+      "coordinate": {
+        "longitude": 106.3939978,
+        "latitude": -6.7875864,
+        "elevation": 1067
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.71.01.1002",
+      "name": "PEMPING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.01",
+      "districtName": "BELAKANG PADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29412,
+      "coordinate": {
+        "longitude": 103.8003157,
+        "latitude": 1.0965734,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.01.1003",
+      "name": "KASU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.01",
+      "districtName": "BELAKANG PADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29413,
+      "coordinate": {
+        "longitude": 103.7802311,
+        "latitude": 1.0142661,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.01.1004",
+      "name": "PULAU TERUNG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.01",
+      "districtName": "BELAKANG PADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29416,
+      "coordinate": {
+        "longitude": 103.7731678,
+        "latitude": 0.9410367,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.01.1005",
+      "name": "PECONG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.01",
+      "districtName": "BELAKANG PADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29414,
+      "coordinate": {
+        "longitude": 103.8259499,
+        "latitude": 0.9999183,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.01.1006",
+      "name": "TANJUNG SARI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.01",
+      "districtName": "BELAKANG PADANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75772,
+      "coordinate": {
+        "longitude": 116.235402,
+        "latitude": -0.7190938,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.01.1007",
+      "name": "SEKANAK RAYA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.01",
+      "districtName": "BELAKANG PADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29416,
+      "coordinate": {
+        "longitude": 103.8862276,
+        "latitude": 1.1497627,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

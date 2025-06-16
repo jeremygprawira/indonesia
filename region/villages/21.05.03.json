@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.05.03.2001",
+      "name": "NYAMUK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.03",
+      "districtName": "SIANTAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59455,
+      "coordinate": {
+        "longitude": 110.1909695,
+        "latitude": -5.8156074,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.03.2002",
+      "name": "BATU BELAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.03",
+      "districtName": "SIANTAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29794,
+      "coordinate": {
+        "longitude": 106.4214585,
+        "latitude": 3.1378094,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.03.2003",
+      "name": "MUNJAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.03",
+      "districtName": "SIANTAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29794,
+      "coordinate": {
+        "longitude": 106.3457078,
+        "latitude": 3.0989314,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.03.2004",
+      "name": "SERAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.03",
+      "districtName": "SIANTAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29794,
+      "coordinate": {
+        "longitude": 106.3102615,
+        "latitude": 3.0997677,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.03.2005",
+      "name": "AIR PUTIH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.03",
+      "districtName": "SIANTAN TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75124,
+      "coordinate": {
+        "longitude": 117.1220551,
+        "latitude": -0.4789732,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.03.2006",
+      "name": "TEMBURUN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.03",
+      "districtName": "SIANTAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29794,
+      "coordinate": {
+        "longitude": 106.280215,
+        "latitude": 3.1769192,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

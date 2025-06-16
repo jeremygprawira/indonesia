@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.04.2001",
+      "name": "LIMO KOTO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.04",
+      "districtName": "BONJOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26381,
+      "coordinate": {
+        "longitude": 100.2205283,
+        "latitude": -0.0732366,
+        "elevation": 335
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.04.2002",
+      "name": "KOTO KACIAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.04",
+      "districtName": "BONJOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26381,
+      "coordinate": {
+        "longitude": 100.2190441,
+        "latitude": -0.0461948,
+        "elevation": 300
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.04.2003",
+      "name": "GANGGO MUDIAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.04",
+      "districtName": "BONJOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26381,
+      "coordinate": {
+        "longitude": 100.2279782,
+        "latitude": 0.0136677,
+        "elevation": 313
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.04.2004",
+      "name": "GANGGO HILIA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.04",
+      "districtName": "BONJOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26381,
+      "coordinate": {
+        "longitude": 100.218127,
+        "latitude": -0.007866,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.04.2007",
+      "name": "KOTO KACIAK BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.04",
+      "districtName": "BONJOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26381,
+      "coordinate": {
+        "longitude": 100.2104421,
+        "latitude": -0.0460725,
+        "elevation": 233
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

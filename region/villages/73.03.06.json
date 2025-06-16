@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.03.06.2001",
+      "name": "BONTO MARANNU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.06",
+      "districtName": "ULUERE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90564,
+      "coordinate": {
+        "longitude": 119.5601361,
+        "latitude": -5.1213443,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.06.2002",
+      "name": "BONTO TANGNGA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.06",
+      "districtName": "ULUERE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92350,
+      "coordinate": {
+        "longitude": 119.6776968,
+        "latitude": -5.6364413,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.06.2006",
+      "name": "BONTO TALLASA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.06",
+      "districtName": "ULUERE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90560,
+      "coordinate": {
+        "longitude": 119.5988751,
+        "latitude": -5.0357115,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.06.2007",
+      "name": "BONTO RANNU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.06",
+      "districtName": "ULUERE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92452,
+      "coordinate": {
+        "longitude": 119.8818004,
+        "latitude": -5.5149883,
+        "elevation": 337
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.06.2010",
+      "name": "BONTO DAENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.06",
+      "districtName": "ULUERE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92452,
+      "coordinate": {
+        "longitude": 119.9009395,
+        "latitude": -5.4678781,
+        "elevation": 838
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.06.2011",
+      "name": "BONTO LOJONG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.06",
+      "districtName": "ULUERE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92452,
+      "coordinate": {
+        "longitude": 119.9457426,
+        "latitude": -5.4109832,
+        "elevation": 1777
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

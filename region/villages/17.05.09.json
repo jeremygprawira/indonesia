@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.05.09.1004",
+      "name": "SELEBAR",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38885,
+      "coordinate": {
+        "longitude": 102.5811444,
+        "latitude": -4.0952145,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.05.09.1005",
+      "name": "SEMBAYAT",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5756242,
+        "latitude": -7.0688771,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.05.09.1006",
+      "name": "BUNGA MAS",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38885,
+      "coordinate": {
+        "longitude": 102.5866692,
+        "latitude": -4.0674557,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.05.09.2001",
+      "name": "TALANG SALI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38885,
+      "coordinate": {
+        "longitude": 102.6650992,
+        "latitude": -4.0931991,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.05.09.2002",
+      "name": "KUNDURAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58255,
+      "coordinate": {
+        "longitude": 111.2348235,
+        "latitude": -7.057113,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.05.09.2003",
+      "name": "KOTA AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.05.09.2007",
+      "name": "TENANGAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38885,
+      "coordinate": {
+        "longitude": 102.597707,
+        "latitude": -4.127047,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.05.09.2008",
+      "name": "RAWA SARI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.05",
+      "cityName": "KAB. SELUMA",
+      "districtCode": "17.05.09",
+      "districtName": "SELUMA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2349502,
+        "latitude": -8.3079194,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.71.04.1001",
+      "name": "GUNUNGSARI ULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.04",
+      "districtName": "BALIKPAPAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76122,
+      "coordinate": {
+        "longitude": 116.848865,
+        "latitude": -1.2575208,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.04.1002",
+      "name": "GUNUNGSARI ILIR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.04",
+      "districtName": "BALIKPAPAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76121,
+      "coordinate": {
+        "longitude": 116.8381928,
+        "latitude": -1.2678294,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.04.1003",
+      "name": "KARANG REJO",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.04",
+      "districtName": "BALIKPAPAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77112,
+      "coordinate": {
+        "longitude": 117.5797443,
+        "latitude": 3.3033031,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.04.1004",
+      "name": "KARANG JATI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.04",
+      "districtName": "BALIKPAPAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76123,
+      "coordinate": {
+        "longitude": 116.8203383,
+        "latitude": -1.2475731,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.04.1005",
+      "name": "MEKAR SARI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.04",
+      "districtName": "BALIKPAPAN TENGAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97865,
+      "coordinate": {
+        "longitude": 128.2817326,
+        "latitude": 1.159059,
+        "elevation": 517
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.04.1006",
+      "name": "SUMBER REJO",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.04",
+      "districtName": "BALIKPAPAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95780,
+      "coordinate": {
+        "longitude": 124.4136465,
+        "latitude": 0.7112402,
+        "elevation": 727
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

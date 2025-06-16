@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.05.11.1001",
+      "name": "SEI KIJANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.11",
+      "districtName": "BANDAR SEI KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28383,
+      "coordinate": {
+        "longitude": 101.6490567,
+        "latitude": 0.4082624,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.11.2002",
+      "name": "LUBUK OGUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.11",
+      "districtName": "BANDAR SEI KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28383,
+      "coordinate": {
+        "longitude": 101.7280985,
+        "latitude": 0.4017208,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.11.2003",
+      "name": "SIMPANG BERINGIN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.11",
+      "districtName": "BANDAR SEI KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28383,
+      "coordinate": {
+        "longitude": 101.5985635,
+        "latitude": 0.4949641,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.11.2004",
+      "name": "MUDA SETIA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.11",
+      "districtName": "BANDAR SEI KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28383,
+      "coordinate": {
+        "longitude": 101.6085558,
+        "latitude": 0.4158758,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.11.2005",
+      "name": "KIAB JAYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.11",
+      "districtName": "BANDAR SEI KIJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28383,
+      "coordinate": {
+        "longitude": 101.7374379,
+        "latitude": 0.4405347,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.21.2001",
+      "name": "RHEE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.21",
+      "districtName": "RHEE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84352,
+      "coordinate": {
+        "longitude": 117.2495533,
+        "latitude": -8.4302188,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.21.2002",
+      "name": "SAMPE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.21",
+      "districtName": "RHEE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84352,
+      "coordinate": {
+        "longitude": 117.2317016,
+        "latitude": -8.5298676,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.21.2003",
+      "name": "LUK",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.21",
+      "districtName": "RHEE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94888,
+      "coordinate": {
+        "longitude": 123.1772615,
+        "latitude": -1.4884185,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.21.2004",
+      "name": "RHEE LOKA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.21",
+      "districtName": "RHEE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84352,
+      "coordinate": {
+        "longitude": 117.2194843,
+        "latitude": -8.4374317,
+        "elevation": 313
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

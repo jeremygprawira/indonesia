@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.04.1001",
+      "name": "SURYATMAJAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.04",
+      "districtName": "DANUREJAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55213,
+      "coordinate": {
+        "longitude": 110.3677515,
+        "latitude": -7.7934533,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.04.1002",
+      "name": "TEGALPANGGUNG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.04",
+      "districtName": "DANUREJAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55212,
+      "coordinate": {
+        "longitude": 110.371259,
+        "latitude": -7.7930916,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.04.1003",
+      "name": "BAUSASRAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.04",
+      "districtName": "DANUREJAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55211,
+      "coordinate": {
+        "longitude": 110.375545,
+        "latitude": -7.7922349,
+        "elevation": 115
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

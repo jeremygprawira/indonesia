@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "31.01.01",
+      "name": "KEPULAUAN SERIBU UTARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU"
+    },
+    {
+      "type": "district",
+      "code": "31.01.02",
+      "name": "KEPULAUAN SERIBU SELATAN.",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU"
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

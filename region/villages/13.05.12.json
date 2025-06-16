@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.12.2001",
+      "name": "KOTO BARU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.12",
+      "districtName": "PADANG SAGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37152,
+      "coordinate": {
+        "longitude": 101.3966914,
+        "latitude": -2.0353944,
+        "elevation": 797
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.12.2002",
+      "name": "KOTO DALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.12",
+      "districtName": "PADANG SAGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25573,
+      "coordinate": {
+        "longitude": 100.2069315,
+        "latitude": -0.5296532,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.12.2003",
+      "name": "BATU KALANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.12",
+      "districtName": "PADANG SAGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25573,
+      "coordinate": {
+        "longitude": 100.2354461,
+        "latitude": -0.5296082,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.12.2004",
+      "name": "KOTO DALAM BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.12",
+      "districtName": "PADANG SAGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25573,
+      "coordinate": {
+        "longitude": 100.1836706,
+        "latitude": -0.5332802,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.12.2005",
+      "name": "KOTO DALAM SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.12",
+      "districtName": "PADANG SAGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25573,
+      "coordinate": {
+        "longitude": 100.1986553,
+        "latitude": -0.5411788,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.12.2006",
+      "name": "BATU KALANG UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.12",
+      "districtName": "PADANG SAGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25573,
+      "coordinate": {
+        "longitude": 100.2326914,
+        "latitude": -0.5211424,
+        "elevation": 115
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

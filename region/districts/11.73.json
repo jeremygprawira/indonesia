@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "11.73.01",
+      "name": "MUARA DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE"
+    },
+    {
+      "type": "district",
+      "code": "11.73.02",
+      "name": "BANDA SAKTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE"
+    },
+    {
+      "type": "district",
+      "code": "11.73.03",
+      "name": "BLANG MANGAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE"
+    },
+    {
+      "type": "district",
+      "code": "11.73.04",
+      "name": "MUARA SATU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

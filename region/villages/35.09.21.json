@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.21.1001",
+      "name": "KEBONSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.21",
+      "districtName": "SUMBERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42442,
+      "coordinate": {
+        "longitude": 106.0194346,
+        "latitude": -6.0166593,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.21.1002",
+      "name": "SUMBERSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.21",
+      "districtName": "SUMBERSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94461,
+      "coordinate": {
+        "longitude": 120.2286547,
+        "latitude": -0.9319602,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.21.1003",
+      "name": "KRANJINGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.21",
+      "districtName": "SUMBERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68126,
+      "coordinate": {
+        "longitude": 113.7173517,
+        "latitude": -8.2015389,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.21.1004",
+      "name": "KARANGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.21",
+      "districtName": "SUMBERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5878894,
+        "latitude": -7.0705063,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.21.1005",
+      "name": "TEGALGEDE",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.21",
+      "districtName": "SUMBERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68124,
+      "coordinate": {
+        "longitude": 113.7253109,
+        "latitude": -8.1556483,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.21.1006",
+      "name": "WIROLEGI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.21",
+      "districtName": "SUMBERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68124,
+      "coordinate": {
+        "longitude": 113.7417981,
+        "latitude": -8.1911063,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.21.1007",
+      "name": "ANTIROGO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.21",
+      "districtName": "SUMBERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68125,
+      "coordinate": {
+        "longitude": 113.7439643,
+        "latitude": -8.1503196,
+        "elevation": 118
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

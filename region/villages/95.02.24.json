@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.02.24.2001",
+      "name": "KUBIPHKOP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.24",
+      "districtName": "OKSEBANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99427,
+      "coordinate": {
+        "longitude": 140.6318686,
+        "latitude": -4.7338086,
+        "elevation": 2146
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.24.2002",
+      "name": "OKANO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.24",
+      "districtName": "OKSEBANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99427,
+      "coordinate": {
+        "longitude": 140.6519194,
+        "latitude": -4.7434578,
+        "elevation": 2611
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.24.2003",
+      "name": "SEBUL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.24",
+      "districtName": "OKSEBANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99427,
+      "coordinate": {
+        "longitude": 140.7457271,
+        "latitude": -4.7588147,
+        "elevation": 2158
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.24.2004",
+      "name": "MANGABIP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.24",
+      "districtName": "OKSEBANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99427,
+      "coordinate": {
+        "longitude": 140.6864649,
+        "latitude": -4.7701334,
+        "elevation": 2237
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.08.2001",
+      "name": "PALBAPANG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.08",
+      "districtName": "BANTUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55713,
+      "coordinate": {
+        "longitude": 110.3228485,
+        "latitude": -7.9086336,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.08.2002",
+      "name": "RINGINHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.08",
+      "districtName": "BANTUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55712,
+      "coordinate": {
+        "longitude": 110.316468,
+        "latitude": -7.8887454,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.08.2003",
+      "name": "BANTUL",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.08",
+      "districtName": "BANTUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55711,
+      "coordinate": {
+        "longitude": 110.3292411,
+        "latitude": -7.8822044,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.08.2004",
+      "name": "TRIRENGGO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.08",
+      "districtName": "BANTUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55714,
+      "coordinate": {
+        "longitude": 110.3420595,
+        "latitude": -7.9004267,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.08.2005",
+      "name": "SABDODADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.08",
+      "districtName": "BANTUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55715,
+      "coordinate": {
+        "longitude": 110.3566848,
+        "latitude": -7.891597,
+        "elevation": 50
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

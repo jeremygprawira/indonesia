@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.72.01.1004",
+      "name": "LOMPOE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.01",
+      "districtName": "BACUKIKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91125,
+      "coordinate": {
+        "longitude": 119.6498822,
+        "latitude": -4.0192097,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.01.1005",
+      "name": "WATANG BACUKIKI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.01",
+      "districtName": "BACUKIKI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.01.1009",
+      "name": "LEMOE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.01",
+      "districtName": "BACUKIKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91121,
+      "coordinate": {
+        "longitude": 119.676669,
+        "latitude": -4.033963,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.01.1010",
+      "name": "GALUNG MALOANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.01",
+      "districtName": "BACUKIKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91121,
+      "coordinate": {
+        "longitude": 119.6692696,
+        "latitude": -4.0023985,
+        "elevation": 61
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

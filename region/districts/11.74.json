@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "11.74.01",
+      "name": "LANGSA TIMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.74",
+      "cityName": "KOTA LANGSA"
+    },
+    {
+      "type": "district",
+      "code": "11.74.02",
+      "name": "LANGSA BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.74",
+      "cityName": "KOTA LANGSA"
+    },
+    {
+      "type": "district",
+      "code": "11.74.03",
+      "name": "LANGSA KOTA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.74",
+      "cityName": "KOTA LANGSA"
+    },
+    {
+      "type": "district",
+      "code": "11.74.04",
+      "name": "LANGSA LAMA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.74",
+      "cityName": "KOTA LANGSA"
+    },
+    {
+      "type": "district",
+      "code": "11.74.05",
+      "name": "LANGSA BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.74",
+      "cityName": "KOTA LANGSA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

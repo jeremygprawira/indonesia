@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.04.2001",
+      "name": "ALAHAN PANJANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.04",
+      "districtName": "LEMBAH GUMANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27371,
+      "coordinate": {
+        "longitude": 100.7939768,
+        "latitude": -1.0782905,
+        "elevation": 1413
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.04.2002",
+      "name": "SUNGAI NANAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.04",
+      "districtName": "LEMBAH GUMANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27371,
+      "coordinate": {
+        "longitude": 100.7908736,
+        "latitude": -1.0294141,
+        "elevation": 1501
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.04.2003",
+      "name": "SALIMPAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.04",
+      "districtName": "LEMBAH GUMANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27371,
+      "coordinate": {
+        "longitude": 100.8155797,
+        "latitude": -1.0768705,
+        "elevation": 1331
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.04.2004",
+      "name": "AIE DINGIN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.04",
+      "districtName": "LEMBAH GUMANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27371,
+      "coordinate": {
+        "longitude": 100.8151321,
+        "latitude": -1.1474443,
+        "elevation": 1484
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

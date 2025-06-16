@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.71.07.1001",
+      "name": "FAUDU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.07",
+      "districtName": "PULAU HIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97745,
+      "coordinate": {
+        "longitude": 127.3159394,
+        "latitude": 0.9090253,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.07.1002",
+      "name": "TOMAJIKO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.07",
+      "districtName": "PULAU HIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97745,
+      "coordinate": {
+        "longitude": 127.3059235,
+        "latitude": 0.8993469,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.07.1003",
+      "name": "DORARI ISA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.07",
+      "districtName": "PULAU HIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97745,
+      "coordinate": {
+        "longitude": 127.3113349,
+        "latitude": 0.8887438,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.07.1004",
+      "name": "TOGOLOBE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.07",
+      "districtName": "PULAU HIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97745,
+      "coordinate": {
+        "longitude": 127.3277744,
+        "latitude": 0.8892368,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.07.1005",
+      "name": "MADO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.07",
+      "districtName": "PULAU HIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97745,
+      "coordinate": {
+        "longitude": 127.3283634,
+        "latitude": 0.8982534,
+        "elevation": 134
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.07.1006",
+      "name": "TAFRAKA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.07",
+      "districtName": "PULAU HIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97745,
+      "coordinate": {
+        "longitude": 127.3182139,
+        "latitude": 0.8844087,
+        "elevation": 145
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

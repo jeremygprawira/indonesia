@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.04.03.1001",
+      "name": "SENAYANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.03",
+      "districtName": "SENAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.6043631,
+        "latitude": 0.0948299,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.03.2002",
+      "name": "MAMUT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.03",
+      "districtName": "SENAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.5012013,
+        "latitude": 0.1331378,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.03.2012",
+      "name": "LABOH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.03",
+      "districtName": "SENAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.6486347,
+        "latitude": 0.0905072,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.03.2013",
+      "name": "PENAAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.03",
+      "districtName": "SENAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.8566722,
+        "latitude": -0.0587076,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.03.2015",
+      "name": "BARAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.03",
+      "districtName": "SENAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50614,
+      "coordinate": {
+        "longitude": 110.3976533,
+        "latitude": -7.2418509,
+        "elevation": 616
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.72.04.1001",
+      "name": "LOKTABAT UTARA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.04",
+      "districtName": "BANJARBARU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70714,
+      "coordinate": {
+        "longitude": 114.8040638,
+        "latitude": -3.4328531,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.04.1002",
+      "name": "MENTAOS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.04",
+      "districtName": "BANJARBARU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70714,
+      "coordinate": {
+        "longitude": 114.8363565,
+        "latitude": -3.4327636,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.04.1003",
+      "name": "KOMET",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.04",
+      "districtName": "BANJARBARU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70714,
+      "coordinate": {
+        "longitude": 114.8360441,
+        "latitude": -3.4404586,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.04.1004",
+      "name": "SUNGAI ULIN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.04",
+      "districtName": "BANJARBARU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70714,
+      "coordinate": {
+        "longitude": 114.8713623,
+        "latitude": -3.4532538,
+        "elevation": 38
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

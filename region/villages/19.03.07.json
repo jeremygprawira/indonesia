@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.03.07.2001",
+      "name": "BATU BETUMPANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.07",
+      "districtName": "PULAU BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33779,
+      "coordinate": {
+        "longitude": 106.1422109,
+        "latitude": -2.8776954,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.07.2002",
+      "name": "SUKAJAYA",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.07",
+      "districtName": "PULAU BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42171,
+      "coordinate": {
+        "longitude": 106.1612787,
+        "latitude": -6.1683366,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.07.2003",
+      "name": "PANCA TUNGGAL",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.07",
+      "districtName": "PULAU BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33779,
+      "coordinate": {
+        "longitude": 106.1785315,
+        "latitude": -2.8200213,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.07.2004",
+      "name": "SUMBER JAYA PERMAI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.07",
+      "districtName": "PULAU BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33779,
+      "coordinate": {
+        "longitude": 106.2132612,
+        "latitude": -2.7772377,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.07.2005",
+      "name": "FAJAR INDAH",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.07",
+      "districtName": "PULAU BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33779,
+      "coordinate": {
+        "longitude": 106.1724334,
+        "latitude": -2.8178148,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

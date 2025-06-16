@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.17.2001",
+      "name": "TALANG BABUNGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.17",
+      "districtName": "HILIRAN GUMANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27372,
+      "coordinate": {
+        "longitude": 100.868331,
+        "latitude": -1.0924551,
+        "elevation": 1144
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.17.2002",
+      "name": "SARIAK ALAHAN TIGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.17",
+      "districtName": "HILIRAN GUMANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27372,
+      "coordinate": {
+        "longitude": 100.9207203,
+        "latitude": -1.1211238,
+        "elevation": 944
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.17.2003",
+      "name": "SUNGAI ABU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.17",
+      "districtName": "HILIRAN GUMANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27372,
+      "coordinate": {
+        "longitude": 101.0011397,
+        "latitude": -1.1960603,
+        "elevation": 871
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.12.22.2001",
+      "name": "LINTONG NIHUTA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.12",
+      "cityName": "KAB. TOBA",
+      "districtCode": "12.12.22",
+      "districtName": "TAMPAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22392,
+      "coordinate": {
+        "longitude": 98.7669151,
+        "latitude": 2.5811853,
+        "elevation": 1334
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.12.22.2002",
+      "name": "TARABUNGA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.12",
+      "cityName": "KAB. TOBA",
+      "districtCode": "12.12.22",
+      "districtName": "TAMPAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22312,
+      "coordinate": {
+        "longitude": 99.0280729,
+        "latitude": 2.3465166,
+        "elevation": 1026
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.12.22.2003",
+      "name": "MEAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.12",
+      "cityName": "KAB. TOBA",
+      "districtCode": "12.12.22",
+      "districtName": "TAMPAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22312,
+      "coordinate": {
+        "longitude": 99.0025132,
+        "latitude": 2.3205293,
+        "elevation": 923
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.12.22.2004",
+      "name": "GURGUR AEK RAJA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.12",
+      "cityName": "KAB. TOBA",
+      "districtCode": "12.12.22",
+      "districtName": "TAMPAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22312,
+      "coordinate": {
+        "longitude": 99.0201913,
+        "latitude": 2.3088352,
+        "elevation": 1237
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.12.22.2005",
+      "name": "TANGGA BATU BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.12",
+      "cityName": "KAB. TOBA",
+      "districtCode": "12.12.22",
+      "districtName": "TAMPAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22312,
+      "coordinate": {
+        "longitude": 99.0059079,
+        "latitude": 2.2854529,
+        "elevation": 1259
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.12.22.2006",
+      "name": "TANGGA BATU TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.12",
+      "cityName": "KAB. TOBA",
+      "districtCode": "12.12.22",
+      "districtName": "TAMPAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22312,
+      "coordinate": {
+        "longitude": 99.0175302,
+        "latitude": 2.289137,
+        "elevation": 1277
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

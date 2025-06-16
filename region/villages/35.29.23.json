@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.29.23.2001",
+      "name": "SUKAJERUK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.29",
+      "cityName": "KAB. SUMENEP",
+      "districtCode": "35.29.23",
+      "districtName": "MASALEMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69492,
+      "coordinate": {
+        "longitude": 114.4387391,
+        "latitude": -5.5646411,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.29.23.2002",
+      "name": "MASALIMA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.29",
+      "cityName": "KAB. SUMENEP",
+      "districtCode": "35.29.23",
+      "districtName": "MASALEMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69492,
+      "coordinate": {
+        "longitude": 114.4121673,
+        "latitude": -5.551679,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.29.23.2003",
+      "name": "MASAKAMBING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.29",
+      "cityName": "KAB. SUMENEP",
+      "districtCode": "35.29.23",
+      "districtName": "MASALEMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69492,
+      "coordinate": {
+        "longitude": 114.4231621,
+        "latitude": -5.4435649,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.29.23.2004",
+      "name": "KRAMIAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.29",
+      "cityName": "KAB. SUMENEP",
+      "districtCode": "35.29.23",
+      "districtName": "MASALEMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69492,
+      "coordinate": {
+        "longitude": 114.5990056,
+        "latitude": -5.0698148,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

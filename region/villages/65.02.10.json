@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.02.10.2001",
+      "name": "LONG AMPUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.10",
+      "districtName": "KAYAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77573,
+      "coordinate": {
+        "longitude": 114.9683046,
+        "latitude": 1.7056886,
+        "elevation": 657
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.10.2002",
+      "name": "LONG URO",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.10",
+      "districtName": "KAYAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77573,
+      "coordinate": {
+        "longitude": 114.9917698,
+        "latitude": 1.6812377,
+        "elevation": 682
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.10.2003",
+      "name": "LIDUNG PAYAU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.10",
+      "districtName": "KAYAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77573,
+      "coordinate": {
+        "longitude": 115.0620408,
+        "latitude": 1.67017,
+        "elevation": 741
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.10.2004",
+      "name": "SUNGAI BARANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.10",
+      "districtName": "KAYAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77573,
+      "coordinate": {
+        "longitude": 115.0753613,
+        "latitude": 1.5393083,
+        "elevation": 1116
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.10.2005",
+      "name": "METULANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.10",
+      "districtName": "KAYAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77573,
+      "coordinate": {
+        "longitude": 114.9947245,
+        "latitude": 1.7566113,
+        "elevation": 689
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

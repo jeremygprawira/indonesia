@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.01.07.1001",
+      "name": "TANJUNG UBAN KOTA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.07",
+      "districtName": "BINTAN UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29152,
+      "coordinate": {
+        "longitude": 104.2209364,
+        "latitude": 1.0713195,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.07.1002",
+      "name": "TANJUNG UBAN UTARA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.07",
+      "districtName": "BINTAN UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29152,
+      "coordinate": {
+        "longitude": 104.2418066,
+        "latitude": 1.1054139,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.07.1003",
+      "name": "TANJUNG UBAN SELATAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.07",
+      "districtName": "BINTAN UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29152,
+      "coordinate": {
+        "longitude": 104.2339182,
+        "latitude": 1.0606201,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.07.1011",
+      "name": "TANJUNG UBAN TIMUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.07",
+      "districtName": "BINTAN UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29152,
+      "coordinate": {
+        "longitude": 104.2542525,
+        "latitude": 1.0638994,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.07.2005",
+      "name": "LANCANG KUNING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.07",
+      "districtName": "BINTAN UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29152,
+      "coordinate": {
+        "longitude": 104.2792513,
+        "latitude": 1.0682331,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

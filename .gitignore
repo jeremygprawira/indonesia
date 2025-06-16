@@ -1,0 +1,11 @@
+node_modules/
+.env
+.DS_Store
+*.log
+
+city.py
+kecamatan.py
+village_combine_data.py
+village_removal_notneeded.py
+village_retrieval.py
+village_standardize.py

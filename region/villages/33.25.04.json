@@ -1,0 +1,390 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.25.04.2001",
+      "name": "PACET",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5396877,
+        "latitude": -7.6828569,
+        "elevation": 809
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2002",
+      "name": "MOJOTENGAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61174,
+      "coordinate": {
+        "longitude": 112.5719905,
+        "latitude": -7.2999656,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2003",
+      "name": "CABLIKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.880202,
+        "latitude": -7.1098018,
+        "elevation": 866
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2004",
+      "name": "NGROTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65391,
+      "coordinate": {
+        "longitude": 112.4585986,
+        "latitude": -7.8385618,
+        "elevation": 1071
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2005",
+      "name": "NGADIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66114,
+      "coordinate": {
+        "longitude": 112.1814576,
+        "latitude": -8.0634827,
+        "elevation": 240
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2006",
+      "name": "REBAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.8701499,
+        "latitude": -7.08145,
+        "elevation": 654
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2007",
+      "name": "TAMBAKBOYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62353,
+      "coordinate": {
+        "longitude": 111.8409657,
+        "latitude": -6.8049892,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2008",
+      "name": "ADINUSO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51263,
+      "coordinate": {
+        "longitude": 109.8556164,
+        "latitude": -6.9631881,
+        "elevation": 144
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2009",
+      "name": "KUMESU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.8996487,
+        "latitude": -7.0759488,
+        "elevation": 681
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2010",
+      "name": "KEPUNDUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.8861063,
+        "latitude": -7.0773103,
+        "elevation": 628
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2011",
+      "name": "PADOMASAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68168,
+      "coordinate": {
+        "longitude": 113.3350277,
+        "latitude": -8.22346,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2012",
+      "name": "SEMAMPIR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64121,
+      "coordinate": {
+        "longitude": 112.0094459,
+        "latitude": -7.799564,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2013",
+      "name": "WONOSOBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98422,
+      "coordinate": {
+        "longitude": 131.1813808,
+        "latitude": -1.2348679,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2014",
+      "name": "SOJOMERTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.891095,
+        "latitude": -7.0510906,
+        "elevation": 482
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2015",
+      "name": "KARANGANYAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67131,
+      "coordinate": {
+        "longitude": 112.9011027,
+        "latitude": -7.6377667,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2016",
+      "name": "POLODORO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.8972711,
+        "latitude": -7.0568722,
+        "elevation": 517
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2017",
+      "name": "KALISARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60112,
+      "coordinate": {
+        "longitude": 112.8190444,
+        "latitude": -7.2572891,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2018",
+      "name": "SUKOMANGLI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.9062857,
+        "latitude": -7.0483537,
+        "elevation": 506
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.04.2019",
+      "name": "WONOROJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.04",
+      "districtName": "REBAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51273,
+      "coordinate": {
+        "longitude": 109.8598249,
+        "latitude": -7.0766508,
+        "elevation": 571
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 19
+  }
+}

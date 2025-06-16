@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.01.2002",
+      "name": "KOTO BARU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.01",
+      "districtName": "KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37152,
+      "coordinate": {
+        "longitude": 101.3966914,
+        "latitude": -2.0353944,
+        "elevation": 797
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.01.2003",
+      "name": "SIALANG GAUNG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.01",
+      "districtName": "KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27681,
+      "coordinate": {
+        "longitude": 101.683061,
+        "latitude": -1.047809,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.01.2005",
+      "name": "AMPANG KURANJI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.01",
+      "districtName": "KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27681,
+      "coordinate": {
+        "longitude": 101.6572225,
+        "latitude": -1.1486197,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.01.2008",
+      "name": "KOTO PADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.01",
+      "districtName": "KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37121,
+      "coordinate": {
+        "longitude": 101.4432941,
+        "latitude": -2.0830579,
+        "elevation": 794
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

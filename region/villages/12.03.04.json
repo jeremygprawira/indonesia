@@ -1,0 +1,810 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.03.04.1001",
+      "name": "PASAR SIPIROK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.278174,
+        "latitude": 1.6046288,
+        "elevation": 893
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.1003",
+      "name": "HUTASUHUT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2719616,
+        "latitude": 1.605551,
+        "elevation": 918
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.1004",
+      "name": "BARINGIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91760,
+      "coordinate": {
+        "longitude": 119.9478974,
+        "latitude": -3.6551761,
+        "elevation": 247
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.1005",
+      "name": "BUNGA BONDAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3128034,
+        "latitude": 1.6375868,
+        "elevation": 899
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.1061",
+      "name": "PARAU SORAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22765,
+      "coordinate": {
+        "longitude": 99.9219134,
+        "latitude": 1.0501422,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.1114",
+      "name": "SIPIROK GODANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2690215,
+        "latitude": 1.6017213,
+        "elevation": 934
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2010",
+      "name": "BAGAS LOMBANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2787838,
+        "latitude": 1.6121315,
+        "elevation": 883
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2017",
+      "name": "BATU SATAIL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2052143,
+        "latitude": 1.5576129,
+        "elevation": 799
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2025",
+      "name": "HASANG MARSADA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3155788,
+        "latitude": 1.6165468,
+        "elevation": 970
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2034",
+      "name": "JANJI MAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22762,
+      "coordinate": {
+        "longitude": 99.446316,
+        "latitude": 1.3234419,
+        "elevation": 245
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2048",
+      "name": "PARAN JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22755,
+      "coordinate": {
+        "longitude": 99.7563385,
+        "latitude": 1.26039,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2051",
+      "name": "PANGARIBUAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22254,
+      "coordinate": {
+        "longitude": 98.2579077,
+        "latitude": 2.8376736,
+        "elevation": 840
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2052",
+      "name": "PARGARUTAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.4405567,
+        "latitude": 1.5962874,
+        "elevation": 772
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2054",
+      "name": "PANAUNGAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.425096,
+        "latitude": 1.6115395,
+        "elevation": 731
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2059",
+      "name": "PADANG BUJUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22753,
+      "coordinate": {
+        "longitude": 99.5076248,
+        "latitude": 1.4249463,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2060",
+      "name": "PARAN PADANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22747,
+      "coordinate": {
+        "longitude": 99.9595611,
+        "latitude": 1.5252143,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2064",
+      "name": "PANGURABAAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2671027,
+        "latitude": 1.6089111,
+        "elevation": 907
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2068",
+      "name": "RAMBA SIHASUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2340373,
+        "latitude": 1.6674385,
+        "elevation": 934
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2069",
+      "name": "TOLANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69263,
+      "coordinate": {
+        "longitude": 113.1944645,
+        "latitude": -6.9746192,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2072",
+      "name": "SAMPEAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21465,
+      "coordinate": {
+        "longitude": 99.7866464,
+        "latitude": 1.7873103,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2075",
+      "name": "SIMANINGGIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22763,
+      "coordinate": {
+        "longitude": 99.7178571,
+        "latitude": 1.079459,
+        "elevation": 162
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2076",
+      "name": "SIBADOAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2968733,
+        "latitude": 1.6252561,
+        "elevation": 861
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2085",
+      "name": "SIALAGUNDI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.296876,
+        "latitude": 1.5676054,
+        "elevation": 913
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2096",
+      "name": "BULU MARIO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91576,
+      "coordinate": {
+        "longitude": 119.3607168,
+        "latitude": -1.6758529,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2097",
+      "name": "BARNANG KOLING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.4198178,
+        "latitude": 1.5592673,
+        "elevation": 504
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2101",
+      "name": "DOLOK SORDANG JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3682842,
+        "latitude": 1.6310276,
+        "elevation": 1145
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2102",
+      "name": "SITUMBA JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2880612,
+        "latitude": 1.5520089,
+        "elevation": 1010
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2103",
+      "name": "SITUMBA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22775,
+      "coordinate": {
+        "longitude": 99.3840522,
+        "latitude": 1.0702489,
+        "elevation": 477
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2104",
+      "name": "KILANG PAPAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2992401,
+        "latitude": 1.5196735,
+        "elevation": 909
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2105",
+      "name": "SIALAMAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2685439,
+        "latitude": 1.5384396,
+        "elevation": 1525
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2106",
+      "name": "PARAN DOLOK MARDOMU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.28536,
+        "latitude": 1.5800332,
+        "elevation": 939
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2107",
+      "name": "BATANG TURA JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3271183,
+        "latitude": 1.5399449,
+        "elevation": 677
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2108",
+      "name": "BATANG TURA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3493447,
+        "latitude": 1.5580492,
+        "elevation": 593
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2109",
+      "name": "DOLOK SORDANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3666208,
+        "latitude": 1.5873616,
+        "elevation": 999
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2110",
+      "name": "PAHAE AEK SAGALA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2567752,
+        "latitude": 1.6386639,
+        "elevation": 925
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2111",
+      "name": "MARSADA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.2361192,
+        "latitude": 1.620986,
+        "elevation": 978
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2112",
+      "name": "LUAT LOMBANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.192708,
+        "latitude": 1.6597209,
+        "elevation": 779
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2113",
+      "name": "AEK BATANG PAYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.1908686,
+        "latitude": 1.6126528,
+        "elevation": 607
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2115",
+      "name": "SABA BATANG MIHA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3118505,
+        "latitude": 1.5337546,
+        "elevation": 764
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.03.04.2116",
+      "name": "SAROGODUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.03",
+      "cityName": "KAB. TAPANULI SELATAN",
+      "districtCode": "12.03.04",
+      "districtName": "SIPIROK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.3108982,
+        "latitude": 1.5953793,
+        "elevation": 871
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 40
+  }
+}

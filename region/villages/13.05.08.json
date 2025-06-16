@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.08.2001",
+      "name": "KURANJI HILIR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.08",
+      "districtName": "SUNGAI LIMAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25561,
+      "coordinate": {
+        "longitude": 100.0834733,
+        "latitude": -0.5078016,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.08.2002",
+      "name": "PILUBANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.08",
+      "districtName": "SUNGAI LIMAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26271,
+      "coordinate": {
+        "longitude": 100.7166204,
+        "latitude": -0.1631476,
+        "elevation": 528
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.08.2003",
+      "name": "GUGUAK KURANJI HILIR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.08",
+      "districtName": "SUNGAI LIMAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25561,
+      "coordinate": {
+        "longitude": 100.0204103,
+        "latitude": -0.4649131,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.08.2004",
+      "name": "KOTO TINGGI KURANJI HILIR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.08",
+      "districtName": "SUNGAI LIMAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25561,
+      "coordinate": {
+        "longitude": 100.0447385,
+        "latitude": -0.4903673,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

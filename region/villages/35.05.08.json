@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.05.08.2001",
+      "name": "PASIRAMAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70672,
+      "coordinate": {
+        "longitude": 114.9377319,
+        "latitude": -3.3046047,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.05.08.2002",
+      "name": "KALIGRENJENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66173,
+      "coordinate": {
+        "longitude": 112.1274199,
+        "latitude": -8.3001689,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.05.08.2003",
+      "name": "TAMBAKREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60142,
+      "coordinate": {
+        "longitude": 112.75574,
+        "latitude": -7.2452736,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.05.08.2004",
+      "name": "SUMBERBOTO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66173,
+      "coordinate": {
+        "longitude": 112.1478575,
+        "latitude": -8.24094,
+        "elevation": 286
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.05.08.2005",
+      "name": "GUNUNGGEDE",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42390,
+      "coordinate": {
+        "longitude": 106.2156125,
+        "latitude": -6.7782109,
+        "elevation": 568
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.05.08.2006",
+      "name": "WONOTIRTO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75276,
+      "coordinate": {
+        "longitude": 117.0637971,
+        "latitude": -1.0354867,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.05.08.2007",
+      "name": "NGENI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66173,
+      "coordinate": {
+        "longitude": 112.2067713,
+        "latitude": -8.2497809,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.05.08.2008",
+      "name": "NGADIPURO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.05",
+      "cityName": "KAB. BLITAR",
+      "districtCode": "35.05.08",
+      "districtName": "WONOTIRTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62383,
+      "coordinate": {
+        "longitude": 112.1583666,
+        "latitude": -7.1058456,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

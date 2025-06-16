@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.71.11.1001",
+      "name": "TALANG BAKUNG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.11",
+      "districtName": "PAAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36139,
+      "coordinate": {
+        "longitude": 103.646349,
+        "latitude": -1.6250591,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.11.1002",
+      "name": "PAYO SELINCAH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.11",
+      "districtName": "PAAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36148,
+      "coordinate": {
+        "longitude": 103.6463178,
+        "latitude": -1.6029594,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.11.1003",
+      "name": "EKA JAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.11",
+      "districtName": "PAAL MERAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85883,
+      "coordinate": {
+        "longitude": 124.1365135,
+        "latitude": -8.4095479,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.11.1004",
+      "name": "LINGKAR SELATAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.11",
+      "districtName": "PAAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40263,
+      "coordinate": {
+        "longitude": 107.6294812,
+        "latitude": -6.9296568,
+        "elevation": 688
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.11.1005",
+      "name": "PAAL MERAH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.11",
+      "districtName": "PAAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36139,
+      "coordinate": {
+        "longitude": 103.6343691,
+        "latitude": -1.6354171,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.11.1006",
+      "name": "BAKUNG JAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.11",
+      "districtName": "PAAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36139,
+      "coordinate": {
+        "longitude": 103.6365908,
+        "latitude": -1.6359136,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.72.06.1007",
+      "name": "WAJO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.06",
+      "districtName": "MURHUM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93726,
+      "coordinate": {
+        "longitude": 122.6035426,
+        "latitude": -5.4672164,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.06.1008",
+      "name": "LAMANGGA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.06",
+      "districtName": "MURHUM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93725,
+      "coordinate": {
+        "longitude": 122.5985835,
+        "latitude": -5.4704845,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.06.1009",
+      "name": "MELAI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.06",
+      "districtName": "MURHUM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93727,
+      "coordinate": {
+        "longitude": 122.6035996,
+        "latitude": -5.473599,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.06.1010",
+      "name": "BAADIA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.06",
+      "districtName": "MURHUM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93727,
+      "coordinate": {
+        "longitude": 122.6039716,
+        "latitude": -5.4844367,
+        "elevation": 141
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.06.1011",
+      "name": "TANGANAPADA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.06",
+      "districtName": "MURHUM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93721,
+      "coordinate": {
+        "longitude": 122.5931497,
+        "latitude": -5.4718848,
+        "elevation": 30
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

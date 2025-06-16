@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.75.08.1001",
+      "name": "MAKASAR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.08",
+      "districtName": "MAKASAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13570,
+      "coordinate": {
+        "longitude": 106.8792891,
+        "latitude": -6.2774155,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.08.1002",
+      "name": "PINANGRANTI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.08",
+      "districtName": "MAKASAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13560,
+      "coordinate": {
+        "longitude": 106.8841893,
+        "latitude": -6.2862179,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.08.1003",
+      "name": "KEBON PALA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.08",
+      "districtName": "MAKASAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13650,
+      "coordinate": {
+        "longitude": 106.8797719,
+        "latitude": -6.253584,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.08.1004",
+      "name": "HALIM PERDANA KUSUMA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.08",
+      "districtName": "MAKASAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13610,
+      "coordinate": {
+        "longitude": 106.8929629,
+        "latitude": -6.2617115,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.08.1005",
+      "name": "CIPINANG MELAYU",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.08",
+      "districtName": "MAKASAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13620,
+      "coordinate": {
+        "longitude": 106.9054413,
+        "latitude": -6.250555,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

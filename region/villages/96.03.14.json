@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.14.2002",
+      "name": "MIOSMANGGARA",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.14",
+      "districtName": "WAIGEO BARAT KEPULAUAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.14.2005",
+      "name": "GAG",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.14",
+      "districtName": "WAIGEO BARAT KEPULAUAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98465,
+      "coordinate": {
+        "longitude": 129.8764645,
+        "latitude": -0.4362802,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.14.2003",
+      "name": "PAM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.14",
+      "districtName": "WAIGEO BARAT KEPULAUAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98465,
+      "coordinate": {
+        "longitude": 130.2951079,
+        "latitude": -0.6715621,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.14.2004",
+      "name": "SAUKABU",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.14",
+      "districtName": "WAIGEO BARAT KEPULAUAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98465,
+      "coordinate": {
+        "longitude": 130.2992779,
+        "latitude": -0.6486882,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.14.2006",
+      "name": "SAUPAPIR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.14",
+      "districtName": "WAIGEO BARAT KEPULAUAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98465,
+      "coordinate": {
+        "longitude": 130.2814802,
+        "latitude": -0.6601838,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.14.2001",
+      "name": "MANYAIFUN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.14",
+      "districtName": "WAIGEO BARAT KEPULAUAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98465,
+      "coordinate": {
+        "longitude": 130.2219399,
+        "latitude": -0.3049374,
+        "elevation": 125
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

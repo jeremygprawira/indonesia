@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.72.05.1001",
+      "name": "TELUK MAKMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.05",
+      "districtName": "MEDANG KAMPAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28825,
+      "coordinate": {
+        "longitude": 101.534024,
+        "latitude": 1.6328028,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.05.1002",
+      "name": "MUNDAM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.05",
+      "districtName": "MEDANG KAMPAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28825,
+      "coordinate": {
+        "longitude": 101.5007219,
+        "latitude": 1.6483437,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.05.1003",
+      "name": "GUNTUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.05",
+      "districtName": "MEDANG KAMPAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75314,
+      "coordinate": {
+        "longitude": 117.4947174,
+        "latitude": 0.1872003,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.05.1004",
+      "name": "PELINTUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.05",
+      "districtName": "MEDANG KAMPAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28825,
+      "coordinate": {
+        "longitude": 101.6416409,
+        "latitude": 1.6506653,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

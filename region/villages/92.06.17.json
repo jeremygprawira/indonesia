@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.17.2001",
+      "name": "MASYETA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.17",
+      "districtName": "MASYETA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98162,
+      "coordinate": {
+        "longitude": 133.1973753,
+        "latitude": -1.5275617,
+        "elevation": 355
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.17.2002",
+      "name": "MESTOFU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.17",
+      "districtName": "MASYETA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98162,
+      "coordinate": {
+        "longitude": 133.1711456,
+        "latitude": -1.4889556,
+        "elevation": 540
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.17.2003",
+      "name": "KALIBIRU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.17",
+      "districtName": "MASYETA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98162,
+      "coordinate": {
+        "longitude": 133.1210889,
+        "latitude": -1.4356548,
+        "elevation": 727
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.17.2004",
+      "name": "MESOMDA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.17",
+      "districtName": "MASYETA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98162,
+      "coordinate": {
+        "longitude": 133.2385265,
+        "latitude": -1.5183547,
+        "elevation": 310
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

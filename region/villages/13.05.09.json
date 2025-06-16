@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.09.2001",
+      "name": "III KOTO AUR MALINTANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.09",
+      "districtName": "IV KOTO AUR MALINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25564,
+      "coordinate": {
+        "longitude": 100.067716,
+        "latitude": -0.3672396,
+        "elevation": 207
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.09.2002",
+      "name": "III KOTO AUR MALINTANG UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.09",
+      "districtName": "IV KOTO AUR MALINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25564,
+      "coordinate": {
+        "longitude": 100.0860514,
+        "latitude": -0.3380895,
+        "elevation": 269
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.09.2003",
+      "name": "III KOTO AUR MALINTANG TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.09",
+      "districtName": "IV KOTO AUR MALINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25564,
+      "coordinate": {
+        "longitude": 100.1235881,
+        "latitude": -0.3431871,
+        "elevation": 649
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.09.2004",
+      "name": "III KOTO AUR MALINTANG SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.09",
+      "districtName": "IV KOTO AUR MALINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25564,
+      "coordinate": {
+        "longitude": 100.0860368,
+        "latitude": -0.3941038,
+        "elevation": 258
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.09.2005",
+      "name": "BALAI BAIAK MALAI III KOTO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.09",
+      "districtName": "IV KOTO AUR MALINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25564,
+      "coordinate": {
+        "longitude": 100.0464313,
+        "latitude": -0.3960826,
+        "elevation": 154
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

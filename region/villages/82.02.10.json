@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.02.10.2001",
+      "name": "SAKAM",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.10",
+      "districtName": "PATANI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99083,
+      "coordinate": {
+        "longitude": 139.543126,
+        "latitude": -3.941285,
+        "elevation": 994
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.10.2002",
+      "name": "NURSIFA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.10",
+      "districtName": "PATANI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97857,
+      "coordinate": {
+        "longitude": 128.6501316,
+        "latitude": 0.438273,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.10.2003",
+      "name": "DAMULI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.10",
+      "districtName": "PATANI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97857,
+      "coordinate": {
+        "longitude": 128.6507454,
+        "latitude": 0.4308229,
+        "elevation": 242
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.10.2004",
+      "name": "PENITI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.10",
+      "districtName": "PATANI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97857,
+      "coordinate": {
+        "longitude": 128.6240471,
+        "latitude": 0.3801824,
+        "elevation": 633
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.10.2005",
+      "name": "MASURE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.10",
+      "districtName": "PATANI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97857,
+      "coordinate": {
+        "longitude": 128.6709262,
+        "latitude": 0.3808352,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.10.2006",
+      "name": "PALO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.10",
+      "districtName": "PATANI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97857,
+      "coordinate": {
+        "longitude": 128.6743962,
+        "latitude": 0.3289373,
+        "elevation": 91
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

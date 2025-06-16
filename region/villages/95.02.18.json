@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.02.18.2001",
+      "name": "AWINBON",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.18",
+      "districtName": "AWINBON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99431,
+      "coordinate": {
+        "longitude": 140.3447544,
+        "latitude": -5.0334136,
+        "elevation": 592
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.18.2002",
+      "name": "NANUM ANAIP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.18",
+      "districtName": "AWINBON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99431,
+      "coordinate": {
+        "longitude": 140.2712891,
+        "latitude": -5.0826835,
+        "elevation": 223
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.18.2003",
+      "name": "MIKIR",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.18",
+      "districtName": "AWINBON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99431,
+      "coordinate": {
+        "longitude": 140.4392364,
+        "latitude": -5.1385318,
+        "elevation": 470
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.18.2004",
+      "name": "KAWE",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.18",
+      "districtName": "AWINBON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99431,
+      "coordinate": {
+        "longitude": 140.4639662,
+        "latitude": -4.9728528,
+        "elevation": 1872
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.18.2005",
+      "name": "YELOBIB",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.18",
+      "districtName": "AWINBON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99431,
+      "coordinate": {
+        "longitude": 140.3411245,
+        "latitude": -4.9228883,
+        "elevation": 2110
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

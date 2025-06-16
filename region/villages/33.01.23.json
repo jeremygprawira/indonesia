@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.01.23.1001",
+      "name": "MERTASINGA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.23",
+      "districtName": "CILACAP UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53232,
+      "coordinate": {
+        "longitude": 109.0630535,
+        "latitude": -7.6832538,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.23.1002",
+      "name": "GUMILIR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.23",
+      "districtName": "CILACAP UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53231,
+      "coordinate": {
+        "longitude": 109.0468277,
+        "latitude": -7.686938,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.23.1003",
+      "name": "KARANGTALUN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.23",
+      "districtName": "CILACAP UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64172,
+      "coordinate": {
+        "longitude": 111.9667602,
+        "latitude": -7.9653891,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.23.1004",
+      "name": "TRITIH KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.23",
+      "districtName": "CILACAP UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53233,
+      "coordinate": {
+        "longitude": 109.0267215,
+        "latitude": -7.6611479,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.23.1005",
+      "name": "KEBONMANIS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.23",
+      "districtName": "CILACAP UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53235,
+      "coordinate": {
+        "longitude": 109.0340269,
+        "latitude": -7.6932573,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

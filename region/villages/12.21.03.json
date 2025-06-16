@@ -1,0 +1,550 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.21.03.2001",
+      "name": "BINANGA TOLU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8181588,
+        "latitude": 1.4481245,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2002",
+      "name": "TANJUNG BARINGIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22776,
+      "coordinate": {
+        "longitude": 100.0895482,
+        "latitude": 1.0619209,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2003",
+      "name": "HURISTAK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8431165,
+        "latitude": 1.4552538,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2004",
+      "name": "PARAN TONGA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22755,
+      "coordinate": {
+        "longitude": 99.7788026,
+        "latitude": 1.2173163,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2005",
+      "name": "GONTING JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8362395,
+        "latitude": 1.421073,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2006",
+      "name": "BULU CINA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8129617,
+        "latitude": 1.42026,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2007",
+      "name": "SIGADING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8987731,
+        "latitude": 1.5216377,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2008",
+      "name": "PASIR LANCAT LAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.833986,
+        "latitude": 1.4560309,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2009",
+      "name": "SIALA GUNDI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8706659,
+        "latitude": 1.4950125,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2010",
+      "name": "TOBING JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.9510838,
+        "latitude": 1.476092,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2011",
+      "name": "TAR SIHODA-HODA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8556002,
+        "latitude": 1.4044047,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2012",
+      "name": "HUTA PASIR ULAK TANO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8808873,
+        "latitude": 1.4825793,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2013",
+      "name": "TOBING JAE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.9071267,
+        "latitude": 1.4922797,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2014",
+      "name": "PASAR HURISTAK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 100.0056208,
+        "latitude": 1.3226059,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2015",
+      "name": "SIPIROK BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8397896,
+        "latitude": 1.4627747,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2016",
+      "name": "PASIR LANCAT BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8387547,
+        "latitude": 1.4563084,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2017",
+      "name": "TOBING TINGGI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22755,
+      "coordinate": {
+        "longitude": 99.7695155,
+        "latitude": 1.1881029,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2018",
+      "name": "GANAL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8028054,
+        "latitude": 1.4154714,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2019",
+      "name": "PAYA BUJING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8163407,
+        "latitude": 1.4396753,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2020",
+      "name": "PULO BARIANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.864811,
+        "latitude": 1.444385,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2021",
+      "name": "RAMBA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94371,
+      "coordinate": {
+        "longitude": 119.9032541,
+        "latitude": -1.1715288,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2022",
+      "name": "GONTING JAE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8568265,
+        "latitude": 1.4175587,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2023",
+      "name": "GALA BONANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.9145762,
+        "latitude": 1.4623712,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2024",
+      "name": "TANJUNG MORANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22755,
+      "coordinate": {
+        "longitude": 99.6696001,
+        "latitude": 1.312537,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2025",
+      "name": "GUNUNG MANAON",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.7712486,
+        "latitude": 1.378097,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2026",
+      "name": "GUNUNG MATINGGI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.7935461,
+        "latitude": 1.4375035,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.03.2027",
+      "name": "PASIR PINANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.03",
+      "districtName": "HURISTAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22743,
+      "coordinate": {
+        "longitude": 99.8844976,
+        "latitude": 1.3622026,
+        "elevation": 142
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 27
+  }
+}

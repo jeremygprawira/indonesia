@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.02.1011",
+      "name": "BAMBAEA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.02",
+      "districtName": "POLEANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93776,
+      "coordinate": {
+        "longitude": 121.7915787,
+        "latitude": -4.8225536,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.02.1015",
+      "name": "PUU LEMO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.02",
+      "districtName": "POLEANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93776,
+      "coordinate": {
+        "longitude": 121.8226928,
+        "latitude": -4.8377632,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.02.2003",
+      "name": "TEPPOE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.02",
+      "districtName": "POLEANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93776,
+      "coordinate": {
+        "longitude": 121.7584075,
+        "latitude": -4.8263447,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.02.2004",
+      "name": "BIRU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.02",
+      "districtName": "POLEANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93776,
+      "coordinate": {
+        "longitude": 121.7504271,
+        "latitude": -4.7736711,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.02.2010",
+      "name": "MAMBO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.02",
+      "districtName": "POLEANG TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98632,
+      "coordinate": {
+        "longitude": 136.1547665,
+        "latitude": -1.7636013,
+        "elevation": 467
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,890 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.04.2001",
+      "name": "TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1634573,
+        "latitude": 5.1286512,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2002",
+      "name": "RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90511,
+      "coordinate": {
+        "longitude": 119.5840719,
+        "latitude": -5.0022579,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2003",
+      "name": "DABOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9000168,
+        "latitude": 5.3402379,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2004",
+      "name": "CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24168,
+      "coordinate": {
+        "longitude": 95.9262244,
+        "latitude": 5.2438951,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2005",
+      "name": "MESJID REUBEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8995203,
+        "latitude": 5.3442582,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2006",
+      "name": "TANJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91993,
+      "coordinate": {
+        "longitude": 120.2494031,
+        "latitude": -3.2236347,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2007",
+      "name": "GEUDONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8995987,
+        "latitude": 5.346745,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2008",
+      "name": "REUNTOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8989708,
+        "latitude": 5.3492886,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2009",
+      "name": "REUBA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8938651,
+        "latitude": 5.354768,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2010",
+      "name": "KRUENG REUBEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8948128,
+        "latitude": 5.3492041,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2011",
+      "name": "NEULOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8926994,
+        "latitude": 5.3460136,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2012",
+      "name": "GLEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8981057,
+        "latitude": 5.3568555,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2013",
+      "name": "KUMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83661,
+      "coordinate": {
+        "longitude": 116.4438133,
+        "latitude": -8.5992528,
+        "elevation": 357
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2014",
+      "name": "BULOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58255,
+      "coordinate": {
+        "longitude": 111.2810392,
+        "latitude": -7.1093013,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2015",
+      "name": "BUNGO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59554,
+      "coordinate": {
+        "longitude": 110.6296187,
+        "latitude": -6.7653096,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2016",
+      "name": "DAYAH REUBEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8823131,
+        "latitude": 5.3532486,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2017",
+      "name": "JAMBEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8993944,
+        "latitude": 5.3532073,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2018",
+      "name": "DAYAH BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.5888526,
+        "latitude": 4.6328149,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2019",
+      "name": "PUUK AREE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2020",
+      "name": "LHEE MEUNASAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9132393,
+        "latitude": 5.3366817,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2021",
+      "name": "ULEE TUTUE RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9188517,
+        "latitude": 5.3353623,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2022",
+      "name": "MESJID AREE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.92326,
+        "latitude": 5.3388742,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2023",
+      "name": "KEUTAPANG AREE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9250872,
+        "latitude": 5.3433033,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2024",
+      "name": "PANTEE AREE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2025",
+      "name": "PULO TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9133175,
+        "latitude": 5.3393669,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2026",
+      "name": "PULO BAROH AREE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2027",
+      "name": "KEURUMBOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24358,
+      "coordinate": {
+        "longitude": 96.8286351,
+        "latitude": 5.2400461,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2028",
+      "name": "CEURIH BLANG MEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9164096,
+        "latitude": 5.3472848,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2029",
+      "name": "CEURIH KUPULA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2030",
+      "name": "CEURIH ALUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9107396,
+        "latitude": 5.3543104,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2031",
+      "name": "CEURIH COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9138604,
+        "latitude": 5.350051,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2032",
+      "name": "SEUPEUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8923176,
+        "latitude": 5.3291523,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2033",
+      "name": "SUKON LHONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9085569,
+        "latitude": 5.3261223,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2034",
+      "name": "DAYAH BEUAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8955035,
+        "latitude": 5.3222992,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2035",
+      "name": "KRUENG COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.895744,
+        "latitude": 5.3184366,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2036",
+      "name": "MESJID BEUAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.8996062,
+        "latitude": 5.3249618,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2037",
+      "name": "LUENG DAMA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9124225,
+        "latitude": 5.3609264,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2038",
+      "name": "MESJID BAMBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9154983,
+        "latitude": 5.3588482,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2039",
+      "name": "RUSEB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2040",
+      "name": "SAGOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24185,
+      "coordinate": {
+        "longitude": 96.1767766,
+        "latitude": 5.2566662,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2041",
+      "name": "SEUKEUM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9182241,
+        "latitude": 5.3651493,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2042",
+      "name": "PANGOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2043",
+      "name": "KEUTAPANG BAMBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9029654,
+        "latitude": 5.3563757,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.04.2044",
+      "name": "METAREUM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.04",
+      "districtName": "DELIMA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24162,
+      "coordinate": {
+        "longitude": 95.9089798,
+        "latitude": 5.3617665,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 44
+  }
+}

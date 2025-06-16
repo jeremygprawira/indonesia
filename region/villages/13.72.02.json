@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.72.02.1001",
+      "name": "KOTO PANJANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK",
+      "districtCode": "13.72.02",
+      "districtName": "TANJUNG HARAPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37161,
+      "coordinate": {
+        "longitude": 101.3917703,
+        "latitude": -2.0221734,
+        "elevation": 801
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.72.02.1002",
+      "name": "PASAR PANDAN AIR MATI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK",
+      "districtCode": "13.72.02",
+      "districtName": "TANJUNG HARAPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27322,
+      "coordinate": {
+        "longitude": 100.6623641,
+        "latitude": -0.7893972,
+        "elevation": 390
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.72.02.1003",
+      "name": "TANJUNG PAKU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK",
+      "districtCode": "13.72.02",
+      "districtName": "TANJUNG HARAPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74291,
+      "coordinate": {
+        "longitude": 112.0983126,
+        "latitude": -0.7264319,
+        "elevation": 293
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.72.02.1004",
+      "name": "NAN BALIMO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK",
+      "districtCode": "13.72.02",
+      "districtName": "TANJUNG HARAPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27326,
+      "coordinate": {
+        "longitude": 100.6535736,
+        "latitude": -0.7686271,
+        "elevation": 434
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.72.02.1005",
+      "name": "KAMPUNG JAWA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK",
+      "districtCode": "13.72.02",
+      "districtName": "TANJUNG HARAPAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95433,
+      "coordinate": {
+        "longitude": 124.813325,
+        "latitude": 1.2947832,
+        "elevation": 748
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.72.02.1006",
+      "name": "LAING",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK",
+      "districtCode": "13.72.02",
+      "districtName": "TANJUNG HARAPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27325,
+      "coordinate": {
+        "longitude": 100.6565108,
+        "latitude": -0.7547368,
+        "elevation": 486
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

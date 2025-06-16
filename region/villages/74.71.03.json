@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.71.03.1001",
+      "name": "BARUGA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.03",
+      "districtName": "BARUGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91414,
+      "coordinate": {
+        "longitude": 118.9519102,
+        "latitude": -3.5139725,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.03.1002",
+      "name": "LEPO LEPO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.03",
+      "districtName": "BARUGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93116,
+      "coordinate": {
+        "longitude": 122.5082818,
+        "latitude": -4.0255514,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.03.1007",
+      "name": "WATUBANGGA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.03",
+      "districtName": "BARUGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93116,
+      "coordinate": {
+        "longitude": 122.4820834,
+        "latitude": -4.02502,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.03.1008",
+      "name": "WUNDUDOPI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.03",
+      "districtName": "BARUGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93116,
+      "coordinate": {
+        "longitude": 122.4984423,
+        "latitude": -4.0207146,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

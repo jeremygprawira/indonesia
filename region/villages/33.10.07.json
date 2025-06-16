@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.10.07.2001",
+      "name": "GONDANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.07",
+      "districtName": "KEBONARUM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83353,
+      "coordinate": {
+        "longitude": 116.2010639,
+        "latitude": -8.3476101,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.07.2002",
+      "name": "BASIN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.07",
+      "districtName": "KEBONARUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57486,
+      "coordinate": {
+        "longitude": 110.5601295,
+        "latitude": -7.7082456,
+        "elevation": 186
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.07.2003",
+      "name": "PLUNENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.07",
+      "districtName": "KEBONARUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57486,
+      "coordinate": {
+        "longitude": 110.5664689,
+        "latitude": -7.6976437,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.07.2004",
+      "name": "NGRUNDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.07",
+      "districtName": "KEBONARUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57486,
+      "coordinate": {
+        "longitude": 110.5721126,
+        "latitude": -7.6909277,
+        "elevation": 204
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.07.2005",
+      "name": "MALANGJIWAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.07",
+      "districtName": "KEBONARUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57177,
+      "coordinate": {
+        "longitude": 110.7471115,
+        "latitude": -7.5342041,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.07.2006",
+      "name": "KARANGDUREN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.07",
+      "districtName": "KEBONARUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68161,
+      "coordinate": {
+        "longitude": 113.486167,
+        "latitude": -8.263181,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.07.2007",
+      "name": "MENDEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.07",
+      "districtName": "KEBONARUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57486,
+      "coordinate": {
+        "longitude": 110.552191,
+        "latitude": -7.700215,
+        "elevation": 201
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

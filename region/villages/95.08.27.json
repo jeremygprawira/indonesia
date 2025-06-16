@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.27.2001",
+      "name": "NGANAI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.27",
+      "districtName": "PIJA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99928,
+      "coordinate": {
+        "longitude": 138.786801,
+        "latitude": -4.5151457,
+        "elevation": 1020
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.27.2002",
+      "name": "PIJA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.27",
+      "districtName": "PIJA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99928,
+      "coordinate": {
+        "longitude": 138.7795135,
+        "latitude": -4.4508605,
+        "elevation": 1869
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.27.2003",
+      "name": "SITGAMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.27",
+      "districtName": "PIJA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99928,
+      "coordinate": {
+        "longitude": 138.7749476,
+        "latitude": -4.4906519,
+        "elevation": 1440
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.27.2004",
+      "name": "SIAT",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.27",
+      "districtName": "PIJA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99928,
+      "coordinate": {
+        "longitude": 138.780901,
+        "latitude": -4.4784651,
+        "elevation": 1194
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.27.2005",
+      "name": "MURUPBAYE",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.27",
+      "districtName": "PIJA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99928,
+      "coordinate": {
+        "longitude": 138.7817791,
+        "latitude": -4.4333786,
+        "elevation": 1663
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

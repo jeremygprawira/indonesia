@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.05.05.2001",
+      "name": "KUALA MARAS",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.05",
+      "districtName": "JEMAJA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29793,
+      "coordinate": {
+        "longitude": 105.8162263,
+        "latitude": 2.9513532,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.05.2002",
+      "name": "ULU MARAS",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.05",
+      "districtName": "JEMAJA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29793,
+      "coordinate": {
+        "longitude": 105.7459708,
+        "latitude": 2.9260413,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.05.2003",
+      "name": "BUKIT PADI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.05",
+      "districtName": "JEMAJA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29793,
+      "coordinate": {
+        "longitude": 105.7423234,
+        "latitude": 2.9563689,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.05.2004",
+      "name": "GENTING PULUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.05",
+      "districtName": "JEMAJA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29793,
+      "coordinate": {
+        "longitude": 105.7556433,
+        "latitude": 2.8559758,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

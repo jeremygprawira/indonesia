@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.72.01.1001",
+      "name": "TANJUNG PINANG BARAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.01",
+      "districtName": "TANJUNG PINANG BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29113,
+      "coordinate": {
+        "longitude": 104.4399662,
+        "latitude": 0.9143766,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.01.1002",
+      "name": "KEMBOJA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.01",
+      "districtName": "TANJUNG PINANG BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78858,
+      "coordinate": {
+        "longitude": 109.7073425,
+        "latitude": -1.097092,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.01.1003",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.01",
+      "districtName": "TANJUNG PINANG BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.01.1004",
+      "name": "BUKIT CERMIN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.01",
+      "districtName": "TANJUNG PINANG BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29111,
+      "coordinate": {
+        "longitude": 104.449613,
+        "latitude": 0.9205602,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "35.73.01",
+      "name": "BLIMBING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.73",
+      "cityName": "KOTA MALANG"
+    },
+    {
+      "type": "district",
+      "code": "35.73.02",
+      "name": "KLOJEN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.73",
+      "cityName": "KOTA MALANG"
+    },
+    {
+      "type": "district",
+      "code": "35.73.03",
+      "name": "KEDUNGKANDANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.73",
+      "cityName": "KOTA MALANG"
+    },
+    {
+      "type": "district",
+      "code": "35.73.04",
+      "name": "SUKUN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.73",
+      "cityName": "KOTA MALANG"
+    },
+    {
+      "type": "district",
+      "code": "35.73.05",
+      "name": "LOWOKWARU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.73",
+      "cityName": "KOTA MALANG"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

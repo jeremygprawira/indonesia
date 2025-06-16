@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.23.2001",
+      "name": "PUNGKIT",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.23",
+      "districtName": "MOYO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84388,
+      "coordinate": {
+        "longitude": 117.5280484,
+        "latitude": -8.6752945,
+        "elevation": 332
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.23.2002",
+      "name": "SEBEWE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.23",
+      "districtName": "MOYO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84380,
+      "coordinate": {
+        "longitude": 117.4726462,
+        "latitude": -8.4836154,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.23.2003",
+      "name": "PENYARING",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.23",
+      "districtName": "MOYO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84380,
+      "coordinate": {
+        "longitude": 117.452763,
+        "latitude": -8.4401198,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.23.2004",
+      "name": "KUKIN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.23",
+      "districtName": "MOYO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84380,
+      "coordinate": {
+        "longitude": 117.5110983,
+        "latitude": -8.4275198,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.23.2005",
+      "name": "BARU TAHAN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.23",
+      "districtName": "MOYO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84380,
+      "coordinate": {
+        "longitude": 117.476615,
+        "latitude": -8.4600343,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.23.2006",
+      "name": "SONGKAR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.23",
+      "districtName": "MOYO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84380,
+      "coordinate": {
+        "longitude": 117.5006238,
+        "latitude": -8.4827716,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

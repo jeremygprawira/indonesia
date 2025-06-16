@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.13.2001",
+      "name": "MAGMAGAN KARYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.13",
+      "districtName": "LUMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79282,
+      "coordinate": {
+        "longitude": 109.4432361,
+        "latitude": 0.9056721,
+        "elevation": 365
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.13.2002",
+      "name": "TIGA BERKAT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.13",
+      "districtName": "LUMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79282,
+      "coordinate": {
+        "longitude": 109.4370354,
+        "latitude": 0.9253971,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.13.2003",
+      "name": "SEREN SELIMBAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.13",
+      "districtName": "LUMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79282,
+      "coordinate": {
+        "longitude": 109.3756195,
+        "latitude": 1.0201505,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.13.2004",
+      "name": "BELIMBING",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.13",
+      "districtName": "LUMAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75313,
+      "coordinate": {
+        "longitude": 117.4603228,
+        "latitude": 0.1451407,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.13.2005",
+      "name": "LAMOLDA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.13",
+      "districtName": "LUMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79282,
+      "coordinate": {
+        "longitude": 109.5140225,
+        "latitude": 0.9744862,
+        "elevation": 60
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

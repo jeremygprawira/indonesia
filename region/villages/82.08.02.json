@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.08.02.2001",
+      "name": "NGGELE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.02",
+      "districtName": "TALIABU BARAT LAUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3662049,
+        "latitude": -1.7550743,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.02.2002",
+      "name": "SALATI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.02",
+      "districtName": "TALIABU BARAT LAUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3768064,
+        "latitude": -1.7971954,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.02.2003",
+      "name": "BERINGIN JAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.02",
+      "districtName": "TALIABU BARAT LAUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3575603,
+        "latitude": -1.8114927,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.02.2004",
+      "name": "KASANGO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.02",
+      "districtName": "TALIABU BARAT LAUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3506313,
+        "latitude": -1.8643712,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.02.2005",
+      "name": "ONEMAY",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.02",
+      "districtName": "TALIABU BARAT LAUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3854945,
+        "latitude": -1.7736109,
+        "elevation": 246
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

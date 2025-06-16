@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.01.2001",
+      "name": "PADOMASAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.01",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68168,
+      "coordinate": {
+        "longitude": 113.3350277,
+        "latitude": -8.22346,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.01.2002",
+      "name": "KETING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.01",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62260,
+      "coordinate": {
+        "longitude": 112.2290381,
+        "latitude": -7.0429941,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.01.2003",
+      "name": "JOMBANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.01",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72276,
+      "coordinate": {
+        "longitude": 115.4614336,
+        "latitude": -3.6673081,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.01.2004",
+      "name": "NGAMPELREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.01",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62354,
+      "coordinate": {
+        "longitude": 111.786996,
+        "latitude": -6.8087247,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.01.2005",
+      "name": "WRINGINAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.01",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68486,
+      "coordinate": {
+        "longitude": 114.170141,
+        "latitude": -8.4298758,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.01.2006",
+      "name": "SARIMULYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.01",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93664,
+      "coordinate": {
+        "longitude": 122.3968938,
+        "latitude": -4.9608793,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

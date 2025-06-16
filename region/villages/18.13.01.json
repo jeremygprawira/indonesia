@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.13.01.1005",
+      "name": "PASAR KRUI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34894,
+      "coordinate": {
+        "longitude": 103.9370068,
+        "latitude": -5.1835621,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.01.1008",
+      "name": "PASAR KOTA KRUI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34894,
+      "coordinate": {
+        "longitude": 103.940054,
+        "latitude": -5.1763882,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.01.2001",
+      "name": "WAY REDAK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34894,
+      "coordinate": {
+        "longitude": 103.926478,
+        "latitude": -5.2076354,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.01.2002",
+      "name": "SERAY",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.01.2003",
+      "name": "KAMPUNG JAWA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95433,
+      "coordinate": {
+        "longitude": 124.813325,
+        "latitude": 1.2947832,
+        "elevation": 748
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.01.2004",
+      "name": "RAWAS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98242,
+      "coordinate": {
+        "longitude": 132.2131092,
+        "latitude": -1.2427219,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.01.2006",
+      "name": "SUKA NEGARA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34883,
+      "coordinate": {
+        "longitude": 104.1616713,
+        "latitude": -5.458937,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.01.2007",
+      "name": "PAHMUNGAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.01",
+      "districtName": "PESISIR TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34894,
+      "coordinate": {
+        "longitude": 104.0045968,
+        "latitude": -5.1729012,
+        "elevation": 129
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

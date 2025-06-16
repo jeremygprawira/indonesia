@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.74.05.1001",
+      "name": "CEMPAKA PUTIH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.05",
+      "districtName": "CIPUTAT TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96524,
+      "coordinate": {
+        "longitude": 122.0277051,
+        "latitude": 0.9151975,
+        "elevation": 747
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.05.1002",
+      "name": "PONDOK RANJI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.05",
+      "districtName": "CIPUTAT TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15412,
+      "coordinate": {
+        "longitude": 106.7369614,
+        "latitude": -6.2866945,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.05.1003",
+      "name": "PISANGAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.05",
+      "districtName": "CIPUTAT TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15419,
+      "coordinate": {
+        "longitude": 106.7645265,
+        "latitude": -6.3177279,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.05.1004",
+      "name": "CIREUNDEU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.05",
+      "districtName": "CIPUTAT TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15419,
+      "coordinate": {
+        "longitude": 106.7690826,
+        "latitude": -6.3049296,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.05.1005",
+      "name": "REMPOA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.05",
+      "districtName": "CIPUTAT TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15412,
+      "coordinate": {
+        "longitude": 106.7584954,
+        "latitude": -6.2886365,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.05.1006",
+      "name": "RENGAS",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.05",
+      "districtName": "CIPUTAT TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15412,
+      "coordinate": {
+        "longitude": 106.7521274,
+        "latitude": -6.2849438,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

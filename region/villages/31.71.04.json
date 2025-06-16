@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.71.04.1001",
+      "name": "SENEN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.04",
+      "districtName": "SENEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10410,
+      "coordinate": {
+        "longitude": 106.8382587,
+        "latitude": -6.1763977,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.04.1002",
+      "name": "KENARI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.04",
+      "districtName": "SENEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97773,
+      "coordinate": {
+        "longitude": 128.5855211,
+        "latitude": 2.4113434,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.04.1003",
+      "name": "PASEBAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.04",
+      "districtName": "SENEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68167,
+      "coordinate": {
+        "longitude": 113.3324785,
+        "latitude": -8.3150994,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.04.1004",
+      "name": "KRAMAT",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.04",
+      "districtName": "SENEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3617033,
+        "latitude": -1.8856916,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.04.1005",
+      "name": "KWITANG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.04",
+      "districtName": "SENEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10420,
+      "coordinate": {
+        "longitude": 106.8396135,
+        "latitude": -6.183735,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.04.1006",
+      "name": "BUNGUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.04",
+      "districtName": "SENEN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71663,
+      "coordinate": {
+        "longitude": 115.4225789,
+        "latitude": -2.4215271,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

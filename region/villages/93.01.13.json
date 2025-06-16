@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.13.2001",
+      "name": "KOA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.13",
+      "districtName": "ANIMHA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99644,
+      "coordinate": {
+        "longitude": 140.5008788,
+        "latitude": -7.9156286,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.13.2002",
+      "name": "BAAD",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.13",
+      "districtName": "ANIMHA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99644,
+      "coordinate": {
+        "longitude": 140.5133259,
+        "latitude": -8.078165,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.13.2003",
+      "name": "SENEGI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.13",
+      "districtName": "ANIMHA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99644,
+      "coordinate": {
+        "longitude": 140.2551968,
+        "latitude": -7.982892,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.13.2004",
+      "name": "WAYAU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.13",
+      "districtName": "ANIMHA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99644,
+      "coordinate": {
+        "longitude": 140.4501107,
+        "latitude": -7.9538746,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.13.2005",
+      "name": "KAISAH",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.13",
+      "districtName": "ANIMHA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99644,
+      "coordinate": {
+        "longitude": 140.4347842,
+        "latitude": -7.8046413,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

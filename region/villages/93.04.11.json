@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.04.11.2001",
+      "name": "YAMAS",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.11",
+      "districtName": "JOERAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99784,
+      "coordinate": {
+        "longitude": 138.0861309,
+        "latitude": -5.2737639,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.11.2002",
+      "name": "YENI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.11",
+      "districtName": "JOERAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.11.2003",
+      "name": "OMOR",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.11",
+      "districtName": "JOERAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99434,
+      "coordinate": {
+        "longitude": 140.8556183,
+        "latitude": -5.0554296,
+        "elevation": 986
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.11.2004",
+      "name": "JUFRI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.11",
+      "districtName": "JOERAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.11.2005",
+      "name": "YAUN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.11",
+      "districtName": "JOERAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99784,
+      "coordinate": {
+        "longitude": 138.0822161,
+        "latitude": -5.3207974,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.11.2006",
+      "name": "ONAVAI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.11",
+      "districtName": "JOERAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99784,
+      "coordinate": {
+        "longitude": 137.9291438,
+        "latitude": -5.253327,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

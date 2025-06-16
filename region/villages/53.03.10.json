@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.10.2001",
+      "name": "NAOB",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.10",
+      "districtName": "NOEMUTI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85665,
+      "coordinate": {
+        "longitude": 124.5719511,
+        "latitude": -9.6127346,
+        "elevation": 300
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.10.2002",
+      "name": "HAEKTO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.10",
+      "districtName": "NOEMUTI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85665,
+      "coordinate": {
+        "longitude": 124.6249507,
+        "latitude": -9.5909086,
+        "elevation": 183
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.10.2003",
+      "name": "MANIKIN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.10",
+      "districtName": "NOEMUTI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85665,
+      "coordinate": {
+        "longitude": 124.5818837,
+        "latitude": -9.5832424,
+        "elevation": 297
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.10.2004",
+      "name": "KUAKEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.10",
+      "districtName": "NOEMUTI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85665,
+      "coordinate": {
+        "longitude": 124.550411,
+        "latitude": -9.5761184,
+        "elevation": 445
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

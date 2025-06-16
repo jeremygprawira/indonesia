@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.71.02.1001",
+      "name": "PADANG HARAPAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.02",
+      "districtName": "GADING CEMPAKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38225,
+      "coordinate": {
+        "longitude": 102.2876543,
+        "latitude": -3.824803,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.02.1002",
+      "name": "JALAN GEDANG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.02",
+      "districtName": "GADING CEMPAKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38225,
+      "coordinate": {
+        "longitude": 102.2985161,
+        "latitude": -3.824097,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.02.1021",
+      "name": "SIDOMULYO",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.02",
+      "districtName": "GADING CEMPAKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.02.1024",
+      "name": "LINGKAR BARAT",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.02",
+      "districtName": "GADING CEMPAKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38221,
+      "coordinate": {
+        "longitude": 102.3017672,
+        "latitude": -3.8399839,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.02.1027",
+      "name": "CEMPAKA PERMAI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.02",
+      "districtName": "GADING CEMPAKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38221,
+      "coordinate": {
+        "longitude": 102.3081909,
+        "latitude": -3.8377369,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

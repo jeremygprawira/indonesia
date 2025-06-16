@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "32.74.01",
+      "name": "KEJAKSAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON"
+    },
+    {
+      "type": "district",
+      "code": "32.74.02",
+      "name": "LEMAHWUNGKUK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON"
+    },
+    {
+      "type": "district",
+      "code": "32.74.03",
+      "name": "HARJAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON"
+    },
+    {
+      "type": "district",
+      "code": "32.74.04",
+      "name": "PEKALIPAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON"
+    },
+    {
+      "type": "district",
+      "code": "32.74.05",
+      "name": "KESAMBI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

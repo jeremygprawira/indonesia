@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.11.1001",
+      "name": "ALAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.11",
+      "districtName": "UNGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78611,
+      "coordinate": {
+        "longitude": 111.4969505,
+        "latitude": 0.0713317,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.11.2002",
+      "name": "BATU LIMAU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.11",
+      "districtName": "UNGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29669,
+      "coordinate": {
+        "longitude": 103.4953651,
+        "latitude": 0.6183464,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.11.2003",
+      "name": "NGAL",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.11",
+      "districtName": "UNGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29669,
+      "coordinate": {
+        "longitude": 103.584933,
+        "latitude": 0.6870698,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.11.2004",
+      "name": "SUNGAI BULUH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.11",
+      "districtName": "UNGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71552,
+      "coordinate": {
+        "longitude": 115.3141771,
+        "latitude": -2.2499243,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

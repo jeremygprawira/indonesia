@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.03.23.2001",
+      "name": "PAGAR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.23",
+      "districtName": "BLAMBANGAN PAGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77453,
+      "coordinate": {
+        "longitude": 116.9264483,
+        "latitude": 3.8425343,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.23.2002",
+      "name": "BLAMBANGAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.23",
+      "districtName": "BLAMBANGAN PAGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68472,
+      "coordinate": {
+        "longitude": 114.3018425,
+        "latitude": -8.4177998,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.23.2003",
+      "name": "JAGANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.23",
+      "districtName": "BLAMBANGAN PAGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34586,
+      "coordinate": {
+        "longitude": 104.9897205,
+        "latitude": -4.9096344,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.23.2004",
+      "name": "TANJUNG IMAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.23",
+      "districtName": "BLAMBANGAN PAGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34586,
+      "coordinate": {
+        "longitude": 105.0125162,
+        "latitude": -4.811715,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.23.2005",
+      "name": "TULUNG SINGKIP",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.23",
+      "districtName": "BLAMBANGAN PAGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34586,
+      "coordinate": {
+        "longitude": 105.0427973,
+        "latitude": -4.9240519,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.23.2006",
+      "name": "PAGAR GADING",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.23",
+      "districtName": "BLAMBANGAN PAGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34586,
+      "coordinate": {
+        "longitude": 105.0185941,
+        "latitude": -4.9300423,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.23.2007",
+      "name": "BURING KENCANA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.23",
+      "districtName": "BLAMBANGAN PAGAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34586,
+      "coordinate": {
+        "longitude": 105.0502145,
+        "latitude": -4.8091815,
+        "elevation": 39
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.74.02.1001",
+      "name": "PEGAMBIRAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.02",
+      "districtName": "LEMAHWUNGKUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45113,
+      "coordinate": {
+        "longitude": 108.582995,
+        "latitude": -6.7392206,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.02.1002",
+      "name": "LEMAHWUNGKUK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.02",
+      "districtName": "LEMAHWUNGKUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45111,
+      "coordinate": {
+        "longitude": 108.5727659,
+        "latitude": -6.7215715,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.02.1003",
+      "name": "KESEPUHAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.02",
+      "districtName": "LEMAHWUNGKUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45114,
+      "coordinate": {
+        "longitude": 108.5753834,
+        "latitude": -6.7260486,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.02.1004",
+      "name": "PANJUNAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.02",
+      "districtName": "LEMAHWUNGKUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61162,
+      "coordinate": {
+        "longitude": 112.4787756,
+        "latitude": -7.1554364,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

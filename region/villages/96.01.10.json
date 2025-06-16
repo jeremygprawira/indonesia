@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.01.10.2006",
+      "name": "MASMAPOP",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.10",
+      "districtName": "SALAWATI SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.10.2003",
+      "name": "DULBATAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.10",
+      "districtName": "SALAWATI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98424,
+      "coordinate": {
+        "longitude": 130.7581503,
+        "latitude": -1.1135733,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.10.2005",
+      "name": "PAYAPOP",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.10",
+      "districtName": "SALAWATI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98424,
+      "coordinate": {
+        "longitude": 130.8279681,
+        "latitude": -1.1504718,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.10.2004",
+      "name": "MANOKET",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.10",
+      "districtName": "SALAWATI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98424,
+      "coordinate": {
+        "longitude": 130.850517,
+        "latitude": -1.3076638,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.10.2001",
+      "name": "SAILOLOF",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.10",
+      "districtName": "SALAWATI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98424,
+      "coordinate": {
+        "longitude": 130.8486842,
+        "latitude": -1.1820237,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.10.2002",
+      "name": "KOTLOL",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.10",
+      "districtName": "SALAWATI SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

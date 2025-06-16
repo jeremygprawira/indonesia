@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.02.15.2001",
+      "name": "LONG NYAU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.15",
+      "districtName": "SUNGAI TUBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77556,
+      "coordinate": {
+        "longitude": 116.0379935,
+        "latitude": 3.0317797,
+        "elevation": 828
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.15.2002",
+      "name": "LONG TITI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.15",
+      "districtName": "SUNGAI TUBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77556,
+      "coordinate": {
+        "longitude": 115.995284,
+        "latitude": 3.4852895,
+        "elevation": 1095
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.15.2003",
+      "name": "LONG RANAU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.15",
+      "districtName": "SUNGAI TUBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77556,
+      "coordinate": {
+        "longitude": 116.1051529,
+        "latitude": 3.1606029,
+        "elevation": 655
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.15.2004",
+      "name": "RIAN TUBU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.15",
+      "districtName": "SUNGAI TUBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77556,
+      "coordinate": {
+        "longitude": 116.2080427,
+        "latitude": 3.3552376,
+        "elevation": 414
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.15.2005",
+      "name": "LONG PADA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.15",
+      "districtName": "SUNGAI TUBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77556,
+      "coordinate": {
+        "longitude": 116.1090182,
+        "latitude": 3.0294005,
+        "elevation": 573
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.71.07.1001",
+      "name": "MUKA KUNING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.07",
+      "districtName": "SEI BEDUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29433,
+      "coordinate": {
+        "longitude": 104.0914533,
+        "latitude": 1.051957,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.07.1002",
+      "name": "DURIANGKANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.07",
+      "districtName": "SEI BEDUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29437,
+      "coordinate": {
+        "longitude": 104.0504867,
+        "latitude": 1.0065597,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.07.1003",
+      "name": "MANGSANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.07",
+      "districtName": "SEI BEDUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29437,
+      "coordinate": {
+        "longitude": 104.0371869,
+        "latitude": 1.0289252,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.07.1004",
+      "name": "TANJUNG PIAYU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.07",
+      "districtName": "SEI BEDUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29437,
+      "coordinate": {
+        "longitude": 104.0843124,
+        "latitude": 1.0106682,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

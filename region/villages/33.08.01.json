@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.08.01.2001",
+      "name": "NGARGORETNO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56162,
+      "coordinate": {
+        "longitude": 110.1528516,
+        "latitude": -7.6354889,
+        "elevation": 520
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2002",
+      "name": "PARIPURNO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56162,
+      "coordinate": {
+        "longitude": 110.1442791,
+        "latitude": -7.6142755,
+        "elevation": 365
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2003",
+      "name": "KALIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61155,
+      "coordinate": {
+        "longitude": 112.4980455,
+        "latitude": -7.0090794,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2004",
+      "name": "MENOREH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56162,
+      "coordinate": {
+        "longitude": 110.1311518,
+        "latitude": -7.5886494,
+        "elevation": 285
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2005",
+      "name": "NGADIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66114,
+      "coordinate": {
+        "longitude": 112.1814576,
+        "latitude": -8.0634827,
+        "elevation": 240
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2006",
+      "name": "SIDOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2007",
+      "name": "KEBONREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67184,
+      "coordinate": {
+        "longitude": 112.9745116,
+        "latitude": -7.7376859,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2008",
+      "name": "SALAMAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70883,
+      "coordinate": {
+        "longitude": 115.1190314,
+        "latitude": -3.7727752,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2009",
+      "name": "KALISALAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52463,
+      "coordinate": {
+        "longitude": 109.0120241,
+        "latitude": -7.07576,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2010",
+      "name": "SRIWEDARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63257,
+      "coordinate": {
+        "longitude": 111.1872452,
+        "latitude": -7.3546887,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2011",
+      "name": "JEBENGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56162,
+      "coordinate": {
+        "longitude": 110.1254868,
+        "latitude": -7.5646933,
+        "elevation": 349
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2012",
+      "name": "TANJUNGANOM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64482,
+      "coordinate": {
+        "longitude": 112.0297994,
+        "latitude": -7.6331236,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2013",
+      "name": "BANJARHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55672,
+      "coordinate": {
+        "longitude": 110.2491435,
+        "latitude": -7.683801,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2014",
+      "name": "PURWOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92970,
+      "coordinate": {
+        "longitude": 120.8539597,
+        "latitude": -2.5056239,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2015",
+      "name": "NGAMPELDENTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56162,
+      "coordinate": {
+        "longitude": 110.1228679,
+        "latitude": -7.5358744,
+        "elevation": 319
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2016",
+      "name": "SIDOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51162,
+      "coordinate": {
+        "longitude": 109.5187452,
+        "latitude": -6.9846497,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2017",
+      "name": "SAWANGARGO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56162,
+      "coordinate": {
+        "longitude": 110.1060248,
+        "latitude": -7.5502545,
+        "elevation": 367
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2018",
+      "name": "KRASAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67358,
+      "coordinate": {
+        "longitude": 113.2172103,
+        "latitude": -8.0466888,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2019",
+      "name": "MARGOYOSO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59462,
+      "coordinate": {
+        "longitude": 110.7201592,
+        "latitude": -6.7266423,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.01.2020",
+      "name": "KALIABU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.01",
+      "districtName": "SALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63153,
+      "coordinate": {
+        "longitude": 111.6515656,
+        "latitude": -7.5713022,
+        "elevation": 79
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

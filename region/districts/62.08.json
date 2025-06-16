@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "62.08.01",
+      "name": "SUKAMARA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA"
+    },
+    {
+      "type": "district",
+      "code": "62.08.02",
+      "name": "JELAI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA"
+    },
+    {
+      "type": "district",
+      "code": "62.08.03",
+      "name": "BALAI RIAM",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA"
+    },
+    {
+      "type": "district",
+      "code": "62.08.04",
+      "name": "PANTAI LUNCI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA"
+    },
+    {
+      "type": "district",
+      "code": "62.08.05",
+      "name": "PERMATA KECUBUNG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

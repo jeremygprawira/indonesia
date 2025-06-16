@@ -1,0 +1,590 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.18.08.2001",
+      "name": "SEJOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1408431,
+        "latitude": -6.738929,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2002",
+      "name": "BRINGIN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69454,
+      "coordinate": {
+        "longitude": 113.827091,
+        "latitude": -6.9487292,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2003",
+      "name": "KETIP",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1705484,
+        "latitude": -6.7301733,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2004",
+      "name": "PEKUWON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62370,
+      "coordinate": {
+        "longitude": 111.973873,
+        "latitude": -7.0691138,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2005",
+      "name": "KARANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62260,
+      "coordinate": {
+        "longitude": 112.2802824,
+        "latitude": -7.0386318,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2006",
+      "name": "KARANGREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5878894,
+        "latitude": -7.0705063,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2007",
+      "name": "BUMIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62194,
+      "coordinate": {
+        "longitude": 112.1087259,
+        "latitude": -7.1640624,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2008",
+      "name": "KEDUNGPANCING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1464985,
+        "latitude": -6.72601,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2009",
+      "name": "JEPURO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1451999,
+        "latitude": -6.7281267,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2010",
+      "name": "TLUWAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.140681,
+        "latitude": -6.7316612,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2011",
+      "name": "DOROPAYUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1425824,
+        "latitude": -6.7243888,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2012",
+      "name": "MINTOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1270748,
+        "latitude": -6.7250897,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2013",
+      "name": "GADINGREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68166,
+      "coordinate": {
+        "longitude": 113.4256572,
+        "latitude": -8.2383401,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2014",
+      "name": "MARGOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1810289,
+        "latitude": -1.3600825,
+        "elevation": 471
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2015",
+      "name": "LANGGENHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59154,
+      "coordinate": {
+        "longitude": 111.0952526,
+        "latitude": -6.6218658,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2016",
+      "name": "GENENGMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1314459,
+        "latitude": -6.6745585,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2017",
+      "name": "AGUNGMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1300681,
+        "latitude": -6.6874239,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2018",
+      "name": "BAKARAN KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1595697,
+        "latitude": -6.6702318,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2019",
+      "name": "BAKARAN WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1424095,
+        "latitude": -6.6846035,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2020",
+      "name": "DUKUTALIT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.137275,
+        "latitude": -6.7085463,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2021",
+      "name": "GROWONG KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1423995,
+        "latitude": -6.7087878,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2022",
+      "name": "GROWONG LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1493244,
+        "latitude": -6.6996755,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2023",
+      "name": "KAUMAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78821,
+      "coordinate": {
+        "longitude": 109.9655047,
+        "latitude": -1.8577583,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2024",
+      "name": "PAJEKSAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1463651,
+        "latitude": -6.7144267,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2025",
+      "name": "KUDUKERAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1500331,
+        "latitude": -6.7131508,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2026",
+      "name": "KEBONSAWAHAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1460714,
+        "latitude": -6.7109467,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2027",
+      "name": "BAJOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1525206,
+        "latitude": -6.7073669,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2028",
+      "name": "BENDAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59185,
+      "coordinate": {
+        "longitude": 111.1586687,
+        "latitude": -6.7031473,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.18.08.2029",
+      "name": "TRIMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.18",
+      "cityName": "KAB. PATI",
+      "districtCode": "33.18.08",
+      "districtName": "JUWANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55513,
+      "coordinate": {
+        "longitude": 110.3571563,
+        "latitude": -7.6790932,
+        "elevation": 302
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 29
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.16.07.1001",
+      "name": "WANASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.07",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92985,
+      "coordinate": {
+        "longitude": 120.9184805,
+        "latitude": -2.513999,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.07.2002",
+      "name": "WANAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.07",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17520,
+      "coordinate": {
+        "longitude": 107.1035162,
+        "latitude": -6.2461176,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.07.2003",
+      "name": "KERTAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.07",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5588946,
+        "latitude": -6.6999228,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.07.2004",
+      "name": "MUKTIWARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.07",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17520,
+      "coordinate": {
+        "longitude": 107.0992427,
+        "latitude": -6.2100922,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.07.2005",
+      "name": "SARIMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.07",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93351,
+      "coordinate": {
+        "longitude": 122.2332261,
+        "latitude": -3.3448292,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.07.2006",
+      "name": "SUKAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.07",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42171,
+      "coordinate": {
+        "longitude": 106.1612787,
+        "latitude": -6.1683366,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.07.2007",
+      "name": "CIBUNTU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.07",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40212,
+      "coordinate": {
+        "longitude": 107.5714966,
+        "latitude": -6.9227183,
+        "elevation": 711
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

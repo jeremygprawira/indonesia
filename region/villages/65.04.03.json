@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.04.03.2001",
+      "name": "TANAH MERAH",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.03",
+      "districtName": "TANA LIA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1740163,
+        "latitude": -2.4587745,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.03.2002",
+      "name": "TENGKU DACING",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.03",
+      "districtName": "TANA LIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77451,
+      "coordinate": {
+        "longitude": 117.6906997,
+        "latitude": 3.7397138,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.03.2003",
+      "name": "SAMBUNGAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.03",
+      "districtName": "TANA LIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77451,
+      "coordinate": {
+        "longitude": 117.6507166,
+        "latitude": 3.6382983,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.03.2004",
+      "name": "TANAH MERAH BARAT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.03",
+      "districtName": "TANA LIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77451,
+      "coordinate": {
+        "longitude": 117.5329648,
+        "latitude": 3.7202393,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.03.2005",
+      "name": "SAMBUNGAN SELATAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.03",
+      "districtName": "TANA LIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77451,
+      "coordinate": {
+        "longitude": 117.5623676,
+        "latitude": 3.6698988,
+        "elevation": 41
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

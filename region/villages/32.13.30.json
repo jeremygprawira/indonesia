@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.13.30.2001",
+      "name": "KEBONDANAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41255,
+      "coordinate": {
+        "longitude": 107.8998333,
+        "latitude": -6.2812941,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.30.2002",
+      "name": "PUSAKAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41255,
+      "coordinate": {
+        "longitude": 107.871307,
+        "latitude": -6.2952574,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.30.2003",
+      "name": "KARANGANYAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67131,
+      "coordinate": {
+        "longitude": 112.9011027,
+        "latitude": -7.6377667,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.30.2004",
+      "name": "BOJONGTENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41255,
+      "coordinate": {
+        "longitude": 107.8539674,
+        "latitude": -6.3211489,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.30.2005",
+      "name": "BOJONGJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41255,
+      "coordinate": {
+        "longitude": 107.88124,
+        "latitude": -6.3120602,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.30.2006",
+      "name": "CIGUGUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46392,
+      "coordinate": {
+        "longitude": 108.4194392,
+        "latitude": -7.6195081,
+        "elevation": 192
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.30.2007",
+      "name": "CIGUGUR KALER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41255,
+      "coordinate": {
+        "longitude": 107.8966211,
+        "latitude": -6.3135763,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.30.2008",
+      "name": "RANGDU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.30",
+      "districtName": "PUSAKAJAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81153,
+      "coordinate": {
+        "longitude": 114.9533767,
+        "latitude": -8.2335544,
+        "elevation": 170
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

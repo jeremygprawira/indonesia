@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.03.06.2001",
+      "name": "KEUDE BAGOK SA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6667386,
+        "latitude": 5.0306859,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2002",
+      "name": "KEUDE BAGOK DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6650207,
+        "latitude": 5.0362532,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2003",
+      "name": "ASAN TANJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6647419,
+        "latitude": 5.0446017,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2004",
+      "name": "BANTAYAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94723,
+      "coordinate": {
+        "longitude": 123.073831,
+        "latitude": -0.8498282,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2005",
+      "name": "MATANG SEULEUMAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6810892,
+        "latitude": 5.0165101,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2006",
+      "name": "TEUPIN PUKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6788347,
+        "latitude": 5.0342964,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2007",
+      "name": "MATANG NEUHEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6843215,
+        "latitude": 5.0111151,
+        "elevation": -2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2008",
+      "name": "KUALA BAGOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6698545,
+        "latitude": 5.0480543,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2009",
+      "name": "MEUNASAH TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.259696,
+        "latitude": 5.2215003,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2010",
+      "name": "MEDANG ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0760587,
+        "latitude": 4.3349781,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2011",
+      "name": "PEULAWI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6527773,
+        "latitude": 5.0502968,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2012",
+      "name": "BAROH BUGENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6566597,
+        "latitude": 5.0507645,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2013",
+      "name": "SEUMATANG ARON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6432891,
+        "latitude": 5.0278029,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2014",
+      "name": "BLANG PANJOU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6434232,
+        "latitude": 5.0220424,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2025",
+      "name": "PULO U",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2385676,
+        "latitude": 5.2336383,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2026",
+      "name": "COT ASAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24382,
+      "coordinate": {
+        "longitude": 97.3717116,
+        "latitude": 4.9679012,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2027",
+      "name": "PAYA ENJEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6751573,
+        "latitude": 5.0004885,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2028",
+      "name": "SEULEUMAK MUDA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24441,
+      "coordinate": {
+        "longitude": 97.8155804,
+        "latitude": 4.8301983,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2029",
+      "name": "MATANG PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24411,
+      "coordinate": {
+        "longitude": 98.0052938,
+        "latitude": 4.44855,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2030",
+      "name": "MEUNASAH HAGU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.232469,
+        "latitude": 5.2232478,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2031",
+      "name": "MATANG KUNYET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6943477,
+        "latitude": 5.021497,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2032",
+      "name": "BUKET PANJOU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6671231,
+        "latitude": 4.9990332,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2033",
+      "name": "BUKET MEURAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.655251,
+        "latitude": 4.9907464,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2034",
+      "name": "BUKET PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.661168,
+        "latitude": 5.0041783,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2035",
+      "name": "SEUNEUBOK DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24250,
+      "coordinate": {
+        "longitude": 96.7131579,
+        "latitude": 5.1088733,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2036",
+      "name": "GAMPONG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24262,
+      "coordinate": {
+        "longitude": 96.6124392,
+        "latitude": 5.1988159,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2037",
+      "name": "ALUE SIWAH SERDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6464173,
+        "latitude": 4.9016463,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2038",
+      "name": "GAMPONG LHEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.6415614,
+        "latitude": 4.9575435,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2039",
+      "name": "BEURANDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.195686,
+        "latitude": 5.1158905,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2040",
+      "name": "GAMPONG JALAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.638977,
+        "latitude": 4.9877485,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.06.2041",
+      "name": "SEUNEUBOK RAMBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.06",
+      "districtName": "NURUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24467,
+      "coordinate": {
+        "longitude": 97.636752,
+        "latitude": 4.9795691,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 31
+  }
+}

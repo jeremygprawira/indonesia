@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.03.16.2001",
+      "name": "BULOTALANGI",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.16",
+      "districtName": "BULANGO TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96542,
+      "coordinate": {
+        "longitude": 123.0995309,
+        "latitude": 0.5979873,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.16.2002",
+      "name": "TOLUWAYA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.16",
+      "districtName": "BULANGO TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96542,
+      "coordinate": {
+        "longitude": 123.0840972,
+        "latitude": 0.6001189,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.16.2003",
+      "name": "POPODU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.16",
+      "districtName": "BULANGO TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96542,
+      "coordinate": {
+        "longitude": 123.083343,
+        "latitude": 0.604062,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.16.2004",
+      "name": "BULOTALANGI TIMUR",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.16",
+      "districtName": "BULANGO TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96542,
+      "coordinate": {
+        "longitude": 123.1148305,
+        "latitude": 0.6066872,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.16.2005",
+      "name": "BULOTALANGI BARAT",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.16",
+      "districtName": "BULANGO TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96542,
+      "coordinate": {
+        "longitude": 123.0960356,
+        "latitude": 0.5997036,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

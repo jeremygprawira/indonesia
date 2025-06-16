@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.07.1001",
+      "name": "PESAWAHAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.07",
+      "districtName": "TELUKBETUNG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61274,
+      "coordinate": {
+        "longitude": 112.67866,
+        "latitude": -7.5103526,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.07.1002",
+      "name": "TELUKBETUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.07",
+      "districtName": "TELUKBETUNG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35221,
+      "coordinate": {
+        "longitude": 105.2677462,
+        "latitude": -5.4459999,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.07.1008",
+      "name": "TALANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.07",
+      "districtName": "TELUKBETUNG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69467,
+      "coordinate": {
+        "longitude": 113.7973528,
+        "latitude": -7.0639407,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.07.1009",
+      "name": "GEDONG PAKUON",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.07",
+      "districtName": "TELUKBETUNG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35222,
+      "coordinate": {
+        "longitude": 105.2547961,
+        "latitude": -5.4456798,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.07.1012",
+      "name": "SUMUR PUTRI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.07",
+      "districtName": "TELUKBETUNG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35215,
+      "coordinate": {
+        "longitude": 105.2433377,
+        "latitude": -5.4328307,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.07.1013",
+      "name": "GUNUNGMAS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.07",
+      "districtName": "TELUKBETUNG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35211,
+      "coordinate": {
+        "longitude": 105.2690398,
+        "latitude": -5.442496,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

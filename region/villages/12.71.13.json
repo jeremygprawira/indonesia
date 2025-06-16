@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.13.1001",
+      "name": "PEKAN LABUHAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.13",
+      "districtName": "MEDAN LABUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20253,
+      "coordinate": {
+        "longitude": 98.6754918,
+        "latitude": 3.7379948,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.13.1002",
+      "name": "SEI MATI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.13",
+      "districtName": "MEDAN LABUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20159,
+      "coordinate": {
+        "longitude": 98.6862141,
+        "latitude": 3.5670552,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.13.1003",
+      "name": "BESAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.13",
+      "districtName": "MEDAN LABUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20251,
+      "coordinate": {
+        "longitude": 98.6893016,
+        "latitude": 3.6984654,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.13.1004",
+      "name": "MARTUBUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.13",
+      "districtName": "MEDAN LABUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20252,
+      "coordinate": {
+        "longitude": 98.6877146,
+        "latitude": 3.7109433,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.13.1005",
+      "name": "NELAYAN INDAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.13",
+      "districtName": "MEDAN LABUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20524,
+      "coordinate": {
+        "longitude": 98.6934473,
+        "latitude": 3.7464574,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.13.1006",
+      "name": "TANGKAHAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.13",
+      "districtName": "MEDAN LABUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20525,
+      "coordinate": {
+        "longitude": 98.7008979,
+        "latitude": 3.6938387,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

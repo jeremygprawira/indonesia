@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.03.02.1001",
+      "name": "NUNUKAN TIMUR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.02",
+      "districtName": "NUNUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77482,
+      "coordinate": {
+        "longitude": 117.6616689,
+        "latitude": 4.1406056,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.02.1002",
+      "name": "NUNUKAN BARAT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.02",
+      "districtName": "NUNUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77482,
+      "coordinate": {
+        "longitude": 117.5490373,
+        "latitude": 3.8997369,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.02.1003",
+      "name": "NUNUKAN UTARA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.02",
+      "districtName": "NUNUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77482,
+      "coordinate": {
+        "longitude": 117.6528007,
+        "latitude": 4.1434064,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.02.1005",
+      "name": "NUNUKAN TENGAH",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.02",
+      "districtName": "NUNUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77482,
+      "coordinate": {
+        "longitude": 117.6591364,
+        "latitude": 4.1177448,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.02.2004",
+      "name": "BINUSAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.02",
+      "districtName": "NUNUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77482,
+      "coordinate": {
+        "longitude": 117.6262275,
+        "latitude": 4.0506549,
+        "elevation": 48
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

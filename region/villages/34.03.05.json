@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.03.05.2001",
+      "name": "SODO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.05",
+      "districtName": "PALIYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66273,
+      "coordinate": {
+        "longitude": 111.8226832,
+        "latitude": -8.1619462,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.05.2002",
+      "name": "PAMPANG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.05",
+      "districtName": "PALIYAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90231,
+      "coordinate": {
+        "longitude": 119.4540812,
+        "latitude": -5.1296824,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.05.2003",
+      "name": "GROGOL",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.05",
+      "districtName": "PALIYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42436,
+      "coordinate": {
+        "longitude": 106.032367,
+        "latitude": -5.9754441,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.05.2004",
+      "name": "KARANGDUWET",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.05",
+      "districtName": "PALIYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55871,
+      "coordinate": {
+        "longitude": 110.4999015,
+        "latitude": -8.0023584,
+        "elevation": 150
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.05.2005",
+      "name": "KARANGASEM",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.05",
+      "districtName": "PALIYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62352,
+      "coordinate": {
+        "longitude": 111.9019585,
+        "latitude": -6.8154449,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.05.2006",
+      "name": "MULUSAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.05",
+      "districtName": "PALIYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55871,
+      "coordinate": {
+        "longitude": 110.5453132,
+        "latitude": -8.0143508,
+        "elevation": 169
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.05.2007",
+      "name": "GIRING",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.05",
+      "districtName": "PALIYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69452,
+      "coordinate": {
+        "longitude": 113.877494,
+        "latitude": -6.9647345,
+        "elevation": 64
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

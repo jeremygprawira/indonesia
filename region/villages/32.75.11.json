@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.11.1001",
+      "name": "PADURENAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.11",
+      "districtName": "MUSTIKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15159,
+      "coordinate": {
+        "longitude": 106.6972175,
+        "latitude": -6.2183663,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.11.1002",
+      "name": "CIMUNING",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.11",
+      "districtName": "MUSTIKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17155,
+      "coordinate": {
+        "longitude": 107.0251197,
+        "latitude": -6.323008,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.11.1003",
+      "name": "MUSTIKAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.11",
+      "districtName": "MUSTIKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17158,
+      "coordinate": {
+        "longitude": 107.025958,
+        "latitude": -6.2957476,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.11.1004",
+      "name": "MUSTIKASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.11",
+      "districtName": "MUSTIKAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17157,
+      "coordinate": {
+        "longitude": 107.0085192,
+        "latitude": -6.2953624,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

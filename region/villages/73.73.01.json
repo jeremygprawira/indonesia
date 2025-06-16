@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.73.01.1001",
+      "name": "TOMPOTIKKA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.01",
+      "districtName": "WARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1983328,
+        "latitude": -3.006131,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.01.1002",
+      "name": "BOTING",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.01",
+      "districtName": "WARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91923,
+      "coordinate": {
+        "longitude": 120.186993,
+        "latitude": -3.0023659,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.01.1003",
+      "name": "AMASANGAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.01",
+      "districtName": "WARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91922,
+      "coordinate": {
+        "longitude": 120.194521,
+        "latitude": -2.9992785,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.01.1005",
+      "name": "LAGALIGO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.01",
+      "districtName": "WARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1923891,
+        "latitude": -3.0027838,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.01.1011",
+      "name": "DANGERAKKO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.01",
+      "districtName": "WARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1959369,
+        "latitude": -3.0069386,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.01.1012",
+      "name": "PAJALESANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.01",
+      "districtName": "WARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.193064,
+        "latitude": -3.0184104,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

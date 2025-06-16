@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.15.2001",
+      "name": "SILAYANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.15",
+      "districtName": "MAPAT TUNGGUL SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26354,
+      "coordinate": {
+        "longitude": 100.1730323,
+        "latitude": 0.5161076,
+        "elevation": 398
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.15.2002",
+      "name": "MUARO SUNGAI LOLO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.15",
+      "districtName": "MAPAT TUNGGUL SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26354,
+      "coordinate": {
+        "longitude": 100.2646051,
+        "latitude": 0.2536779,
+        "elevation": 532
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

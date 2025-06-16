@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.05.12.2001",
+      "name": "PANYANGKALANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.12",
+      "districtName": "LAIKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4854408,
+        "latitude": -5.5363714,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.12.2002",
+      "name": "BONTOPARANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.12",
+      "districtName": "LAIKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92179,
+      "coordinate": {
+        "longitude": 119.6085386,
+        "latitude": -5.2536891,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.12.2003",
+      "name": "PATTOPAKANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.12",
+      "districtName": "LAIKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4566038,
+        "latitude": -5.5414619,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.12.2004",
+      "name": "CIKOANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.12",
+      "districtName": "LAIKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4398028,
+        "latitude": -5.5478405,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.12.2005",
+      "name": "PUNAGA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.12",
+      "districtName": "LAIKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4131579,
+        "latitude": -5.5726812,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.12.2006",
+      "name": "LAIKANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.12",
+      "districtName": "LAIKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90242,
+      "coordinate": {
+        "longitude": 119.5338795,
+        "latitude": -5.1050414,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

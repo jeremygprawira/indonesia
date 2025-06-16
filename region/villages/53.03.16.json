@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.16.2001",
+      "name": "INBATE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.16",
+      "districtName": "BIKOMI NILULAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85651,
+      "coordinate": {
+        "longitude": 124.3916852,
+        "latitude": -9.4286757,
+        "elevation": 430
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.16.2002",
+      "name": "SUNKAEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.16",
+      "districtName": "BIKOMI NILULAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85651,
+      "coordinate": {
+        "longitude": 124.3664983,
+        "latitude": -9.4632824,
+        "elevation": 535
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.16.2003",
+      "name": "NAINABAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.16",
+      "districtName": "BIKOMI NILULAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85651,
+      "coordinate": {
+        "longitude": 124.3667244,
+        "latitude": -9.4392679,
+        "elevation": 740
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.16.2004",
+      "name": "HAUMENI ANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.16",
+      "districtName": "BIKOMI NILULAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85651,
+      "coordinate": {
+        "longitude": 124.3480245,
+        "latitude": -9.5024701,
+        "elevation": 745
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.16.2005",
+      "name": "NILULAT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.16",
+      "districtName": "BIKOMI NILULAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85651,
+      "coordinate": {
+        "longitude": 124.3314314,
+        "latitude": -9.5064982,
+        "elevation": 879
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.16.2006",
+      "name": "TUBU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.16",
+      "districtName": "BIKOMI NILULAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85651,
+      "coordinate": {
+        "longitude": 124.3070719,
+        "latitude": -9.5041205,
+        "elevation": 944
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

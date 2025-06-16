@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.10.2001",
+      "name": "SUNGAI LIMAU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.10",
+      "districtName": "ASAM JUJUHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77487,
+      "coordinate": {
+        "longitude": 117.8209343,
+        "latitude": 4.152515,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.10.2002",
+      "name": "ALAHAN NAN TIGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.10",
+      "districtName": "ASAM JUJUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27684,
+      "coordinate": {
+        "longitude": 101.6131583,
+        "latitude": -1.4366086,
+        "elevation": 251
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.10.2003",
+      "name": "LUBUK BESAR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.10",
+      "districtName": "ASAM JUJUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33682,
+      "coordinate": {
+        "longitude": 106.6618948,
+        "latitude": -2.6320057,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.10.2004",
+      "name": "TANJUNG ALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.10",
+      "districtName": "ASAM JUJUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39370,
+      "coordinate": {
+        "longitude": 102.486817,
+        "latitude": -3.5344894,
+        "elevation": 608
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.10.2005",
+      "name": "SINAMAR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.10",
+      "districtName": "ASAM JUJUHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27684,
+      "coordinate": {
+        "longitude": 101.6494546,
+        "latitude": -1.3284631,
+        "elevation": 160
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

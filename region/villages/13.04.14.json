@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.04.14.2001",
+      "name": "BATU TABA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.14",
+      "districtName": "BATIPUAH SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26190,
+      "coordinate": {
+        "longitude": 100.4179108,
+        "latitude": -0.3143099,
+        "elevation": 948
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.14.2002",
+      "name": "SUMPUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.14",
+      "districtName": "BATIPUAH SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27266,
+      "coordinate": {
+        "longitude": 100.4948196,
+        "latitude": -0.5298884,
+        "elevation": 368
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.14.2003",
+      "name": "PADANG LAWEH MALALO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.14",
+      "districtName": "BATIPUAH SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27266,
+      "coordinate": {
+        "longitude": 100.4689274,
+        "latitude": -0.5630291,
+        "elevation": 638
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.14.2004",
+      "name": "GUGUAK MALALO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.14",
+      "districtName": "BATIPUAH SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27266,
+      "coordinate": {
+        "longitude": 100.4552027,
+        "latitude": -0.6267345,
+        "elevation": 1335
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

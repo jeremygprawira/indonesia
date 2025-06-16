@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "95.06.01",
+      "name": "ELELIM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO"
+    },
+    {
+      "type": "district",
+      "code": "95.06.02",
+      "name": "APALAPSILI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO"
+    },
+    {
+      "type": "district",
+      "code": "95.06.03",
+      "name": "ABENAHO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO"
+    },
+    {
+      "type": "district",
+      "code": "95.06.04",
+      "name": "BENAWA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO"
+    },
+    {
+      "type": "district",
+      "code": "95.06.05",
+      "name": "WELAREK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

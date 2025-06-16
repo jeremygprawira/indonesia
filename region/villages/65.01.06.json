@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.01.06.2001",
+      "name": "SALIMBATU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.06",
+      "districtName": "TANJUNG PALAS TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77216,
+      "coordinate": {
+        "longitude": 117.3521933,
+        "latitude": 3.0693414,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.06.2002",
+      "name": "SILVA RAHAYU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.06",
+      "districtName": "TANJUNG PALAS TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77216,
+      "coordinate": {
+        "longitude": 117.2943583,
+        "latitude": 2.9921743,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.06.2003",
+      "name": "TANJUNG BUKA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.06",
+      "districtName": "TANJUNG PALAS TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77216,
+      "coordinate": {
+        "longitude": 117.5337745,
+        "latitude": 2.8758321,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

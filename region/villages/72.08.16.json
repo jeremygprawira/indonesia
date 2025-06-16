@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.08.16.2001",
+      "name": "PARIGIMPU-U",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.16",
+      "districtName": "PARIGI BARAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.16.2002",
+      "name": "BALIARA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.16",
+      "districtName": "PARIGI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93780,
+      "coordinate": {
+        "longitude": 121.8254998,
+        "latitude": -5.1961199,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.16.2003",
+      "name": "KAYUBOKO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.16",
+      "districtName": "PARIGI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94460,
+      "coordinate": {
+        "longitude": 120.122495,
+        "latitude": -0.8390517,
+        "elevation": 315
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.16.2004",
+      "name": "JONO KALORA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.16",
+      "districtName": "PARIGI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94460,
+      "coordinate": {
+        "longitude": 120.120874,
+        "latitude": -0.8034473,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.16.2005",
+      "name": "AIR PANAS",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.16",
+      "districtName": "PARIGI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5351833,
+        "latitude": 1.2418628,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.16.2006",
+      "name": "LOBU MANDIRI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.16",
+      "districtName": "PARIGI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94460,
+      "coordinate": {
+        "longitude": 120.1223827,
+        "latitude": -0.8237466,
+        "elevation": 172
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

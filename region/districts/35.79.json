@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "35.79.01",
+      "name": "BATU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU"
+    },
+    {
+      "type": "district",
+      "code": "35.79.02",
+      "name": "BUMIAJI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU"
+    },
+    {
+      "type": "district",
+      "code": "35.79.03",
+      "name": "JUNREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU"
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.01.24.2001",
+      "name": "SIDOHARJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.24",
+      "districtName": "WAY PANJI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94765,
+      "coordinate": {
+        "longitude": 122.3768222,
+        "latitude": -1.4449195,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.24.2002",
+      "name": "SIDOMAKMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.24",
+      "districtName": "WAY PANJI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92967,
+      "coordinate": {
+        "longitude": 120.5590221,
+        "latitude": -2.6488413,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.24.2003",
+      "name": "SIDORENO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.24",
+      "districtName": "WAY PANJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35354,
+      "coordinate": {
+        "longitude": 105.5991971,
+        "latitude": -5.5929124,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.24.2004",
+      "name": "BALI NURAGA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.24",
+      "districtName": "WAY PANJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35354,
+      "coordinate": {
+        "longitude": 105.5958389,
+        "latitude": -5.5747627,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

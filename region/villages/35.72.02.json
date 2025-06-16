@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.72.02.1001",
+      "name": "PAKUNDEN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.72",
+      "cityName": "KOTA BLITAR",
+      "districtCode": "35.72.02",
+      "districtName": "SUKOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66122,
+      "coordinate": {
+        "longitude": 112.1483598,
+        "latitude": -8.0946182,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.72.02.1002",
+      "name": "BLITAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.72",
+      "cityName": "KOTA BLITAR",
+      "districtCode": "35.72.02",
+      "districtName": "SUKOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66126,
+      "coordinate": {
+        "longitude": 112.1451187,
+        "latitude": -8.1052518,
+        "elevation": 153
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.72.02.1003",
+      "name": "TLUMPU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.72",
+      "cityName": "KOTA BLITAR",
+      "districtCode": "35.72.02",
+      "districtName": "SUKOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66124,
+      "coordinate": {
+        "longitude": 112.1509302,
+        "latitude": -8.1172063,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.72.02.1004",
+      "name": "TURI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.72",
+      "cityName": "KOTA BLITAR",
+      "districtCode": "35.72.02",
+      "districtName": "SUKOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66126,
+      "coordinate": {
+        "longitude": 112.1541568,
+        "latitude": -8.1080152,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.72.02.1005",
+      "name": "KARANGSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.72",
+      "cityName": "KOTA BLITAR",
+      "districtCode": "35.72.02",
+      "districtName": "SUKOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42277,
+      "coordinate": {
+        "longitude": 105.840127,
+        "latitude": -6.564011,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.72.02.1006",
+      "name": "SUKOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.72",
+      "cityName": "KOTA BLITAR",
+      "districtCode": "35.72.02",
+      "districtName": "SUKOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74280,
+      "coordinate": {
+        "longitude": 112.0445295,
+        "latitude": -2.263078,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.72.02.1007",
+      "name": "TANJUNGSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.72",
+      "cityName": "KOTA BLITAR",
+      "districtCode": "35.72.02",
+      "districtName": "SUKOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.0707831,
+        "latitude": -6.2208802,
+        "elevation": 359
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

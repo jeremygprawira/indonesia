@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.71.02.1001",
+      "name": "OPAS INDAH",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.02",
+      "districtName": "TAMAN SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33121,
+      "coordinate": {
+        "longitude": 106.1177242,
+        "latitude": -2.1151018,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.02.1002",
+      "name": "GEDUNG NASIONAL",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.02",
+      "districtName": "TAMAN SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33127,
+      "coordinate": {
+        "longitude": 106.113992,
+        "latitude": -2.124793,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.02.1003",
+      "name": "BATIN TIKAL",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.02",
+      "districtName": "TAMAN SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33121,
+      "coordinate": {
+        "longitude": 106.1099554,
+        "latitude": -2.1209345,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.02.1004",
+      "name": "RAWA BANGUN",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.02",
+      "districtName": "TAMAN SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33121,
+      "coordinate": {
+        "longitude": 106.1092365,
+        "latitude": -2.1272758,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.02.1005",
+      "name": "KEJAKSAAN",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.02",
+      "districtName": "TAMAN SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33123,
+      "coordinate": {
+        "longitude": 106.1020417,
+        "latitude": -2.1252298,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

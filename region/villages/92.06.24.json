@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.24.2001",
+      "name": "IGOMU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.24",
+      "districtName": "MOSKONA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98164,
+      "coordinate": {
+        "longitude": 133.2268191,
+        "latitude": -1.307583,
+        "elevation": 830
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.24.2002",
+      "name": "MESNA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.24",
+      "districtName": "MOSKONA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98164,
+      "coordinate": {
+        "longitude": 133.1489403,
+        "latitude": -1.3193312,
+        "elevation": 908
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.24.2003",
+      "name": "SUMUY",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.24",
+      "districtName": "MOSKONA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98164,
+      "coordinate": {
+        "longitude": 133.258795,
+        "latitude": -1.3987528,
+        "elevation": 934
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

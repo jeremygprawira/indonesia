@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.08.2001",
+      "name": "FRUATA/IROWUTU II",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.08",
+      "districtName": "FAFURWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98133,
+      "coordinate": {
+        "longitude": 133.3101186,
+        "latitude": -2.9724219,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.08.2002",
+      "name": "MERYEDI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.08",
+      "districtName": "FAFURWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98133,
+      "coordinate": {
+        "longitude": 133.6137646,
+        "latitude": -2.9773043,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.08.2003",
+      "name": "RIENDO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.08",
+      "districtName": "FAFURWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98133,
+      "coordinate": {
+        "longitude": 133.615064,
+        "latitude": -2.9149739,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

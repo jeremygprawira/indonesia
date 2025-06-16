@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.01.22.2001",
+      "name": "BANGUN SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93621,
+      "coordinate": {
+        "longitude": 122.6871426,
+        "latitude": -4.7653195,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.22.2002",
+      "name": "PURWODADI DALAM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35360,
+      "coordinate": {
+        "longitude": 105.4376624,
+        "latitude": -5.3701639,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.22.2003",
+      "name": "SIDOMUKTI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96157,
+      "coordinate": {
+        "longitude": 122.6533617,
+        "latitude": 0.6760994,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.22.2004",
+      "name": "WAWASAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35360,
+      "coordinate": {
+        "longitude": 105.505578,
+        "latitude": -5.3791446,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.22.2005",
+      "name": "MULYOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66262,
+      "coordinate": {
+        "longitude": 111.8062883,
+        "latitude": -8.0040354,
+        "elevation": 279
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.22.2006",
+      "name": "WONODADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61383,
+      "coordinate": {
+        "longitude": 112.5298071,
+        "latitude": -7.5415726,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.22.2007",
+      "name": "KERTOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63171,
+      "coordinate": {
+        "longitude": 111.5401427,
+        "latitude": -7.6776042,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.22.2008",
+      "name": "MALANGSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.22",
+      "districtName": "TANJUNG SARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42372,
+      "coordinate": {
+        "longitude": 106.3455607,
+        "latitude": -6.5406856,
+        "elevation": 178
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

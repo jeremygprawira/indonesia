@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.08.19.1001",
+      "name": "POTULANDO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.19",
+      "districtName": "ENDE TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86312,
+      "coordinate": {
+        "longitude": 121.6491989,
+        "latitude": -8.8437579,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.19.1002",
+      "name": "ONEKORE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.19",
+      "districtName": "ENDE TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86318,
+      "coordinate": {
+        "longitude": 121.6524723,
+        "latitude": -8.8327132,
+        "elevation": 151
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.19.1003",
+      "name": "KELIMUTU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.19",
+      "districtName": "ENDE TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86319,
+      "coordinate": {
+        "longitude": 121.6571449,
+        "latitude": -8.8448537,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.19.1004",
+      "name": "PAUPIRE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.19",
+      "districtName": "ENDE TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86318,
+      "coordinate": {
+        "longitude": 121.6618119,
+        "latitude": -8.8321563,
+        "elevation": 110
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

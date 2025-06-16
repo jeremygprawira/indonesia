@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.06.15.2001",
+      "name": "BAJO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.15",
+      "districtName": "SOROMANDI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97796,
+      "coordinate": {
+        "longitude": 125.974997,
+        "latitude": -2.0059763,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.15.2002",
+      "name": "PUNTI",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.15",
+      "districtName": "SOROMANDI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.6814682,
+        "latitude": -8.4176944,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.15.2003",
+      "name": "WADUKOPA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.15",
+      "districtName": "SOROMANDI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.6472186,
+        "latitude": -8.427293,
+        "elevation": 224
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.15.2004",
+      "name": "KANATA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.15",
+      "districtName": "SOROMANDI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.6525102,
+        "latitude": -8.3817924,
+        "elevation": 272
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.15.2005",
+      "name": "SAI",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.15",
+      "districtName": "SOROMANDI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.635118,
+        "latitude": -8.3203934,
+        "elevation": 231
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.15.2006",
+      "name": "SAMPUNGU",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.15",
+      "districtName": "SOROMANDI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.5040299,
+        "latitude": -8.2919906,
+        "elevation": 342
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.15.2007",
+      "name": "LEWINTANA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.15",
+      "districtName": "SOROMANDI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.6640575,
+        "latitude": -8.4680626,
+        "elevation": 59
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

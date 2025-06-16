@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.06.21.2001",
+      "name": "WOPES",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.06",
+      "cityName": "KAB. BIAK NUMFOR",
+      "districtCode": "91.06.21",
+      "districtName": "BONDIFUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98554,
+      "coordinate": {
+        "longitude": 135.837829,
+        "latitude": -0.6961628,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.06.21.2002",
+      "name": "WANDOS",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.06",
+      "cityName": "KAB. BIAK NUMFOR",
+      "districtCode": "91.06.21",
+      "districtName": "BONDIFUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98554,
+      "coordinate": {
+        "longitude": 135.8359022,
+        "latitude": -0.7626863,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.06.21.2003",
+      "name": "DOUBO",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.06",
+      "cityName": "KAB. BIAK NUMFOR",
+      "districtCode": "91.06.21",
+      "districtName": "BONDIFUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98554,
+      "coordinate": {
+        "longitude": 135.8302445,
+        "latitude": -0.7471716,
+        "elevation": 403
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.06.21.2004",
+      "name": "SYURDORI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.06",
+      "cityName": "KAB. BIAK NUMFOR",
+      "districtCode": "91.06.21",
+      "districtName": "BONDIFUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98573,
+      "coordinate": {
+        "longitude": 135.7698627,
+        "latitude": -0.7370241,
+        "elevation": 157
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.06.21.2005",
+      "name": "SANSUNDI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.06",
+      "cityName": "KAB. BIAK NUMFOR",
+      "districtCode": "91.06.21",
+      "districtName": "BONDIFUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98554,
+      "coordinate": {
+        "longitude": 135.8452608,
+        "latitude": -0.7241744,
+        "elevation": 647
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

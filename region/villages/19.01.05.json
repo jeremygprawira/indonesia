@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.01.05.2001",
+      "name": "AIR RUAI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.01",
+      "cityName": "KAB. BANGKA",
+      "districtCode": "19.01.05",
+      "districtName": "PEMALI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33255,
+      "coordinate": {
+        "longitude": 106.0709658,
+        "latitude": -1.8801384,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.01.05.2002",
+      "name": "AIR DUREN",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.01",
+      "cityName": "KAB. BANGKA",
+      "districtCode": "19.01.05",
+      "districtName": "PEMALI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33255,
+      "coordinate": {
+        "longitude": 106.0337897,
+        "latitude": -1.9071765,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.01.05.2003",
+      "name": "PENYAMUN",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.01",
+      "cityName": "KAB. BANGKA",
+      "districtCode": "19.01.05",
+      "districtName": "PEMALI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33251,
+      "coordinate": {
+        "longitude": 106.0261981,
+        "latitude": -1.8495502,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.01.05.2004",
+      "name": "SEMPAN",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.01",
+      "cityName": "KAB. BANGKA",
+      "districtCode": "19.01.05",
+      "districtName": "PEMALI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99952,
+      "coordinate": {
+        "longitude": 136.8940147,
+        "latitude": -4.5560479,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.01.05.2005",
+      "name": "PEMALI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.01",
+      "cityName": "KAB. BANGKA",
+      "districtCode": "19.01.05",
+      "districtName": "PEMALI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33255,
+      "coordinate": {
+        "longitude": 106.0473312,
+        "latitude": -1.8752683,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.01.05.2006",
+      "name": "KARYA MAKMUR",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.01",
+      "cityName": "KAB. BANGKA",
+      "districtCode": "19.01.05",
+      "districtName": "PEMALI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94766,
+      "coordinate": {
+        "longitude": 122.1347397,
+        "latitude": -1.4753197,
+        "elevation": 199
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

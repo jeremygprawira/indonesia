@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.27.14.2001",
+      "name": "PAKEMBARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.27",
+      "cityName": "KAB. PEMALANG",
+      "districtCode": "33.27.14",
+      "districtName": "WARUNGPRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52415,
+      "coordinate": {
+        "longitude": 109.130255,
+        "latitude": -6.9783441,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.27.14.2002",
+      "name": "WARUNGPRING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.27",
+      "cityName": "KAB. PEMALANG",
+      "districtCode": "33.27.14",
+      "districtName": "WARUNGPRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52358,
+      "coordinate": {
+        "longitude": 109.2559735,
+        "latitude": -7.0828909,
+        "elevation": 354
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.27.14.2003",
+      "name": "KARANGDAWA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.27",
+      "cityName": "KAB. PEMALANG",
+      "districtCode": "33.27.14",
+      "districtName": "WARUNGPRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52463,
+      "coordinate": {
+        "longitude": 109.0452131,
+        "latitude": -7.0683074,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.27.14.2004",
+      "name": "DATAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.27",
+      "cityName": "KAB. PEMALANG",
+      "districtCode": "33.27.14",
+      "districtName": "WARUNGPRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52358,
+      "coordinate": {
+        "longitude": 109.274846,
+        "latitude": -7.0917472,
+        "elevation": 361
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.27.14.2005",
+      "name": "CIBUYUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.27",
+      "cityName": "KAB. PEMALANG",
+      "districtCode": "33.27.14",
+      "districtName": "WARUNGPRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52358,
+      "coordinate": {
+        "longitude": 109.2790245,
+        "latitude": -7.0795249,
+        "elevation": 313
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.27.14.2006",
+      "name": "MERENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.27",
+      "cityName": "KAB. PEMALANG",
+      "districtCode": "33.27.14",
+      "districtName": "WARUNGPRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52358,
+      "coordinate": {
+        "longitude": 109.2700448,
+        "latitude": -7.0635765,
+        "elevation": 273
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

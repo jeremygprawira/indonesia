@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.19.2001",
+      "name": "ARUNG AYAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.19",
+      "districtName": "SERASAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29780,
+      "coordinate": {
+        "longitude": 109.0557497,
+        "latitude": 2.5043053,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.19.2002",
+      "name": "AIR NUSA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.19",
+      "districtName": "SERASAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29780,
+      "coordinate": {
+        "longitude": 109.0994409,
+        "latitude": 2.5062926,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.19.2004",
+      "name": "AIR RINGAU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.19",
+      "districtName": "SERASAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29780,
+      "coordinate": {
+        "longitude": 109.046725,
+        "latitude": 2.4962302,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.19.2005",
+      "name": "PAYAK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.19",
+      "districtName": "SERASAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59157,
+      "coordinate": {
+        "longitude": 110.9273271,
+        "latitude": -6.5382988,
+        "elevation": 335
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "62.71.01",
+      "name": "PAHANDUT",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA"
+    },
+    {
+      "type": "district",
+      "code": "62.71.02",
+      "name": "BUKIT BATU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA"
+    },
+    {
+      "type": "district",
+      "code": "62.71.03",
+      "name": "JEKAN RAYA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA"
+    },
+    {
+      "type": "district",
+      "code": "62.71.04",
+      "name": "SABANGAU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA"
+    },
+    {
+      "type": "district",
+      "code": "62.71.05",
+      "name": "RAKUMPIT",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

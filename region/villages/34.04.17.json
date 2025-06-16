@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.17.2001",
+      "name": "ARGOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.17",
+      "districtName": "CANGKRINGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92973,
+      "coordinate": {
+        "longitude": 120.8943981,
+        "latitude": -2.5081642,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.17.2002",
+      "name": "WUKIRSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.17",
+      "districtName": "CANGKRINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55583,
+      "coordinate": {
+        "longitude": 110.4438026,
+        "latitude": -7.6522148,
+        "elevation": 476
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.17.2003",
+      "name": "GLAGAHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.17",
+      "districtName": "CANGKRINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55583,
+      "coordinate": {
+        "longitude": 110.4634482,
+        "latitude": -7.6146657,
+        "elevation": 742
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.17.2004",
+      "name": "KEPUHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.17",
+      "districtName": "CANGKRINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67316,
+      "coordinate": {
+        "longitude": 113.2375468,
+        "latitude": -8.1111892,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.17.2005",
+      "name": "UMBULHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.17",
+      "districtName": "CANGKRINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55583,
+      "coordinate": {
+        "longitude": 110.4377176,
+        "latitude": -7.6165374,
+        "elevation": 745
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

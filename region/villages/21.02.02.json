@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.02.1001",
+      "name": "TANJUNG BATU BARAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.02",
+      "districtName": "KUNDUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.02.1002",
+      "name": "TANJUNG BATU KOTA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.02",
+      "districtName": "KUNDUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.02.1009",
+      "name": "GADING SARI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.02",
+      "districtName": "KUNDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29662,
+      "coordinate": {
+        "longitude": 103.4434486,
+        "latitude": 0.6469406,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.02.2004",
+      "name": "SUNGAI SEBESI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.02",
+      "districtName": "KUNDUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.02.2005",
+      "name": "SUNGAI UNGAR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.02",
+      "districtName": "KUNDUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.02.2006",
+      "name": "LUBUK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.02",
+      "districtName": "KUNDUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99031,
+      "coordinate": {
+        "longitude": 138.4933974,
+        "latitude": -3.6534137,
+        "elevation": 1600
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.77.03.1001",
+      "name": "PASIRKALIKI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.03",
+      "districtName": "CIMAHI UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40514,
+      "coordinate": {
+        "longitude": 107.5658174,
+        "latitude": -6.8840908,
+        "elevation": 775
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.03.1002",
+      "name": "CIBABAT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.03",
+      "districtName": "CIMAHI UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40513,
+      "coordinate": {
+        "longitude": 107.5580934,
+        "latitude": -6.8748077,
+        "elevation": 794
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.03.1003",
+      "name": "CITEUREUP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.03",
+      "districtName": "CIMAHI UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42281,
+      "coordinate": {
+        "longitude": 105.6883064,
+        "latitude": -6.5410984,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.03.1004",
+      "name": "CIPAGERAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.03",
+      "districtName": "CIMAHI UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40511,
+      "coordinate": {
+        "longitude": 107.5404043,
+        "latitude": -6.8512673,
+        "elevation": 819
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

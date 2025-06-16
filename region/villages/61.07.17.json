@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.17.2001",
+      "name": "SINAR TEBUDAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.17",
+      "districtName": "TUJUH BELAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79250,
+      "coordinate": {
+        "longitude": 109.7213327,
+        "latitude": 1.0783021,
+        "elevation": 146
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.17.2002",
+      "name": "KAMUH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.17",
+      "districtName": "TUJUH BELAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79250,
+      "coordinate": {
+        "longitude": 109.7007517,
+        "latitude": 1.0550285,
+        "elevation": 141
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.17.2003",
+      "name": "BENGKILU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.17",
+      "districtName": "TUJUH BELAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79250,
+      "coordinate": {
+        "longitude": 109.7558822,
+        "latitude": 1.041016,
+        "elevation": 239
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.17.2004",
+      "name": "PISAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.17",
+      "districtName": "TUJUH BELAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79250,
+      "coordinate": {
+        "longitude": 109.8519582,
+        "latitude": 1.0366064,
+        "elevation": 551
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.09.16.2001",
+      "name": "TANJUNG HARAPAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.09",
+      "cityName": "KAB. OGAN KOMERING ULU SELATAN",
+      "districtCode": "16.09.16",
+      "districtName": "SINDANG DANAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4552093,
+        "latitude": 0.7507995,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.09.16.2002",
+      "name": "MUARA SINDANG ILIR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.09",
+      "cityName": "KAB. OGAN KOMERING ULU SELATAN",
+      "districtCode": "16.09.16",
+      "districtName": "SINDANG DANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32266,
+      "coordinate": {
+        "longitude": 103.5615891,
+        "latitude": -4.4860216,
+        "elevation": 901
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.09.16.2003",
+      "name": "MUARA SINDANG TENGAH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.09",
+      "cityName": "KAB. OGAN KOMERING ULU SELATAN",
+      "districtCode": "16.09.16",
+      "districtName": "SINDANG DANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32266,
+      "coordinate": {
+        "longitude": 103.5506319,
+        "latitude": -4.4702949,
+        "elevation": 871
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.09.16.2004",
+      "name": "PEMATANG DANAU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.09",
+      "cityName": "KAB. OGAN KOMERING ULU SELATAN",
+      "districtCode": "16.09.16",
+      "districtName": "SINDANG DANAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70672,
+      "coordinate": {
+        "longitude": 114.9276863,
+        "latitude": -3.2987238,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.09.16.2005",
+      "name": "ULU DANAU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.09",
+      "cityName": "KAB. OGAN KOMERING ULU SELATAN",
+      "districtCode": "16.09.16",
+      "districtName": "SINDANG DANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32266,
+      "coordinate": {
+        "longitude": 103.5690161,
+        "latitude": -4.3654566,
+        "elevation": 1524
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.09.16.2006",
+      "name": "TEBAT LAYANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.09",
+      "cityName": "KAB. OGAN KOMERING ULU SELATAN",
+      "districtCode": "16.09.16",
+      "districtName": "SINDANG DANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32266,
+      "coordinate": {
+        "longitude": 103.4823149,
+        "latitude": -4.3708719,
+        "elevation": 1762
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.09.16.2007",
+      "name": "WATAS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.09",
+      "cityName": "KAB. OGAN KOMERING ULU SELATAN",
+      "districtCode": "16.09.16",
+      "districtName": "SINDANG DANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32266,
+      "coordinate": {
+        "longitude": 103.5773755,
+        "latitude": -4.4934864,
+        "elevation": 1082
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

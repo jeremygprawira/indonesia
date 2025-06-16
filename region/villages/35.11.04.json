@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.11.04.2001",
+      "name": "SUKOSARI LOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.04",
+      "districtName": "SUKOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68287,
+      "coordinate": {
+        "longitude": 113.9561582,
+        "latitude": -7.9465401,
+        "elevation": 492
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.04.2002",
+      "name": "NOGOSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.04",
+      "districtName": "SUKOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5688124,
+        "latitude": -7.6489622,
+        "elevation": 596
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.04.2003",
+      "name": "PECALONGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.04",
+      "districtName": "SUKOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68287,
+      "coordinate": {
+        "longitude": 113.9345775,
+        "latitude": -7.9606671,
+        "elevation": 459
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.04.2004",
+      "name": "KERANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.04",
+      "districtName": "SUKOSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76261,
+      "coordinate": {
+        "longitude": 116.1232631,
+        "latitude": -2.2271061,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

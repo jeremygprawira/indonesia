@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.12.12.2001",
+      "name": "SOPET",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68372,
+      "coordinate": {
+        "longitude": 114.1581741,
+        "latitude": -7.7925824,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.12.2002",
+      "name": "CURAH KALAK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68372,
+      "coordinate": {
+        "longitude": 114.1812792,
+        "latitude": -7.7562084,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.12.2003",
+      "name": "PALANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74353,
+      "coordinate": {
+        "longitude": 112.7139702,
+        "latitude": -2.3773455,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.12.2004",
+      "name": "JANGKAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69172,
+      "coordinate": {
+        "longitude": 112.887698,
+        "latitude": -7.0694846,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.12.2005",
+      "name": "GADINGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68372,
+      "coordinate": {
+        "longitude": 114.1993825,
+        "latitude": -7.722488,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.12.2006",
+      "name": "KUMBANGSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68372,
+      "coordinate": {
+        "longitude": 114.1899318,
+        "latitude": -7.7156974,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.12.2007",
+      "name": "PESANGGRAHAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83663,
+      "coordinate": {
+        "longitude": 116.399299,
+        "latitude": -8.5527759,
+        "elevation": 565
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.12.2008",
+      "name": "AGEL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.12",
+      "districtName": "JANGKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68372,
+      "coordinate": {
+        "longitude": 114.1675815,
+        "latitude": -7.7158629,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

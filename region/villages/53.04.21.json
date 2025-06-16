@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.04.21.1001",
+      "name": "BARDAO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.21",
+      "districtName": "ATAMBUA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85715,
+      "coordinate": {
+        "longitude": 124.8931899,
+        "latitude": -9.1036402,
+        "elevation": 344
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.04.21.1002",
+      "name": "TULAMALAE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.21",
+      "districtName": "ATAMBUA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85714,
+      "coordinate": {
+        "longitude": 124.88686,
+        "latitude": -9.097288,
+        "elevation": 325
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.04.21.1003",
+      "name": "UMANEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.21",
+      "districtName": "ATAMBUA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85713,
+      "coordinate": {
+        "longitude": 124.8732238,
+        "latitude": -9.0859746,
+        "elevation": 368
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.04.21.1004",
+      "name": "BEIRAFU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.21",
+      "districtName": "ATAMBUA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85718,
+      "coordinate": {
+        "longitude": 124.8843578,
+        "latitude": -9.108083,
+        "elevation": 338
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

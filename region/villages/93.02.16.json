@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.16.2001",
+      "name": "WANGGEMALO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.16",
+      "districtName": "KOMBAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99682,
+      "coordinate": {
+        "longitude": 139.9338332,
+        "latitude": -5.4854499,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.16.2002",
+      "name": "SINIMBURU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.16",
+      "districtName": "KOMBAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99682,
+      "coordinate": {
+        "longitude": 140.0385522,
+        "latitude": -5.2318125,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.16.2003",
+      "name": "YAFUFLA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.16",
+      "districtName": "KOMBAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99682,
+      "coordinate": {
+        "longitude": 139.9407233,
+        "latitude": -5.2267104,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.16.2004",
+      "name": "UGO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.16",
+      "districtName": "KOMBAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99682,
+      "coordinate": {
+        "longitude": 139.8944527,
+        "latitude": -5.6440162,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.16.2005",
+      "name": "DEMA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.16",
+      "districtName": "KOMBAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99682,
+      "coordinate": {
+        "longitude": 139.9977917,
+        "latitude": -5.5793229,
+        "elevation": 62
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

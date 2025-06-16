@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.08.1001",
+      "name": "SUKAMAJU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.08",
+      "districtName": "CILODONG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.08.1002",
+      "name": "CILODONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.08",
+      "districtName": "CILODONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16414,
+      "coordinate": {
+        "longitude": 106.8458609,
+        "latitude": -6.4297057,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.08.1003",
+      "name": "KALIBARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.08",
+      "districtName": "CILODONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71371,
+      "coordinate": {
+        "longitude": 115.4592545,
+        "latitude": -2.6026455,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.08.1004",
+      "name": "KALIMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.08",
+      "districtName": "CILODONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16413,
+      "coordinate": {
+        "longitude": 106.8179648,
+        "latitude": -6.433091,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.08.1005",
+      "name": "JATIMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.08",
+      "districtName": "CILODONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.469653,
+        "latitude": 0.692403,
+        "elevation": 41
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

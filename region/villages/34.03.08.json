@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.03.08.2001",
+      "name": "NGEPOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.08",
+      "districtName": "SEMANU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55893,
+      "coordinate": {
+        "longitude": 110.6711435,
+        "latitude": -8.0105064,
+        "elevation": 180
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.08.2002",
+      "name": "SEMANU",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.08",
+      "districtName": "SEMANU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55893,
+      "coordinate": {
+        "longitude": 110.6468306,
+        "latitude": -7.9995604,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.08.2003",
+      "name": "PACAREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.08",
+      "districtName": "SEMANU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55893,
+      "coordinate": {
+        "longitude": 110.6121859,
+        "latitude": -8.0272534,
+        "elevation": 149
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.08.2004",
+      "name": "CANDIREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.08",
+      "districtName": "SEMANU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63319,
+      "coordinate": {
+        "longitude": 111.3094026,
+        "latitude": -7.6564953,
+        "elevation": 439
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.08.2005",
+      "name": "DADAPAYU",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.08",
+      "districtName": "SEMANU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55893,
+      "coordinate": {
+        "longitude": 110.7011857,
+        "latitude": -8.0628465,
+        "elevation": 304
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

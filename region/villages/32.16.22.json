@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.16.22.2001",
+      "name": "SIRNAJATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.22",
+      "districtName": "CIBARUSAH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.22.2002",
+      "name": "RIDOGALIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.22",
+      "districtName": "CIBARUSAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17340,
+      "coordinate": {
+        "longitude": 107.1340282,
+        "latitude": -6.4500873,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.22.2003",
+      "name": "RIDOMANAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.22",
+      "districtName": "CIBARUSAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17340,
+      "coordinate": {
+        "longitude": 107.1377543,
+        "latitude": -6.4358308,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.22.2004",
+      "name": "WIBAWAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.22",
+      "districtName": "CIBARUSAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17340,
+      "coordinate": {
+        "longitude": 107.1080795,
+        "latitude": -6.4140762,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.22.2005",
+      "name": "CIBARUSAH KOTA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.22",
+      "districtName": "CIBARUSAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17340,
+      "coordinate": {
+        "longitude": 107.0815367,
+        "latitude": -6.4339639,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.22.2006",
+      "name": "CIBARUSAH JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.22",
+      "districtName": "CIBARUSAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17340,
+      "coordinate": {
+        "longitude": 107.0654692,
+        "latitude": -6.4318634,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.22.2007",
+      "name": "SINDANGMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.22",
+      "districtName": "CIBARUSAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42382,
+      "coordinate": {
+        "longitude": 106.3067416,
+        "latitude": -6.3770503,
+        "elevation": 79
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

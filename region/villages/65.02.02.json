@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.02.02.2001",
+      "name": "BATU LIDUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.02",
+      "districtName": "MALINAU KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77550,
+      "coordinate": {
+        "longitude": 116.663128,
+        "latitude": 3.5449317,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.02.2002",
+      "name": "MALINAU KOTA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.02",
+      "districtName": "MALINAU KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77550,
+      "coordinate": {
+        "longitude": 116.6479502,
+        "latitude": 3.5911824,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.02.2003",
+      "name": "PELITA KANAAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.02",
+      "districtName": "MALINAU KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77550,
+      "coordinate": {
+        "longitude": 116.6116907,
+        "latitude": 3.5755847,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.02.2004",
+      "name": "MALINAU HULU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.02",
+      "districtName": "MALINAU KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77550,
+      "coordinate": {
+        "longitude": 116.5950378,
+        "latitude": 3.5621354,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.02.2005",
+      "name": "MALINAU HILIR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.02",
+      "districtName": "MALINAU KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77550,
+      "coordinate": {
+        "longitude": 116.6906871,
+        "latitude": 3.5946886,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.02.2006",
+      "name": "TANJUNG KERANJANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.02",
+      "districtName": "MALINAU KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77550,
+      "coordinate": {
+        "longitude": 116.6620514,
+        "latitude": 3.5660851,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

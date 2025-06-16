@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.15.2001",
+      "name": "PENDOWOHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.15",
+      "districtName": "SEWON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55185,
+      "coordinate": {
+        "longitude": 110.3349953,
+        "latitude": -7.8587122,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.15.2002",
+      "name": "TIMBULHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.15",
+      "districtName": "SEWON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55186,
+      "coordinate": {
+        "longitude": 110.3630809,
+        "latitude": -7.874028,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.15.2003",
+      "name": "BANGUNHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.15",
+      "districtName": "SEWON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55188,
+      "coordinate": {
+        "longitude": 110.3699949,
+        "latitude": -7.8439522,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.15.2004",
+      "name": "PANGGUNGHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.15",
+      "districtName": "SEWON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55188,
+      "coordinate": {
+        "longitude": 110.355239,
+        "latitude": -7.8441948,
+        "elevation": 71
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

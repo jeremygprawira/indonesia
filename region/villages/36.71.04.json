@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.71.04.1001",
+      "name": "BELENDUNG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.04",
+      "districtName": "BENDA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15123,
+      "coordinate": {
+        "longitude": 106.6661918,
+        "latitude": -6.1453073,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.04.1002",
+      "name": "JURUMUDI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.04",
+      "districtName": "BENDA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15124,
+      "coordinate": {
+        "longitude": 106.6809333,
+        "latitude": -6.1366863,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.04.1003",
+      "name": "BENDA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.04",
+      "districtName": "BENDA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15125,
+      "coordinate": {
+        "longitude": 106.68653,
+        "latitude": -6.1092188,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.04.1004",
+      "name": "PAJANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.04",
+      "districtName": "BENDA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.0975891,
+        "latitude": -3.4217258,
+        "elevation": 2098
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.04.1005",
+      "name": "JURUMUDI BARU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.04",
+      "districtName": "BENDA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15124,
+      "coordinate": {
+        "longitude": 106.6770011,
+        "latitude": -6.1492596,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

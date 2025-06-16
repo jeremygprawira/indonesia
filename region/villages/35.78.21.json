@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.21.1001",
+      "name": "DUKUH PAKIS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.21",
+      "districtName": "DUKUH PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60225,
+      "coordinate": {
+        "longitude": 112.7073327,
+        "latitude": -7.2979915,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.21.1002",
+      "name": "DUKUH KUPANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.21",
+      "districtName": "DUKUH PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60225,
+      "coordinate": {
+        "longitude": 112.7089761,
+        "latitude": -7.2801417,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.21.1003",
+      "name": "GUNUNG SARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.21",
+      "districtName": "DUKUH PAKIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.4527124,
+        "latitude": -1.2096041,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.21.1004",
+      "name": "PRADAH KALIKENDAL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.21",
+      "districtName": "DUKUH PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60226,
+      "coordinate": {
+        "longitude": 112.6859879,
+        "latitude": -7.2906825,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

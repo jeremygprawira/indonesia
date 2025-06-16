@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.01.23.2001",
+      "name": "MULIAMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.23",
+      "districtName": "LIBAREK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99522,
+      "coordinate": {
+        "longitude": 138.9750898,
+        "latitude": -3.9866976,
+        "elevation": 1793
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.23.2002",
+      "name": "WENABUBAGA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.23",
+      "districtName": "LIBAREK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99522,
+      "coordinate": {
+        "longitude": 138.9404956,
+        "latitude": -3.9929838,
+        "elevation": 1661
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.23.2003",
+      "name": "KILUBAGA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.23",
+      "districtName": "LIBAREK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99522,
+      "coordinate": {
+        "longitude": 138.9976026,
+        "latitude": -3.9925152,
+        "elevation": 2159
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.23.2004",
+      "name": "MUSALFAK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.23",
+      "districtName": "LIBAREK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99522,
+      "coordinate": {
+        "longitude": 138.9428385,
+        "latitude": -4.0106823,
+        "elevation": 1651
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.23.2005",
+      "name": "PUNAKUL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.23",
+      "districtName": "LIBAREK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99522,
+      "coordinate": {
+        "longitude": 138.95286,
+        "latitude": -4.0048829,
+        "elevation": 1656
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

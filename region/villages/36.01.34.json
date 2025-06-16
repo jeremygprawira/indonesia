@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.01.34.1001",
+      "name": "SUKARATU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.34",
+      "districtName": "MAJASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42175,
+      "coordinate": {
+        "longitude": 106.2388798,
+        "latitude": -6.2232701,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.34.1002",
+      "name": "KARATON",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.34",
+      "districtName": "MAJASARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94711,
+      "coordinate": {
+        "longitude": 122.7946535,
+        "latitude": -0.9547914,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.34.1003",
+      "name": "SARUNI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.34",
+      "districtName": "MAJASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42216,
+      "coordinate": {
+        "longitude": 106.0822953,
+        "latitude": -6.3230011,
+        "elevation": 278
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.34.1004",
+      "name": "PAGERBATU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.34",
+      "districtName": "MAJASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42215,
+      "coordinate": {
+        "longitude": 106.0703631,
+        "latitude": -6.2968715,
+        "elevation": 583
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.34.1005",
+      "name": "CILAJA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.34",
+      "districtName": "MAJASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42214,
+      "coordinate": {
+        "longitude": 106.0841256,
+        "latitude": -6.2986164,
+        "elevation": 441
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

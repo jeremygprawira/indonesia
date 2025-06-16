@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.05.21.2001",
+      "name": "TUPUT",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.21",
+      "districtName": "LAMBEWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98973,
+      "coordinate": {
+        "longitude": 137.9356892,
+        "latitude": -3.894835,
+        "elevation": 2762
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.21.2002",
+      "name": "WENGGEN-AMBUT",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.21",
+      "districtName": "LAMBEWI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.21.2003",
+      "name": "WAMIRU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.21",
+      "districtName": "LAMBEWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99596,
+      "coordinate": {
+        "longitude": 138.0289171,
+        "latitude": -4.0148219,
+        "elevation": 2790
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.21.2004",
+      "name": "PILUWOLU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.21",
+      "districtName": "LAMBEWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98973,
+      "coordinate": {
+        "longitude": 137.9688005,
+        "latitude": -3.8948914,
+        "elevation": 3086
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.21.2005",
+      "name": "TENAWI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.21",
+      "districtName": "LAMBEWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99596,
+      "coordinate": {
+        "longitude": 138.0638008,
+        "latitude": -4.0128372,
+        "elevation": 2806
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.21.2006",
+      "name": "WANOMBUT",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.21",
+      "districtName": "LAMBEWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98973,
+      "coordinate": {
+        "longitude": 137.9001947,
+        "latitude": -3.9400569,
+        "elevation": 3235
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.21.2007",
+      "name": "PUMBANAK",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.21",
+      "districtName": "LAMBEWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98973,
+      "coordinate": {
+        "longitude": 137.9420574,
+        "latitude": -3.9109058,
+        "elevation": 2971
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

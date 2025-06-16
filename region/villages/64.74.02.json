@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.74.02.1001",
+      "name": "TANJUNG LAUT",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.02",
+      "districtName": "BONTANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75321,
+      "coordinate": {
+        "longitude": 117.4844639,
+        "latitude": 0.1239075,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.02.1002",
+      "name": "BERBAS TENGAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.02",
+      "districtName": "BONTANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75325,
+      "coordinate": {
+        "longitude": 117.4800177,
+        "latitude": 0.1149956,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.02.1003",
+      "name": "BERBAS PANTAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.02",
+      "districtName": "BONTANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75325,
+      "coordinate": {
+        "longitude": 117.4822934,
+        "latitude": 0.1116093,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.02.1004",
+      "name": "SATIMPO",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.02",
+      "districtName": "BONTANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75324,
+      "coordinate": {
+        "longitude": 117.4699601,
+        "latitude": 0.1119997,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.02.1005",
+      "name": "BONTANG LESTARI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.02",
+      "districtName": "BONTANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75325,
+      "coordinate": {
+        "longitude": 117.48747,
+        "latitude": 0.0498913,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.02.1006",
+      "name": "TANJUNG LAUT INDAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.02",
+      "districtName": "BONTANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75325,
+      "coordinate": {
+        "longitude": 117.4961044,
+        "latitude": 0.116502,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

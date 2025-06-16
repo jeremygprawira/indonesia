@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "74.10.01",
+      "name": "KULISUSU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.10",
+      "cityName": "KAB. BUTON UTARA"
+    },
+    {
+      "type": "district",
+      "code": "74.10.02",
+      "name": "KAMBOWA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.10",
+      "cityName": "KAB. BUTON UTARA"
+    },
+    {
+      "type": "district",
+      "code": "74.10.03",
+      "name": "BONEGUNU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.10",
+      "cityName": "KAB. BUTON UTARA"
+    },
+    {
+      "type": "district",
+      "code": "74.10.04",
+      "name": "KULISUSU BARAT",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.10",
+      "cityName": "KAB. BUTON UTARA"
+    },
+    {
+      "type": "district",
+      "code": "74.10.05",
+      "name": "KULISUSU UTARA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.10",
+      "cityName": "KAB. BUTON UTARA"
+    },
+    {
+      "type": "district",
+      "code": "74.10.06",
+      "name": "WAKORUMBA UTARA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.10",
+      "cityName": "KAB. BUTON UTARA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

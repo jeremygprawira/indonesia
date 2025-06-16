@@ -1,0 +1,250 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.01.1001",
+      "name": "PASAR BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1002",
+      "name": "PUSAT PASAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20212,
+      "coordinate": {
+        "longitude": 98.688268,
+        "latitude": 3.5884064,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1003",
+      "name": "SEI RENGAS I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20214,
+      "coordinate": {
+        "longitude": 98.6899686,
+        "latitude": 3.5846158,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1004",
+      "name": "MESJID",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75133,
+      "coordinate": {
+        "longitude": 117.1503547,
+        "latitude": -0.5190314,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1005",
+      "name": "PANDAU HULU I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20211,
+      "coordinate": {
+        "longitude": 98.6915683,
+        "latitude": 3.5902936,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1006",
+      "name": "KOTAMATSUM III",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20215,
+      "coordinate": {
+        "longitude": 98.6882174,
+        "latitude": 3.5773578,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1007",
+      "name": "PASAR MERAH BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20217,
+      "coordinate": {
+        "longitude": 98.6932862,
+        "latitude": 3.5703816,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1008",
+      "name": "TELADAN TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20217,
+      "coordinate": {
+        "longitude": 98.7015968,
+        "latitude": 3.5654404,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1009",
+      "name": "TELADAN BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20217,
+      "coordinate": {
+        "longitude": 98.6940462,
+        "latitude": 3.5650388,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1010",
+      "name": "SUDIREJO 1",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1011",
+      "name": "SUDIREJO II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20218,
+      "coordinate": {
+        "longitude": 98.6999544,
+        "latitude": 3.5549505,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.01.1012",
+      "name": "SITIREJO I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.01",
+      "districtName": "MEDAN KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20219,
+      "coordinate": {
+        "longitude": 98.6923854,
+        "latitude": 3.5569616,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 12
+  }
+}

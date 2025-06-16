@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.18.14.1014",
+      "name": "GUYANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62155,
+      "coordinate": {
+        "longitude": 111.8601216,
+        "latitude": -7.1289335,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.1015",
+      "name": "KEDONDONG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71664,
+      "coordinate": {
+        "longitude": 115.5039445,
+        "latitude": -2.4215788,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2001",
+      "name": "BALONGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62183,
+      "coordinate": {
+        "longitude": 111.9473824,
+        "latitude": -7.283203,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2002",
+      "name": "GIRIREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.861449,
+        "latitude": -7.610214,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2003",
+      "name": "PESUDUKUH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.8644952,
+        "latitude": -7.604331,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2004",
+      "name": "SEKARPUTIH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61173,
+      "coordinate": {
+        "longitude": 112.4390381,
+        "latitude": -7.3047622,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2005",
+      "name": "BUDURAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69151,
+      "coordinate": {
+        "longitude": 112.8530347,
+        "latitude": -6.9477346,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2006",
+      "name": "NGUMPUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63395,
+      "coordinate": {
+        "longitude": 111.4724922,
+        "latitude": -7.5510204,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2007",
+      "name": "BAGOR KULON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.8398801,
+        "latitude": -7.5680033,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2008",
+      "name": "PETAK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94754,
+      "coordinate": {
+        "longitude": 122.151953,
+        "latitude": -0.9104443,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2009",
+      "name": "PARON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63253,
+      "coordinate": {
+        "longitude": 111.4000004,
+        "latitude": -7.4417396,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2010",
+      "name": "KARANG TENGAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15157,
+      "coordinate": {
+        "longitude": 106.7101342,
+        "latitude": -6.2167092,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2011",
+      "name": "SELOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62284,
+      "coordinate": {
+        "longitude": 112.3228949,
+        "latitude": -7.3392277,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2012",
+      "name": "GANDU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.866547,
+        "latitude": -7.5923032,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2013",
+      "name": "KEREPKIDUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.8748892,
+        "latitude": -7.5766885,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2016",
+      "name": "KUTOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62311,
+      "coordinate": {
+        "longitude": 112.0655316,
+        "latitude": -6.8917452,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2017",
+      "name": "SUGIHWARAS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2153908,
+        "latitude": -3.3864373,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2018",
+      "name": "GEMENGGENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.8762535,
+        "latitude": -7.5683856,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2019",
+      "name": "KENDALREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62372,
+      "coordinate": {
+        "longitude": 111.9364512,
+        "latitude": -7.1534276,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2020",
+      "name": "BANARAN KULON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.8551661,
+        "latitude": -7.5429177,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.18.14.2021",
+      "name": "BANARAN WETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.18",
+      "cityName": "KAB. NGANJUK",
+      "districtCode": "35.18.14",
+      "districtName": "BAGOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64461,
+      "coordinate": {
+        "longitude": 111.8626084,
+        "latitude": -7.5461433,
+        "elevation": 67
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

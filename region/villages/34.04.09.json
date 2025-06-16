@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.09.2001",
+      "name": "SUMBERHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.09",
+      "districtName": "PRAMBANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0571011,
+        "latitude": -7.2411307,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.09.2002",
+      "name": "WUKIRHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.09",
+      "districtName": "PRAMBANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62366,
+      "coordinate": {
+        "longitude": 111.8815747,
+        "latitude": -7.0373956,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.09.2003",
+      "name": "GAYAMHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.09",
+      "districtName": "PRAMBANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55572,
+      "coordinate": {
+        "longitude": 110.536968,
+        "latitude": -7.8060108,
+        "elevation": 407
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.09.2004",
+      "name": "SAMBIREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.09",
+      "districtName": "PRAMBANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63260,
+      "coordinate": {
+        "longitude": 111.1812691,
+        "latitude": -7.3798101,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.09.2005",
+      "name": "MADUREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.09",
+      "districtName": "PRAMBANAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70677,
+      "coordinate": {
+        "longitude": 115.0939874,
+        "latitude": -3.2457388,
+        "elevation": 136
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.09.2006",
+      "name": "BOKOHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.09",
+      "districtName": "PRAMBANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55572,
+      "coordinate": {
+        "longitude": 110.489067,
+        "latitude": -7.7646264,
+        "elevation": 141
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

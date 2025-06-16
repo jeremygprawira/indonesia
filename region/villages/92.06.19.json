@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.19.2001",
+      "name": "SEBYAR REJOSASI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.19",
+      "districtName": "TOMU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98156,
+      "coordinate": {
+        "longitude": 132.94166,
+        "latitude": -2.1653909,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.19.2002",
+      "name": "TOMU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.19",
+      "districtName": "TOMU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98156,
+      "coordinate": {
+        "longitude": 133.0043012,
+        "latitude": -2.2504217,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.19.2003",
+      "name": "TAROY",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.19",
+      "districtName": "TOMU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98156,
+      "coordinate": {
+        "longitude": 133.2183868,
+        "latitude": -2.1675161,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.19.2004",
+      "name": "EKAM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.19",
+      "districtName": "TOMU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98156,
+      "coordinate": {
+        "longitude": 132.9047407,
+        "latitude": -1.982357,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

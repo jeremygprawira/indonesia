@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.71.03.1001",
+      "name": "TATURA UTARA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.03",
+      "districtName": "PALU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94236,
+      "coordinate": {
+        "longitude": 119.8852766,
+        "latitude": -0.912741,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.03.1002",
+      "name": "BIROBULI UTARA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.03",
+      "districtName": "PALU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94231,
+      "coordinate": {
+        "longitude": 119.8947462,
+        "latitude": -0.9167324,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.03.1003",
+      "name": "PETOBO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.03",
+      "districtName": "PALU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94232,
+      "coordinate": {
+        "longitude": 119.9198904,
+        "latitude": -0.9373252,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.03.1011",
+      "name": "BIROBULI SELATAN",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.03",
+      "districtName": "PALU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94231,
+      "coordinate": {
+        "longitude": 119.8910826,
+        "latitude": -0.9306328,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.03.1012",
+      "name": "TATURA SELATAN",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.03",
+      "districtName": "PALU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94236,
+      "coordinate": {
+        "longitude": 119.8773142,
+        "latitude": -0.9206551,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.01.05.1001",
+      "name": "P.O. MANDUAMAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2031559,
+        "latitude": 2.1252146,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.1003",
+      "name": "BINJOHARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2150661,
+        "latitude": 2.2056132,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.1020",
+      "name": "PERLUASAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2506915,
+        "latitude": 2.1510501,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2002",
+      "name": "SARAGIH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2115266,
+        "latitude": 2.242276,
+        "elevation": 317
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2004",
+      "name": "PAGARAN NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2041845,
+        "latitude": 2.178009,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2005",
+      "name": "SARMA NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.1750947,
+        "latitude": 2.1793948,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2006",
+      "name": "MANDUAMAS LAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.267501,
+        "latitude": 2.1392912,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2007",
+      "name": "TUMBA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96514,
+      "coordinate": {
+        "longitude": 122.2678364,
+        "latitude": 0.965289,
+        "elevation": 456
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2008",
+      "name": "TUMBA JAE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2328352,
+        "latitude": 2.1613747,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2009",
+      "name": "LAE MONONG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2650897,
+        "latitude": 2.1676337,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2010",
+      "name": "SARAGIH BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.1809804,
+        "latitude": 2.2286582,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2011",
+      "name": "SARAGIH TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.1794739,
+        "latitude": 2.2188895,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2012",
+      "name": "BINJOHARA URUK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.249706,
+        "latitude": 2.2247859,
+        "elevation": 416
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2013",
+      "name": "BINJOHARA BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.1988972,
+        "latitude": 2.1853126,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2014",
+      "name": "TUMBA NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.249964,
+        "latitude": 2.1930763,
+        "elevation": 177
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2015",
+      "name": "MANDUAMAS BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2933544,
+        "latitude": 2.1557346,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2016",
+      "name": "MUARA TAPUS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71419,
+      "coordinate": {
+        "longitude": 115.2275893,
+        "latitude": -2.4623273,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2017",
+      "name": "PAGARAN BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.1905699,
+        "latitude": 2.188769,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2018",
+      "name": "PARSIHOTANGAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.2516903,
+        "latitude": 2.1864742,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.05.2019",
+      "name": "TAMBAHAN NANJUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.05",
+      "districtName": "MANDUAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22565,
+      "coordinate": {
+        "longitude": 98.1559587,
+        "latitude": 2.1873109,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

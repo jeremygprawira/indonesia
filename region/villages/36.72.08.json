@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.72.08.1001",
+      "name": "WARNASARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.08",
+      "districtName": "CITANGKIL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 82252,
+      "coordinate": {
+        "longitude": 114.5397278,
+        "latitude": -8.2766541,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.08.1002",
+      "name": "DRINGO",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.08",
+      "districtName": "CITANGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42444,
+      "coordinate": {
+        "longitude": 106.0050775,
+        "latitude": -6.0343031,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.08.1003",
+      "name": "LEBAK DENOK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.08",
+      "districtName": "CITANGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42442,
+      "coordinate": {
+        "longitude": 106.0167573,
+        "latitude": -6.0334947,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.08.1004",
+      "name": "TAMAN BARU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.08",
+      "districtName": "CITANGKIL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83365,
+      "coordinate": {
+        "longitude": 116.0787006,
+        "latitude": -8.8022821,
+        "elevation": 246
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.08.1005",
+      "name": "KEBONSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.08",
+      "districtName": "CITANGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42442,
+      "coordinate": {
+        "longitude": 106.0194346,
+        "latitude": -6.0166593,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.08.1006",
+      "name": "SAMANGRAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.08",
+      "districtName": "CITANGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42443,
+      "coordinate": {
+        "longitude": 105.9920841,
+        "latitude": -6.0047803,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.08.1007",
+      "name": "CITANGKIL",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.08",
+      "districtName": "CITANGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42441,
+      "coordinate": {
+        "longitude": 106.0363414,
+        "latitude": -6.0163386,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

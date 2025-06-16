@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.29.1001",
+      "name": "CISARANTEN WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.29",
+      "districtName": "CINAMBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40296,
+      "coordinate": {
+        "longitude": 107.6875414,
+        "latitude": -6.9220712,
+        "elevation": 678
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.29.1002",
+      "name": "PAKEMITAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.29",
+      "districtName": "CINAMBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40296,
+      "coordinate": {
+        "longitude": 107.6908703,
+        "latitude": -6.9221544,
+        "elevation": 677
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.29.1003",
+      "name": "SUKAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.29",
+      "districtName": "CINAMBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15612,
+      "coordinate": {
+        "longitude": 106.418246,
+        "latitude": -6.161344,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.29.1004",
+      "name": "BABAKAN PENGHULU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.29",
+      "districtName": "CINAMBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40296,
+      "coordinate": {
+        "longitude": 107.68965,
+        "latitude": -6.9348363,
+        "elevation": 673
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

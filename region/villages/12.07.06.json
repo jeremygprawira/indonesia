@@ -1,0 +1,730 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.07.06.2001",
+      "name": "DELI TUA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20355,
+      "coordinate": {
+        "longitude": 98.6812088,
+        "latitude": 3.497072,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2002",
+      "name": "JATI KESUMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6438938,
+        "latitude": 3.4560656,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2003",
+      "name": "NAMO RAMBE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6448527,
+        "latitude": 3.436139,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2004",
+      "name": "GUNUNG KELAWAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6739759,
+        "latitude": 3.4166478,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2005",
+      "name": "UJUNG LABUHAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6535637,
+        "latitude": 3.4814639,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2006",
+      "name": "LUBANG IDO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6693804,
+        "latitude": 3.4110834,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2007",
+      "name": "SILUE-LUE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2008",
+      "name": "TIMBANG LAWAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6739954,
+        "latitude": 3.4499411,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2009",
+      "name": "BATU MBELIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6696573,
+        "latitude": 3.4387857,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2010",
+      "name": "NAMO BATANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6209295,
+        "latitude": 3.3832997,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2011",
+      "name": "TANJUNG SELAMAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20134,
+      "coordinate": {
+        "longitude": 98.6104599,
+        "latitude": 3.539702,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2012",
+      "name": "BEKUKUL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6288213,
+        "latitude": 3.3860728,
+        "elevation": 246
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2013",
+      "name": "NAMO PAKAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6290563,
+        "latitude": 3.3802742,
+        "elevation": 170
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2014",
+      "name": "SUKA MULIA HILIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2015",
+      "name": "SUKA MULIA HULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2016",
+      "name": "RUMAH MBACANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6523581,
+        "latitude": 3.4113062,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2017",
+      "name": "CINTA RAKYAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20371,
+      "coordinate": {
+        "longitude": 98.7570918,
+        "latitude": 3.6707878,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2018",
+      "name": "BATU PENJEMURAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6487202,
+        "latitude": 3.4687501,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2019",
+      "name": "KUTA TENGAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22254,
+      "coordinate": {
+        "longitude": 98.2732392,
+        "latitude": 2.7869968,
+        "elevation": 963
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2020",
+      "name": "NAMO LANDUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6594465,
+        "latitude": 3.4404205,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2021",
+      "name": "GUNUNG BERITA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6564464,
+        "latitude": 3.4258717,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2022",
+      "name": "TANGKAHAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20525,
+      "coordinate": {
+        "longitude": 98.7008979,
+        "latitude": 3.6938387,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2023",
+      "name": "URUK GEDANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6222945,
+        "latitude": 3.4065375,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2024",
+      "name": "RUMAH KEBEN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6411271,
+        "latitude": 3.4155634,
+        "elevation": 138
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2025",
+      "name": "NAMO PINANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.637355,
+        "latitude": 3.3873624,
+        "elevation": 186
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2026",
+      "name": "SUDI REJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2027",
+      "name": "JABA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6641082,
+        "latitude": 3.4570897,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2028",
+      "name": "KUTA TUALAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6747501,
+        "latitude": 3.4775249,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2029",
+      "name": "KWALA SIMEME",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6782675,
+        "latitude": 3.4721707,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2030",
+      "name": "BATU GEMUK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.671086,
+        "latitude": 3.4564788,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2031",
+      "name": "LAU MULGAP",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22165,
+      "coordinate": {
+        "longitude": 98.0177171,
+        "latitude": 3.1925327,
+        "elevation": 130
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2032",
+      "name": "BATU REJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6799928,
+        "latitude": 3.4477458,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2033",
+      "name": "SALANG TUNGIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6698959,
+        "latitude": 3.4444495,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2034",
+      "name": "NAMO MBARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6617393,
+        "latitude": 3.4311785,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2035",
+      "name": "RIMO  MUNGKUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.06.2036",
+      "name": "NAMO MBELIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.06",
+      "districtName": "NAMO RAMBE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20356,
+      "coordinate": {
+        "longitude": 98.6737999,
+        "latitude": 3.4667471,
+        "elevation": 71
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 36
+  }
+}

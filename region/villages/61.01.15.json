@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.01.15.2001",
+      "name": "RANTAU PANJANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.15",
+      "districtName": "SEBAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75554,
+      "coordinate": {
+        "longitude": 116.9135588,
+        "latitude": 0.933645,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.15.2002",
+      "name": "TEBING BATU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.15",
+      "districtName": "SEBAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79464,
+      "coordinate": {
+        "longitude": 109.2364567,
+        "latitude": 1.2802984,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.15.2003",
+      "name": "SEBAWI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.15",
+      "districtName": "SEBAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79464,
+      "coordinate": {
+        "longitude": 109.2349454,
+        "latitude": 1.2752737,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.15.2004",
+      "name": "SEPUK TANJUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.15",
+      "districtName": "SEBAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79464,
+      "coordinate": {
+        "longitude": 109.1946202,
+        "latitude": 1.2636291,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.15.2005",
+      "name": "SEBANGUN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.15",
+      "districtName": "SEBAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79464,
+      "coordinate": {
+        "longitude": 109.1774342,
+        "latitude": 1.28929,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.15.2006",
+      "name": "SEMPALAI SEBEDANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.15",
+      "districtName": "SEBAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79464,
+      "coordinate": {
+        "longitude": 109.2014708,
+        "latitude": 1.246609,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.15.2007",
+      "name": "TEMPATAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.15",
+      "districtName": "SEBAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79464,
+      "coordinate": {
+        "longitude": 109.1974123,
+        "latitude": 1.3223852,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

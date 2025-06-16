@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.09.09.2001",
+      "name": "SIKAKAP",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.09",
+      "districtName": "SIKAKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25399,
+      "coordinate": {
+        "longitude": 100.1900935,
+        "latitude": -2.7435681,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.09.2002",
+      "name": "TAIKAKO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.09",
+      "districtName": "SIKAKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25399,
+      "coordinate": {
+        "longitude": 100.1362636,
+        "latitude": -2.7918207,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.09.2003",
+      "name": "MATOBE",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.09",
+      "districtName": "SIKAKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25399,
+      "coordinate": {
+        "longitude": 100.1663199,
+        "latitude": -2.6950183,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

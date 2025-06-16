@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.34.2001",
+      "name": "BONE BONE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.34",
+      "districtName": "BATUKARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93682,
+      "coordinate": {
+        "longitude": 122.8534347,
+        "latitude": -4.7632369,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.34.2002",
+      "name": "LANOBAKE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.34",
+      "districtName": "BATUKARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93682,
+      "coordinate": {
+        "longitude": 122.8587043,
+        "latitude": -4.784989,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.34.2003",
+      "name": "MOOLO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.34",
+      "districtName": "BATUKARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93682,
+      "coordinate": {
+        "longitude": 122.8555107,
+        "latitude": -4.8046771,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.34.2004",
+      "name": "BALUARA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.34",
+      "districtName": "BATUKARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93674,
+      "coordinate": {
+        "longitude": 122.9106549,
+        "latitude": -5.0476446,
+        "elevation": 167
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

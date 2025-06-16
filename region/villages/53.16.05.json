@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.16.05.2001",
+      "name": "TENDATOTO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.16",
+      "cityName": "KAB. NAGEKEO",
+      "districtCode": "53.16.05",
+      "districtName": "WOLOWAE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86471,
+      "coordinate": {
+        "longitude": 121.4376796,
+        "latitude": -8.6579986,
+        "elevation": 343
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.16.05.2002",
+      "name": "TOTOMALA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.16",
+      "cityName": "KAB. NAGEKEO",
+      "districtCode": "53.16.05",
+      "districtName": "WOLOWAE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86471,
+      "coordinate": {
+        "longitude": 121.4473138,
+        "latitude": -8.5948819,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.16.05.2003",
+      "name": "TENDAKINDE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.16",
+      "cityName": "KAB. NAGEKEO",
+      "districtCode": "53.16.05",
+      "districtName": "WOLOWAE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86471,
+      "coordinate": {
+        "longitude": 121.502912,
+        "latitude": -8.6156928,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.16.05.2004",
+      "name": "ANAKOLI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.16",
+      "cityName": "KAB. NAGEKEO",
+      "districtCode": "53.16.05",
+      "districtName": "WOLOWAE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86471,
+      "coordinate": {
+        "longitude": 121.3912156,
+        "latitude": -8.5822227,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.16.05.2005",
+      "name": "NATATOTO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.16",
+      "cityName": "KAB. NAGEKEO",
+      "districtCode": "53.16.05",
+      "districtName": "WOLOWAE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86471,
+      "coordinate": {
+        "longitude": 121.3788539,
+        "latitude": -8.6410732,
+        "elevation": 793
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

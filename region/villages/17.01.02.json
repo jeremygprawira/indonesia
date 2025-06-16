@@ -1,0 +1,450 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.01.02.1024",
+      "name": "PASAR BARU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2001",
+      "name": "PADANG LEBAR",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38570,
+      "coordinate": {
+        "longitude": 102.9444274,
+        "latitude": -4.4129525,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2002",
+      "name": "SUKARAJA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2004",
+      "name": "TANJUNG MENANG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 102.9941622,
+        "latitude": -4.4284468,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2005",
+      "name": "DARAT SAWAH",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38954,
+      "coordinate": {
+        "longitude": 103.2255872,
+        "latitude": -4.5579353,
+        "elevation": 173
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2006",
+      "name": "KOTA AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2007",
+      "name": "BABATAN ILIR",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 103.0399086,
+        "latitude": -4.4303217,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2008",
+      "name": "BABATAN ULU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 103.0456458,
+        "latitude": -4.4301734,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2009",
+      "name": "MUARA DANAU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38874,
+      "coordinate": {
+        "longitude": 102.6937918,
+        "latitude": -4.199413,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2011",
+      "name": "GUNUNG AYU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38513,
+      "coordinate": {
+        "longitude": 102.9297768,
+        "latitude": -4.4442519,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2014",
+      "name": "MUARA PULUTAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 102.9848773,
+        "latitude": -4.4481494,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2015",
+      "name": "KOTA BUMI BARU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2016",
+      "name": "SINDANG BULAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 103.0085661,
+        "latitude": -4.427697,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2017",
+      "name": "MUARA PAYANG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76253,
+      "coordinate": {
+        "longitude": 115.8453562,
+        "latitude": -1.4851656,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2018",
+      "name": "DURIAN SEGINIM",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 103.0050656,
+        "latitude": -4.4627006,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2020",
+      "name": "BANDING AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35454,
+      "coordinate": {
+        "longitude": 105.1523711,
+        "latitude": -5.7210514,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2021",
+      "name": "PAJAR BULAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34898,
+      "coordinate": {
+        "longitude": 103.9517281,
+        "latitude": -5.1711441,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2022",
+      "name": "DUSUN TENGAH",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38882,
+      "coordinate": {
+        "longitude": 102.5338259,
+        "latitude": -3.9471255,
+        "elevation": 298
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2023",
+      "name": "PADANG SIRING",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38382,
+      "coordinate": {
+        "longitude": 103.0039006,
+        "latitude": -4.4375855,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2029",
+      "name": "DARAT SAWAH ULU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 103.0310368,
+        "latitude": -4.4189602,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2030",
+      "name": "TANJUNG AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77215,
+      "coordinate": {
+        "longitude": 117.5155877,
+        "latitude": 2.7306148,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.02.2031",
+      "name": "DUSUN BARU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.02",
+      "districtName": "SEGINIM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38887,
+      "coordinate": {
+        "longitude": 102.711898,
+        "latitude": -4.2459691,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 22
+  }
+}

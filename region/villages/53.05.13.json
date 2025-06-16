@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.05.13.2001",
+      "name": "LANGKURU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.13",
+      "districtName": "PUREMAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85874,
+      "coordinate": {
+        "longitude": 124.8348315,
+        "latitude": -8.3681492,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.13.2002",
+      "name": "PURNAMA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.13",
+      "districtName": "PUREMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73971,
+      "coordinate": {
+        "longitude": 114.3459866,
+        "latitude": -0.6702199,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.13.2003",
+      "name": "KAILESA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.13",
+      "districtName": "PUREMAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85874,
+      "coordinate": {
+        "longitude": 124.8652399,
+        "latitude": -8.3326212,
+        "elevation": 955
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.13.2004",
+      "name": "LANGKURU UTARA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.13",
+      "districtName": "PUREMAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85874,
+      "coordinate": {
+        "longitude": 124.8301196,
+        "latitude": -8.3191501,
+        "elevation": 767
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

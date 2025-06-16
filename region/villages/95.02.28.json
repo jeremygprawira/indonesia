@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.02.28.2001",
+      "name": "BIAS",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.28",
+      "districtName": "MURKIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99444,
+      "coordinate": {
+        "longitude": 140.768885,
+        "latitude": -4.01863,
+        "elevation": 503
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.28.2002",
+      "name": "BUMI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.28",
+      "districtName": "MURKIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99444,
+      "coordinate": {
+        "longitude": 140.667746,
+        "latitude": -3.9398865,
+        "elevation": 401
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.28.2003",
+      "name": "TERO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.28",
+      "districtName": "MURKIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99444,
+      "coordinate": {
+        "longitude": 140.7008594,
+        "latitude": -3.9475165,
+        "elevation": 331
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.28.2004",
+      "name": "DELEMO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.28",
+      "districtName": "MURKIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99444,
+      "coordinate": {
+        "longitude": 140.7039685,
+        "latitude": -3.9592257,
+        "elevation": 329
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

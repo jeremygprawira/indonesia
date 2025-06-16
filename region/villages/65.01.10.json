@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.01.10.2001",
+      "name": "BUNYU BARAT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.10",
+      "districtName": "BUNYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77281,
+      "coordinate": {
+        "longitude": 117.5132955,
+        "latitude": 3.5096109,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.10.2002",
+      "name": "BUNYU SELATAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.10",
+      "districtName": "BUNYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77281,
+      "coordinate": {
+        "longitude": 117.8587162,
+        "latitude": 3.4605966,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.10.2003",
+      "name": "BUNYU TIMUR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.10",
+      "districtName": "BUNYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77281,
+      "coordinate": {
+        "longitude": 117.8227003,
+        "latitude": 3.5241912,
+        "elevation": 93
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

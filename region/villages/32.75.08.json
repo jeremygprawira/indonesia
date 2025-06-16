@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.08.1001",
+      "name": "JATIWARINGIN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.08",
+      "districtName": "PONDOKGEDE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15531,
+      "coordinate": {
+        "longitude": 106.5423952,
+        "latitude": -6.0850982,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.08.1002",
+      "name": "JATIBENING",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.08",
+      "districtName": "PONDOKGEDE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17412,
+      "coordinate": {
+        "longitude": 106.9490851,
+        "latitude": -6.2602445,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.08.1003",
+      "name": "JATIMAKMUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.08",
+      "districtName": "PONDOKGEDE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52266,
+      "coordinate": {
+        "longitude": 109.0067727,
+        "latitude": -7.0140576,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.08.1006",
+      "name": "JATIBENING BARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.08",
+      "districtName": "PONDOKGEDE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17412,
+      "coordinate": {
+        "longitude": 106.9350305,
+        "latitude": -6.2591469,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.08.1007",
+      "name": "JATICEMPAKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.08",
+      "districtName": "PONDOKGEDE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17411,
+      "coordinate": {
+        "longitude": 106.9139297,
+        "latitude": -6.2600313,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.71.06.1001",
+      "name": "KLALIGI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.06",
+      "districtName": "SORONG MANOI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98415,
+      "coordinate": {
+        "longitude": 131.2616699,
+        "latitude": -0.8817121,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.06.1002",
+      "name": "MALAWEI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.06",
+      "districtName": "SORONG MANOI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98415,
+      "coordinate": {
+        "longitude": 131.2741992,
+        "latitude": -0.8889237,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.06.1003",
+      "name": "MALABUTOR\r",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.06",
+      "districtName": "SORONG MANOI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98415,
+      "coordinate": {
+        "longitude": 131.2758145,
+        "latitude": -0.8851258,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.06.1004",
+      "name": "REMU SELATAN\r",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.06",
+      "districtName": "SORONG MANOI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98415,
+      "coordinate": {
+        "longitude": 131.2865887,
+        "latitude": -0.8956641,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.06.1005",
+      "name": "KLASABI\r",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.06",
+      "districtName": "SORONG MANOI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98415,
+      "coordinate": {
+        "longitude": 131.3048135,
+        "latitude": -0.8918314,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

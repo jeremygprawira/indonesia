@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.01.2001",
+      "name": "TIKU SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.01",
+      "districtName": "TANJUNG MUTIARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26473,
+      "coordinate": {
+        "longitude": 99.9294302,
+        "latitude": -0.398145,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.01.2002",
+      "name": "TIKU UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.01",
+      "districtName": "TANJUNG MUTIARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26473,
+      "coordinate": {
+        "longitude": 99.9764034,
+        "latitude": -0.3883268,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.01.2003",
+      "name": "TIKU LIMO JORONG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.01",
+      "districtName": "TANJUNG MUTIARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26473,
+      "coordinate": {
+        "longitude": 99.8296265,
+        "latitude": -0.2500242,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.01.2004",
+      "name": "DURIAN KAPEH DARUSSALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.01",
+      "districtName": "TANJUNG MUTIARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26473,
+      "coordinate": {
+        "longitude": 99.9100674,
+        "latitude": -0.3602114,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

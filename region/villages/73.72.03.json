@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.72.03.1001",
+      "name": "LAKESSI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.03",
+      "districtName": "SOREANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91133,
+      "coordinate": {
+        "longitude": 119.6277647,
+        "latitude": -4.0040582,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.03.1002",
+      "name": "UJUNG BARU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.03",
+      "districtName": "SOREANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91131,
+      "coordinate": {
+        "longitude": 119.6335797,
+        "latitude": -4.0093169,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.03.1003",
+      "name": "WATANG SOREANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.03",
+      "districtName": "SOREANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91132,
+      "coordinate": {
+        "longitude": 119.6335921,
+        "latitude": -3.9913419,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.03.1004",
+      "name": "KAMPUNG PISANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.03",
+      "districtName": "SOREANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97712,
+      "coordinate": {
+        "longitude": 127.3805015,
+        "latitude": 0.7833159,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.03.1005",
+      "name": "UJUNG LARE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.03",
+      "districtName": "SOREANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91131,
+      "coordinate": {
+        "longitude": 119.6348322,
+        "latitude": -4.0063036,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.03.1006",
+      "name": "BUKIT INDAH",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.03",
+      "districtName": "SOREANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91131,
+      "coordinate": {
+        "longitude": 119.6384939,
+        "latitude": -4.0017775,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.03.1007",
+      "name": "BUKIT HARAPAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.03",
+      "districtName": "SOREANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91578,
+      "coordinate": {
+        "longitude": 119.5669734,
+        "latitude": -1.502639,
+        "elevation": 225
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

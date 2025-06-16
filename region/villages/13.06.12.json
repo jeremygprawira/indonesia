@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.12.2001",
+      "name": "PADANG LAWEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.12",
+      "districtName": "SUNGAI PUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27682,
+      "coordinate": {
+        "longitude": 101.7259366,
+        "latitude": -0.9984194,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.12.2002",
+      "name": "SUNGAI PUA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.12",
+      "districtName": "SUNGAI PUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26182,
+      "coordinate": {
+        "longitude": 100.4191186,
+        "latitude": -0.3614254,
+        "elevation": 1245
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.12.2003",
+      "name": "BATAGAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.12",
+      "districtName": "SUNGAI PUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26182,
+      "coordinate": {
+        "longitude": 100.3778501,
+        "latitude": -0.3731436,
+        "elevation": 1245
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.12.2004",
+      "name": "BATU PALANO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.12",
+      "districtName": "SUNGAI PUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26182,
+      "coordinate": {
+        "longitude": 100.4118645,
+        "latitude": -0.3855869,
+        "elevation": 1289
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.12.2005",
+      "name": "SARIAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.12",
+      "districtName": "SUNGAI PUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26568,
+      "coordinate": {
+        "longitude": 99.8102784,
+        "latitude": 0.0147507,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.03.13.2001",
+      "name": "YELOBA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.03",
+      "cityName": "KAB. MAPPI",
+      "districtCode": "93.03.13",
+      "districtName": "BAMGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99851,
+      "coordinate": {
+        "longitude": 139.4057751,
+        "latitude": -7.0208227,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.03.13.2002",
+      "name": "KONEBI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.03",
+      "cityName": "KAB. MAPPI",
+      "districtCode": "93.03.13",
+      "districtName": "BAMGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99851,
+      "coordinate": {
+        "longitude": 139.4370733,
+        "latitude": -6.9936729,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.03.13.2003",
+      "name": "SIBI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.03",
+      "cityName": "KAB. MAPPI",
+      "districtCode": "93.03.13",
+      "districtName": "BAMGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99851,
+      "coordinate": {
+        "longitude": 139.5030115,
+        "latitude": -6.8481391,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.03.13.2004",
+      "name": "TAGAIMON SINO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.03",
+      "cityName": "KAB. MAPPI",
+      "districtCode": "93.03.13",
+      "districtName": "BAMGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99851,
+      "coordinate": {
+        "longitude": 139.416067,
+        "latitude": -6.8903577,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.03.13.2005",
+      "name": "TAGAIMON KAROME",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.03",
+      "cityName": "KAB. MAPPI",
+      "districtCode": "93.03.13",
+      "districtName": "BAMGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99851,
+      "coordinate": {
+        "longitude": 139.4624395,
+        "latitude": -6.924115,
+        "elevation": 37
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

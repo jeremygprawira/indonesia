@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.04.16.2001",
+      "name": "TULE",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.16",
+      "districtName": "MELONGUANE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95886,
+      "coordinate": {
+        "longitude": 126.7768895,
+        "latitude": 4.0217017,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.16.2002",
+      "name": "TULE TENGAH",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.16",
+      "districtName": "MELONGUANE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95886,
+      "coordinate": {
+        "longitude": 126.7775943,
+        "latitude": 4.0280772,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.16.2003",
+      "name": "TULE UTARA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.16",
+      "districtName": "MELONGUANE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95886,
+      "coordinate": {
+        "longitude": 126.785604,
+        "latitude": 4.0358331,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.16.2004",
+      "name": "BOWOMBARU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.16",
+      "districtName": "MELONGUANE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95886,
+      "coordinate": {
+        "longitude": 126.7905474,
+        "latitude": 4.0372062,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.16.2005",
+      "name": "BOWOMBARU TENGAH",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.16",
+      "districtName": "MELONGUANE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95886,
+      "coordinate": {
+        "longitude": 126.8006223,
+        "latitude": 4.0372207,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.16.2006",
+      "name": "BOWOMBARU UTARA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.16",
+      "districtName": "MELONGUANE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95886,
+      "coordinate": {
+        "longitude": 126.8029116,
+        "latitude": 4.0578928,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

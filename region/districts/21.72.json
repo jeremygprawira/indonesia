@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "21.72.01",
+      "name": "TANJUNG PINANG BARAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG"
+    },
+    {
+      "type": "district",
+      "code": "21.72.02",
+      "name": "TANJUNG PINANG TIMUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG"
+    },
+    {
+      "type": "district",
+      "code": "21.72.03",
+      "name": "TANJUNG PINANG KOTA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG"
+    },
+    {
+      "type": "district",
+      "code": "21.72.04",
+      "name": "BUKIT BESTARI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.04.1001",
+      "name": "HUANGOBOTU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.04",
+      "districtName": "DUNGINGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96138,
+      "coordinate": {
+        "longitude": 123.0378037,
+        "latitude": 0.5627831,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.04.1002",
+      "name": "LIBUO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.04",
+      "districtName": "DUNGINGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96135,
+      "coordinate": {
+        "longitude": 123.0450593,
+        "latitude": 0.5513345,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.04.1003",
+      "name": "TOMULABUTAO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.04",
+      "districtName": "DUNGINGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96139,
+      "coordinate": {
+        "longitude": 123.0407963,
+        "latitude": 0.5731345,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.04.1004",
+      "name": "TULADENGGI",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.04",
+      "districtName": "DUNGINGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96183,
+      "coordinate": {
+        "longitude": 123.0369362,
+        "latitude": 0.6200744,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.04.1005",
+      "name": "TOMULABUTAO SELATAN",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.04",
+      "districtName": "DUNGINGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96139,
+      "coordinate": {
+        "longitude": 123.0428244,
+        "latitude": 0.5687075,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

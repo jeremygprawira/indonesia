@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.71.01.1001",
+      "name": "PAGAR DEWA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.01",
+      "districtName": "SELEBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34792,
+      "coordinate": {
+        "longitude": 105.1308101,
+        "latitude": -4.4384212,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.01.1002",
+      "name": "SUKARAMI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.01",
+      "districtName": "SELEBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74152,
+      "coordinate": {
+        "longitude": 112.0217699,
+        "latitude": -2.2153953,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.01.1003",
+      "name": "PEKAN SABTU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.01",
+      "districtName": "SELEBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38213,
+      "coordinate": {
+        "longitude": 102.3445321,
+        "latitude": -3.8446144,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.01.1004",
+      "name": "BUMU AYU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.01",
+      "districtName": "SELEBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38216,
+      "coordinate": {
+        "longitude": 102.3206743,
+        "latitude": -3.8588432,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.01.1005",
+      "name": "BETUNGAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.01",
+      "districtName": "SELEBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38214,
+      "coordinate": {
+        "longitude": 102.3589842,
+        "latitude": -3.8764759,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.71.01.1006",
+      "name": "SUMUR DEWA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.71",
+      "cityName": "KOTA BENGKULU",
+      "districtCode": "17.71.01",
+      "districtName": "SELEBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38216,
+      "coordinate": {
+        "longitude": 102.3256909,
+        "latitude": -3.8273897,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

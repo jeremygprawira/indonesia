@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.08.07.2001",
+      "name": "URE",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.07",
+      "districtName": "YAMOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98122,
+      "coordinate": {
+        "longitude": 134.6451008,
+        "latitude": -3.4657697,
+        "elevation": 278
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.07.2002",
+      "name": "WOSOKUNO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.07",
+      "districtName": "YAMOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98122,
+      "coordinate": {
+        "longitude": 134.9284602,
+        "latitude": -3.7427698,
+        "elevation": 176
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.07.2003",
+      "name": "URUBIKA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.07",
+      "districtName": "YAMOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98122,
+      "coordinate": {
+        "longitude": 134.8446069,
+        "latitude": -3.6351493,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.07.2004",
+      "name": "WAGOHA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.07",
+      "districtName": "YAMOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98122,
+      "coordinate": {
+        "longitude": 134.9901989,
+        "latitude": -3.7816375,
+        "elevation": 277
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.07.2005",
+      "name": "HAIRAPARA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.07",
+      "districtName": "YAMOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98122,
+      "coordinate": {
+        "longitude": 134.6710778,
+        "latitude": -3.7516967,
+        "elevation": 394
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.07.2006",
+      "name": "OMBA PAMUKU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.07",
+      "districtName": "YAMOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98122,
+      "coordinate": {
+        "longitude": 135.0394142,
+        "latitude": -3.9397248,
+        "elevation": 194
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

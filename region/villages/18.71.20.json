@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.20.1001",
+      "name": "SUKARAJA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.20",
+      "districtName": "BUMI WARAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.20.1002",
+      "name": "BUMI WARAS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.20",
+      "districtName": "BUMI WARAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35225,
+      "coordinate": {
+        "longitude": 105.2792528,
+        "latitude": -5.443784,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.20.1003",
+      "name": "GARUNTANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.20",
+      "districtName": "BUMI WARAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35227,
+      "coordinate": {
+        "longitude": 105.2934522,
+        "latitude": -5.4378454,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.20.1004",
+      "name": "BUMI RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.20",
+      "districtName": "BUMI WARAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98856,
+      "coordinate": {
+        "longitude": 135.4445186,
+        "latitude": -3.4626025,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.20.1005",
+      "name": "KANGKUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.20",
+      "districtName": "BUMI WARAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51353,
+      "coordinate": {
+        "longitude": 110.1227067,
+        "latitude": -6.9150656,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

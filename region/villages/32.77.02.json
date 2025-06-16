@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.77.02.1001",
+      "name": "BAROS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.02",
+      "districtName": "CIMAHI TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42173,
+      "coordinate": {
+        "longitude": 106.1271926,
+        "latitude": -6.2147404,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.02.1002",
+      "name": "CIGUGUR TENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.02",
+      "districtName": "CIMAHI TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40522,
+      "coordinate": {
+        "longitude": 107.5511424,
+        "latitude": -6.8919161,
+        "elevation": 736
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.02.1003",
+      "name": "KARANGMEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.02",
+      "districtName": "CIMAHI TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40523,
+      "coordinate": {
+        "longitude": 107.5455088,
+        "latitude": -6.8827101,
+        "elevation": 750
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.02.1004",
+      "name": "SETIAMANAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.02",
+      "districtName": "CIMAHI TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40524,
+      "coordinate": {
+        "longitude": 107.5338902,
+        "latitude": -6.8794444,
+        "elevation": 743
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.02.1005",
+      "name": "PADASUKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.02",
+      "districtName": "CIMAHI TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42173,
+      "coordinate": {
+        "longitude": 106.1413922,
+        "latitude": -6.2262921,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.02.1006",
+      "name": "CIMAHI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.02",
+      "districtName": "CIMAHI TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40525,
+      "coordinate": {
+        "longitude": 107.5456578,
+        "latitude": -6.8716903,
+        "elevation": 768
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

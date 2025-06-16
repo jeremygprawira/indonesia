@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "35.74.01",
+      "name": "KADEMANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO"
+    },
+    {
+      "type": "district",
+      "code": "35.74.02",
+      "name": "WONOASIH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO"
+    },
+    {
+      "type": "district",
+      "code": "35.74.03",
+      "name": "MAYANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO"
+    },
+    {
+      "type": "district",
+      "code": "35.74.04",
+      "name": "KANIGARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO"
+    },
+    {
+      "type": "district",
+      "code": "35.74.05",
+      "name": "KEDOPOK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

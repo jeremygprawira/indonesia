@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.22.2001",
+      "name": "AIR KUMPAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.22",
+      "districtName": "SUAK MIDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29785,
+      "coordinate": {
+        "longitude": 107.7821749,
+        "latitude": 3.01075,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.22.2002",
+      "name": "BATU BELANAK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.22",
+      "districtName": "SUAK MIDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29785,
+      "coordinate": {
+        "longitude": 107.8022351,
+        "latitude": 2.9999722,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.22.2003",
+      "name": "GUNUNG JAMBAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.22",
+      "districtName": "SUAK MIDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29785,
+      "coordinate": {
+        "longitude": 107.7925128,
+        "latitude": 2.988493,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

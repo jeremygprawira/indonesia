@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.04.2002",
+      "name": "SICINCIN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.04",
+      "districtName": "2 X 11 ENAM LINGKUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26233,
+      "coordinate": {
+        "longitude": 100.6461296,
+        "latitude": -0.2461679,
+        "elevation": 521
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.04.2003",
+      "name": "LUBUK PANDAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.04",
+      "districtName": "2 X 11 ENAM LINGKUANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31666,
+      "coordinate": {
+        "longitude": 103.1836272,
+        "latitude": -2.8805887,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.04.2004",
+      "name": "SUNGAI ASAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.04",
+      "districtName": "2 X 11 ENAM LINGKUANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70661,
+      "coordinate": {
+        "longitude": 114.9710339,
+        "latitude": -3.4418696,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

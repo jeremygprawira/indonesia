@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.12.17.2001",
+      "name": "PATEMON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.17",
+      "districtName": "BUNGATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81153,
+      "coordinate": {
+        "longitude": 114.9306299,
+        "latitude": -8.2063862,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.17.2002",
+      "name": "SUMBERTENGAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.17",
+      "districtName": "BUNGATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68358,
+      "coordinate": {
+        "longitude": 113.8298517,
+        "latitude": -7.7587629,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.17.2003",
+      "name": "SELOWOGO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.17",
+      "districtName": "BUNGATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68358,
+      "coordinate": {
+        "longitude": 113.8032155,
+        "latitude": -7.7610364,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.17.2004",
+      "name": "MLANDINGAN WETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.17",
+      "districtName": "BUNGATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68358,
+      "coordinate": {
+        "longitude": 113.7847118,
+        "latitude": -7.7432313,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.17.2005",
+      "name": "BUNGATAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.17",
+      "districtName": "BUNGATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68358,
+      "coordinate": {
+        "longitude": 113.804443,
+        "latitude": -7.7302267,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.17.2006",
+      "name": "BLETOK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.17",
+      "districtName": "BUNGATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68358,
+      "coordinate": {
+        "longitude": 113.7911138,
+        "latitude": -7.7335115,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.17.2007",
+      "name": "PASIR PUTIH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.17",
+      "districtName": "BUNGATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

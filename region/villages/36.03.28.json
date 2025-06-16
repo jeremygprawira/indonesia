@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.03.28.1001",
+      "name": "KELAPA DUA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.28",
+      "districtName": "KELAPA DUA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99909,
+      "coordinate": {
+        "longitude": 138.2362207,
+        "latitude": -4.3080806,
+        "elevation": 1146
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.28.1002",
+      "name": "BENCONGAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.28",
+      "districtName": "KELAPA DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15811,
+      "coordinate": {
+        "longitude": 106.6023,
+        "latitude": -6.2137069,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.28.1003",
+      "name": "BENCONGAN INDAH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.28",
+      "districtName": "KELAPA DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15811,
+      "coordinate": {
+        "longitude": 106.5938375,
+        "latitude": -6.2338529,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.28.1004",
+      "name": "PAKULONAN BARAT",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.28",
+      "districtName": "KELAPA DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15811,
+      "coordinate": {
+        "longitude": 106.6305526,
+        "latitude": -6.2351766,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.28.1005",
+      "name": "BOJONG NANGKA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.28",
+      "districtName": "KELAPA DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42172,
+      "coordinate": {
+        "longitude": 106.1832993,
+        "latitude": -6.2488895,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.28.2006",
+      "name": "CURUG SANGERENG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.28",
+      "districtName": "KELAPA DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15811,
+      "coordinate": {
+        "longitude": 106.6214273,
+        "latitude": -6.2557913,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

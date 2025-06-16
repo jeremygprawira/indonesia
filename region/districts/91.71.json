@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "91.71.01",
+      "name": "JAYAPURA UTARA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA"
+    },
+    {
+      "type": "district",
+      "code": "91.71.02",
+      "name": "JAYAPURA SELATAN",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA"
+    },
+    {
+      "type": "district",
+      "code": "91.71.03",
+      "name": "ABEPURA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA"
+    },
+    {
+      "type": "district",
+      "code": "91.71.04",
+      "name": "MUARA TAMI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA"
+    },
+    {
+      "type": "district",
+      "code": "91.71.05",
+      "name": "HERAM",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

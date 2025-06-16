@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "12.75.01",
+      "name": "BINJAI UTARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI"
+    },
+    {
+      "type": "district",
+      "code": "12.75.02",
+      "name": "BINJAI KOTA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI"
+    },
+    {
+      "type": "district",
+      "code": "12.75.03",
+      "name": "BINJAI BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI"
+    },
+    {
+      "type": "district",
+      "code": "12.75.04",
+      "name": "BINJAI TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI"
+    },
+    {
+      "type": "district",
+      "code": "12.75.05",
+      "name": "BINJAI SELATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

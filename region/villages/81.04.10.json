@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.04.10.2001",
+      "name": "ILATH",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.10",
+      "districtName": "BATABUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97574,
+      "coordinate": {
+        "longitude": 127.1861674,
+        "latitude": -3.5571784,
+        "elevation": 831
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.10.2002",
+      "name": "BATU JUNGKU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.10",
+      "districtName": "BATABUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97574,
+      "coordinate": {
+        "longitude": 127.2302905,
+        "latitude": -3.4350553,
+        "elevation": 196
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.10.2003",
+      "name": "PELA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.10",
+      "districtName": "BATABUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97574,
+      "coordinate": {
+        "longitude": 127.2158291,
+        "latitude": -3.4062057,
+        "elevation": 107
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.10.2004",
+      "name": "WAEMORAT",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.10",
+      "districtName": "BATABUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97574,
+      "coordinate": {
+        "longitude": 127.216591,
+        "latitude": -3.4956683,
+        "elevation": 521
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.10.2006",
+      "name": "NAMLEA ILATH",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.10",
+      "districtName": "BATABUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97574,
+      "coordinate": {
+        "longitude": 127.2285915,
+        "latitude": -3.608738,
+        "elevation": 336
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

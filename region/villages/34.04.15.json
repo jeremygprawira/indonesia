@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.15.2001",
+      "name": "BANGUNKERTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.15",
+      "districtName": "TURI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55551,
+      "coordinate": {
+        "longitude": 110.3583243,
+        "latitude": -7.6408226,
+        "elevation": 428
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.15.2002",
+      "name": "DONOKERTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.15",
+      "districtName": "TURI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55551,
+      "coordinate": {
+        "longitude": 110.3742628,
+        "latitude": -7.6595859,
+        "elevation": 391
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.15.2003",
+      "name": "GIRIKERTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.15",
+      "districtName": "TURI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63264,
+      "coordinate": {
+        "longitude": 111.1831955,
+        "latitude": -7.56429,
+        "elevation": 1047
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.15.2004",
+      "name": "WONOKERTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.15",
+      "districtName": "TURI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92963,
+      "coordinate": {
+        "longitude": 120.47033,
+        "latitude": -2.679431,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

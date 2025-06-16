@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.07.07.2002",
+      "name": "NELLE URUNG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.07",
+      "districtName": "NELLE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86119,
+      "coordinate": {
+        "longitude": 122.2185197,
+        "latitude": -8.6605794,
+        "elevation": 152
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.07.2003",
+      "name": "NELLE WUTUNG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.07",
+      "districtName": "NELLE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86119,
+      "coordinate": {
+        "longitude": 122.2216965,
+        "latitude": -8.694285,
+        "elevation": 390
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.07.2004",
+      "name": "NELLE BARAT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.07",
+      "districtName": "NELLE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86119,
+      "coordinate": {
+        "longitude": 122.2121402,
+        "latitude": -8.687266,
+        "elevation": 302
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.07.2005",
+      "name": "NELLA LORANG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.07",
+      "districtName": "NELLE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86119,
+      "coordinate": {
+        "longitude": 122.2172607,
+        "latitude": -8.6748325,
+        "elevation": 228
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.07.2006",
+      "name": "MANUBURA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.07",
+      "districtName": "NELLE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86119,
+      "coordinate": {
+        "longitude": 122.2078745,
+        "latitude": -8.6644499,
+        "elevation": 160
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.07.2001",
+      "name": "TRIWIDADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.07",
+      "districtName": "PAJANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55751,
+      "coordinate": {
+        "longitude": 110.2764896,
+        "latitude": -7.8594587,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.07.2002",
+      "name": "SENDANGSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.07",
+      "districtName": "PAJANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55562,
+      "coordinate": {
+        "longitude": 110.2547489,
+        "latitude": -7.7228133,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.07.2003",
+      "name": "GUWOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.07",
+      "districtName": "PAJANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55751,
+      "coordinate": {
+        "longitude": 110.3083275,
+        "latitude": -7.8760763,
+        "elevation": 89
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

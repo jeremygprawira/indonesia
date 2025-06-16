@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.14.2001",
+      "name": "EPOUWA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.14",
+      "districtName": "DIPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98843,
+      "coordinate": {
+        "longitude": 135.4693038,
+        "latitude": -3.6611243,
+        "elevation": 470
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.14.2002",
+      "name": "DIKIYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.14",
+      "districtName": "DIPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98843,
+      "coordinate": {
+        "longitude": 135.4797713,
+        "latitude": -3.7043324,
+        "elevation": 287
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.14.2003",
+      "name": "TAGAUTO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.14",
+      "districtName": "DIPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98843,
+      "coordinate": {
+        "longitude": 135.7326647,
+        "latitude": -3.7117642,
+        "elevation": 854
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.14.2004",
+      "name": "JIGIKEBO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.14",
+      "districtName": "DIPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98843,
+      "coordinate": {
+        "longitude": 135.6579401,
+        "latitude": -3.7290896,
+        "elevation": 871
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.14.2005",
+      "name": "JAINOA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.14",
+      "districtName": "DIPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98843,
+      "coordinate": {
+        "longitude": 135.8133783,
+        "latitude": -3.713437,
+        "elevation": 963
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

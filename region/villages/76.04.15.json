@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.04.15.1009",
+      "name": "PETOOSANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91325,
+      "coordinate": {
+        "longitude": 118.9922659,
+        "latitude": -3.4159221,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.04.15.2002",
+      "name": "MOMBI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91325,
+      "coordinate": {
+        "longitude": 118.9910528,
+        "latitude": -3.4389267,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.04.15.2003",
+      "name": "KALUMAMMANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91325,
+      "coordinate": {
+        "longitude": 118.9396293,
+        "latitude": -3.3918325,
+        "elevation": 285
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.04.15.2004",
+      "name": "PAO-PAO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91325,
+      "coordinate": {
+        "longitude": 118.9852554,
+        "latitude": -3.3716299,
+        "elevation": 324
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.04.15.2005",
+      "name": "PUPPUURING",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.04.15.2006",
+      "name": "SARAGIAN",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91325,
+      "coordinate": {
+        "longitude": 118.9715034,
+        "latitude": -3.4349887,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.04.15.2007",
+      "name": "SAYOANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97791,
+      "coordinate": {
+        "longitude": 127.579847,
+        "latitude": -0.5786156,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.04.15.2008",
+      "name": "ALLU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.04",
+      "cityName": "KAB. POLEWALI MANDAR",
+      "districtCode": "76.04.15",
+      "districtName": "ALLU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

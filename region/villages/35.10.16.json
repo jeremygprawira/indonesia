@@ -1,0 +1,370 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.10.16.1001",
+      "name": "PAKIS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60256,
+      "coordinate": {
+        "longitude": 112.7266342,
+        "latitude": -7.2872466,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1002",
+      "name": "SOBO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86460,
+      "coordinate": {
+        "longitude": 121.0299462,
+        "latitude": -8.8288248,
+        "elevation": 1372
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1003",
+      "name": "KEBALENAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68417,
+      "coordinate": {
+        "longitude": 114.3477808,
+        "latitude": -8.2313257,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1004",
+      "name": "PENGANJURAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68416,
+      "coordinate": {
+        "longitude": 114.3667209,
+        "latitude": -8.2154643,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1005",
+      "name": "TUKANGKAYU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68416,
+      "coordinate": {
+        "longitude": 114.3714168,
+        "latitude": -8.2242999,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1006",
+      "name": "KERTOSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63171,
+      "coordinate": {
+        "longitude": 111.5401427,
+        "latitude": -7.6776042,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1007",
+      "name": "KARANGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5878894,
+        "latitude": -7.0705063,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1008",
+      "name": "KEPATIHAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61174,
+      "coordinate": {
+        "longitude": 112.5941489,
+        "latitude": -7.2404144,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1009",
+      "name": "PANDEREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68415,
+      "coordinate": {
+        "longitude": 114.3710201,
+        "latitude": -8.2128001,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1010",
+      "name": "SINGONEGARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64132,
+      "coordinate": {
+        "longitude": 112.0274773,
+        "latitude": -7.8376707,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1011",
+      "name": "TEMENGGUNGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63393,
+      "coordinate": {
+        "longitude": 111.40748,
+        "latitude": -7.5791975,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1012",
+      "name": "KAMPUNGMELAYU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68412,
+      "coordinate": {
+        "longitude": 114.3777167,
+        "latitude": -8.2100008,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1013",
+      "name": "KAMPUNGMANDAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68419,
+      "coordinate": {
+        "longitude": 114.3824862,
+        "latitude": -8.207478,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1014",
+      "name": "LATENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68413,
+      "coordinate": {
+        "longitude": 114.3798046,
+        "latitude": -8.2007267,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1015",
+      "name": "SINGOTRUNAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68414,
+      "coordinate": {
+        "longitude": 114.370927,
+        "latitude": -8.1977259,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1016",
+      "name": "PENGANTIGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68414,
+      "coordinate": {
+        "longitude": 114.363406,
+        "latitude": -8.1966761,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1017",
+      "name": "TAMANBARU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68416,
+      "coordinate": {
+        "longitude": 114.3599186,
+        "latitude": -8.2229439,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.16.1018",
+      "name": "SUMBERREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.16",
+      "districtName": "BANYUWANGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0054348,
+        "latitude": -7.1756548,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 18
+  }
+}

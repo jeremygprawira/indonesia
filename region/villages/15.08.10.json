@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.08.10.2001",
+      "name": "TANJUNG MENANTI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.10",
+      "districtName": "BATIN II BABEKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37210,
+      "coordinate": {
+        "longitude": 102.1633512,
+        "latitude": -1.4817517,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.10.2002",
+      "name": "BABEKO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.10",
+      "districtName": "BATIN II BABEKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37210,
+      "coordinate": {
+        "longitude": 102.1850835,
+        "latitude": -1.5364223,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.10.2003",
+      "name": "SEPUNGGUR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.10",
+      "districtName": "BATIN II BABEKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9343359,
+        "latitude": -3.5386673,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.10.2004",
+      "name": "SIMPANG BEBEKO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.10",
+      "districtName": "BATIN II BABEKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37210,
+      "coordinate": {
+        "longitude": 102.2141443,
+        "latitude": -1.4790476,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.10.2005",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.10",
+      "districtName": "BATIN II BABEKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.10.2006",
+      "name": "TUO SEPUNGGUR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.10",
+      "districtName": "BATIN II BABEKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37210,
+      "coordinate": {
+        "longitude": 102.2494634,
+        "latitude": -1.5463689,
+        "elevation": 45
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

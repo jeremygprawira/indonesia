@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.11.07.2001",
+      "name": "SUNGAI KUNYIT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.07",
+      "districtName": "SANGIR BALAI JANGGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79516,
+      "coordinate": {
+        "longitude": 110.7729918,
+        "latitude": 0.0397782,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.07.2002",
+      "name": "TALAO SUNGAI KUNYIT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.07",
+      "districtName": "SANGIR BALAI JANGGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27777,
+      "coordinate": {
+        "longitude": 101.4331745,
+        "latitude": -1.5565043,
+        "elevation": 547
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.07.2003",
+      "name": "SUNGAI KUNYIT BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.07",
+      "districtName": "SANGIR BALAI JANGGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27777,
+      "coordinate": {
+        "longitude": 101.4234458,
+        "latitude": -1.4428476,
+        "elevation": 265
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.07.2004",
+      "name": "TALUNAN MAJU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.07",
+      "districtName": "SANGIR BALAI JANGGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27777,
+      "coordinate": {
+        "longitude": 101.4511493,
+        "latitude": -1.3832751,
+        "elevation": 260
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

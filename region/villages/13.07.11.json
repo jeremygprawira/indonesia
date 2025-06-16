@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.07.11.2001",
+      "name": "JOPANG MANGANTI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.11",
+      "districtName": "MUNGKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26254,
+      "coordinate": {
+        "longitude": 100.5555401,
+        "latitude": -0.1029532,
+        "elevation": 539
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.11.2002",
+      "name": "SIMPANG KAPUAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.11",
+      "districtName": "MUNGKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26254,
+      "coordinate": {
+        "longitude": 100.6218464,
+        "latitude": -0.0716501,
+        "elevation": 685
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.11.2003",
+      "name": "MUNGKA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.11",
+      "districtName": "MUNGKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26254,
+      "coordinate": {
+        "longitude": 100.5667729,
+        "latitude": -0.1239756,
+        "elevation": 528
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.11.2004",
+      "name": "TALANG MAUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.11",
+      "districtName": "MUNGKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26254,
+      "coordinate": {
+        "longitude": 100.5447701,
+        "latitude": -0.0389491,
+        "elevation": 581
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.11.2005",
+      "name": "SUNGAI ANTUAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.11",
+      "districtName": "MUNGKA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26254,
+      "coordinate": {
+        "longitude": 100.5828601,
+        "latitude": -0.0970805,
+        "elevation": 513
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

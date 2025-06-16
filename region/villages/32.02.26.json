@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.26.2001",
+      "name": "CIRACAP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43176,
+      "coordinate": {
+        "longitude": 106.5124613,
+        "latitude": -7.3231452,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.26.2002",
+      "name": "CIKANGKUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43176,
+      "coordinate": {
+        "longitude": 106.4593942,
+        "latitude": -7.3572306,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.26.2003",
+      "name": "GUNUNGBATU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71183,
+      "coordinate": {
+        "longitude": 115.1169016,
+        "latitude": -3.1805402,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.26.2004",
+      "name": "PURWASEDAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43176,
+      "coordinate": {
+        "longitude": 106.4859705,
+        "latitude": -7.3646017,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.26.2005",
+      "name": "PASIRPANJANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42275,
+      "coordinate": {
+        "longitude": 105.9197987,
+        "latitude": -6.4743454,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.26.2006",
+      "name": "MEKARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.26.2007",
+      "name": "UJUNGGENTENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.26.2008",
+      "name": "PANGUMBAHAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.26",
+      "districtName": "CIRACAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43176,
+      "coordinate": {
+        "longitude": 106.4000781,
+        "latitude": -7.3322424,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.07.21.2001",
+      "name": "HALE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.21",
+      "districtName": "MAPITARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86172,
+      "coordinate": {
+        "longitude": 122.5104127,
+        "latitude": -8.6957694,
+        "elevation": 468
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.21.2002",
+      "name": "HEBING",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.21",
+      "districtName": "MAPITARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86172,
+      "coordinate": {
+        "longitude": 122.459226,
+        "latitude": -8.7108344,
+        "elevation": 413
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.21.2003",
+      "name": "NATAKOLI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.21",
+      "districtName": "MAPITARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86172,
+      "coordinate": {
+        "longitude": 122.4242876,
+        "latitude": -8.7128846,
+        "elevation": 591
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.21.2004",
+      "name": "EGON GAHAR",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.21",
+      "districtName": "MAPITARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86172,
+      "coordinate": {
+        "longitude": 122.4437313,
+        "latitude": -8.6964765,
+        "elevation": 685
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

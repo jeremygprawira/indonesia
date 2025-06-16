@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.18.33.1005",
+      "name": "RANTE ALANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.33",
+      "districtName": "SANGALLA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91882,
+      "coordinate": {
+        "longitude": 119.9300498,
+        "latitude": -3.1416682,
+        "elevation": 956
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.33.2001",
+      "name": "BATUALU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.33",
+      "districtName": "SANGALLA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91882,
+      "coordinate": {
+        "longitude": 119.9562053,
+        "latitude": -3.142773,
+        "elevation": 772
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.33.2002",
+      "name": "TOKESAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.33",
+      "districtName": "SANGALLA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91882,
+      "coordinate": {
+        "longitude": 119.9367944,
+        "latitude": -3.1105257,
+        "elevation": 893
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.33.2003",
+      "name": "BATUALU SELATAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.33",
+      "districtName": "SANGALLA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91882,
+      "coordinate": {
+        "longitude": 119.9522054,
+        "latitude": -3.1542079,
+        "elevation": 805
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.33.2004",
+      "name": "RARU SIBUNUAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.33",
+      "districtName": "SANGALLA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91882,
+      "coordinate": {
+        "longitude": 119.9426878,
+        "latitude": -3.0863587,
+        "elevation": 1158
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

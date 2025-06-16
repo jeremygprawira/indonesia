@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.04.10.2001",
+      "name": "BUSUNG PANJANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.10",
+      "districtName": "KEPULAUAN POSEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29876,
+      "coordinate": {
+        "longitude": 104.2325108,
+        "latitude": -0.3397547,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.10.2002",
+      "name": "POSEK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.10",
+      "districtName": "KEPULAUAN POSEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29876,
+      "coordinate": {
+        "longitude": 104.1994356,
+        "latitude": -0.3769591,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.10.2003",
+      "name": "SUAK BUAYA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.10",
+      "districtName": "KEPULAUAN POSEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29876,
+      "coordinate": {
+        "longitude": 104.1623932,
+        "latitude": -0.3537242,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

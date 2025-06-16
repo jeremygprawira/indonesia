@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.03.11.2001",
+      "name": "LAPUA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.11",
+      "districtName": "KAUREH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99364,
+      "coordinate": {
+        "longitude": 140.2431314,
+        "latitude": -3.0972212,
+        "elevation": 372
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.11.2002",
+      "name": "SEBUM",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.11",
+      "districtName": "KAUREH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99364,
+      "coordinate": {
+        "longitude": 139.6835992,
+        "latitude": -3.4582758,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.11.2003",
+      "name": "SOSKOTEK",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.11",
+      "districtName": "KAUREH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99364,
+      "coordinate": {
+        "longitude": 139.7566637,
+        "latitude": -3.5109964,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.11.2004",
+      "name": "YADAUW",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.11",
+      "districtName": "KAUREH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99364,
+      "coordinate": {
+        "longitude": 139.9414936,
+        "latitude": -2.951248,
+        "elevation": 241
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.11.2006",
+      "name": "UMBRON",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.11",
+      "districtName": "KAUREH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99364,
+      "coordinate": {
+        "longitude": 139.6952224,
+        "latitude": -3.0233908,
+        "elevation": 650
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

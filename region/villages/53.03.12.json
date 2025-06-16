@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.12.2001",
+      "name": "OELNEKE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.12",
+      "districtName": "MUSI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85662,
+      "coordinate": {
+        "longitude": 124.4087185,
+        "latitude": -9.4927828,
+        "elevation": 592
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.12.2002",
+      "name": "OETULU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.12",
+      "districtName": "MUSI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85662,
+      "coordinate": {
+        "longitude": 124.3732555,
+        "latitude": -9.5127563,
+        "elevation": 864
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.12.2003",
+      "name": "OEOLO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.12",
+      "districtName": "MUSI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85662,
+      "coordinate": {
+        "longitude": 124.3799471,
+        "latitude": -9.4799193,
+        "elevation": 675
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.12.2004",
+      "name": "AINAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.12",
+      "districtName": "MUSI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85662,
+      "coordinate": {
+        "longitude": 124.4233055,
+        "latitude": -9.4857763,
+        "elevation": 584
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.12.2005",
+      "name": "BISAFE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.12",
+      "districtName": "MUSI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85662,
+      "coordinate": {
+        "longitude": 124.3926028,
+        "latitude": -9.4536293,
+        "elevation": 541
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.12.2006",
+      "name": "BATNES",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.12",
+      "districtName": "MUSI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85662,
+      "coordinate": {
+        "longitude": 124.3268689,
+        "latitude": -9.5145324,
+        "elevation": 730
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

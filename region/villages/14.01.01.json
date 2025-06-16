@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.01.01.1011",
+      "name": "BANGKINANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.01",
+      "districtName": "BANGKINANG KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28411,
+      "coordinate": {
+        "longitude": 101.0326933,
+        "latitude": 0.329448,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.01.1013",
+      "name": "LANGGINI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.01",
+      "districtName": "BANGKINANG KOTA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.01.2009",
+      "name": "KUMANTAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.01",
+      "districtName": "BANGKINANG KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28411,
+      "coordinate": {
+        "longitude": 101.0381454,
+        "latitude": 0.3441688,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.01.2010",
+      "name": "RIDAN PERMAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.01",
+      "districtName": "BANGKINANG KOTA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

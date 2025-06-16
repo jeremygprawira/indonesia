@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.16.12.2001",
+      "name": "BAROKO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.16",
+      "cityName": "KAB. ENREKANG",
+      "districtCode": "73.16.12",
+      "districtName": "BAROKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91755,
+      "coordinate": {
+        "longitude": 119.7976865,
+        "latitude": -3.3023301,
+        "elevation": 1195
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.16.12.2002",
+      "name": "BENTENG ALLA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.16",
+      "cityName": "KAB. ENREKANG",
+      "districtCode": "73.16.12",
+      "districtName": "BAROKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91755,
+      "coordinate": {
+        "longitude": 119.8207268,
+        "latitude": -3.27141,
+        "elevation": 1122
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.16.12.2003",
+      "name": "BENTENG ALLA UTARA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.16",
+      "cityName": "KAB. ENREKANG",
+      "districtCode": "73.16.12",
+      "districtName": "BAROKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91755,
+      "coordinate": {
+        "longitude": 119.7990744,
+        "latitude": -3.2495275,
+        "elevation": 1219
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.16.12.2004",
+      "name": "TONGKO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.16",
+      "cityName": "KAB. ENREKANG",
+      "districtCode": "73.16.12",
+      "districtName": "BAROKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91755,
+      "coordinate": {
+        "longitude": 119.788493,
+        "latitude": -3.2825195,
+        "elevation": 1264
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.16.12.2005",
+      "name": "PATONGLOAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.16",
+      "cityName": "KAB. ENREKANG",
+      "districtCode": "73.16.12",
+      "districtName": "BAROKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91896,
+      "coordinate": {
+        "longitude": 119.6409,
+        "latitude": -2.906103,
+        "elevation": 1714
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

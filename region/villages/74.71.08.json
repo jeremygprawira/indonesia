@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.71.08.1001",
+      "name": "KADIA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.08",
+      "districtName": "KADIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93117,
+      "coordinate": {
+        "longitude": 122.5033046,
+        "latitude": -3.9796322,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.08.1002",
+      "name": "BENDE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.08",
+      "districtName": "KADIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93118,
+      "coordinate": {
+        "longitude": 122.513302,
+        "latitude": -3.9866422,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.08.1003",
+      "name": "PONDAMBEA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.08",
+      "districtName": "KADIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93117,
+      "coordinate": {
+        "longitude": 122.5070111,
+        "latitude": -3.978136,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.08.1004",
+      "name": "WOWAWANGGU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.08",
+      "districtName": "KADIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93117,
+      "coordinate": {
+        "longitude": 122.5099816,
+        "latitude": -3.9963396,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.08.1005",
+      "name": "ANAIWOI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.08",
+      "districtName": "KADIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93118,
+      "coordinate": {
+        "longitude": 122.5038757,
+        "latitude": -3.9940794,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

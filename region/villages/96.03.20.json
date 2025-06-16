@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.20.2002",
+      "name": "SOLOL",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.20",
+      "districtName": "SALAWATI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98493,
+      "coordinate": {
+        "longitude": 130.8773873,
+        "latitude": -0.9149097,
+        "elevation": 210
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.20.2003",
+      "name": "KALIAM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.20",
+      "districtName": "SALAWATI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98493,
+      "coordinate": {
+        "longitude": 130.6957807,
+        "latitude": -0.9646157,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.20.2001",
+      "name": "WAIBON",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.20",
+      "districtName": "SALAWATI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98493,
+      "coordinate": {
+        "longitude": 130.8263743,
+        "latitude": -0.9756176,
+        "elevation": 504
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.20.2004",
+      "name": "KALWAL",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.20",
+      "districtName": "SALAWATI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98493,
+      "coordinate": {
+        "longitude": 130.6922742,
+        "latitude": -0.9993073,
+        "elevation": 211
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

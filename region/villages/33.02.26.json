@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.02.26.1001",
+      "name": "SOKANEGARA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.26",
+      "districtName": "PURWOKERTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53392,
+      "coordinate": {
+        "longitude": 109.4492261,
+        "latitude": -7.4163429,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.26.1002",
+      "name": "KRANJI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.26",
+      "districtName": "PURWOKERTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62264,
+      "coordinate": {
+        "longitude": 112.3826494,
+        "latitude": -6.8798462,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.26.1003",
+      "name": "PURWOKERTO LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.26",
+      "districtName": "PURWOKERTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53114,
+      "coordinate": {
+        "longitude": 109.2464234,
+        "latitude": -7.4215958,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.26.1004",
+      "name": "PURWOKERTO WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.26",
+      "districtName": "PURWOKERTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53111,
+      "coordinate": {
+        "longitude": 109.2576991,
+        "latitude": -7.4261319,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.26.1005",
+      "name": "MERSI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.26",
+      "districtName": "PURWOKERTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53112,
+      "coordinate": {
+        "longitude": 109.2665416,
+        "latitude": -7.4261437,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.26.1006",
+      "name": "ARCAWINANGUN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.26",
+      "districtName": "PURWOKERTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53113,
+      "coordinate": {
+        "longitude": 109.2599,
+        "latitude": -7.4163135,
+        "elevation": 92
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

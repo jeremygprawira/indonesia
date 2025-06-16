@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.03.18.2001",
+      "name": "GIRIPURWO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.18",
+      "districtName": "PURWOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55873,
+      "coordinate": {
+        "longitude": 110.3926301,
+        "latitude": -8.047698,
+        "elevation": 243
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.18.2002",
+      "name": "GIRICAHYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.18",
+      "districtName": "PURWOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55873,
+      "coordinate": {
+        "longitude": 110.3641305,
+        "latitude": -8.0405531,
+        "elevation": 202
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.18.2003",
+      "name": "GIRIJATI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.18",
+      "districtName": "PURWOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55873,
+      "coordinate": {
+        "longitude": 110.3441752,
+        "latitude": -8.0156305,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.18.2004",
+      "name": "GIRIASIH",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.18",
+      "districtName": "PURWOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55873,
+      "coordinate": {
+        "longitude": 110.3605573,
+        "latitude": -8.0022569,
+        "elevation": 363
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.18.2005",
+      "name": "GIRITIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.18",
+      "districtName": "PURWOSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55873,
+      "coordinate": {
+        "longitude": 110.3813311,
+        "latitude": -7.9985238,
+        "elevation": 336
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.72.04.1001",
+      "name": "LIABUKU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.04",
+      "districtName": "BUNGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93732,
+      "coordinate": {
+        "longitude": 122.6655412,
+        "latitude": -5.4112463,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.04.1002",
+      "name": "NGKARING KARING",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.04",
+      "districtName": "BUNGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93732,
+      "coordinate": {
+        "longitude": 122.7003939,
+        "latitude": -5.3617257,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.04.1003",
+      "name": "KAMPEONAHO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.04",
+      "districtName": "BUNGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93732,
+      "coordinate": {
+        "longitude": 122.7045557,
+        "latitude": -5.3400731,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.04.1008",
+      "name": "WALIABUKU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.04",
+      "districtName": "BUNGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93732,
+      "coordinate": {
+        "longitude": 122.6894649,
+        "latitude": -5.3869554,
+        "elevation": 123
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.04.1010",
+      "name": "TAMPUNA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.04",
+      "districtName": "BUNGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93732,
+      "coordinate": {
+        "longitude": 122.686185,
+        "latitude": -5.334536,
+        "elevation": 69
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

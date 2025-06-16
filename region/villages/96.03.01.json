@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.01.2004",
+      "name": "ATKARI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.01",
+      "districtName": "MISOOL (MISOOL UTARA)",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98483,
+      "coordinate": {
+        "longitude": 130.1219634,
+        "latitude": -1.7383538,
+        "elevation": 123
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.01.2002",
+      "name": "SALAFEN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.01",
+      "districtName": "MISOOL (MISOOL UTARA)",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98483,
+      "coordinate": {
+        "longitude": 130.0140975,
+        "latitude": -1.873512,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.01.2003",
+      "name": "ADUWEI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.01",
+      "districtName": "MISOOL (MISOOL UTARA)",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98483,
+      "coordinate": {
+        "longitude": 129.944446,
+        "latitude": -1.923322,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.01.2005",
+      "name": "SOLAL",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.01",
+      "districtName": "MISOOL (MISOOL UTARA)",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98483,
+      "coordinate": {
+        "longitude": 130.1029706,
+        "latitude": -1.8068066,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.01.2001",
+      "name": "WAIGAMA",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.01",
+      "districtName": "MISOOL (MISOOL UTARA)",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98483,
+      "coordinate": {
+        "longitude": 129.8242893,
+        "latitude": -1.8593804,
+        "elevation": 30
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

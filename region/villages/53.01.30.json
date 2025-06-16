@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.30.2001",
+      "name": "FATUMONAS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.30",
+      "districtName": "AMFOANG TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85374,
+      "coordinate": {
+        "longitude": 124.0058992,
+        "latitude": -9.6781805,
+        "elevation": 1017
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.30.2002",
+      "name": "BINAFUN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.30",
+      "districtName": "AMFOANG TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85374,
+      "coordinate": {
+        "longitude": 124.030226,
+        "latitude": -9.6686495,
+        "elevation": 647
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.30.2003",
+      "name": "BITOBE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.30",
+      "districtName": "AMFOANG TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85374,
+      "coordinate": {
+        "longitude": 124.0022571,
+        "latitude": -9.5790613,
+        "elevation": 520
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.30.2004",
+      "name": "BONMUTI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.30",
+      "districtName": "AMFOANG TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85374,
+      "coordinate": {
+        "longitude": 124.0672926,
+        "latitude": -9.5431974,
+        "elevation": 771
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

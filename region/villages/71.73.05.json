@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.73.05.1001",
+      "name": "PASLATEN SATU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON",
+      "districtCode": "71.73.05",
+      "districtName": "TOMOHON TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95446,
+      "coordinate": {
+        "longitude": 124.8545376,
+        "latitude": 1.3297664,
+        "elevation": 927
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.73.05.1002",
+      "name": "PASLATEN  DUA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON",
+      "districtCode": "71.73.05",
+      "districtName": "TOMOHON TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.73.05.1003",
+      "name": "RURUKAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON",
+      "districtCode": "71.73.05",
+      "districtName": "TOMOHON TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95447,
+      "coordinate": {
+        "longitude": 124.8767873,
+        "latitude": 1.3408359,
+        "elevation": 1062
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.73.05.1004",
+      "name": "RURUKAN SATU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON",
+      "districtCode": "71.73.05",
+      "districtName": "TOMOHON TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95449,
+      "coordinate": {
+        "longitude": 124.88423,
+        "latitude": 1.3387666,
+        "elevation": 950
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.73.05.1005",
+      "name": "KUMELEMBUAY",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON",
+      "districtCode": "71.73.05",
+      "districtName": "TOMOHON TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95449,
+      "coordinate": {
+        "longitude": 124.8836556,
+        "latitude": 1.3471696,
+        "elevation": 963
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

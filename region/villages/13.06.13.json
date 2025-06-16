@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.13.2001",
+      "name": "BATU KAMBING",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.13",
+      "districtName": "AMPEK NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26161,
+      "coordinate": {
+        "longitude": 100.0707389,
+        "latitude": -0.2014796,
+        "elevation": 153
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.13.2002",
+      "name": "SITALANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.13",
+      "districtName": "AMPEK NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26161,
+      "coordinate": {
+        "longitude": 100.1052902,
+        "latitude": -0.1802103,
+        "elevation": 448
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.13.2003",
+      "name": "BAWAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.13",
+      "districtName": "AMPEK NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74863,
+      "coordinate": {
+        "longitude": 113.9037855,
+        "latitude": -1.6024425,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.13.2004",
+      "name": "SITANANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.13",
+      "districtName": "AMPEK NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26262,
+      "coordinate": {
+        "longitude": 100.772025,
+        "latitude": -0.2762592,
+        "elevation": 599
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

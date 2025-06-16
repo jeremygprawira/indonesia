@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.10.09.2001",
+      "name": "KEMBIRITAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.09",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68465,
+      "coordinate": {
+        "longitude": 114.1864574,
+        "latitude": -8.3713899,
+        "elevation": 135
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.09.2002",
+      "name": "GENTENG WETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.09",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.09.2003",
+      "name": "GENTENG KULON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.09",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.09.2004",
+      "name": "SETAIL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.09",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68465,
+      "coordinate": {
+        "longitude": 114.1299141,
+        "latitude": -8.3435815,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.09.2005",
+      "name": "KALIGONDO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.09",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68465,
+      "coordinate": {
+        "longitude": 114.1153308,
+        "latitude": -8.3195417,
+        "elevation": 267
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

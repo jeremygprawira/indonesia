@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.09.26.2001",
+      "name": "TINGGI RAJA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.26",
+      "districtName": "TINGGI RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21261,
+      "coordinate": {
+        "longitude": 99.5591358,
+        "latitude": 2.9039037,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.26.2002",
+      "name": "SUMBER HARAPAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.26",
+      "districtName": "TINGGI RAJA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99632,
+      "coordinate": {
+        "longitude": 140.4578488,
+        "latitude": -8.3570696,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.26.2003",
+      "name": "TERUSAN TENGAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.26",
+      "districtName": "TINGGI RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30977,
+      "coordinate": {
+        "longitude": 104.8557605,
+        "latitude": -2.5599841,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.26.2004",
+      "name": "PIASA ULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.26",
+      "districtName": "TINGGI RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21261,
+      "coordinate": {
+        "longitude": 99.5289764,
+        "latitude": 2.8077226,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.26.2005",
+      "name": "SIDOMULYO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.26",
+      "districtName": "TINGGI RAJA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.26.2006",
+      "name": "TELADAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.26",
+      "districtName": "TINGGI RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33783,
+      "coordinate": {
+        "longitude": 106.4589212,
+        "latitude": -2.9933462,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.26.2007",
+      "name": "PADANG SARI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.26",
+      "districtName": "TINGGI RAJA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71183,
+      "coordinate": {
+        "longitude": 115.1194406,
+        "latitude": -3.1304436,
+        "elevation": 55
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

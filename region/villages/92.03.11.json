@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.03.11.2001",
+      "name": "WERPIGAN",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.11",
+      "districtName": "WARTUTIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98025,
+      "coordinate": {
+        "longitude": 132.1598432,
+        "latitude": -2.8799036,
+        "elevation": 483
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.11.2002",
+      "name": "WERABUAN",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.11",
+      "districtName": "WARTUTIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98025,
+      "coordinate": {
+        "longitude": 132.1525463,
+        "latitude": -2.9105245,
+        "elevation": 148
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.11.2003",
+      "name": "WARTUTIN",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.11",
+      "districtName": "WARTUTIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98025,
+      "coordinate": {
+        "longitude": 132.1282588,
+        "latitude": -2.9246764,
+        "elevation": 122
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.11.2004",
+      "name": "SIBORU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.11",
+      "districtName": "WARTUTIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98025,
+      "coordinate": {
+        "longitude": 132.09914,
+        "latitude": -2.9304877,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.11.2005",
+      "name": "SIPATNANAM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.11",
+      "districtName": "WARTUTIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98025,
+      "coordinate": {
+        "longitude": 132.0227594,
+        "latitude": -2.8909962,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.11.2006",
+      "name": "KAMANDUR TETAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.11",
+      "districtName": "WARTUTIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98025,
+      "coordinate": {
+        "longitude": 132.0623967,
+        "latitude": -2.8795357,
+        "elevation": 72
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

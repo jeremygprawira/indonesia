@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.19.1001",
+      "name": "KOTA KARANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.19",
+      "districtName": "TELUKBETUNG TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.19.1002",
+      "name": "KOTA KARANG RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.19",
+      "districtName": "TELUKBETUNG TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.19.1003",
+      "name": "PARWATA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.19",
+      "districtName": "TELUKBETUNG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35237,
+      "coordinate": {
+        "longitude": 105.2544233,
+        "latitude": -5.4544355,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.19.1004",
+      "name": "KETEGUHAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.19",
+      "districtName": "TELUKBETUNG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35235,
+      "coordinate": {
+        "longitude": 105.2428506,
+        "latitude": -5.4640904,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.19.1005",
+      "name": "SUKAMAJU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.19",
+      "districtName": "TELUKBETUNG TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.19.1006",
+      "name": "WAY TATAAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.19",
+      "districtName": "TELUKBETUNG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35236,
+      "coordinate": {
+        "longitude": 105.2415489,
+        "latitude": -5.4814246,
+        "elevation": 123
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

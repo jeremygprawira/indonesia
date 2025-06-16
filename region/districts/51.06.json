@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "51.06.01",
+      "name": "SUSUT",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI"
+    },
+    {
+      "type": "district",
+      "code": "51.06.02",
+      "name": "BANGLI",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI"
+    },
+    {
+      "type": "district",
+      "code": "51.06.03",
+      "name": "TEMBUKU",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI"
+    },
+    {
+      "type": "district",
+      "code": "51.06.04",
+      "name": "KINTAMANI",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

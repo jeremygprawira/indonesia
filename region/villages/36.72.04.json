@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.72.04.1001",
+      "name": "BANJAR NEGARA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.04",
+      "districtName": "CIWANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42441,
+      "coordinate": {
+        "longitude": 105.9970623,
+        "latitude": -6.0352139,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.04.1002",
+      "name": "TEGAL RATU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.04",
+      "districtName": "CIWANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42445,
+      "coordinate": {
+        "longitude": 105.9748383,
+        "latitude": -6.0227886,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.04.1003",
+      "name": "KUBANGSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.04",
+      "districtName": "CIWANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42445,
+      "coordinate": {
+        "longitude": 105.9820614,
+        "latitude": -6.0120277,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.04.1004",
+      "name": "GUNUNG SUGIH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.04",
+      "districtName": "CIWANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42447,
+      "coordinate": {
+        "longitude": 105.9375605,
+        "latitude": -6.0360401,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.04.1005",
+      "name": "KEPUH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.04",
+      "districtName": "CIWANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42446,
+      "coordinate": {
+        "longitude": 105.9614789,
+        "latitude": -6.0340151,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.04.1006",
+      "name": "RANDAKARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.04",
+      "districtName": "CIWANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42446,
+      "coordinate": {
+        "longitude": 105.9738774,
+        "latitude": -6.0360031,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

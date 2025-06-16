@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.02.16.2001",
+      "name": "BALA BALAKANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.16",
+      "districtName": "KEP. BALA BALAKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91512,
+      "coordinate": {
+        "longitude": 117.0627811,
+        "latitude": -2.2658703,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.16.2002",
+      "name": "BALA-BALAKANG TIMUR",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.16",
+      "districtName": "KEP. BALA BALAKANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91512,
+      "coordinate": {
+        "longitude": 117.5577783,
+        "latitude": -2.9415482,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

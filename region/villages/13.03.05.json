@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.03.05.2001",
+      "name": "PALANGKI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.05",
+      "districtName": "IV NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27561,
+      "coordinate": {
+        "longitude": 100.9061987,
+        "latitude": -0.7220619,
+        "elevation": 382
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.05.2002",
+      "name": "KOTO BARU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.05",
+      "districtName": "IV NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37152,
+      "coordinate": {
+        "longitude": 101.3966914,
+        "latitude": -2.0353944,
+        "elevation": 797
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.05.2003",
+      "name": "MUARO BODI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.05",
+      "districtName": "IV NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27561,
+      "coordinate": {
+        "longitude": 100.897071,
+        "latitude": -0.6907835,
+        "elevation": 240
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.05.2004",
+      "name": "MUNDAM SAKTI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.05",
+      "districtName": "IV NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27561,
+      "coordinate": {
+        "longitude": 100.9053413,
+        "latitude": -0.7800544,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.03.05.2005",
+      "name": "KOTO TUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.03",
+      "cityName": "KAB. SIJUNJUNG",
+      "districtCode": "13.03.05",
+      "districtName": "IV NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37121,
+      "coordinate": {
+        "longitude": 101.4301543,
+        "latitude": -2.0742069,
+        "elevation": 793
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

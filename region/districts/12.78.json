@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "12.78.01",
+      "name": "GUNUNGSITOLI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.78",
+      "cityName": "KOTA GUNUNGSITOLI"
+    },
+    {
+      "type": "district",
+      "code": "12.78.02",
+      "name": "GUNUNGSITOLI SELATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.78",
+      "cityName": "KOTA GUNUNGSITOLI"
+    },
+    {
+      "type": "district",
+      "code": "12.78.03",
+      "name": "GUNUNGSITOLI UTARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.78",
+      "cityName": "KOTA GUNUNGSITOLI"
+    },
+    {
+      "type": "district",
+      "code": "12.78.04",
+      "name": "GUNUNGSITOLI IDANOI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.78",
+      "cityName": "KOTA GUNUNGSITOLI"
+    },
+    {
+      "type": "district",
+      "code": "12.78.05",
+      "name": "GUNUNGSITOLI ALO-OA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.78",
+      "cityName": "KOTA GUNUNGSITOLI"
+    },
+    {
+      "type": "district",
+      "code": "12.78.06",
+      "name": "GUNUNGSITOLI BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.78",
+      "cityName": "KOTA GUNUNGSITOLI"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

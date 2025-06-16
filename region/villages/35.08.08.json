@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.08.08.2001",
+      "name": "NOGOSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.08",
+      "districtName": "ROWOKANGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5688124,
+        "latitude": -7.6489622,
+        "elevation": 596
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.08.2002",
+      "name": "KEDUNGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.08",
+      "districtName": "ROWOKANGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62275,
+      "coordinate": {
+        "longitude": 112.1558336,
+        "latitude": -7.1545733,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.08.2003",
+      "name": "SIDOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.08",
+      "districtName": "ROWOKANGKUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.08.2004",
+      "name": "ROWOKANGKUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.08",
+      "districtName": "ROWOKANGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67359,
+      "coordinate": {
+        "longitude": 113.3434674,
+        "latitude": -8.1866899,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.08.2005",
+      "name": "SUMBERSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.08",
+      "districtName": "ROWOKANGKUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94461,
+      "coordinate": {
+        "longitude": 120.2286547,
+        "latitude": -0.9319602,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.08.2006",
+      "name": "DAWUHAN WETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.08",
+      "districtName": "ROWOKANGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67359,
+      "coordinate": {
+        "longitude": 113.2867263,
+        "latitude": -8.1463597,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.08.2007",
+      "name": "SUMBERANYAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.08",
+      "districtName": "ROWOKANGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67185,
+      "coordinate": {
+        "longitude": 113.0328117,
+        "latitude": -7.7068401,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

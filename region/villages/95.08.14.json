@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.14.2001",
+      "name": "GEMAM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.14",
+      "districtName": "KILMID",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99907,
+      "coordinate": {
+        "longitude": 138.1215711,
+        "latitude": -4.2672831,
+        "elevation": 1527
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.14.2002",
+      "name": "PURUWA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.14",
+      "districtName": "KILMID",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99907,
+      "coordinate": {
+        "longitude": 138.111488,
+        "latitude": -4.3136663,
+        "elevation": 1027
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.14.2003",
+      "name": "YUTPUL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.14",
+      "districtName": "KILMID",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99907,
+      "coordinate": {
+        "longitude": 138.0979328,
+        "latitude": -4.4286836,
+        "elevation": 504
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.14.2004",
+      "name": "KILMID",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.14",
+      "districtName": "KILMID",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99907,
+      "coordinate": {
+        "longitude": 138.1240554,
+        "latitude": -4.3058835,
+        "elevation": 1048
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

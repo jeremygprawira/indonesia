@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.13.2001",
+      "name": "MAMBOR",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.13",
+      "districtName": "MOORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98864,
+      "coordinate": {
+        "longitude": 135.5842954,
+        "latitude": -3.0832087,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.13.2002",
+      "name": "HARITI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.13",
+      "districtName": "MOORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98864,
+      "coordinate": {
+        "longitude": 135.6175593,
+        "latitude": -3.0853133,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.13.2003",
+      "name": "MOOR",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.13",
+      "districtName": "MOORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98864,
+      "coordinate": {
+        "longitude": 135.7262379,
+        "latitude": -2.9172555,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.13.2004",
+      "name": "KAMA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.13",
+      "districtName": "MOORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99513,
+      "coordinate": {
+        "longitude": 138.9718818,
+        "latitude": -4.090899,
+        "elevation": 1650
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.13.2005",
+      "name": "ARUI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.13",
+      "districtName": "MOORA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98864,
+      "coordinate": {
+        "longitude": 135.7555027,
+        "latitude": -2.9527186,
+        "elevation": 62
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.11.1001",
+      "name": "CIGERELENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.11",
+      "districtName": "REGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40253,
+      "coordinate": {
+        "longitude": 107.610953,
+        "latitude": -6.9410936,
+        "elevation": 689
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.11.1002",
+      "name": "ANCOL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.11",
+      "districtName": "REGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40254,
+      "coordinate": {
+        "longitude": 107.6166048,
+        "latitude": -6.9411908,
+        "elevation": 689
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.11.1003",
+      "name": "PUNGKUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.11",
+      "districtName": "REGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40252,
+      "coordinate": {
+        "longitude": 107.6078008,
+        "latitude": -6.929886,
+        "elevation": 701
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.11.1004",
+      "name": "BALONG GEDE",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.11",
+      "districtName": "REGOL",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.11.1005",
+      "name": "CISEUREUH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.11",
+      "districtName": "REGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52263,
+      "coordinate": {
+        "longitude": 108.8707495,
+        "latitude": -7.1172456,
+        "elevation": 262
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.11.1006",
+      "name": "CIATEUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.11",
+      "districtName": "REGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40252,
+      "coordinate": {
+        "longitude": 107.6081819,
+        "latitude": -6.9344624,
+        "elevation": 698
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.11.1007",
+      "name": "PASIRLUYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.11",
+      "districtName": "REGOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40254,
+      "coordinate": {
+        "longitude": 107.6181442,
+        "latitude": -6.9459514,
+        "elevation": 684
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.71.08.1001",
+      "name": "KLASUAT\r",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.08",
+      "districtName": "KLAURUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98417,
+      "coordinate": {
+        "longitude": 131.3616641,
+        "latitude": -0.9124198,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.08.1002",
+      "name": "KLABLIM\r",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.08",
+      "districtName": "KLAURUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98417,
+      "coordinate": {
+        "longitude": 131.3229758,
+        "latitude": -0.922475,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.08.1003",
+      "name": "KLASAMAN\r",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.08",
+      "districtName": "KLAURUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98417,
+      "coordinate": {
+        "longitude": 131.348937,
+        "latitude": -0.9054126,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.08.1004",
+      "name": "GIWU\r",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.08",
+      "districtName": "KLAURUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98417,
+      "coordinate": {
+        "longitude": 131.3478315,
+        "latitude": -0.8922684,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

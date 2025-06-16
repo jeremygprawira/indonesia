@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.07.08.2001",
+      "name": "MALUK",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.08",
+      "districtName": "MALUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84459,
+      "coordinate": {
+        "longitude": 116.7680926,
+        "latitude": -8.9253064,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.07.08.2002",
+      "name": "BENETE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.08",
+      "districtName": "MALUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84459,
+      "coordinate": {
+        "longitude": 116.7587738,
+        "latitude": -8.8910116,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.07.08.2003",
+      "name": "BUKIT DAMAI",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.08",
+      "districtName": "MALUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84459,
+      "coordinate": {
+        "longitude": 116.757656,
+        "latitude": -8.9073314,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.07.08.2004",
+      "name": "MANTUN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.08",
+      "districtName": "MALUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84459,
+      "coordinate": {
+        "longitude": 116.7411831,
+        "latitude": -8.9034302,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.07.08.2005",
+      "name": "PASIR PUTIH",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.08",
+      "districtName": "MALUK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

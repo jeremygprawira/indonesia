@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.72.10.1001",
+      "name": "SIMPANG TIGA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.10",
+      "districtName": "LOA JANAN ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75131,
+      "coordinate": {
+        "longitude": 117.0976741,
+        "latitude": -0.5757723,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.10.1002",
+      "name": "TANI AMAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.10",
+      "districtName": "LOA JANAN ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75131,
+      "coordinate": {
+        "longitude": 117.0987186,
+        "latitude": -0.5845085,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.10.1003",
+      "name": "SENGKOTEK",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.10",
+      "districtName": "LOA JANAN ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75131,
+      "coordinate": {
+        "longitude": 117.0950959,
+        "latitude": -0.5443275,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.10.1004",
+      "name": "HARAPAN BARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.10",
+      "districtName": "LOA JANAN ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75131,
+      "coordinate": {
+        "longitude": 117.1121957,
+        "latitude": -0.5423901,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.10.1005",
+      "name": "RAPAK DALAM",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.10",
+      "districtName": "LOA JANAN ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75131,
+      "coordinate": {
+        "longitude": 117.1365042,
+        "latitude": -0.5303525,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

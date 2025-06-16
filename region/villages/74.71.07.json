@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.71.07.1001",
+      "name": "WUA WUA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.07",
+      "districtName": "WUA-WUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93117,
+      "coordinate": {
+        "longitude": 122.4815897,
+        "latitude": -3.9933577,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.07.1002",
+      "name": "BONGGOEYA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.07",
+      "districtName": "WUA-WUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93118,
+      "coordinate": {
+        "longitude": 122.5085856,
+        "latitude": -4.0056331,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.07.1003",
+      "name": "MATAIWOI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.07",
+      "districtName": "WUA-WUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93118,
+      "coordinate": {
+        "longitude": 122.4996028,
+        "latitude": -3.990628,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.07.1004",
+      "name": "ANAWAI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.07",
+      "districtName": "WUA-WUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93118,
+      "coordinate": {
+        "longitude": 122.4900693,
+        "latitude": -4.0068798,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

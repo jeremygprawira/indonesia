@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "12.73.01",
+      "name": "SIBOLGA UTARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA"
+    },
+    {
+      "type": "district",
+      "code": "12.73.02",
+      "name": "SIBOLGA KOTA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA"
+    },
+    {
+      "type": "district",
+      "code": "12.73.03",
+      "name": "SIBOLGA SELATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA"
+    },
+    {
+      "type": "district",
+      "code": "12.73.04",
+      "name": "SIBOLGA SAMBAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.05.04.2001",
+      "name": "MEGAMBILIS",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH",
+      "districtCode": "95.05.04",
+      "districtName": "MEGAMBILIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99075,
+      "coordinate": {
+        "longitude": 139.2696199,
+        "latitude": -3.5720081,
+        "elevation": 331
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.05.04.2002",
+      "name": "TARIKO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH",
+      "districtCode": "95.05.04",
+      "districtName": "MEGAMBILIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99075,
+      "coordinate": {
+        "longitude": 139.1071131,
+        "latitude": -3.506986,
+        "elevation": 1616
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.05.04.2003",
+      "name": "HOMASAN",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH",
+      "districtCode": "95.05.04",
+      "districtName": "MEGAMBILIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99075,
+      "coordinate": {
+        "longitude": 139.0995709,
+        "latitude": -3.4849986,
+        "elevation": 1077
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.05.04.2004",
+      "name": "HIGISYAM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH",
+      "districtCode": "95.05.04",
+      "districtName": "MEGAMBILIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99075,
+      "coordinate": {
+        "longitude": 138.8214886,
+        "latitude": -3.4744952,
+        "elevation": 1018
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

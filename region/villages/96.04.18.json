@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.04.18.2001",
+      "name": "SYUMBAB",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.18",
+      "districtName": "TOBOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98376,
+      "coordinate": {
+        "longitude": 132.5570276,
+        "latitude": -0.4939808,
+        "elevation": 634
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.18.2003",
+      "name": "SYUKWES",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.18",
+      "districtName": "TOBOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98376,
+      "coordinate": {
+        "longitude": 132.5998441,
+        "latitude": -0.4923408,
+        "elevation": 536
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.18.2002",
+      "name": "KRISNOS",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.18",
+      "districtName": "TOBOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98376,
+      "coordinate": {
+        "longitude": 132.6367244,
+        "latitude": -0.5045811,
+        "elevation": 494
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.18.2006",
+      "name": "RESYE",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.18",
+      "districtName": "TOBOUW",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.18.2004",
+      "name": "SUNGGAK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.18",
+      "districtName": "TOBOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98369,
+      "coordinate": {
+        "longitude": 132.34952,
+        "latitude": -0.4772332,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.18.2005",
+      "name": "WOWOM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.18",
+      "districtName": "TOBOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98363,
+      "coordinate": {
+        "longitude": 132.4190057,
+        "latitude": -0.3858102,
+        "elevation": 215
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.02.01.1001",
+      "name": "KOTA",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.1002",
+      "name": "PARIT",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74359,
+      "coordinate": {
+        "longitude": 113.1041839,
+        "latitude": -2.152818,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.1005",
+      "name": "LESUNG BATANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33411,
+      "coordinate": {
+        "longitude": 107.6642653,
+        "latitude": -2.7507064,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.1006",
+      "name": "PANGKALLALANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33412,
+      "coordinate": {
+        "longitude": 107.6560198,
+        "latitude": -2.7578922,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.1009",
+      "name": "TANJUNGPENDAM",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33411,
+      "coordinate": {
+        "longitude": 107.6309613,
+        "latitude": -2.7297081,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.1011",
+      "name": "PAAL SATU",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33414,
+      "coordinate": {
+        "longitude": 107.6433886,
+        "latitude": -2.7299146,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.1016",
+      "name": "KAMPONG DAMAI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33411,
+      "coordinate": {
+        "longitude": 107.6359611,
+        "latitude": -2.7324155,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2003",
+      "name": "BULUH TUMBANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33411,
+      "coordinate": {
+        "longitude": 107.7501049,
+        "latitude": -2.7667096,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2004",
+      "name": "PERAWAS",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33413,
+      "coordinate": {
+        "longitude": 107.7015947,
+        "latitude": -2.7701764,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2007",
+      "name": "DUKONG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33560,
+      "coordinate": {
+        "longitude": 107.9860645,
+        "latitude": -3.1837921,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2008",
+      "name": "JURU SEBERANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33417,
+      "coordinate": {
+        "longitude": 107.5377595,
+        "latitude": -2.7780268,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2010",
+      "name": "AIR SAGA",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33415,
+      "coordinate": {
+        "longitude": 107.6323158,
+        "latitude": -2.7086309,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2012",
+      "name": "AIR MERBAU",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33411,
+      "coordinate": {
+        "longitude": 107.6782003,
+        "latitude": -2.7198616,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2013",
+      "name": "AIK PELEMPANG JAYA",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33414,
+      "coordinate": {
+        "longitude": 107.6556246,
+        "latitude": -2.7136921,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2014",
+      "name": "AIK KETEKOK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33411,
+      "coordinate": {
+        "longitude": 107.6553528,
+        "latitude": -2.7300219,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.02.01.2015",
+      "name": "AIK RAYAK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.02",
+      "cityName": "KAB. BELITUNG",
+      "districtCode": "19.02.01",
+      "districtName": "TANJUNG PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33413,
+      "coordinate": {
+        "longitude": 107.6819338,
+        "latitude": -2.7350692,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

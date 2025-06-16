@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.19.1001",
+      "name": "KANDANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.19",
+      "districtName": "BENOWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60199,
+      "coordinate": {
+        "longitude": 112.6513782,
+        "latitude": -7.2510679,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.19.1003",
+      "name": "SEMEMI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.19",
+      "districtName": "BENOWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60198,
+      "coordinate": {
+        "longitude": 112.638709,
+        "latitude": -7.2508087,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.19.1004",
+      "name": "TAMBAK OSO WILANGUN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.19",
+      "districtName": "BENOWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60191,
+      "coordinate": {
+        "longitude": 112.659284,
+        "latitude": -7.2151965,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.19.1005",
+      "name": "ROMOKALISARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.19",
+      "districtName": "BENOWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60192,
+      "coordinate": {
+        "longitude": 112.6393136,
+        "latitude": -7.2050386,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.04.10.2005",
+      "name": "HILIMOASIO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.7421585,
+        "latitude": 1.0436992,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2006",
+      "name": "TETEGEONA-AI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2007",
+      "name": "LAOWO HILIMBARUZO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.7801618,
+        "latitude": 0.9969491,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2008",
+      "name": "HILILAWA-E",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2009",
+      "name": "TUHEWAEBU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.7429704,
+        "latitude": 1.0013008,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2014",
+      "name": "SISOBAHILI IRAONOHURA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2015",
+      "name": "BOZIHONA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.8388503,
+        "latitude": 1.0859935,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2016",
+      "name": "OLADANO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22874,
+      "coordinate": {
+        "longitude": 97.9013981,
+        "latitude": 0.8817478,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2017",
+      "name": "AHEDANO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.7607957,
+        "latitude": 1.0208293,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2018",
+      "name": "HILINA-A TAFUO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2019",
+      "name": "HILIONOZEGA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2020",
+      "name": "MONDRALI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.8326323,
+        "latitude": 1.02263,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2022",
+      "name": "TETEHOSI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22862,
+      "coordinate": {
+        "longitude": 97.4835293,
+        "latitude": 1.052409,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2023",
+      "name": "SAIWAHILI HILIADULO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2024",
+      "name": "MALIWA-A",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2025",
+      "name": "BIOUTI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.8085984,
+        "latitude": 1.078525,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2026",
+      "name": "AWONI LAUSO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.8318839,
+        "latitude": 1.0470939,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2027",
+      "name": "BOBOZIOLI LOLOANA-A",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2028",
+      "name": "SANDRUTA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.7964682,
+        "latitude": 1.0980867,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2029",
+      "name": "LAIRA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.8228233,
+        "latitude": 1.1179756,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2030",
+      "name": "OTALUA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.7839107,
+        "latitude": 1.0331721,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2031",
+      "name": "BARUZO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22871,
+      "coordinate": {
+        "longitude": 97.7285001,
+        "latitude": 1.1033427,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2032",
+      "name": "ORAHILI ZUZUNDRAO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.8008464,
+        "latitude": 1.0436936,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2033",
+      "name": "TIGA SERANGKAI MALIWA-A",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2034",
+      "name": "HILIGOGOWAYA MALIWA-A",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2035",
+      "name": "HILI-ADULO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2036",
+      "name": "HILIMOASIO DUA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.7508015,
+        "latitude": 1.0379687,
+        "elevation": 144
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.04.10.2037",
+      "name": "BIOUTI TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.04",
+      "cityName": "KAB. NIAS",
+      "districtCode": "12.04.10",
+      "districtName": "IDANOGAWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22872,
+      "coordinate": {
+        "longitude": 97.8286051,
+        "latitude": 1.1049895,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 28
+  }
+}

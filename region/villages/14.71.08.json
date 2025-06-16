@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.08.1001",
+      "name": "SIMPANGBARU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.08",
+      "districtName": "BINAWIDYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28293,
+      "coordinate": {
+        "longitude": 101.3793317,
+        "latitude": 0.4790033,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.08.1008",
+      "name": "DELIMA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.08",
+      "districtName": "BINAWIDYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36551,
+      "coordinate": {
+        "longitude": 103.1989401,
+        "latitude": -1.0978907,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.08.1009",
+      "name": "TOBEKGODANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.08",
+      "districtName": "BINAWIDYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28297,
+      "coordinate": {
+        "longitude": 101.4088768,
+        "latitude": 0.4747655,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.08.1010",
+      "name": "BINAWIDYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.08",
+      "districtName": "BINAWIDYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28295,
+      "coordinate": {
+        "longitude": 101.3774414,
+        "latitude": 0.493966,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.08.1014",
+      "name": "SUNGAISIBAM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.08",
+      "districtName": "BINAWIDYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28292,
+      "coordinate": {
+        "longitude": 101.3587276,
+        "latitude": 0.5073791,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

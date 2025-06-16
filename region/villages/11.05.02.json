@@ -1,0 +1,890 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.05.02.2001",
+      "name": "KEUDE ARON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24381,
+      "coordinate": {
+        "longitude": 97.2511643,
+        "latitude": 5.094365,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2002",
+      "name": "KAMPONG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2003",
+      "name": "PADANG MANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1513123,
+        "latitude": 4.2260836,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2004",
+      "name": "MEUNASAH BULOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1497782,
+        "latitude": 4.2195744,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2005",
+      "name": "ALUE TAMPAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1460808,
+        "latitude": 4.2146396,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2006",
+      "name": "BEUREUGANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1739625,
+        "latitude": 4.2329134,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2007",
+      "name": "MAREK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1554044,
+        "latitude": 4.1888887,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2008",
+      "name": "PASI JAMBU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1438022,
+        "latitude": 4.2029981,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2009",
+      "name": "MEUNASAH ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1722652,
+        "latitude": 4.216148,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2010",
+      "name": "MEUNASAH RAYEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23657,
+      "coordinate": {
+        "longitude": 95.3351013,
+        "latitude": 5.0707817,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2011",
+      "name": "SIMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61264,
+      "coordinate": {
+        "longitude": 112.5912431,
+        "latitude": -7.4852611,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2012",
+      "name": "PEUNIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1552126,
+        "latitude": 4.2417342,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2013",
+      "name": "TUMPOK LADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1733851,
+        "latitude": 4.2102836,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2014",
+      "name": "PASI TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1666125,
+        "latitude": 4.2072402,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2015",
+      "name": "PUTIM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1779626,
+        "latitude": 4.2541208,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2016",
+      "name": "MEUNASAH RAMBOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.187702,
+        "latitude": 4.2593453,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2017",
+      "name": "PASI JEUMPA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1952455,
+        "latitude": 4.2632009,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2018",
+      "name": "PALIMBUNGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2041834,
+        "latitude": 4.2600336,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2019",
+      "name": "MUKO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2090609,
+        "latitude": 4.2377185,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2020",
+      "name": "MEUNASAH GANTUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0209024,
+        "latitude": 5.3147796,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2021",
+      "name": "BLANG GEUNANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2283684,
+        "latitude": 4.2452791,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2022",
+      "name": "PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2308449,
+        "latitude": 5.1450867,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2023",
+      "name": "TANJONG BUNGONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8977617,
+        "latitude": 5.210343,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2024",
+      "name": "ALUE ON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1840331,
+        "latitude": 4.2709408,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2036",
+      "name": "TANJONG MEULABOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2402166,
+        "latitude": 4.2907651,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2037",
+      "name": "KEUDE TANJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24267,
+      "coordinate": {
+        "longitude": 96.8058272,
+        "latitude": 5.2102246,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2038",
+      "name": "PUNGKIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.205508,
+        "latitude": 4.2805624,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2039",
+      "name": "PUCOK PUNGKIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.195124,
+        "latitude": 4.2904683,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2040",
+      "name": "TELADAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33783,
+      "coordinate": {
+        "longitude": 106.4589212,
+        "latitude": -2.9933462,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2041",
+      "name": "PASI ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2035815,
+        "latitude": 4.2954553,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2042",
+      "name": "MEUNUANG TANJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2101491,
+        "latitude": 4.2866022,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2043",
+      "name": "ALUE LHEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2529852,
+        "latitude": 4.3416835,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2044",
+      "name": "BLANG DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3067826,
+        "latitude": 5.2072247,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2045",
+      "name": "TEUPIN PANAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24266,
+      "coordinate": {
+        "longitude": 96.5283673,
+        "latitude": 5.161834,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2046",
+      "name": "DRIEN CALEUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.237334,
+        "latitude": 4.31278,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2047",
+      "name": "ALUE PEUDEUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2188256,
+        "latitude": 4.3089238,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2048",
+      "name": "PASI MEUGAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2125578,
+        "latitude": 4.272036,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2049",
+      "name": "BABAH MEULABOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2456615,
+        "latitude": 4.2816112,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2050",
+      "name": "PASI KUMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.2062124,
+        "latitude": 4.3029787,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2051",
+      "name": "PADANG SIKABU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.6065902,
+        "latitude": -0.2116436,
+        "elevation": 519
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2052",
+      "name": "SAWANG TEUBEI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1941951,
+        "latitude": 4.3168278,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2053",
+      "name": "ALUE LHOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0199566,
+        "latitude": 4.3719729,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2062",
+      "name": "BATU JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93892,
+      "coordinate": {
+        "longitude": 122.8897469,
+        "latitude": -4.3929136,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.02.2063",
+      "name": "KEURAMAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.02",
+      "districtName": "KAWAY XVI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23126,
+      "coordinate": {
+        "longitude": 95.3276445,
+        "latitude": 5.5621223,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 44
+  }
+}

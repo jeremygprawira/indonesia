@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.13.20.2001",
+      "name": "KARANGMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.20",
+      "districtName": "CIPEUNDEUY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17535,
+      "coordinate": {
+        "longitude": 107.2315389,
+        "latitude": -6.219829,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.20.2002",
+      "name": "CIMAYASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.20",
+      "districtName": "CIPEUNDEUY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41272,
+      "coordinate": {
+        "longitude": 107.5715533,
+        "latitude": -6.5422735,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.20.2003",
+      "name": "LENGKONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.20",
+      "districtName": "CIPEUNDEUY",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91991,
+      "coordinate": {
+        "longitude": 120.2036867,
+        "latitude": -3.1363704,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.20.2004",
+      "name": "CIPEUNDEUY",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.20",
+      "districtName": "CIPEUNDEUY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42391,
+      "coordinate": {
+        "longitude": 105.9770187,
+        "latitude": -6.723605,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.20.2005",
+      "name": "WANTILAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.20",
+      "districtName": "CIPEUNDEUY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41272,
+      "coordinate": {
+        "longitude": 107.6013414,
+        "latitude": -6.4910258,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.20.2006",
+      "name": "KOSAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.20",
+      "districtName": "CIPEUNDEUY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41272,
+      "coordinate": {
+        "longitude": 107.6299473,
+        "latitude": -6.4466861,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.20.2007",
+      "name": "SAWANGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.20",
+      "districtName": "CIPEUNDEUY",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95371,
+      "coordinate": {
+        "longitude": 124.9540624,
+        "latitude": 1.3868707,
+        "elevation": 289
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

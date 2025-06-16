@@ -1,0 +1,490 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.06.04.2001",
+      "name": "NUSA JAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.8861464,
+        "latitude": 0.6893374,
+        "elevation": 500
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2002",
+      "name": "NUSA AMBO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2003",
+      "name": "LOLEBA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.9759515,
+        "latitude": 0.9537123,
+        "elevation": 261
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2004",
+      "name": "WAIJOI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.9726957,
+        "latitude": 0.8400585,
+        "elevation": 735
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2005",
+      "name": "PINTATU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.735559,
+        "latitude": 0.8087585,
+        "elevation": 134
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2006",
+      "name": "MINAMIN",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.8967709,
+        "latitude": 0.7901191,
+        "elevation": 166
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2007",
+      "name": "SARAMAAKE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.9947816,
+        "latitude": 1.0103945,
+        "elevation": 567
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2008",
+      "name": "FAYAUL",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 128.027851,
+        "latitude": 1.0488918,
+        "elevation": 688
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2009",
+      "name": "BINAGARA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2010",
+      "name": "WASILE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 128.009884,
+        "latitude": 1.0273007,
+        "elevation": 546
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2011",
+      "name": "TOMARES",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.7639806,
+        "latitude": 0.7842979,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2012",
+      "name": "TABANALOU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2013",
+      "name": "SAOLAT",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.9360365,
+        "latitude": 0.8202858,
+        "elevation": 290
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2014",
+      "name": "NANAS",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 128.056365,
+        "latitude": 1.0741757,
+        "elevation": 778
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2015",
+      "name": "TALAGA JAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.7076225,
+        "latitude": 0.8495165,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2016",
+      "name": "SONDO-SONDO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.6991727,
+        "latitude": 0.8711503,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2017",
+      "name": "INO JAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.822898,
+        "latitude": 0.774603,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2018",
+      "name": "AKE JAWI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.8019507,
+        "latitude": 0.7439352,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2019",
+      "name": "EKOR",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.8507182,
+        "latitude": 0.8095311,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2020",
+      "name": "EKORINO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.8264871,
+        "latitude": 0.791723,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2021",
+      "name": "JIKO MOI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 128.0010568,
+        "latitude": 0.8836431,
+        "elevation": 611
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2022",
+      "name": "TANURE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.9513663,
+        "latitude": 0.9793467,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2023",
+      "name": "YAWAL",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.9544294,
+        "latitude": 0.9910155,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.06.04.2024",
+      "name": "BUKUTIO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.06",
+      "cityName": "KAB. HALMAHERA TIMUR",
+      "districtCode": "82.06.04",
+      "districtName": "WASILE SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 128.0409021,
+        "latitude": 1.0672775,
+        "elevation": 761
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 24
+  }
+}

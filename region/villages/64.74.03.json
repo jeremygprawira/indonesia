@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.74.03.1001",
+      "name": "BELIMBING",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.03",
+      "districtName": "BONTANG BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75313,
+      "coordinate": {
+        "longitude": 117.4603228,
+        "latitude": 0.1451407,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.03.1002",
+      "name": "GUNUNG TELIHAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.03",
+      "districtName": "BONTANG BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75383,
+      "coordinate": {
+        "longitude": 117.4515499,
+        "latitude": 0.1336705,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.03.1003",
+      "name": "KANAAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.03",
+      "districtName": "BONTANG BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98545,
+      "coordinate": {
+        "longitude": 135.8247719,
+        "latitude": -1.0377761,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.03.05.1003",
+      "name": "SUNGAI BEDUNGUN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.05",
+      "districtName": "TANJUNG REDEB",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77315,
+      "coordinate": {
+        "longitude": 117.4661843,
+        "latitude": 2.1493266,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.05.1004",
+      "name": "TANJUNG REDEB",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.05",
+      "districtName": "TANJUNG REDEB",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77315,
+      "coordinate": {
+        "longitude": 117.4881466,
+        "latitude": 2.1454033,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.05.1005",
+      "name": "BUGIS",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.05",
+      "districtName": "TANJUNG REDEB",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96112,
+      "coordinate": {
+        "longitude": 123.0623826,
+        "latitude": 0.5281714,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.05.1006",
+      "name": "GAYAM",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.05",
+      "districtName": "TANJUNG REDEB",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77315,
+      "coordinate": {
+        "longitude": 117.5085976,
+        "latitude": 2.1511331,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.05.1007",
+      "name": "KARANG AMBUN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.05",
+      "districtName": "TANJUNG REDEB",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77315,
+      "coordinate": {
+        "longitude": 117.5040874,
+        "latitude": 2.1382606,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.05.1008",
+      "name": "GUNUNG PANJANG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.05",
+      "districtName": "TANJUNG REDEB",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75131,
+      "coordinate": {
+        "longitude": 117.1216263,
+        "latitude": -0.5413152,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

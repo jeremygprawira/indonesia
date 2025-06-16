@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.71.12.1001",
+      "name": "GANDUS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.12",
+      "districtName": "GANDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30149,
+      "coordinate": {
+        "longitude": 104.6872097,
+        "latitude": -3.0003814,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.12.1002",
+      "name": "KARANGANYAR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.12",
+      "districtName": "GANDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67131,
+      "coordinate": {
+        "longitude": 112.9011027,
+        "latitude": -7.6377667,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.12.1003",
+      "name": "TIGA-PULUH-ENAM ILIR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.12",
+      "districtName": "GANDUS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.12.1004",
+      "name": "KARANGJAYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.12",
+      "districtName": "GANDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17710,
+      "coordinate": {
+        "longitude": 107.2447448,
+        "latitude": -6.1560592,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.12.1005",
+      "name": "PULOKERTO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.12",
+      "districtName": "GANDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67151,
+      "coordinate": {
+        "longitude": 112.8659138,
+        "latitude": -7.6068977,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

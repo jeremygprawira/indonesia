@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.08.04.2001",
+      "name": "SUNGAI DAMAR",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.04",
+      "districtName": "PANTAI LUNCI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74170,
+      "coordinate": {
+        "longitude": 111.0216308,
+        "latitude": -3.0508055,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.08.04.2002",
+      "name": "SUNGAI TABUK",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.04",
+      "districtName": "PANTAI LUNCI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71661,
+      "coordinate": {
+        "longitude": 115.3702385,
+        "latitude": -2.3386503,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.08.04.2003",
+      "name": "SUNGAI CABANG BARAT",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.04",
+      "districtName": "PANTAI LUNCI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74170,
+      "coordinate": {
+        "longitude": 111.1831157,
+        "latitude": -2.9649575,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.08.04.2004",
+      "name": "SUNGAI PASIR",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.04",
+      "districtName": "PANTAI LUNCI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72156,
+      "coordinate": {
+        "longitude": 116.0413369,
+        "latitude": -3.6058108,
+        "elevation": 69
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

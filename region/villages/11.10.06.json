@@ -1,0 +1,510 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.06.2001",
+      "name": "TANJUNG BETIK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9689269,
+        "latitude": 2.4205004,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2002",
+      "name": "PENJAHITAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9527916,
+        "latitude": 2.4317759,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2003",
+      "name": "BUKIT HARAPAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91578,
+      "coordinate": {
+        "longitude": 119.5669734,
+        "latitude": -1.502639,
+        "elevation": 225
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2004",
+      "name": "CINGKAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9491873,
+        "latitude": 2.4117605,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2005",
+      "name": "LABUHAN KERA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9668789,
+        "latitude": 2.3935069,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2006",
+      "name": "TANAH BARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9497262,
+        "latitude": 2.3806547,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2007",
+      "name": "RIMO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9616803,
+        "latitude": 2.3929554,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2008",
+      "name": "BLOK VI BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9670956,
+        "latitude": 2.3834596,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2009",
+      "name": "BLOK 15",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9946189,
+        "latitude": 2.3946217,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2010",
+      "name": "BLOK 18",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 98.0189488,
+        "latitude": 2.3733991,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2011",
+      "name": "BLOK 31",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9809971,
+        "latitude": 2.3703801,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2012",
+      "name": "SIDOREJO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2013",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2014",
+      "name": "GUNUNG LAGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9325784,
+        "latitude": 2.3477384,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2015",
+      "name": "PERANGUSAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.913705,
+        "latitude": 2.3732919,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2016",
+      "name": "SEPING BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9180139,
+        "latitude": 2.3493225,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2017",
+      "name": "SEBATANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.910549,
+        "latitude": 2.3488621,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2018",
+      "name": "TANAH MERAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1740163,
+        "latitude": -2.4587745,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2019",
+      "name": "PERTAMPAKAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9072921,
+        "latitude": 2.3356374,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2020",
+      "name": "PANDAN SARI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77361,
+      "coordinate": {
+        "longitude": 117.2332735,
+        "latitude": 2.0639448,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2021",
+      "name": "SANGGABERU SILULUSAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 98.0190251,
+        "latitude": 2.4029596,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2022",
+      "name": "TULAAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9680917,
+        "latitude": 2.3900923,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2023",
+      "name": "TUNAS HARAPAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96466,
+      "coordinate": {
+        "longitude": 121.4599085,
+        "latitude": 0.5696539,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2024",
+      "name": "LAE BUTAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.959934,
+        "latitude": 2.3855919,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.06.2025",
+      "name": "SIANJO-ANJO MERIAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.06",
+      "districtName": "GUNUNG MERIAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24793,
+      "coordinate": {
+        "longitude": 97.9684674,
+        "latitude": 2.4046919,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 25
+  }
+}

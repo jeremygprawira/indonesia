@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.08.04.2001",
+      "name": "RURUMO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.04",
+      "districtName": "TELUK ETNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98121,
+      "coordinate": {
+        "longitude": 134.9053636,
+        "latitude": -3.9538882,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.04.2002",
+      "name": "BOIYA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.04",
+      "districtName": "TELUK ETNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98121,
+      "coordinate": {
+        "longitude": 134.7116211,
+        "latitude": -4.0777737,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.04.2003",
+      "name": "NARIKI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.04",
+      "districtName": "TELUK ETNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98121,
+      "coordinate": {
+        "longitude": 134.8264543,
+        "latitude": -4.0932282,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.04.2004",
+      "name": "BAMANA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.04",
+      "districtName": "TELUK ETNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98121,
+      "coordinate": {
+        "longitude": 134.6458805,
+        "latitude": -3.9292537,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.08.04.2005",
+      "name": "SIAWATAN",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.08",
+      "cityName": "KAB. KAIMANA",
+      "districtCode": "92.08.04",
+      "districtName": "TELUK ETNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98121,
+      "coordinate": {
+        "longitude": 134.3880282,
+        "latitude": -3.930755,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

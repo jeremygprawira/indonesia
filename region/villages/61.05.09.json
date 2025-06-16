@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.05.09.2001",
+      "name": "NANGA TEBIDAH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.0866985,
+        "latitude": -0.1492354,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2002",
+      "name": "NANGA PAYAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.0155733,
+        "latitude": -0.1233248,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2003",
+      "name": "TANJUNG BUNGA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93342,
+      "coordinate": {
+        "longitude": 122.3226472,
+        "latitude": -3.7278463,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2004",
+      "name": "NANGA TORAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.0891881,
+        "latitude": -0.077483,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2005",
+      "name": "RIAM PANJANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78759,
+      "coordinate": {
+        "longitude": 112.3833494,
+        "latitude": 0.4475152,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2006",
+      "name": "ENTOGONG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.0838987,
+        "latitude": -0.1608971,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2007",
+      "name": "NANGA TONGGOI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1277653,
+        "latitude": -0.2724385,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2008",
+      "name": "TANJUNG LALAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1507406,
+        "latitude": -0.2003729,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2009",
+      "name": "LINTANG TAMBUK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1898933,
+        "latitude": -0.2173653,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2010",
+      "name": "NANGA MASAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.331315,
+        "latitude": -0.1118513,
+        "elevation": 135
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2011",
+      "name": "NANGA UNGAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1063116,
+        "latitude": -0.0814881,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2012",
+      "name": "NANGA ABAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.2603869,
+        "latitude": -0.0708662,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2013",
+      "name": "NANGA LAAR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.3046819,
+        "latitude": 0.0174911,
+        "elevation": 268
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2014",
+      "name": "RIAM MUNTIK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.343072,
+        "latitude": 0.0341163,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2015",
+      "name": "NANGA ORAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1699522,
+        "latitude": -0.1300165,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2016",
+      "name": "TONAK GONEH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1081523,
+        "latitude": -0.2055973,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2017",
+      "name": "NANGKAK LESTARI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1928992,
+        "latitude": -0.0692132,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2018",
+      "name": "TOPAN NANGA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1078348,
+        "latitude": -0.1475436,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2019",
+      "name": "MAPAN JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.062905,
+        "latitude": -0.2276984,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2020",
+      "name": "TANJUNG MIRU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.3985912,
+        "latitude": 0.0597767,
+        "elevation": 360
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2021",
+      "name": "BULUH MERINDU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1234536,
+        "latitude": -0.0202344,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2022",
+      "name": "EMPAKAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1376844,
+        "latitude": -0.1715583,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2023",
+      "name": "EMPONYANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.0262613,
+        "latitude": -0.1586608,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2024",
+      "name": "MERAHAU PERMAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.0280859,
+        "latitude": -0.1087818,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2025",
+      "name": "TANAH MERAH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1740163,
+        "latitude": -2.4587745,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2026",
+      "name": "LANDAU BARA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.1010367,
+        "latitude": -0.1268584,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2027",
+      "name": "KERAPUK JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.2608852,
+        "latitude": 0.051062,
+        "elevation": 326
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2028",
+      "name": "MERAH ARAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79678,
+      "coordinate": {
+        "longitude": 111.903935,
+        "latitude": -0.2938427,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2029",
+      "name": "TAPANG MANUA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.4314551,
+        "latitude": -0.1335266,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2030",
+      "name": "NANGA TAMPANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.213722,
+        "latitude": 0.0802234,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.09.2031",
+      "name": "KEBARAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.09",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78694,
+      "coordinate": {
+        "longitude": 112.075563,
+        "latitude": -0.1215603,
+        "elevation": 77
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 31
+  }
+}

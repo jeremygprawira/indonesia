@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.01.05.2001",
+      "name": "WAHYUHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.05",
+      "districtName": "LENDAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55663,
+      "coordinate": {
+        "longitude": 110.1887341,
+        "latitude": -7.9241927,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.05.2002",
+      "name": "BUMIREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.05",
+      "districtName": "LENDAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62194,
+      "coordinate": {
+        "longitude": 112.1087259,
+        "latitude": -7.1640624,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.05.2003",
+      "name": "JATIREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.05",
+      "districtName": "LENDAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62280,
+      "coordinate": {
+        "longitude": 112.4225253,
+        "latitude": -7.1508473,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.05.2004",
+      "name": "SIDOREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.05",
+      "districtName": "LENDAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.05.2005",
+      "name": "GULUREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.05",
+      "districtName": "LENDAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55663,
+      "coordinate": {
+        "longitude": 110.2517463,
+        "latitude": -7.9061855,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.05.2006",
+      "name": "NGENTAKREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.05",
+      "districtName": "LENDAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55663,
+      "coordinate": {
+        "longitude": 110.2548413,
+        "latitude": -7.8966191,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

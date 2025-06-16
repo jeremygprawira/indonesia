@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.09.1001",
+      "name": "CIHAPIT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.09",
+      "districtName": "BANDUNG WETAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40114,
+      "coordinate": {
+        "longitude": 107.6270903,
+        "latitude": -6.9085274,
+        "elevation": 708
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.09.1002",
+      "name": "TAMAN SARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.09",
+      "districtName": "BANDUNG WETAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83118,
+      "coordinate": {
+        "longitude": 116.0821648,
+        "latitude": -8.5822049,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.09.1003",
+      "name": "CITARUM",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.09",
+      "districtName": "BANDUNG WETAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40115,
+      "coordinate": {
+        "longitude": 107.6172366,
+        "latitude": -6.9038622,
+        "elevation": 736
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

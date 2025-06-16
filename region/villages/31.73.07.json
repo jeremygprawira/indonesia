@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.73.07.1001",
+      "name": "PALMERAH",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.07",
+      "districtName": "PAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11480,
+      "coordinate": {
+        "longitude": 106.7906753,
+        "latitude": -6.2012855,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.07.1002",
+      "name": "SLIPI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.07",
+      "districtName": "PAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11410,
+      "coordinate": {
+        "longitude": 106.8024699,
+        "latitude": -6.1949127,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.07.1003",
+      "name": "KOTA BAMBU UTARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.07",
+      "districtName": "PAL MERAH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.07.1004",
+      "name": "JATIPULO",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.07",
+      "districtName": "PAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11430,
+      "coordinate": {
+        "longitude": 106.8045661,
+        "latitude": -6.1805043,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.07.1005",
+      "name": "KEMANGGISAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.07",
+      "districtName": "PAL MERAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11480,
+      "coordinate": {
+        "longitude": 106.79192,
+        "latitude": -6.1910358,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.07.1006",
+      "name": "KOTA BAMBU SELATAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.07",
+      "districtName": "PAL MERAH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

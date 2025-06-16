@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.16.2001",
+      "name": "MALALAK UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.16",
+      "districtName": "MALALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26163,
+      "coordinate": {
+        "longitude": 100.2619994,
+        "latitude": -0.3892663,
+        "elevation": 890
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.16.2002",
+      "name": "MALALAK TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.16",
+      "districtName": "MALALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26163,
+      "coordinate": {
+        "longitude": 100.2930543,
+        "latitude": -0.397632,
+        "elevation": 1128
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.16.2003",
+      "name": "MALALAK SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.16",
+      "districtName": "MALALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26163,
+      "coordinate": {
+        "longitude": 100.2700382,
+        "latitude": -0.4563154,
+        "elevation": 604
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.16.2004",
+      "name": "MALALAK BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.16",
+      "districtName": "MALALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26163,
+      "coordinate": {
+        "longitude": 100.2454855,
+        "latitude": -0.43197,
+        "elevation": 578
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

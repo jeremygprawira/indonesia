@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.13.2001",
+      "name": "SINGKOHOR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.13",
+      "districtName": "SINGKOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24788,
+      "coordinate": {
+        "longitude": 97.9245828,
+        "latitude": 2.5332974,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.13.2002",
+      "name": "LAE SIPOLA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.13",
+      "districtName": "SINGKOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24788,
+      "coordinate": {
+        "longitude": 97.9848403,
+        "latitude": 2.5389393,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.13.2003",
+      "name": "LAE PINANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.13",
+      "districtName": "SINGKOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24788,
+      "coordinate": {
+        "longitude": 97.9394442,
+        "latitude": 2.4973133,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.13.2004",
+      "name": "MUKTI JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.13",
+      "districtName": "SINGKOHOR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92965,
+      "coordinate": {
+        "longitude": 120.3050736,
+        "latitude": -2.723711,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.13.2006",
+      "name": "SRI KAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.13",
+      "districtName": "SINGKOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24788,
+      "coordinate": {
+        "longitude": 97.8670035,
+        "latitude": 2.4571685,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.13.2007",
+      "name": "PEA JAMBU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.13",
+      "districtName": "SINGKOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24788,
+      "coordinate": {
+        "longitude": 97.8914533,
+        "latitude": 2.4773397,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

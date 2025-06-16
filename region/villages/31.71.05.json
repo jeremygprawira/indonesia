@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.71.05.1001",
+      "name": "CEMPAKA PUTIH TIMUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.05",
+      "districtName": "CEMPAKA PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10510,
+      "coordinate": {
+        "longitude": 106.8715687,
+        "latitude": -6.1775466,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.05.1002",
+      "name": "CEMPAKA PUTIH BARAT",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.05",
+      "districtName": "CEMPAKA PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10520,
+      "coordinate": {
+        "longitude": 106.8633857,
+        "latitude": -6.1808998,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.05.1003",
+      "name": "RAWASARI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.05",
+      "districtName": "CEMPAKA PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42273,
+      "coordinate": {
+        "longitude": 105.9372588,
+        "latitude": -6.4154282,
+        "elevation": 89
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

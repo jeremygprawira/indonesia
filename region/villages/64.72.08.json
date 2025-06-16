@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.72.08.1001",
+      "name": "TEMINDUNG PERMAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.08",
+      "districtName": "SUNGAI PINANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75119,
+      "coordinate": {
+        "longitude": 117.1607948,
+        "latitude": -0.4713802,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.08.1002",
+      "name": "SUNGAI PINANG DALAM",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.08",
+      "districtName": "SUNGAI PINANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75117,
+      "coordinate": {
+        "longitude": 117.1713036,
+        "latitude": -0.482356,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.08.1003",
+      "name": "GUNUNG LINGAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.08",
+      "districtName": "SUNGAI PINANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75119,
+      "coordinate": {
+        "longitude": 117.1754612,
+        "latitude": -0.4481036,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.08.1004",
+      "name": "MUGIREJO",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.08",
+      "districtName": "SUNGAI PINANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75119,
+      "coordinate": {
+        "longitude": 117.2029062,
+        "latitude": -0.475774,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.08.1005",
+      "name": "BANDARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.08",
+      "districtName": "SUNGAI PINANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75119,
+      "coordinate": {
+        "longitude": 117.1542304,
+        "latitude": -0.4866252,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

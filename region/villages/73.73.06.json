@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.73.06.1001",
+      "name": "TOMARUNDUNG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.06",
+      "districtName": "WARA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1818455,
+        "latitude": -3.0029935,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.06.1002",
+      "name": "BATTANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.06",
+      "districtName": "WARA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91958,
+      "coordinate": {
+        "longitude": 120.1210848,
+        "latitude": -2.9802689,
+        "elevation": 504
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.06.1003",
+      "name": "LEBANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.06",
+      "districtName": "WARA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1660883,
+        "latitude": -2.9928344,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.06.1004",
+      "name": "BATTANG BARAT",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.06",
+      "districtName": "WARA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.087313,
+        "latitude": -2.9682285,
+        "elevation": 681
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.06.1005",
+      "name": "PADANG LAMBE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.06",
+      "districtName": "WARA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1333054,
+        "latitude": -2.9326973,
+        "elevation": 287
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

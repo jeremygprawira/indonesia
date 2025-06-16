@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.10.1002",
+      "name": "BENCAHLESUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28285,
+      "coordinate": {
+        "longitude": 101.501613,
+        "latitude": 0.4980902,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.10.1003",
+      "name": "TANGKERANG TIMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28289,
+      "coordinate": {
+        "longitude": 101.4928956,
+        "latitude": 0.4958632,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.10.1004",
+      "name": "REJOSARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72211,
+      "coordinate": {
+        "longitude": 115.7798503,
+        "latitude": -3.2118721,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.10.1005",
+      "name": "BAMBUKUNING",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28281,
+      "coordinate": {
+        "longitude": 101.4712671,
+        "latitude": 0.5374841,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.10.1010",
+      "name": "MELEBUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28285,
+      "coordinate": {
+        "longitude": 101.5858738,
+        "latitude": 0.5674542,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.10.1011",
+      "name": "INDUSTRITENAYAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28285,
+      "coordinate": {
+        "longitude": 101.506465,
+        "latitude": 0.5438961,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.10.1012",
+      "name": "SIALANGSAKTI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28285,
+      "coordinate": {
+        "longitude": 101.5115654,
+        "latitude": 0.5203491,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.10.1013",
+      "name": "TUAHNEGERI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.10",
+      "districtName": "TENAYAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28285,
+      "coordinate": {
+        "longitude": 101.5878833,
+        "latitude": 0.512801,
+        "elevation": 51
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

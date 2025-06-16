@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.07.09.2001",
+      "name": "PULAU HARAPAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.09",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92616,
+      "coordinate": {
+        "longitude": 120.4197638,
+        "latitude": -5.0975014,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.09.2002",
+      "name": "PULAU BUHUNG PITUE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.09",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92616,
+      "coordinate": {
+        "longitude": 120.3922941,
+        "latitude": -5.12197,
+        "elevation": 231
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.09.2003",
+      "name": "PULAU PADAELO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.09",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92616,
+      "coordinate": {
+        "longitude": 120.4207938,
+        "latitude": -5.0521668,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.09.2004",
+      "name": "PULAU PERSATUAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.09",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92616,
+      "coordinate": {
+        "longitude": 120.3920444,
+        "latitude": -5.0403591,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

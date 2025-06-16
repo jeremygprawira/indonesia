@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.04.15.2001",
+      "name": "GEDUNG SURIAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.15",
+      "districtName": "GEDUNG SURIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34871,
+      "coordinate": {
+        "longitude": 104.4646033,
+        "latitude": -5.0965072,
+        "elevation": 833
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.15.2002",
+      "name": "PURAMEKAR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.15",
+      "districtName": "GEDUNG SURIAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.15.2003",
+      "name": "CIPTAWARAS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.15",
+      "districtName": "GEDUNG SURIAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.15.2004",
+      "name": "TRIMULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.15",
+      "districtName": "GEDUNG SURIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55513,
+      "coordinate": {
+        "longitude": 110.3571563,
+        "latitude": -7.6790932,
+        "elevation": 302
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.15.2005",
+      "name": "MEKARJAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.15",
+      "districtName": "GEDUNG SURIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4710302,
+        "latitude": 0.6604188,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.16.1001",
+      "name": "MADRAS HULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.16",
+      "districtName": "MEDAN POLONIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20152,
+      "coordinate": {
+        "longitude": 98.6711203,
+        "latitude": 3.5811598,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.16.1002",
+      "name": "POLONIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.16",
+      "districtName": "MEDAN POLONIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20157,
+      "coordinate": {
+        "longitude": 98.6641981,
+        "latitude": 3.5637898,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.16.1003",
+      "name": "SARI REJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.16",
+      "districtName": "MEDAN POLONIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20157,
+      "coordinate": {
+        "longitude": 98.6693159,
+        "latitude": 3.5490208,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.16.1004",
+      "name": "SUKA DAMAI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.16",
+      "districtName": "MEDAN POLONIA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97789,
+      "coordinate": {
+        "longitude": 127.7464899,
+        "latitude": -0.2245384,
+        "elevation": 634
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.16.1005",
+      "name": "ANGGRUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.16",
+      "districtName": "MEDAN POLONIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20152,
+      "coordinate": {
+        "longitude": 98.6670807,
+        "latitude": 3.5732879,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

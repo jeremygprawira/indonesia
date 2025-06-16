@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.12.08.2001",
+      "name": "CITTA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.08",
+      "districtName": "CITTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90861,
+      "coordinate": {
+        "longitude": 120.0253709,
+        "latitude": -4.4334973,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.12.08.2002",
+      "name": "KAMPIRI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.08",
+      "districtName": "CITTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90971,
+      "coordinate": {
+        "longitude": 120.0972567,
+        "latitude": -4.2281116,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.12.08.2003",
+      "name": "LABAE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.08",
+      "districtName": "CITTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90861,
+      "coordinate": {
+        "longitude": 120.0551648,
+        "latitude": -4.4233871,
+        "elevation": 286
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.12.08.2004",
+      "name": "TINCO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.08",
+      "districtName": "CITTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90861,
+      "coordinate": {
+        "longitude": 120.0149377,
+        "latitude": -4.3909084,
+        "elevation": 59
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

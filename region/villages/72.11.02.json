@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.11.02.2001",
+      "name": "KENDEK",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.02",
+      "districtName": "BANGGAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94896,
+      "coordinate": {
+        "longitude": 123.5546528,
+        "latitude": -1.5449121,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.02.2002",
+      "name": "LOKOTOY",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.02",
+      "districtName": "BANGGAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94896,
+      "coordinate": {
+        "longitude": 123.5575707,
+        "latitude": -1.4497412,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.02.2003",
+      "name": "POPISI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.02",
+      "districtName": "BANGGAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94896,
+      "coordinate": {
+        "longitude": 123.5132331,
+        "latitude": -1.4880421,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.02.2004",
+      "name": "PAISUMOSONI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.02",
+      "districtName": "BANGGAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94896,
+      "coordinate": {
+        "longitude": 123.5031614,
+        "latitude": -1.5026512,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.02.2005",
+      "name": "TOLISETUBONO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.02",
+      "districtName": "BANGGAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94896,
+      "coordinate": {
+        "longitude": 123.5039827,
+        "latitude": -1.5253772,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.02.2006",
+      "name": "BONE BARU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.02",
+      "districtName": "BANGGAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94896,
+      "coordinate": {
+        "longitude": 123.4856557,
+        "latitude": -1.5390829,
+        "elevation": 38
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.30.1001",
+      "name": "JATIHANDAP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.30",
+      "districtName": "MANDALAJATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40195,
+      "coordinate": {
+        "longitude": 107.6641558,
+        "latitude": -6.892627,
+        "elevation": 742
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.30.1002",
+      "name": "KARANG PAMULANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.30",
+      "districtName": "MANDALAJATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40195,
+      "coordinate": {
+        "longitude": 107.6725379,
+        "latitude": -6.8987635,
+        "elevation": 699
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.30.1003",
+      "name": "PASIR IMPUN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.30",
+      "districtName": "MANDALAJATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40195,
+      "coordinate": {
+        "longitude": 107.6796378,
+        "latitude": -6.8972283,
+        "elevation": 737
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.30.1004",
+      "name": "SINDANG JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.30",
+      "districtName": "MANDALAJATI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.23012,
+        "latitude": -1.3066845,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.17.1001",
+      "name": "SITUSAEUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.17",
+      "districtName": "BOJONGLOA KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40234,
+      "coordinate": {
+        "longitude": 107.5960692,
+        "latitude": -6.9395049,
+        "elevation": 691
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.17.1002",
+      "name": "KEBON LEGA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.17",
+      "districtName": "BOJONGLOA KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40235,
+      "coordinate": {
+        "longitude": 107.5995415,
+        "latitude": -6.9480978,
+        "elevation": 685
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.17.1003",
+      "name": "CIBADUYUT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.17",
+      "districtName": "BOJONGLOA KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40236,
+      "coordinate": {
+        "longitude": 107.5942885,
+        "latitude": -6.9528052,
+        "elevation": 679
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.17.1004",
+      "name": "MEKAR WANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.17",
+      "districtName": "BOJONGLOA KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15340,
+      "coordinate": {
+        "longitude": 106.5958915,
+        "latitude": -6.3542606,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.17.1005",
+      "name": "CIBADUYUT KIDUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.17",
+      "districtName": "BOJONGLOA KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40239,
+      "coordinate": {
+        "longitude": 107.5909888,
+        "latitude": -6.9592062,
+        "elevation": 674
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.17.1006",
+      "name": "CIBADUYUT WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.17",
+      "districtName": "BOJONGLOA KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40238,
+      "coordinate": {
+        "longitude": 107.5989767,
+        "latitude": -6.9576037,
+        "elevation": 676
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

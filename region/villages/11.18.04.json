@@ -1,0 +1,910 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.18.04.2001",
+      "name": "KEUDE ULEE GLE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3171514,
+        "latitude": 5.1979525,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2002",
+      "name": "ULEE GLE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2003",
+      "name": "BLANG DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3067826,
+        "latitude": 5.2072247,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2004",
+      "name": "PULO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42182,
+      "coordinate": {
+        "longitude": 106.2580976,
+        "latitude": -6.1088429,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2005",
+      "name": "BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24416,
+      "coordinate": {
+        "longitude": 97.9795347,
+        "latitude": 4.4614344,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2006",
+      "name": "MEUKO KUTHANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3227541,
+        "latitude": 5.1982555,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2007",
+      "name": "UTEUN BAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.314183,
+        "latitude": 5.1869693,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2008",
+      "name": "ALUE KETAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3075305,
+        "latitude": 5.1812271,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2009",
+      "name": "JAULANGA BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3076348,
+        "latitude": 5.1738388,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2010",
+      "name": "KUMBA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79286,
+      "coordinate": {
+        "longitude": 109.8100205,
+        "latitude": 1.3811006,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2011",
+      "name": "BABAH KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3027433,
+        "latitude": 5.1914462,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2012",
+      "name": "POHROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2969501,
+        "latitude": 5.190598,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2013",
+      "name": "SEUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2493685,
+        "latitude": 5.1977986,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2014",
+      "name": "ALUE MEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2845663,
+        "latitude": 5.1744936,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2015",
+      "name": "BLANG KUTA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2816602,
+        "latitude": 5.1863175,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2016",
+      "name": "DRIEN TUJOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2671845,
+        "latitude": 5.176689,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2017",
+      "name": "ALUE SANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2651273,
+        "latitude": 5.1484882,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2018",
+      "name": "GAHRU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2714061,
+        "latitude": 5.1414232,
+        "elevation": 227
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2019",
+      "name": "LHOK PUSONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2844838,
+        "latitude": 5.1523964,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2020",
+      "name": "PAYA PISANG KLAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.2934981,
+        "latitude": 5.1708737,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2021",
+      "name": "COT GEUREFAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3012709,
+        "latitude": 5.1635647,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2022",
+      "name": "MUKO DAYAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3238056,
+        "latitude": 5.1902322,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2023",
+      "name": "MEUKO BULOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3214396,
+        "latitude": 5.1832808,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2024",
+      "name": "PEULAKAN TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3333641,
+        "latitude": 5.1935675,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2025",
+      "name": "ADAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3348856,
+        "latitude": 5.1863656,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2026",
+      "name": "MEUGIT KAYEE PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3291343,
+        "latitude": 5.1851538,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2027",
+      "name": "MEUGIT SAGOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3259824,
+        "latitude": 5.1859605,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2028",
+      "name": "MEURANDEH ALUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3335993,
+        "latitude": 5.1749942,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2029",
+      "name": "REUDEUP MELAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3147306,
+        "latitude": 5.1811183,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2030",
+      "name": "MEUNASAH PAKU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3182639,
+        "latitude": 5.1779319,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2031",
+      "name": "JEULANGA MATA IE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3202278,
+        "latitude": 5.1733293,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2032",
+      "name": "JEULANGA MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3168004,
+        "latitude": 5.1736846,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2033",
+      "name": "PULO GAPU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3153449,
+        "latitude": 5.1642339,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2034",
+      "name": "BLANG MIROE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3055932,
+        "latitude": 5.1408261,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2035",
+      "name": "BEURASAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3162639,
+        "latitude": 5.1572865,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2036",
+      "name": "COT KENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3161487,
+        "latitude": 5.1186838,
+        "elevation": 447
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2037",
+      "name": "KRUENG KIRAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3357685,
+        "latitude": 5.1162057,
+        "elevation": 541
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2038",
+      "name": "ASAN KUMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3304391,
+        "latitude": 5.1660611,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2039",
+      "name": "DRIEN BUNGONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3249384,
+        "latitude": 5.1700427,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2040",
+      "name": "PEULAKAN CIBREK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2041",
+      "name": "PAYA TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3227021,
+        "latitude": 5.2035824,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2042",
+      "name": "PEULAKAN TAMBO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3336907,
+        "latitude": 5.1984641,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2043",
+      "name": "PAYA BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3301192,
+        "latitude": 5.2096767,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2044",
+      "name": "MEUKO BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.32386,
+        "latitude": 5.2076823,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.04.2045",
+      "name": "KUTA KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.04",
+      "districtName": "BANDAR DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3374497,
+        "latitude": 5.2061839,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 45
+  }
+}

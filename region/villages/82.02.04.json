@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.02.04.2001",
+      "name": "GEMAF",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.04",
+      "districtName": "WEDA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97854,
+      "coordinate": {
+        "longitude": 128.0274739,
+        "latitude": 0.4971114,
+        "elevation": 251
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.04.2002",
+      "name": "SAGEA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.04",
+      "districtName": "WEDA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97854,
+      "coordinate": {
+        "longitude": 128.0624718,
+        "latitude": 0.5576044,
+        "elevation": 754
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.04.2003",
+      "name": "FRITU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.04",
+      "districtName": "WEDA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97854,
+      "coordinate": {
+        "longitude": 128.153353,
+        "latitude": 0.5127399,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.04.2004",
+      "name": "WALEH",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.04",
+      "districtName": "WEDA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97854,
+      "coordinate": {
+        "longitude": 128.2025782,
+        "latitude": 0.4581484,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.04.2008",
+      "name": "KIYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.04",
+      "districtName": "WEDA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97854,
+      "coordinate": {
+        "longitude": 128.1193321,
+        "latitude": 0.5208939,
+        "elevation": 290
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

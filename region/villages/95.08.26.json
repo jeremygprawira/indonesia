@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.26.2001",
+      "name": "WUSI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.26",
+      "districtName": "WUSI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99930,
+      "coordinate": {
+        "longitude": 138.691803,
+        "latitude": -4.577667,
+        "elevation": 481
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.26.2002",
+      "name": "GINIGIT",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.26",
+      "districtName": "WUSI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99930,
+      "coordinate": {
+        "longitude": 138.691803,
+        "latitude": -4.577667,
+        "elevation": 481
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.26.2003",
+      "name": "PIJEMAE",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.26",
+      "districtName": "WUSI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99930,
+      "coordinate": {
+        "longitude": 138.7926084,
+        "latitude": -4.6307017,
+        "elevation": 372
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.26.2004",
+      "name": "GIMIGIP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.26",
+      "districtName": "WUSI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99930,
+      "coordinate": {
+        "longitude": 138.691803,
+        "latitude": -4.577667,
+        "elevation": 481
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

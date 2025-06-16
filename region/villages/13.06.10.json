@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.10.2001",
+      "name": "KOTO RANTANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.10",
+      "districtName": "PALUPUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26151,
+      "coordinate": {
+        "longitude": 100.3336223,
+        "latitude": -0.2211512,
+        "elevation": 727
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.10.2002",
+      "name": "PASIA LAWEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.10",
+      "districtName": "PALUPUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26151,
+      "coordinate": {
+        "longitude": 100.3391149,
+        "latitude": -0.1415508,
+        "elevation": 1112
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.10.2003",
+      "name": "PAGADIH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.10",
+      "districtName": "PALUPUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26151,
+      "coordinate": {
+        "longitude": 100.2954147,
+        "latitude": -0.0617277,
+        "elevation": 1200
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.10.2004",
+      "name": "NAN TUJUAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.10",
+      "districtName": "PALUPUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26151,
+      "coordinate": {
+        "longitude": 100.2281471,
+        "latitude": -0.0868447,
+        "elevation": 483
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.10.2005",
+      "name": "NAN LIMO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.10",
+      "districtName": "PALUPUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26151,
+      "coordinate": {
+        "longitude": 100.2491389,
+        "latitude": -0.1406051,
+        "elevation": 642
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

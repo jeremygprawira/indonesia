@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.09.07.2001",
+      "name": "BUANG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.07",
+      "districtName": "BIARO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95864,
+      "coordinate": {
+        "longitude": 125.3324935,
+        "latitude": 2.0884488,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.09.07.2002",
+      "name": "KARUNGO",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.07",
+      "districtName": "BIARO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95864,
+      "coordinate": {
+        "longitude": 125.402639,
+        "latitude": 2.1147543,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.09.07.2003",
+      "name": "LAMANGGO",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.07",
+      "districtName": "BIARO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95864,
+      "coordinate": {
+        "longitude": 125.3605951,
+        "latitude": 2.116905,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.09.07.2004",
+      "name": "DALINSAHENG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.07",
+      "districtName": "BIARO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95864,
+      "coordinate": {
+        "longitude": 125.3852068,
+        "latitude": 2.1077255,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.09.07.2005",
+      "name": "TOPE",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.07",
+      "districtName": "BIARO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95864,
+      "coordinate": {
+        "longitude": 125.3441057,
+        "latitude": 2.102671,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

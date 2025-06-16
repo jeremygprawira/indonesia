@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.08.16.2001",
+      "name": "HILA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.16",
+      "districtName": "KEPULAUAN ROMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97440,
+      "coordinate": {
+        "longitude": 127.3530523,
+        "latitude": -7.5992177,
+        "elevation": 293
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.16.2002",
+      "name": "JERUSU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.16",
+      "districtName": "KEPULAUAN ROMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97440,
+      "coordinate": {
+        "longitude": 127.4425877,
+        "latitude": -7.5652979,
+        "elevation": 383
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.16.2003",
+      "name": "SOLATH",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.16",
+      "districtName": "KEPULAUAN ROMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97440,
+      "coordinate": {
+        "longitude": 127.3955807,
+        "latitude": -7.5097217,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

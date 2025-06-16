@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.15.2001",
+      "name": "KAYU TANAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.15",
+      "districtName": "2 X 11 KAYU TANAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79355,
+      "coordinate": {
+        "longitude": 109.2796087,
+        "latitude": 0.2613325,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.15.2002",
+      "name": "GUGUAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.15",
+      "districtName": "2 X 11 KAYU TANAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25585,
+      "coordinate": {
+        "longitude": 100.3608364,
+        "latitude": -0.4930114,
+        "elevation": 827
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.15.2003",
+      "name": "ANDURIANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.15",
+      "districtName": "2 X 11 KAYU TANAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25585,
+      "coordinate": {
+        "longitude": 100.3651938,
+        "latitude": -0.5986128,
+        "elevation": 558
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.15.2004",
+      "name": "KAPALO HILALANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.15",
+      "districtName": "2 X 11 KAYU TANAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25585,
+      "coordinate": {
+        "longitude": 100.3048501,
+        "latitude": -0.5336881,
+        "elevation": 176
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

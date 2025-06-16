@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "32.79.01",
+      "name": "BANJAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR"
+    },
+    {
+      "type": "district",
+      "code": "32.79.02",
+      "name": "PATARUMAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR"
+    },
+    {
+      "type": "district",
+      "code": "32.79.03",
+      "name": "PURWAHARJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR"
+    },
+    {
+      "type": "district",
+      "code": "32.79.04",
+      "name": "LANGENSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

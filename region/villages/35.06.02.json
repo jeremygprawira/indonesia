@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.06.02.2001",
+      "name": "JUGO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62260,
+      "coordinate": {
+        "longitude": 112.2446991,
+        "latitude": -7.0514965,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2002",
+      "name": "BLIMBING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65125,
+      "coordinate": {
+        "longitude": 112.6456818,
+        "latitude": -7.9457804,
+        "elevation": 469
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2003",
+      "name": "PAMONGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.8812143,
+        "latitude": -7.8974003,
+        "elevation": 590
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2004",
+      "name": "PETUNGROTO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.8667373,
+        "latitude": -7.9007363,
+        "elevation": 612
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2005",
+      "name": "NGETREP",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63161,
+      "coordinate": {
+        "longitude": 111.4861438,
+        "latitude": -7.5859996,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2006",
+      "name": "PONGGOK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.906039,
+        "latitude": -7.9229128,
+        "elevation": 264
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2007",
+      "name": "NGADI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97612,
+      "coordinate": {
+        "longitude": 132.7736986,
+        "latitude": -5.5721538,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2008",
+      "name": "KRANDING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.934608,
+        "latitude": -7.9462827,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2009",
+      "name": "MAESAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68262,
+      "coordinate": {
+        "longitude": 113.7753797,
+        "latitude": -8.0239705,
+        "elevation": 353
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2010",
+      "name": "KEDAWUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67262,
+      "coordinate": {
+        "longitude": 113.140025,
+        "latitude": -7.8968953,
+        "elevation": 314
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2011",
+      "name": "PLOSO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60133,
+      "coordinate": {
+        "longitude": 112.7682728,
+        "latitude": -7.2534414,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2012",
+      "name": "KRATON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69119,
+      "coordinate": {
+        "longitude": 112.7528049,
+        "latitude": -7.0335862,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2013",
+      "name": "TAMBIBENDO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.9522821,
+        "latitude": -7.9028056,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2014",
+      "name": "MOJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60285,
+      "coordinate": {
+        "longitude": 112.7711764,
+        "latitude": -7.2685314,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2015",
+      "name": "MLATI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62272,
+      "coordinate": {
+        "longitude": 112.2037756,
+        "latitude": -7.2207836,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2016",
+      "name": "SURAT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.9544164,
+        "latitude": -7.882759,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2017",
+      "name": "SUKOANYAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5336886,
+        "latitude": -7.2652067,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2018",
+      "name": "KENITEN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63271,
+      "coordinate": {
+        "longitude": 111.4413615,
+        "latitude": -7.5154507,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2019",
+      "name": "MONDO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.9656082,
+        "latitude": -7.8607403,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.06.02.2020",
+      "name": "PETOK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.06",
+      "cityName": "KAB. KEDIRI",
+      "districtCode": "35.06.02",
+      "districtName": "MOJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64162,
+      "coordinate": {
+        "longitude": 111.9825642,
+        "latitude": -7.857405,
+        "elevation": 75
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

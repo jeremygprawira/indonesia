@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.10.04.2001",
+      "name": "PUROO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.04",
+      "districtName": "LINDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94369,
+      "coordinate": {
+        "longitude": 120.0359577,
+        "latitude": -1.3839936,
+        "elevation": 1270
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.04.2002",
+      "name": "LANGKO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.04",
+      "districtName": "LINDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94369,
+      "coordinate": {
+        "longitude": 120.0839328,
+        "latitude": -1.3770022,
+        "elevation": 1051
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.04.2003",
+      "name": "TOMADO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.04",
+      "districtName": "LINDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94369,
+      "coordinate": {
+        "longitude": 120.1392601,
+        "latitude": -1.3535155,
+        "elevation": 1016
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.04.2004",
+      "name": "ANCA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.04",
+      "districtName": "LINDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94369,
+      "coordinate": {
+        "longitude": 120.0904276,
+        "latitude": -1.284704,
+        "elevation": 979
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.04.2005",
+      "name": "OLU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.04",
+      "districtName": "LINDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94369,
+      "coordinate": {
+        "longitude": 120.1259278,
+        "latitude": -1.3396977,
+        "elevation": 992
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

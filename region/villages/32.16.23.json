@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.16.23.2001",
+      "name": "KARANGMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.23",
+      "districtName": "BOJONGMANGU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52182,
+      "coordinate": {
+        "longitude": 109.234843,
+        "latitude": -6.9269751,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.23.2002",
+      "name": "KARANGINDAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.23",
+      "districtName": "BOJONGMANGU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17350,
+      "coordinate": {
+        "longitude": 107.1469624,
+        "latitude": -6.461878,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.23.2003",
+      "name": "BOJONGMANGU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.23",
+      "districtName": "BOJONGMANGU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17352,
+      "coordinate": {
+        "longitude": 107.1833761,
+        "latitude": -6.4388452,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.23.2004",
+      "name": "SUKABUNGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.23",
+      "districtName": "BOJONGMANGU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40162,
+      "coordinate": {
+        "longitude": 107.5941162,
+        "latitude": -6.8952957,
+        "elevation": 753
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.23.2005",
+      "name": "SUKAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.23",
+      "districtName": "BOJONGMANGU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93885,
+      "coordinate": {
+        "longitude": 122.0967512,
+        "latitude": -4.3238343,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.23.2006",
+      "name": "MEDALKRISNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.23",
+      "districtName": "BOJONGMANGU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17350,
+      "coordinate": {
+        "longitude": 107.1598398,
+        "latitude": -6.4295897,
+        "elevation": 32
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

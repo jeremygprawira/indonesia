@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.09.2001",
+      "name": "PADANG LAWEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.09",
+      "districtName": "PADANG LAWEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27682,
+      "coordinate": {
+        "longitude": 101.7259366,
+        "latitude": -0.9984194,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.09.2002",
+      "name": "BATU RIJAL",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.09",
+      "districtName": "PADANG LAWEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27682,
+      "coordinate": {
+        "longitude": 101.7074834,
+        "latitude": -1.0213542,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.09.2003",
+      "name": "MUARO SOPAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.09",
+      "districtName": "PADANG LAWEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27682,
+      "coordinate": {
+        "longitude": 101.7374218,
+        "latitude": -1.0009465,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.09.2004",
+      "name": "SOPAN JAYA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.09",
+      "districtName": "PADANG LAWEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27682,
+      "coordinate": {
+        "longitude": 101.7717942,
+        "latitude": -0.9963853,
+        "elevation": 121
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

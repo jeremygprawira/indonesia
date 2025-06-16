@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.03.13.2001",
+      "name": "KUSURI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.03",
+      "cityName": "KAB. HALMAHERA UTARA",
+      "districtCode": "82.03.13",
+      "districtName": "TOBELO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.8384134,
+        "latitude": 1.4735025,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.03.13.2002",
+      "name": "SUKAMAJU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.03",
+      "cityName": "KAB. HALMAHERA UTARA",
+      "districtCode": "82.03.13",
+      "districtName": "TOBELO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.03.13.2003",
+      "name": "TOGOLIUA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.03",
+      "cityName": "KAB. HALMAHERA UTARA",
+      "districtCode": "82.03.13",
+      "districtName": "TOBELO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9126881,
+        "latitude": 1.5688842,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.03.13.2004",
+      "name": "BIRINOA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.03",
+      "cityName": "KAB. HALMAHERA UTARA",
+      "districtCode": "82.03.13",
+      "districtName": "TOBELO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9322966,
+        "latitude": 1.5228472,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.03.13.2005",
+      "name": "WANGONGIRA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.03",
+      "cityName": "KAB. HALMAHERA UTARA",
+      "districtCode": "82.03.13",
+      "districtName": "TOBELO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.8515001,
+        "latitude": 1.5995236,
+        "elevation": 328
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.16.2001",
+      "name": "ALAHAN MATI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.16",
+      "districtName": "SIMPANG ALAHAN MATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26382,
+      "coordinate": {
+        "longitude": 100.1601261,
+        "latitude": -0.0257652,
+        "elevation": 456
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.16.2002",
+      "name": "SIMPANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.16",
+      "districtName": "SIMPANG ALAHAN MATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61264,
+      "coordinate": {
+        "longitude": 112.5912431,
+        "latitude": -7.4852611,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.16.2003",
+      "name": "ALAHAN MATI HILIA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.16",
+      "districtName": "SIMPANG ALAHAN MATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26382,
+      "coordinate": {
+        "longitude": 100.1224691,
+        "latitude": -0.0093285,
+        "elevation": 936
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.16.2004",
+      "name": "SIMPANG UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.16",
+      "districtName": "SIMPANG ALAHAN MATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26382,
+      "coordinate": {
+        "longitude": 100.1345905,
+        "latitude": 0.011173,
+        "elevation": 674
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

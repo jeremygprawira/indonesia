@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.09.01.2007",
+      "name": "BETUMONGA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.01",
+      "districtName": "PAGAI UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25398,
+      "coordinate": {
+        "longitude": 99.6020961,
+        "latitude": -2.2335211,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.01.2008",
+      "name": "SILABU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.01",
+      "districtName": "PAGAI UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25390,
+      "coordinate": {
+        "longitude": 99.9941615,
+        "latitude": -2.7044368,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.01.2009",
+      "name": "SAUMANGANYA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.01",
+      "districtName": "PAGAI UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25390,
+      "coordinate": {
+        "longitude": 100.0322203,
+        "latitude": -2.5819947,
+        "elevation": 62
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

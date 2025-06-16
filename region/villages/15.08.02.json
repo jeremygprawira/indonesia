@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.08.02.2001",
+      "name": "RANTAU DUKU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.02",
+      "districtName": "RANTAU PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37261,
+      "coordinate": {
+        "longitude": 101.9570602,
+        "latitude": -1.6080448,
+        "elevation": 130
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.02.2002",
+      "name": "TALANG SUNGAI BUNGO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.02",
+      "districtName": "RANTAU PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37261,
+      "coordinate": {
+        "longitude": 102.00153,
+        "latitude": -1.668777,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.02.2003",
+      "name": "RANTAU PANDAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.02",
+      "districtName": "RANTAU PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74457,
+      "coordinate": {
+        "longitude": 112.3023367,
+        "latitude": -1.0789829,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.02.2004",
+      "name": "LEBAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.02",
+      "districtName": "RANTAU PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51381,
+      "coordinate": {
+        "longitude": 110.3376764,
+        "latitude": -7.1064965,
+        "elevation": 335
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.02.2005",
+      "name": "LUBUK KAYU ARO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.02",
+      "districtName": "RANTAU PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37261,
+      "coordinate": {
+        "longitude": 101.9005611,
+        "latitude": -1.675705,
+        "elevation": 162
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.02.2015",
+      "name": "LUBUK MAYAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.02",
+      "districtName": "RANTAU PANDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37261,
+      "coordinate": {
+        "longitude": 101.9856993,
+        "latitude": -1.601901,
+        "elevation": 109
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

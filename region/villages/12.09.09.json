@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.09.09.1001",
+      "name": "BINJAI SERBANGAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.09",
+      "districtName": "AIR JOMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21263,
+      "coordinate": {
+        "longitude": 99.7059329,
+        "latitude": 2.9977057,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.09.2002",
+      "name": "AIR JOMAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.09",
+      "districtName": "AIR JOMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21263,
+      "coordinate": {
+        "longitude": 99.7375114,
+        "latitude": 2.9940066,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.09.2003",
+      "name": "AIR JOMAN BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.09",
+      "districtName": "AIR JOMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21263,
+      "coordinate": {
+        "longitude": 99.7696871,
+        "latitude": 2.979121,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.09.2005",
+      "name": "BANJAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.09",
+      "districtName": "AIR JOMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78822,
+      "coordinate": {
+        "longitude": 109.9679955,
+        "latitude": -1.863089,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.09.2007",
+      "name": "PASAR LEMBU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.09",
+      "districtName": "AIR JOMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21263,
+      "coordinate": {
+        "longitude": 99.7137169,
+        "latitude": 3.0328027,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.09.2008",
+      "name": "PUNGGULAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.09",
+      "districtName": "AIR JOMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21263,
+      "coordinate": {
+        "longitude": 99.7108071,
+        "latitude": 3.0105456,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.09.2012",
+      "name": "SUBUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.09",
+      "districtName": "AIR JOMAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99653,
+      "coordinate": {
+        "longitude": 140.2101863,
+        "latitude": -6.8497435,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

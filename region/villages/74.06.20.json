@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.20.2001",
+      "name": "TONTONUNU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.20",
+      "districtName": "TONTONUNU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93789,
+      "coordinate": {
+        "longitude": 121.6597096,
+        "latitude": -4.736462,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.20.2002",
+      "name": "TONGKOSENG",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.20",
+      "districtName": "TONTONUNU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93789,
+      "coordinate": {
+        "longitude": 121.6986965,
+        "latitude": -4.6876308,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.20.2003",
+      "name": "TETE HAKA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.20",
+      "districtName": "TONTONUNU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93789,
+      "coordinate": {
+        "longitude": 121.6690155,
+        "latitude": -4.7154738,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.20.2004",
+      "name": "WATU MELOMBA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.20",
+      "districtName": "TONTONUNU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93789,
+      "coordinate": {
+        "longitude": 121.6439298,
+        "latitude": -4.714088,
+        "elevation": 111
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.20.2005",
+      "name": "PUU WONUA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.20",
+      "districtName": "TONTONUNU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93789,
+      "coordinate": {
+        "longitude": 121.7365364,
+        "latitude": -4.6169683,
+        "elevation": 123
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

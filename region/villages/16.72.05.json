@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.72.05.1001",
+      "name": "KARANG DALO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.05",
+      "districtName": "DEMPO TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31520,
+      "coordinate": {
+        "longitude": 103.286651,
+        "latitude": -4.0499287,
+        "elevation": 735
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.05.1003",
+      "name": "PELANG KENIDAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.05",
+      "districtName": "DEMPO TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31520,
+      "coordinate": {
+        "longitude": 103.300595,
+        "latitude": -4.0811564,
+        "elevation": 835
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.05.1008",
+      "name": "JOKOH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.05",
+      "districtName": "DEMPO TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31520,
+      "coordinate": {
+        "longitude": 103.2503206,
+        "latitude": -4.1598512,
+        "elevation": 1290
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.05.1011",
+      "name": "PADANG TEMU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.05",
+      "districtName": "DEMPO TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31520,
+      "coordinate": {
+        "longitude": 103.2605938,
+        "latitude": -4.0613155,
+        "elevation": 722
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.05.1012",
+      "name": "CANDI JAYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.05",
+      "districtName": "DEMPO TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31520,
+      "coordinate": {
+        "longitude": 103.2224556,
+        "latitude": -4.1427648,
+        "elevation": 1251
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

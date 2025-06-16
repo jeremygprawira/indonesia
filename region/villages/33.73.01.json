@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.73.01.1001",
+      "name": "BLOTONGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.01",
+      "districtName": "SIDOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50715,
+      "coordinate": {
+        "longitude": 110.4806976,
+        "latitude": -7.3000745,
+        "elevation": 545
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.01.1002",
+      "name": "SIDOREJO LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.01",
+      "districtName": "SIDOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50714,
+      "coordinate": {
+        "longitude": 110.4918439,
+        "latitude": -7.3144283,
+        "elevation": 573
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.01.1003",
+      "name": "SALATIGA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.01",
+      "districtName": "SIDOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79355,
+      "coordinate": {
+        "longitude": 109.2946716,
+        "latitude": 0.2803328,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.01.1004",
+      "name": "BUGEL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.01",
+      "districtName": "SIDOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6059141,
+        "latitude": -6.1769462,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.01.1005",
+      "name": "KAUMAN KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.01",
+      "districtName": "SIDOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50712,
+      "coordinate": {
+        "longitude": 110.5141733,
+        "latitude": -7.3023178,
+        "elevation": 500
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.01.1006",
+      "name": "PULUTAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.01",
+      "districtName": "SIDOREJO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95878,
+      "coordinate": {
+        "longitude": 126.7917644,
+        "latitude": 4.1458893,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

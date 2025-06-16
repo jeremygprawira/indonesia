@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.10.2002",
+      "name": "TOLOBI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.10",
+      "districtName": "KOFIAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98482,
+      "coordinate": {
+        "longitude": 129.6909439,
+        "latitude": -1.1908736,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.10.2005",
+      "name": "AWAT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.10",
+      "districtName": "KOFIAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98482,
+      "coordinate": {
+        "longitude": 129.8071013,
+        "latitude": -1.1854996,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.10.2004",
+      "name": "MIKIRAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.10",
+      "districtName": "KOFIAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98482,
+      "coordinate": {
+        "longitude": 129.8496354,
+        "latitude": -1.2100357,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.10.2001",
+      "name": "DIBALAL",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.10",
+      "districtName": "KOFIAU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.10.2003",
+      "name": "DEER",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.10",
+      "districtName": "KOFIAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98482,
+      "coordinate": {
+        "longitude": 129.923668,
+        "latitude": -1.1699507,
+        "elevation": 70
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

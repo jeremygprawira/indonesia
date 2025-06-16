@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.75.05.1001",
+      "name": "TANAH MERAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1740163,
+        "latitude": -2.4587745,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.05.1002",
+      "name": "BINJAI ESTATE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20724,
+      "coordinate": {
+        "longitude": 98.4842256,
+        "latitude": 3.5866115,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.05.1003",
+      "name": "BHAKTI KARYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74352,
+      "coordinate": {
+        "longitude": 112.6925524,
+        "latitude": -1.6173886,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.05.1004",
+      "name": "RAMBUNG DALAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20722,
+      "coordinate": {
+        "longitude": 98.4965815,
+        "latitude": 3.5920703,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.05.1005",
+      "name": "PUJIDADI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20727,
+      "coordinate": {
+        "longitude": 98.4938005,
+        "latitude": 3.5755565,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.05.1006",
+      "name": "TANAH SERIBU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20726,
+      "coordinate": {
+        "longitude": 98.4896784,
+        "latitude": 3.5604803,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.05.1007",
+      "name": "RAMBUNG BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20723,
+      "coordinate": {
+        "longitude": 98.4870943,
+        "latitude": 3.5932289,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.05.1008",
+      "name": "RAMBUNG TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.05",
+      "districtName": "BINJAI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20721,
+      "coordinate": {
+        "longitude": 98.4925747,
+        "latitude": 3.60036,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

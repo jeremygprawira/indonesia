@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.03.09.1001",
+      "name": "SELISUN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.09",
+      "districtName": "NUNUKAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77480,
+      "coordinate": {
+        "longitude": 117.671079,
+        "latitude": 4.111081,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.09.1002",
+      "name": "NUNUKAN SELATAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.09",
+      "districtName": "NUNUKAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77480,
+      "coordinate": {
+        "longitude": 117.7032508,
+        "latitude": 4.0825114,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.09.1003",
+      "name": "MANSAPA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.09",
+      "districtName": "NUNUKAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77480,
+      "coordinate": {
+        "longitude": 117.7100351,
+        "latitude": 4.0624319,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.09.1004",
+      "name": "TANJUNG HARAPAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.09",
+      "districtName": "NUNUKAN SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4552093,
+        "latitude": 0.7507995,
+        "elevation": 95
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

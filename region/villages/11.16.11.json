@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.16.11.2001",
+      "name": "TEBING TINGGI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.11",
+      "districtName": "TENGGULUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71667,
+      "coordinate": {
+        "longitude": 115.6104234,
+        "latitude": -2.4383082,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.11.2002",
+      "name": "RIMBA SAWANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.11",
+      "districtName": "TENGGULUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24477,
+      "coordinate": {
+        "longitude": 98.017882,
+        "latitude": 4.1328178,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.11.2003",
+      "name": "TENGGULUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.11",
+      "districtName": "TENGGULUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62265,
+      "coordinate": {
+        "longitude": 112.3357283,
+        "latitude": -6.9426033,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.11.2004",
+      "name": "SELAMAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.11",
+      "districtName": "TENGGULUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36129,
+      "coordinate": {
+        "longitude": 103.5926747,
+        "latitude": -1.6146424,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.11.2005",
+      "name": "SIMPANG KIRI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.11",
+      "districtName": "TENGGULUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24477,
+      "coordinate": {
+        "longitude": 97.9894612,
+        "latitude": 4.0984739,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.11.2006",
+      "name": "SUMBER MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.11",
+      "districtName": "TENGGULUN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97783,
+      "coordinate": {
+        "longitude": 127.8191087,
+        "latitude": -0.0506484,
+        "elevation": 118
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

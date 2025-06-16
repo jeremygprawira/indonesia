@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.71.12.1001",
+      "name": "TANJUNG UNCANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.12",
+      "districtName": "BATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29424,
+      "coordinate": {
+        "longitude": 103.9124962,
+        "latitude": 1.0644878,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.12.1002",
+      "name": "BULIANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.12",
+      "districtName": "BATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29438,
+      "coordinate": {
+        "longitude": 103.9751602,
+        "latitude": 1.0522829,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.12.1003",
+      "name": "KIBING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.12",
+      "districtName": "BATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29422,
+      "coordinate": {
+        "longitude": 103.9924044,
+        "latitude": 1.0593128,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.12.1004",
+      "name": "BUKIT TEMPAYAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.12",
+      "districtName": "BATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29438,
+      "coordinate": {
+        "longitude": 103.9607238,
+        "latitude": 1.0507341,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

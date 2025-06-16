@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.04.13.2001",
+      "name": "BATU BELUBANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.13",
+      "districtName": "BAKUNG SERUMPUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.1485988,
+        "latitude": 0.4472372,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.13.2002",
+      "name": "CEMPA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.13",
+      "districtName": "BAKUNG SERUMPUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91262,
+      "coordinate": {
+        "longitude": 119.5851111,
+        "latitude": -3.7419975,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.13.2003",
+      "name": "PASIR PANJANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.13",
+      "districtName": "BAKUNG SERUMPUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95553,
+      "coordinate": {
+        "longitude": 125.1781887,
+        "latitude": 1.3969501,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.13.2004",
+      "name": "TANJUNG KELIT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.13",
+      "districtName": "BAKUNG SERUMPUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.4911459,
+        "latitude": 0.0403566,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.13.2005",
+      "name": "TANJUNG LIPAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.13",
+      "districtName": "BAKUNG SERUMPUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.4720981,
+        "latitude": 0.1365278,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.13.2006",
+      "name": "REJAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.13",
+      "districtName": "BAKUNG SERUMPUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.4677325,
+        "latitude": 0.1744335,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

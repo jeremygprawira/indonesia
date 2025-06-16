@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.02.1001",
+      "name": "PASANGKAYU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.02",
+      "districtName": "PASANGKAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.3688467,
+        "latitude": -1.1930694,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.02.1002",
+      "name": "MARTAJAYA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.02",
+      "districtName": "PASANGKAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.4292111,
+        "latitude": -1.1785829,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.02.2010",
+      "name": "PAKAVA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.02",
+      "districtName": "PASANGKAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.5271068,
+        "latitude": -1.1873831,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.02.2014",
+      "name": "KARYA BERSAMA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.02",
+      "districtName": "PASANGKAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.3330345,
+        "latitude": -1.2155762,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.02.2015",
+      "name": "AKO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.02",
+      "districtName": "PASANGKAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.3902197,
+        "latitude": -1.1589095,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.02.2016",
+      "name": "GUNUNG SARI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.02",
+      "districtName": "PASANGKAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.4527124,
+        "latitude": -1.2096041,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

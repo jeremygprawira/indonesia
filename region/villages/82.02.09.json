@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.02.09.2001",
+      "name": "DOTTE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.09",
+      "districtName": "WEDA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97852,
+      "coordinate": {
+        "longitude": 128.4289948,
+        "latitude": 0.4375059,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.09.2002",
+      "name": "MESSA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.09",
+      "districtName": "WEDA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97852,
+      "coordinate": {
+        "longitude": 128.3257459,
+        "latitude": 0.4765121,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.09.2003",
+      "name": "KOTALO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.09",
+      "districtName": "WEDA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97852,
+      "coordinate": {
+        "longitude": 128.3358076,
+        "latitude": 0.4868439,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.09.2004",
+      "name": "YEKE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.09",
+      "districtName": "WEDA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97852,
+      "coordinate": {
+        "longitude": 128.227918,
+        "latitude": 0.4689913,
+        "elevation": 137
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

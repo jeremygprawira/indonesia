@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.08.1001",
+      "name": "HEGARMANAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.08",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71572,
+      "coordinate": {
+        "longitude": 115.3436575,
+        "latitude": -1.7296441,
+        "elevation": 320
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.08.1002",
+      "name": "CIUMBULEUIT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.08",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40142,
+      "coordinate": {
+        "longitude": 107.6116646,
+        "latitude": -6.8604705,
+        "elevation": 880
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.08.1003",
+      "name": "LEDENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.08",
+      "districtName": "CIDADAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40143,
+      "coordinate": {
+        "longitude": 107.5999291,
+        "latitude": -6.8533724,
+        "elevation": 979
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

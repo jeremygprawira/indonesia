@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.12.2003",
+      "name": "LAPE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.12",
+      "districtName": "LAPE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94652,
+      "coordinate": {
+        "longitude": 120.6390494,
+        "latitude": -1.3649889,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.12.2005",
+      "name": "LABUHAN KURIS",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.12",
+      "districtName": "LAPE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84382,
+      "coordinate": {
+        "longitude": 117.6439618,
+        "latitude": -8.5634889,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.12.2006",
+      "name": "DETE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.12",
+      "districtName": "LAPE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93797,
+      "coordinate": {
+        "longitude": 123.9770527,
+        "latitude": -5.7718182,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.12.2009",
+      "name": "HIJRAH",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.12",
+      "districtName": "LAPE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97751,
+      "coordinate": {
+        "longitude": 127.5778927,
+        "latitude": 0.9077083,
+        "elevation": 321
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

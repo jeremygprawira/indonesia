@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.09.10.2001",
+      "name": "BILAS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.09",
+      "cityName": "KAB. TABALONG",
+      "districtCode": "63.09.10",
+      "districtName": "UPAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71575,
+      "coordinate": {
+        "longitude": 115.5617085,
+        "latitude": -2.1183814,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.09.10.2002",
+      "name": "KAONG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.09",
+      "cityName": "KAB. TABALONG",
+      "districtCode": "63.09.10",
+      "districtName": "UPAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71575,
+      "coordinate": {
+        "longitude": 115.6037744,
+        "latitude": -2.1109522,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.09.10.2003",
+      "name": "PANGELAK",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.09",
+      "cityName": "KAB. TABALONG",
+      "districtCode": "63.09.10",
+      "districtName": "UPAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71575,
+      "coordinate": {
+        "longitude": 115.6508122,
+        "latitude": -2.0968967,
+        "elevation": 197
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.09.10.2004",
+      "name": "KINARUM",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.09",
+      "cityName": "KAB. TABALONG",
+      "districtCode": "63.09.10",
+      "districtName": "UPAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71575,
+      "coordinate": {
+        "longitude": 115.6932285,
+        "latitude": -2.017642,
+        "elevation": 416
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.09.10.2005",
+      "name": "MASINGAI II",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.09",
+      "cityName": "KAB. TABALONG",
+      "districtCode": "63.09.10",
+      "districtName": "UPAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71575,
+      "coordinate": {
+        "longitude": 115.5443361,
+        "latitude": -2.1121178,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.09.10.2006",
+      "name": "MASINGAI I",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.09",
+      "cityName": "KAB. TABALONG",
+      "districtCode": "63.09.10",
+      "districtName": "UPAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71575,
+      "coordinate": {
+        "longitude": 115.5350143,
+        "latitude": -2.0965454,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

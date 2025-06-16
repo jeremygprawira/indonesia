@@ -1,0 +1,550 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.13.10.1001",
+      "name": "BULETE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.40908,
+        "latitude": -3.7150767,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.1002",
+      "name": "SIWA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99081,
+      "coordinate": {
+        "longitude": 139.6707428,
+        "latitude": -3.7155349,
+        "elevation": 348
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.1003",
+      "name": "TOBARAKKA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.4272983,
+        "latitude": -3.7319298,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.1004",
+      "name": "BENTENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97117,
+      "coordinate": {
+        "longitude": 128.1628113,
+        "latitude": -3.7101868,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2005",
+      "name": "BATU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91341,
+      "coordinate": {
+        "longitude": 119.2418444,
+        "latitude": -3.3023465,
+        "elevation": 217
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2006",
+      "name": "LAUWA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91984,
+      "coordinate": {
+        "longitude": 120.3814476,
+        "latitude": -3.3572443,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2007",
+      "name": "TANRONGI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3662497,
+        "latitude": -3.7047006,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2008",
+      "name": "LOMPOLOANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3246072,
+        "latitude": -3.7265686,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2009",
+      "name": "TELLESANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3930317,
+        "latitude": -3.6765407,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2010",
+      "name": "TANGKORO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3293004,
+        "latitude": -3.6904945,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2011",
+      "name": "MARANNU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92965,
+      "coordinate": {
+        "longitude": 120.2995945,
+        "latitude": -2.6460951,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2012",
+      "name": "ABBANDERANGNGE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3336681,
+        "latitude": -3.7214508,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2013",
+      "name": "SIMPELLU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.314192,
+        "latitude": -3.7563715,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2014",
+      "name": "ALESILURENGNGE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3621481,
+        "latitude": -3.7473589,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2015",
+      "name": "JAUH PANDANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3365445,
+        "latitude": -3.6583513,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2016",
+      "name": "LACINDE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3776273,
+        "latitude": -3.680452,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2017",
+      "name": "BURIKO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.4093459,
+        "latitude": -3.6695044,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2018",
+      "name": "BAU-BAU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3940126,
+        "latitude": -3.680129,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2019",
+      "name": "ALE LEBBAE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3864571,
+        "latitude": -3.6742835,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2020",
+      "name": "BULU SIWA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.4087763,
+        "latitude": -3.6958922,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2021",
+      "name": "BOTTO TENGNGA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3671567,
+        "latitude": -3.7412864,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2022",
+      "name": "KALUKU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92963,
+      "coordinate": {
+        "longitude": 120.4629451,
+        "latitude": -2.5880289,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2023",
+      "name": "MATTIRO WALIE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3183864,
+        "latitude": -3.7538393,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2024",
+      "name": "MACCOLLI LOLOE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.3153996,
+        "latitude": -3.7018272,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2025",
+      "name": "LOMPO BULO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.2929765,
+        "latitude": -3.7283442,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2026",
+      "name": "PADANG LOANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91252,
+      "coordinate": {
+        "longitude": 119.7542427,
+        "latitude": -3.7427255,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.13.10.2027",
+      "name": "KOMPONG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.13",
+      "cityName": "KAB. WAJO",
+      "districtCode": "73.13.10",
+      "districtName": "PITUMPANUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90992,
+      "coordinate": {
+        "longitude": 120.348512,
+        "latitude": -3.6703028,
+        "elevation": 50
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 27
+  }
+}

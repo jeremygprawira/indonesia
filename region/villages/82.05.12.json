@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.05.12.2001",
+      "name": "KAPORO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.12",
+      "districtName": "MANGOLI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.7266635,
+        "latitude": -1.9135296,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.12.2002",
+      "name": "WAIKAFIA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.12",
+      "districtName": "MANGOLI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.6394178,
+        "latitude": -1.9220574,
+        "elevation": 190
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.12.2003",
+      "name": "BUYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.12",
+      "districtName": "MANGOLI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.5629209,
+        "latitude": -1.9277732,
+        "elevation": 229
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.12.2004",
+      "name": "AUPONHIA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.12",
+      "districtName": "MANGOLI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.494109,
+        "latitude": -1.9306031,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.12.2005",
+      "name": "WAILAB",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.12",
+      "districtName": "MANGOLI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.6878352,
+        "latitude": -1.923204,
+        "elevation": 63
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

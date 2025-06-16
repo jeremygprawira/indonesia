@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.04.29.2001",
+      "name": "KELO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.29",
+      "districtName": "OBI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97792,
+      "coordinate": {
+        "longitude": 127.9134552,
+        "latitude": -1.4484327,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.29.2002",
+      "name": "SUM",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.29",
+      "districtName": "OBI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98024,
+      "coordinate": {
+        "longitude": 132.1122793,
+        "latitude": -2.7439363,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.29.2003",
+      "name": "SUSEPE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.29",
+      "districtName": "OBI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97792,
+      "coordinate": {
+        "longitude": 127.9991223,
+        "latitude": -1.5119953,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.29.2004",
+      "name": "WOOI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.29",
+      "districtName": "OBI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98647,
+      "coordinate": {
+        "longitude": 135.521008,
+        "latitude": -1.6594699,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

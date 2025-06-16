@@ -1,0 +1,810 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.15.05.2012",
+      "name": "LAMIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4872461,
+        "latitude": 4.0037002,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2013",
+      "name": "KUTA TRIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2259788,
+        "latitude": 5.2383762,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2014",
+      "name": "GEULANGGANG GAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4806478,
+        "latitude": 3.9704168,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2015",
+      "name": "KAYEE UNOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4358698,
+        "latitude": 3.8845318,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2016",
+      "name": "BLANG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1075178,
+        "latitude": 5.245225,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2017",
+      "name": "ALUE BILIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4891287,
+        "latitude": 3.9500494,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2018",
+      "name": "SUKA RAJA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76147,
+      "coordinate": {
+        "longitude": 116.76549,
+        "latitude": -0.9554,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2019",
+      "name": "GUNONG CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4990566,
+        "latitude": 4.0838468,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2020",
+      "name": "SUKA JADI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34874,
+      "coordinate": {
+        "longitude": 103.9150088,
+        "latitude": -5.2256172,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2021",
+      "name": "TUWI BUYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4828647,
+        "latitude": 4.0448912,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2022",
+      "name": "UJONG LAMIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.459616,
+        "latitude": 4.0443647,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2023",
+      "name": "SUAK PALEMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5319649,
+        "latitude": 4.1000084,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2024",
+      "name": "ALUE WAKI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.6066679,
+        "latitude": 4.1212299,
+        "elevation": 468
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2025",
+      "name": "ALUE GEUTAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5811972,
+        "latitude": 4.0029609,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2026",
+      "name": "KRUENG ALEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.6212436,
+        "latitude": 4.0596,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2027",
+      "name": "ALUE RAMBOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.6648761,
+        "latitude": 4.0780712,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2028",
+      "name": "KRUENG SEUMAYAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.7200682,
+        "latitude": 4.0953572,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2029",
+      "name": "PULO TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5538041,
+        "latitude": 3.9846653,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2030",
+      "name": "KARANG ANYAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90134,
+      "coordinate": {
+        "longitude": 119.411647,
+        "latitude": -5.1766095,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2031",
+      "name": "KUALA SEUMAYAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.591887,
+        "latitude": 3.7986918,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2032",
+      "name": "PULO IE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5903287,
+        "latitude": 3.9712217,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2033",
+      "name": "PULO KRUET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5117415,
+        "latitude": 3.8071447,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2034",
+      "name": "ALUE KUYUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5109542,
+        "latitude": 3.9030734,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2035",
+      "name": "ALUE RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5259723,
+        "latitude": 3.9254123,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2036",
+      "name": "ALUE JAMPAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5286678,
+        "latitude": 3.9361319,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2037",
+      "name": "SUKA MULIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78866,
+      "coordinate": {
+        "longitude": 110.6293085,
+        "latitude": -2.3455309,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2038",
+      "name": "SIMPANG DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94755,
+      "coordinate": {
+        "longitude": 122.2401877,
+        "latitude": -0.9203513,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2039",
+      "name": "SIDOJADI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22977,
+      "coordinate": {
+        "longitude": 99.5186311,
+        "latitude": 0.9505115,
+        "elevation": 231
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2040",
+      "name": "SERBA JADI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20990,
+      "coordinate": {
+        "longitude": 98.9230799,
+        "latitude": 3.3755341,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2041",
+      "name": "SERBA GUNA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5040046,
+        "latitude": 3.9445386,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2042",
+      "name": "SIMPANG DELI KILANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5741102,
+        "latitude": 3.9533834,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2043",
+      "name": "PANTON BAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5676363,
+        "latitude": 3.952895,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2044",
+      "name": "UJONG TANJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5680503,
+        "latitude": 3.9418095,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2045",
+      "name": "SUKA RAMAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78864,
+      "coordinate": {
+        "longitude": 111.0566961,
+        "latitude": -2.7708238,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2046",
+      "name": "LADANG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5710997,
+        "latitude": 3.9277695,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2047",
+      "name": "ALUE BATEUNG BROK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.6078621,
+        "latitude": 3.9042927,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2048",
+      "name": "SIMPANG DELI KAMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5874289,
+        "latitude": 3.9482716,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2049",
+      "name": "BLANG LUAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.590946,
+        "latitude": 3.8927673,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2050",
+      "name": "SUMBER MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97783,
+      "coordinate": {
+        "longitude": 127.8191087,
+        "latitude": -0.0506484,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.15.05.2051",
+      "name": "MAKARTI JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.15",
+      "cityName": "KAB. NAGAN RAYA",
+      "districtCode": "11.15.05",
+      "districtName": "DARUL MAKMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99645,
+      "coordinate": {
+        "longitude": 140.7433314,
+        "latitude": -8.0236546,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 40
+  }
+}

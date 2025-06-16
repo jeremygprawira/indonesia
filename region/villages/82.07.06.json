@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.07.06.2001",
+      "name": "POSI-POSI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.07",
+      "cityName": "KAB. PULAU MOROTAI",
+      "districtCode": "82.07.06",
+      "districtName": "PULAU RAO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97770,
+      "coordinate": {
+        "longitude": 128.1509743,
+        "latitude": 2.314483,
+        "elevation": 207
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.07.06.2002",
+      "name": "ARU BURUNG",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.07",
+      "cityName": "KAB. PULAU MOROTAI",
+      "districtCode": "82.07.06",
+      "districtName": "PULAU RAO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97770,
+      "coordinate": {
+        "longitude": 128.1608263,
+        "latitude": 2.3618735,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.07.06.2003",
+      "name": "LOU MADORO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.07",
+      "cityName": "KAB. PULAU MOROTAI",
+      "districtCode": "82.07.06",
+      "districtName": "PULAU RAO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97770,
+      "coordinate": {
+        "longitude": 128.1498358,
+        "latitude": 2.392572,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.07.06.2004",
+      "name": "LEO-LEO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.07",
+      "cityName": "KAB. PULAU MOROTAI",
+      "districtCode": "82.07.06",
+      "districtName": "PULAU RAO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97770,
+      "coordinate": {
+        "longitude": 128.1216429,
+        "latitude": 2.3468503,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.07.06.2005",
+      "name": "SAMI NYAMAU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.07",
+      "cityName": "KAB. PULAU MOROTAI",
+      "districtCode": "82.07.06",
+      "districtName": "PULAU RAO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97770,
+      "coordinate": {
+        "longitude": 128.1578572,
+        "latitude": 2.2876414,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

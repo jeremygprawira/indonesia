@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.73.04.1001",
+      "name": "PANCURAN KERAMBIL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.04",
+      "districtName": "SIBOLGA SAMBAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22531,
+      "coordinate": {
+        "longitude": 98.7874562,
+        "latitude": 1.7363111,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.04.1002",
+      "name": "PANCURAN DEWA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.04",
+      "districtName": "SIBOLGA SAMBAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22532,
+      "coordinate": {
+        "longitude": 98.7869842,
+        "latitude": 1.7324371,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.04.1003",
+      "name": "PANCURAN PINANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.04",
+      "districtName": "SIBOLGA SAMBAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22534,
+      "coordinate": {
+        "longitude": 98.7822693,
+        "latitude": 1.7319967,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.04.1004",
+      "name": "PANCURAN BAMBU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.04",
+      "districtName": "SIBOLGA SAMBAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22535,
+      "coordinate": {
+        "longitude": 98.7891826,
+        "latitude": 1.7310899,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

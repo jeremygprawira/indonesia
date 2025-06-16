@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.74.03.1001",
+      "name": "KALIJAGA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.03",
+      "districtName": "HARJAMUKTI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83653,
+      "coordinate": {
+        "longitude": 116.5335626,
+        "latitude": -8.5806655,
+        "elevation": 235
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.03.1002",
+      "name": "HARJAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.03",
+      "districtName": "HARJAMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16454,
+      "coordinate": {
+        "longitude": 106.8922915,
+        "latitude": -6.3758733,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.03.1003",
+      "name": "KECAPI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.03",
+      "districtName": "HARJAMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59429,
+      "coordinate": {
+        "longitude": 110.7143735,
+        "latitude": -6.6027536,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.03.1004",
+      "name": "LARANGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.03",
+      "districtName": "HARJAMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61271,
+      "coordinate": {
+        "longitude": 112.7148513,
+        "latitude": -7.4686856,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.03.1005",
+      "name": "ARGASUNYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.03",
+      "districtName": "HARJAMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45145,
+      "coordinate": {
+        "longitude": 108.5430108,
+        "latitude": -6.776167,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

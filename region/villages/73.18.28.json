@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.18.28.1004",
+      "name": "KONDODEWATA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.28",
+      "districtName": "MAPPAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91873,
+      "coordinate": {
+        "longitude": 119.4727915,
+        "latitude": -3.2325818,
+        "elevation": 1094
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.28.2001",
+      "name": "TANETE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.28",
+      "districtName": "MAPPAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91873,
+      "coordinate": {
+        "longitude": 119.4437433,
+        "latitude": -3.2221683,
+        "elevation": 1151
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.28.2002",
+      "name": "DEWATA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.28",
+      "districtName": "MAPPAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91873,
+      "coordinate": {
+        "longitude": 119.501166,
+        "latitude": -3.2633885,
+        "elevation": 1244
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.28.2003",
+      "name": "MIALLO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.28",
+      "districtName": "MAPPAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91873,
+      "coordinate": {
+        "longitude": 119.4272124,
+        "latitude": -3.2105567,
+        "elevation": 1203
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.28.2005",
+      "name": "SANGPEPARIKAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.28",
+      "districtName": "MAPPAK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.28.2006",
+      "name": "BUTANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.28",
+      "districtName": "MAPPAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91873,
+      "coordinate": {
+        "longitude": 119.3955932,
+        "latitude": -3.2036956,
+        "elevation": 1293
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

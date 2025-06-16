@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.03.13.2001",
+      "name": "SUKA MAJU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.13",
+      "districtName": "ABUNG SEMULI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.13.2002",
+      "name": "SEMULI RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.13",
+      "districtName": "ABUNG SEMULI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34580,
+      "coordinate": {
+        "longitude": 105.0203564,
+        "latitude": -4.8027161,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.13.2003",
+      "name": "SEMULI JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.13",
+      "districtName": "ABUNG SEMULI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34580,
+      "coordinate": {
+        "longitude": 105.0003779,
+        "latitude": -4.7809893,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.13.2004",
+      "name": "PAPAN ASRI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.13",
+      "districtName": "ABUNG SEMULI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34580,
+      "coordinate": {
+        "longitude": 105.0635863,
+        "latitude": -4.8074477,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.13.2005",
+      "name": "GUNUNG KERAMAT",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.13",
+      "districtName": "ABUNG SEMULI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34580,
+      "coordinate": {
+        "longitude": 105.1159021,
+        "latitude": -4.7470807,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.13.2006",
+      "name": "SIDO RAHAYU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.13",
+      "districtName": "ABUNG SEMULI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34580,
+      "coordinate": {
+        "longitude": 105.0579193,
+        "latitude": -4.8710471,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.03.13.2007",
+      "name": "GUNUNG SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.03",
+      "cityName": "KAB. LAMPUNG UTARA",
+      "districtCode": "18.03.13",
+      "districtName": "ABUNG SEMULI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.4527124,
+        "latitude": -1.2096041,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

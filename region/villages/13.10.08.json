@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.08.2001",
+      "name": "TIUMANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.08",
+      "districtName": "TIUMANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27687,
+      "coordinate": {
+        "longitude": 101.7301864,
+        "latitude": -1.066275,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.08.2002",
+      "name": "SUNGAI LANGKOK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.08",
+      "districtName": "TIUMANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27687,
+      "coordinate": {
+        "longitude": 101.8131441,
+        "latitude": -1.1022518,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.08.2003",
+      "name": "KOTO BERINGIN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.08",
+      "districtName": "TIUMANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37151,
+      "coordinate": {
+        "longitude": 101.4016629,
+        "latitude": -2.0411775,
+        "elevation": 795
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.08.2004",
+      "name": "SIPANGKUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.08",
+      "districtName": "TIUMANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27687,
+      "coordinate": {
+        "longitude": 101.7552862,
+        "latitude": -1.0655438,
+        "elevation": 85
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

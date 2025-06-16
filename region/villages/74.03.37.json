@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.37.2001",
+      "name": "WANGKOLABU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.37",
+      "districtName": "TOWEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93623,
+      "coordinate": {
+        "longitude": 122.6983769,
+        "latitude": -4.5259548,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.37.2002",
+      "name": "LAKARAMA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.37",
+      "districtName": "TOWEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93623,
+      "coordinate": {
+        "longitude": 122.7301964,
+        "latitude": -4.5379367,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.37.2003",
+      "name": "MOASI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.37",
+      "districtName": "TOWEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93623,
+      "coordinate": {
+        "longitude": 122.7215065,
+        "latitude": -4.5607743,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.37.2004",
+      "name": "RENDA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.37",
+      "districtName": "TOWEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93623,
+      "coordinate": {
+        "longitude": 122.689742,
+        "latitude": -4.5727702,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.37.2005",
+      "name": "BHONTU-BHONTU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.37",
+      "districtName": "TOWEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93623,
+      "coordinate": {
+        "longitude": 122.7180491,
+        "latitude": -4.5963453,
+        "elevation": 1
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

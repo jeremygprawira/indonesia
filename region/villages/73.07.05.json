@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.07.05.1001",
+      "name": "BIRINGERE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.05",
+      "districtName": "SINJAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92611,
+      "coordinate": {
+        "longitude": 120.2412547,
+        "latitude": -5.1282506,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.05.1002",
+      "name": "LAMATTI RILAU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.05",
+      "districtName": "SINJAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92613,
+      "coordinate": {
+        "longitude": 120.224072,
+        "latitude": -5.1003207,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.05.1003",
+      "name": "BALANGNIPA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.05",
+      "districtName": "SINJAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92612,
+      "coordinate": {
+        "longitude": 120.2569663,
+        "latitude": -5.1185319,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.05.1004",
+      "name": "LAPPA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.05",
+      "districtName": "SINJAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92614,
+      "coordinate": {
+        "longitude": 120.2774002,
+        "latitude": -5.1212275,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.05.1005",
+      "name": "BONGKI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.05",
+      "districtName": "SINJAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92615,
+      "coordinate": {
+        "longitude": 120.2477083,
+        "latitude": -5.1035431,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.07.05.1006",
+      "name": "ALEHANUAE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.07",
+      "cityName": "KAB. SINJAI",
+      "districtCode": "73.07.05",
+      "districtName": "SINJAI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92616,
+      "coordinate": {
+        "longitude": 120.2096059,
+        "latitude": -5.1175232,
+        "elevation": 57
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

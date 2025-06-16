@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.07.04.2001",
+      "name": "TJ. HARO SIKABU-KABU PD. PANJANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.04",
+      "districtName": "LUAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26261,
+      "coordinate": {
+        "longitude": 100.6591071,
+        "latitude": -0.261551,
+        "elevation": 602
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.04.2002",
+      "name": "MUNGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.04",
+      "districtName": "LUAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26261,
+      "coordinate": {
+        "longitude": 100.6984813,
+        "latitude": -0.2617187,
+        "elevation": 631
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.04.2003",
+      "name": "SUNGAI KAMUYANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.04",
+      "districtName": "LUAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26261,
+      "coordinate": {
+        "longitude": 100.6764118,
+        "latitude": -0.2740459,
+        "elevation": 744
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.04.2004",
+      "name": "ANDALEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.04",
+      "districtName": "LUAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26261,
+      "coordinate": {
+        "longitude": 100.6865523,
+        "latitude": -0.2392234,
+        "elevation": 528
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

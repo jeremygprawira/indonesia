@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.13.24.2001",
+      "name": "ANGGASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.24",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41250,
+      "coordinate": {
+        "longitude": 107.7611644,
+        "latitude": -6.2605103,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.24.2002",
+      "name": "BATANGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.24",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41250,
+      "coordinate": {
+        "longitude": 107.7515831,
+        "latitude": -6.277886,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.24.2003",
+      "name": "SUKAMAJU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.24",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.24.2004",
+      "name": "MANDALAWANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.24",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42261,
+      "coordinate": {
+        "longitude": 105.996206,
+        "latitude": -6.3057208,
+        "elevation": 418
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.24.2005",
+      "name": "CURUGREJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.24",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41250,
+      "coordinate": {
+        "longitude": 107.7494443,
+        "latitude": -6.3181603,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.24.2006",
+      "name": "SUKAREJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.24",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52265,
+      "coordinate": {
+        "longitude": 108.8017971,
+        "latitude": -6.9525799,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.24.2007",
+      "name": "SUKASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.24",
+      "districtName": "SUKASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15118,
+      "coordinate": {
+        "longitude": 106.63731,
+        "latitude": -6.1812425,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

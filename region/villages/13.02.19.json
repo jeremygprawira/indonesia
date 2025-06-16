@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.19.2001",
+      "name": "SIMPANG TJ. NAN IV",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.19",
+      "districtName": "DANAU KEMBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27383,
+      "coordinate": {
+        "longitude": 100.6881329,
+        "latitude": -1.0588114,
+        "elevation": 1497
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.19.2002",
+      "name": "KAMPUNG BATU DALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.19",
+      "districtName": "DANAU KEMBAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27383,
+      "coordinate": {
+        "longitude": 100.7175127,
+        "latitude": -1.0140758,
+        "elevation": 1492
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

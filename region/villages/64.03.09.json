@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.03.09.1002",
+      "name": "TELUK BAYUR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.09",
+      "districtName": "TELUK BAYUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77315,
+      "coordinate": {
+        "longitude": 117.4014099,
+        "latitude": 2.1394665,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.09.1003",
+      "name": "RINDING",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.09",
+      "districtName": "TELUK BAYUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77313,
+      "coordinate": {
+        "longitude": 117.4531457,
+        "latitude": 2.160196,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.09.2001",
+      "name": "TUMBIT MELAYU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.09",
+      "districtName": "TELUK BAYUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77315,
+      "coordinate": {
+        "longitude": 117.2611123,
+        "latitude": 1.9821209,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.09.2004",
+      "name": "LABANAN JAYA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.09",
+      "districtName": "TELUK BAYUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77352,
+      "coordinate": {
+        "longitude": 117.3361819,
+        "latitude": 2.0883376,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.09.2005",
+      "name": "LABANAN MAKMUR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.09",
+      "districtName": "TELUK BAYUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77352,
+      "coordinate": {
+        "longitude": 117.2125816,
+        "latitude": 2.0289708,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.09.2006",
+      "name": "LABANAN MAKARTI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.09",
+      "districtName": "TELUK BAYUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77352,
+      "coordinate": {
+        "longitude": 117.3397845,
+        "latitude": 2.0297215,
+        "elevation": 36
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

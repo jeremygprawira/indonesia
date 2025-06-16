@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.08.05.2001",
+      "name": "PEMENANG TIMUR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA",
+      "districtCode": "52.08.05",
+      "districtName": "PEMENANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83352,
+      "coordinate": {
+        "longitude": 116.1079164,
+        "latitude": -8.4086479,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.08.05.2002",
+      "name": "PEMENANG BARAT",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA",
+      "districtCode": "52.08.05",
+      "districtName": "PEMENANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83352,
+      "coordinate": {
+        "longitude": 116.094153,
+        "latitude": -8.4323552,
+        "elevation": 139
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.08.05.2003",
+      "name": "GILI INDAH",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA",
+      "districtCode": "52.08.05",
+      "districtName": "PEMENANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83352,
+      "coordinate": {
+        "longitude": 116.0363217,
+        "latitude": -8.3494426,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.08.05.2004",
+      "name": "MALAKA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA",
+      "districtCode": "52.08.05",
+      "districtName": "PEMENANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90566,
+      "coordinate": {
+        "longitude": 119.6972889,
+        "latitude": -4.8344607,
+        "elevation": 266
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.08.05.2005",
+      "name": "MENGGALA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA",
+      "districtCode": "52.08.05",
+      "districtName": "PEMENANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83352,
+      "coordinate": {
+        "longitude": 116.081188,
+        "latitude": -8.4056679,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

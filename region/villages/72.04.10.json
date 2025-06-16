@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.04.10.2001",
+      "name": "GALUMPANG",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.04",
+      "cityName": "KAB. TOLI TOLI",
+      "districtCode": "72.04.10",
+      "districtName": "DAKO PEMEAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94562,
+      "coordinate": {
+        "longitude": 120.8977827,
+        "latitude": 1.2162586,
+        "elevation": 736
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.04.10.2002",
+      "name": "DUNGINGIS",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.04",
+      "cityName": "KAB. TOLI TOLI",
+      "districtCode": "72.04.10",
+      "districtName": "DAKO PEMEAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94562,
+      "coordinate": {
+        "longitude": 120.8518512,
+        "latitude": 1.2532651,
+        "elevation": 568
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.04.10.2003",
+      "name": "KAPAS",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.04",
+      "cityName": "KAB. TOLI TOLI",
+      "districtCode": "72.04.10",
+      "districtName": "DAKO PEMEAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94562,
+      "coordinate": {
+        "longitude": 120.7922779,
+        "latitude": 1.3377667,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.04.10.2004",
+      "name": "LINGADAN",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.04",
+      "cityName": "KAB. TOLI TOLI",
+      "districtCode": "72.04.10",
+      "districtName": "DAKO PEMEAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94562,
+      "coordinate": {
+        "longitude": 120.8520736,
+        "latitude": 1.3093981,
+        "elevation": 38
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

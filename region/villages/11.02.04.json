@@ -1,0 +1,550 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.02.04.2001",
+      "name": "KOTA KUTACANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2002",
+      "name": "PERAPAT HILIR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8124043,
+        "latitude": 3.4765129,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2003",
+      "name": "PERAPAT HULU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8101589,
+        "latitude": 3.4792794,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2004",
+      "name": "MUARA LAWE BULAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8046532,
+        "latitude": 3.4856206,
+        "elevation": 173
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2005",
+      "name": "MBARUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8010774,
+        "latitude": 3.4905757,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2006",
+      "name": "BATU MBULAN ASLI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8058397,
+        "latitude": 3.4969688,
+        "elevation": 181
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2007",
+      "name": "BATU MBULAN I",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.7966387,
+        "latitude": 3.4950102,
+        "elevation": 177
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2008",
+      "name": "BATU MBULAN II",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.7975272,
+        "latitude": 3.4975721,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2009",
+      "name": "KAMPUNG RAJA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8071429,
+        "latitude": 3.5013494,
+        "elevation": 189
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2010",
+      "name": "PULONAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8087428,
+        "latitude": 3.4913156,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2011",
+      "name": "KAMPUNG MELAYU GABUNGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8039097,
+        "latitude": 3.5013613,
+        "elevation": 184
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2012",
+      "name": "TERUTUNG PEDI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.7948775,
+        "latitude": 3.500109,
+        "elevation": 177
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2013",
+      "name": "KUTE RIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8154532,
+        "latitude": 3.4649649,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2014",
+      "name": "GUMPANG JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8241242,
+        "latitude": 3.4683037,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2015",
+      "name": "PULO LATONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8140423,
+        "latitude": 3.4814127,
+        "elevation": 173
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2016",
+      "name": "KUTACANE LAMA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8208484,
+        "latitude": 3.4723642,
+        "elevation": 163
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2017",
+      "name": "BATU MBULAN MBARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.7991859,
+        "latitude": 3.5051405,
+        "elevation": 184
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2018",
+      "name": "PULO PEDING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8042949,
+        "latitude": 3.5048921,
+        "elevation": 192
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2019",
+      "name": "MENDABE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.7920891,
+        "latitude": 3.5089396,
+        "elevation": 186
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2020",
+      "name": "UJUNG BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.797672,
+        "latitude": 3.4929879,
+        "elevation": 173
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2021",
+      "name": "PEKHAPAT TITI PANJANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8174511,
+        "latitude": 3.4743043,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2022",
+      "name": "PEKHAPAT SEPAKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8119882,
+        "latitude": 3.4733054,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2023",
+      "name": "ALAS MARANCAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2024",
+      "name": "BATU MBULAN SEPAKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.794341,
+        "latitude": 3.5042261,
+        "elevation": 182
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2025",
+      "name": "PULO SANGGAKH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8066206,
+        "latitude": 3.4808077,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2026",
+      "name": "MELAYU I",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.8069498,
+        "latitude": 3.5045657,
+        "elevation": 192
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.04.2027",
+      "name": "MBARUNG DATUK SAUDANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.04",
+      "districtName": "BABUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24664,
+      "coordinate": {
+        "longitude": 97.7949525,
+        "latitude": 3.4894494,
+        "elevation": 242
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 27
+  }
+}

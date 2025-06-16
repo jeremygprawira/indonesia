@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.05.40.2001",
+      "name": "CIPAREUAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.40",
+      "districtName": "CIBIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44193,
+      "coordinate": {
+        "longitude": 107.9533725,
+        "latitude": -7.0816426,
+        "elevation": 619
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.40.2002",
+      "name": "CIBIUK KALER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.40",
+      "districtName": "CIBIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44193,
+      "coordinate": {
+        "longitude": 107.971534,
+        "latitude": -7.0638736,
+        "elevation": 541
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.40.2003",
+      "name": "CIBIUK KIDUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.40",
+      "districtName": "CIBIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44193,
+      "coordinate": {
+        "longitude": 107.9703441,
+        "latitude": -7.0801422,
+        "elevation": 588
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.40.2004",
+      "name": "MAJASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.40",
+      "districtName": "CIBIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42177,
+      "coordinate": {
+        "longitude": 106.3449181,
+        "latitude": -6.2673061,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.40.2005",
+      "name": "LINGKUNGPASIR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.40",
+      "districtName": "CIBIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44193,
+      "coordinate": {
+        "longitude": 107.9389749,
+        "latitude": -7.0548829,
+        "elevation": 657
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "71.74.01",
+      "name": "KOTAMOBAGU UTARA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.74",
+      "cityName": "KOTA KOTAMOBAGU"
+    },
+    {
+      "type": "district",
+      "code": "71.74.02",
+      "name": "KOTAMOBAGU TIMUR",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.74",
+      "cityName": "KOTA KOTAMOBAGU"
+    },
+    {
+      "type": "district",
+      "code": "71.74.03",
+      "name": "KOTAMOBAGU SELATAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.74",
+      "cityName": "KOTA KOTAMOBAGU"
+    },
+    {
+      "type": "district",
+      "code": "71.74.04",
+      "name": "KOTAMOBAGU BARAT",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.74",
+      "cityName": "KOTA KOTAMOBAGU"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

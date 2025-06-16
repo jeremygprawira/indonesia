@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.03.13.2001",
+      "name": "SRINANTI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.13",
+      "districtName": "SEI MENGGARIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77484,
+      "coordinate": {
+        "longitude": 117.2648185,
+        "latitude": 4.1363197,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.13.2002",
+      "name": "TABUR LESTARI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.13",
+      "districtName": "SEI MENGGARIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77484,
+      "coordinate": {
+        "longitude": 117.1645008,
+        "latitude": 4.2438616,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.13.2003",
+      "name": "SAMAENRE SEMAJA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.13",
+      "districtName": "SEI MENGGARIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77484,
+      "coordinate": {
+        "longitude": 117.2336643,
+        "latitude": 4.2694128,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.13.2004",
+      "name": "SEKADUYAN TAKA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.13",
+      "districtName": "SEI MENGGARIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77484,
+      "coordinate": {
+        "longitude": 117.3821787,
+        "latitude": 4.2246737,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

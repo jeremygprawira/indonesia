@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.16.1001",
+      "name": "LANGKAPURA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.16",
+      "districtName": "LANGKAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35154,
+      "coordinate": {
+        "longitude": 105.2261964,
+        "latitude": -5.3852186,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.16.1002",
+      "name": "LANGKAPURA BARU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.16",
+      "districtName": "LANGKAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35154,
+      "coordinate": {
+        "longitude": 105.2296019,
+        "latitude": -5.3959498,
+        "elevation": 175
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.16.1003",
+      "name": "GUNUNGTERANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.16",
+      "districtName": "LANGKAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35152,
+      "coordinate": {
+        "longitude": 105.2388136,
+        "latitude": -5.384138,
+        "elevation": 148
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.16.1005",
+      "name": "BILABONG JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.16",
+      "districtName": "LANGKAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35155,
+      "coordinate": {
+        "longitude": 105.2283178,
+        "latitude": -5.4016543,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.16.1006",
+      "name": "GUNUNGAGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.16",
+      "districtName": "LANGKAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52466,
+      "coordinate": {
+        "longitude": 109.0825244,
+        "latitude": -7.1634603,
+        "elevation": 577
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

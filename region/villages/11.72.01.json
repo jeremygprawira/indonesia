@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.72.01.2004",
+      "name": "KRUENG RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.01",
+      "districtName": "SUKAKARYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23515,
+      "coordinate": {
+        "longitude": 95.3141536,
+        "latitude": 5.8671025,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.01.2005",
+      "name": "ANEUK LAOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.01",
+      "districtName": "SUKAKARYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23514,
+      "coordinate": {
+        "longitude": 95.3263011,
+        "latitude": 5.8687797,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.01.2006",
+      "name": "KUTA TIMU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.01",
+      "districtName": "SUKAKARYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23513,
+      "coordinate": {
+        "longitude": 95.3249587,
+        "latitude": 5.8855295,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.01.2007",
+      "name": "KUTA BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.01",
+      "districtName": "SUKAKARYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23512,
+      "coordinate": {
+        "longitude": 95.3171137,
+        "latitude": 5.8912043,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.01.2008",
+      "name": "KUTA ATEUH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.01",
+      "districtName": "SUKAKARYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23511,
+      "coordinate": {
+        "longitude": 95.3210086,
+        "latitude": 5.8941489,
+        "elevation": 32
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

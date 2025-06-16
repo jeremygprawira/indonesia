@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.01.10.2001",
+      "name": "BANYUROTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.10",
+      "districtName": "NANGGULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55671,
+      "coordinate": {
+        "longitude": 110.1772476,
+        "latitude": -7.8012518,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.10.2002",
+      "name": "DONOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.10",
+      "districtName": "NANGGULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65167,
+      "coordinate": {
+        "longitude": 112.4314606,
+        "latitude": -8.283559,
+        "elevation": 438
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.10.2003",
+      "name": "WIJIMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.10",
+      "districtName": "NANGGULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55671,
+      "coordinate": {
+        "longitude": 110.2192969,
+        "latitude": -7.7862013,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.10.2004",
+      "name": "TANJUNGHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.10",
+      "districtName": "NANGGULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62181,
+      "coordinate": {
+        "longitude": 111.8910359,
+        "latitude": -7.201853,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.10.2005",
+      "name": "JATISARONO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.10",
+      "districtName": "NANGGULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55671,
+      "coordinate": {
+        "longitude": 110.2119378,
+        "latitude": -7.7631648,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.10.2006",
+      "name": "KEMBANG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.10",
+      "districtName": "NANGGULAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86421,
+      "coordinate": {
+        "longitude": 120.7681515,
+        "latitude": -8.6097041,
+        "elevation": 1104
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

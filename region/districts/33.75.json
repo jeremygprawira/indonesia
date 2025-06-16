@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "33.75.01",
+      "name": "PEKALONGAN BARAT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN"
+    },
+    {
+      "type": "district",
+      "code": "33.75.02",
+      "name": "PEKALONGAN TIMUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN"
+    },
+    {
+      "type": "district",
+      "code": "33.75.03",
+      "name": "PEKALONGAN UTARA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN"
+    },
+    {
+      "type": "district",
+      "code": "33.75.04",
+      "name": "PEKALONGAN SELATAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

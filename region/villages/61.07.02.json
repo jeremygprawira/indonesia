@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.02.2001",
+      "name": "SAMALANTAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.02",
+      "districtName": "SAMALANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79280,
+      "coordinate": {
+        "longitude": 109.1872789,
+        "latitude": 0.8548755,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.02.2002",
+      "name": "SABA-U",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.02",
+      "districtName": "SAMALANTAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.02.2003",
+      "name": "TUMIANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.02",
+      "districtName": "SAMALANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79280,
+      "coordinate": {
+        "longitude": 109.2925023,
+        "latitude": 0.7411495,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.02.2004",
+      "name": "BABANE",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.02",
+      "districtName": "SAMALANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79280,
+      "coordinate": {
+        "longitude": 109.2666529,
+        "latitude": 0.808041,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.02.2005",
+      "name": "PASTI JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.02",
+      "districtName": "SAMALANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79280,
+      "coordinate": {
+        "longitude": 109.3298621,
+        "latitude": 0.7724057,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.02.2006",
+      "name": "BUKIT SERAYAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.02",
+      "districtName": "SAMALANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79280,
+      "coordinate": {
+        "longitude": 109.2218814,
+        "latitude": 0.8102917,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.02.2007",
+      "name": "MARUNSU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.02",
+      "districtName": "SAMALANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79280,
+      "coordinate": {
+        "longitude": 109.2363945,
+        "latitude": 0.7819586,
+        "elevation": 94
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

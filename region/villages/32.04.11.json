@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.11.2001",
+      "name": "SANGKANHURIP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.11",
+      "districtName": "KATAPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45471,
+      "coordinate": {
+        "longitude": 108.3412523,
+        "latitude": -6.8466491,
+        "elevation": 669
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.11.2002",
+      "name": "KATAPANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.11",
+      "districtName": "KATAPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42396,
+      "coordinate": {
+        "longitude": 105.9019816,
+        "latitude": -6.7253578,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.11.2004",
+      "name": "GANDASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.11",
+      "districtName": "KATAPANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96222,
+      "coordinate": {
+        "longitude": 122.5936835,
+        "latitude": 0.7016147,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.11.2006",
+      "name": "SUKAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.11",
+      "districtName": "KATAPANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93885,
+      "coordinate": {
+        "longitude": 122.0967512,
+        "latitude": -4.3238343,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.11.2007",
+      "name": "CILAMPENI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.11",
+      "districtName": "KATAPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40921,
+      "coordinate": {
+        "longitude": 107.551436,
+        "latitude": -6.9885008,
+        "elevation": 662
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.11.2008",
+      "name": "PANGAUBAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.11",
+      "districtName": "KATAPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40561,
+      "coordinate": {
+        "longitude": 107.4558184,
+        "latitude": -6.9003633,
+        "elevation": 652
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.11.2009",
+      "name": "BANYUSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.11",
+      "districtName": "KATAPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56192,
+      "coordinate": {
+        "longitude": 110.2733114,
+        "latitude": -7.4496913,
+        "elevation": 495
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

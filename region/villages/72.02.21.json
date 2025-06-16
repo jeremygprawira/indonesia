@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.02.21.1001",
+      "name": "SAYO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.21",
+      "districtName": "POSO KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94613,
+      "coordinate": {
+        "longitude": 120.7690626,
+        "latitude": -1.3965416,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.21.1002",
+      "name": "BUKIT BAMBU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.21",
+      "districtName": "POSO KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94614,
+      "coordinate": {
+        "longitude": 120.7890677,
+        "latitude": -1.3961429,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.21.1003",
+      "name": "KAWUA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.21",
+      "districtName": "POSO KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94619,
+      "coordinate": {
+        "longitude": 120.7531948,
+        "latitude": -1.4133835,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.21.1004",
+      "name": "RONONONCU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.21",
+      "districtName": "POSO KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94619,
+      "coordinate": {
+        "longitude": 120.7606622,
+        "latitude": -1.4218966,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.21.1005",
+      "name": "LEMBOMAWO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.21",
+      "districtName": "POSO KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94617,
+      "coordinate": {
+        "longitude": 120.7399654,
+        "latitude": -1.4231833,
+        "elevation": 100
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

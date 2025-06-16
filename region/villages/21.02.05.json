@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.05.1001",
+      "name": "TEBING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.05",
+      "districtName": "TEBING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29668,
+      "coordinate": {
+        "longitude": 103.4204218,
+        "latitude": 1.0342893,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.05.1002",
+      "name": "TELUK UMA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.05",
+      "districtName": "TEBING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29668,
+      "coordinate": {
+        "longitude": 103.4051542,
+        "latitude": 1.0437123,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.05.1003",
+      "name": "KAPLING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.05",
+      "districtName": "TEBING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29668,
+      "coordinate": {
+        "longitude": 103.4237001,
+        "latitude": 1.0118646,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.05.1004",
+      "name": "PAMAK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.05",
+      "districtName": "TEBING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29668,
+      "coordinate": {
+        "longitude": 103.3867135,
+        "latitude": 1.0433885,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.05.1008",
+      "name": "HARJOSARI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.05",
+      "districtName": "TEBING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51191,
+      "coordinate": {
+        "longitude": 109.6699077,
+        "latitude": -7.0392125,
+        "elevation": 147
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.05.2007",
+      "name": "PONGKAR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.05",
+      "districtName": "TEBING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29668,
+      "coordinate": {
+        "longitude": 103.3775296,
+        "latitude": 1.1061533,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

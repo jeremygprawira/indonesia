@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.02.24.1001",
+      "name": "KARANGKLESEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.24",
+      "districtName": "PURWOKERTO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53361,
+      "coordinate": {
+        "longitude": 109.3181856,
+        "latitude": -7.3603544,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.24.1002",
+      "name": "TELUK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.24",
+      "districtName": "PURWOKERTO SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85572,
+      "coordinate": {
+        "longitude": 124.6452523,
+        "latitude": -9.7180956,
+        "elevation": 522
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.24.1003",
+      "name": "BERKOH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.24",
+      "districtName": "PURWOKERTO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53146,
+      "coordinate": {
+        "longitude": 109.2627519,
+        "latitude": -7.4392788,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.24.1004",
+      "name": "PURWOKERTO KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.24",
+      "districtName": "PURWOKERTO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53147,
+      "coordinate": {
+        "longitude": 109.2536046,
+        "latitude": -7.4333395,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.24.1005",
+      "name": "PURWOKERTO KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.24",
+      "districtName": "PURWOKERTO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53141,
+      "coordinate": {
+        "longitude": 109.24506,
+        "latitude": -7.431505,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.24.1006",
+      "name": "KARANGPUCUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.24",
+      "districtName": "PURWOKERTO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53351,
+      "coordinate": {
+        "longitude": 109.4275953,
+        "latitude": -7.2960399,
+        "elevation": 165
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.24.1007",
+      "name": "TANJUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.24",
+      "districtName": "PURWOKERTO SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

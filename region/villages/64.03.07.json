@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.03.07.2001",
+      "name": "PEGAT BATUMBUK",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.07",
+      "districtName": "PULAU DERAWAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77380,
+      "coordinate": {
+        "longitude": 117.7526223,
+        "latitude": 2.1347846,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.07.2002",
+      "name": "TELUK SEMANTING",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.07",
+      "districtName": "PULAU DERAWAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77380,
+      "coordinate": {
+        "longitude": 117.9484998,
+        "latitude": 2.2697287,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.07.2003",
+      "name": "TANJUNG BATU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.07",
+      "districtName": "PULAU DERAWAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99377,
+      "coordinate": {
+        "longitude": 138.8458758,
+        "latitude": -1.9683903,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.07.2004",
+      "name": "PULAU DERAWAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.07",
+      "districtName": "PULAU DERAWAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77380,
+      "coordinate": {
+        "longitude": 118.2105214,
+        "latitude": 2.3627247,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.07.2009",
+      "name": "KASAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.07",
+      "districtName": "PULAU DERAWAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77380,
+      "coordinate": {
+        "longitude": 117.9079594,
+        "latitude": 2.265008,
+        "elevation": 48
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

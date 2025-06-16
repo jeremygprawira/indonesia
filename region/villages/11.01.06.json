@@ -1,0 +1,570 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.01.06.2001",
+      "name": "DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97785,
+      "coordinate": {
+        "longitude": 127.4261517,
+        "latitude": 0.3535202,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2002",
+      "name": "SUBARANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1782491,
+        "latitude": 3.3315134,
+        "elevation": 226
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2003",
+      "name": "KUTA BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15560,
+      "coordinate": {
+        "longitude": 106.5762999,
+        "latitude": -6.1537194,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2004",
+      "name": "GUNUNG KETEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.178559,
+        "latitude": 3.342632,
+        "elevation": 267
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2005",
+      "name": "LADANG PANTON LUAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1510589,
+        "latitude": 3.3239523,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2006",
+      "name": "MADAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24462,
+      "coordinate": {
+        "longitude": 97.5164736,
+        "latitude": 5.1093057,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2007",
+      "name": "ALUR SEUMERAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1516158,
+        "latitude": 3.3334384,
+        "elevation": 144
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2008",
+      "name": "TENGAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8002787,
+        "latitude": -4.3669841,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2009",
+      "name": "GUNUNG CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1302753,
+        "latitude": 3.3205191,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2010",
+      "name": "ALUR PINANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1399548,
+        "latitude": 3.3267191,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2011",
+      "name": "KUTA BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.135929,
+        "latitude": 5.1824455,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2012",
+      "name": "BATEE TUNGGAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.136294,
+        "latitude": 3.3511766,
+        "elevation": 217
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2013",
+      "name": "UJUNG TANAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90164,
+      "coordinate": {
+        "longitude": 119.4105255,
+        "latitude": -5.1155398,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2014",
+      "name": "UJUNG KAMPUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1503865,
+        "latitude": 3.3082957,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2015",
+      "name": "JILATANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1473278,
+        "latitude": 3.3110775,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2016",
+      "name": "LUAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84353,
+      "coordinate": {
+        "longitude": 116.9854967,
+        "latitude": -8.5417694,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2017",
+      "name": "LUBUK LAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1813269,
+        "latitude": 3.3028005,
+        "elevation": 384
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2018",
+      "name": "SUAQ HULU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1549151,
+        "latitude": 3.3085024,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2019",
+      "name": "TAMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71661,
+      "coordinate": {
+        "longitude": 115.3682316,
+        "latitude": -2.3653587,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2020",
+      "name": "PAYONAN GADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1580063,
+        "latitude": 3.3007013,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2021",
+      "name": "GADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70231,
+      "coordinate": {
+        "longitude": 114.5969895,
+        "latitude": -3.3178068,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2022",
+      "name": "BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99761,
+      "coordinate": {
+        "longitude": 139.8625859,
+        "latitude": -4.2736507,
+        "elevation": 1151
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2023",
+      "name": "LADANG KASIK PUTIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1424027,
+        "latitude": 3.3236313,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2024",
+      "name": "AIR SIALANG HILIR.",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1501619,
+        "latitude": 3.3141304,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2025",
+      "name": "AIR SIALANG HULU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1559691,
+        "latitude": 3.3129153,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2026",
+      "name": "AIR SIALANG TENGAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1946732,
+        "latitude": 3.3218849,
+        "elevation": 862
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2027",
+      "name": "BALAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37168,
+      "coordinate": {
+        "longitude": 101.3762826,
+        "latitude": -1.9915212,
+        "elevation": 809
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.01.06.2028",
+      "name": "ARAFAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.01",
+      "cityName": "KAB. ACEH SELATAN",
+      "districtCode": "11.01.06",
+      "districtName": "SAMADUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23752,
+      "coordinate": {
+        "longitude": 97.1499953,
+        "latitude": 3.3042338,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 28
+  }
+}

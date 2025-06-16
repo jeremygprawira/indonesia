@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.76.04.1001",
+      "name": "KALIGANGSA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL",
+      "districtCode": "33.76.04",
+      "districtName": "MARGADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52147,
+      "coordinate": {
+        "longitude": 109.0822058,
+        "latitude": -6.8743942,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.76.04.1002",
+      "name": "KRANDON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL",
+      "districtCode": "33.76.04",
+      "districtName": "MARGADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52146,
+      "coordinate": {
+        "longitude": 109.0889039,
+        "latitude": -6.8747516,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.76.04.1003",
+      "name": "CABAWAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL",
+      "districtCode": "33.76.04",
+      "districtName": "MARGADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52147,
+      "coordinate": {
+        "longitude": 109.0927309,
+        "latitude": -6.876155,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.76.04.1004",
+      "name": "KALINYAMAT KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL",
+      "districtCode": "33.76.04",
+      "districtName": "MARGADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52144,
+      "coordinate": {
+        "longitude": 109.104342,
+        "latitude": -6.8875036,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.76.04.1005",
+      "name": "MARGADANA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL",
+      "districtCode": "33.76.04",
+      "districtName": "MARGADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52143,
+      "coordinate": {
+        "longitude": 109.1004424,
+        "latitude": -6.8720731,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.76.04.1006",
+      "name": "SUMURPANGGANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL",
+      "districtCode": "33.76.04",
+      "districtName": "MARGADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52141,
+      "coordinate": {
+        "longitude": 109.1071615,
+        "latitude": -6.8763047,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.76.04.1007",
+      "name": "PESURUNGAN LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL",
+      "districtCode": "33.76.04",
+      "districtName": "MARGADANA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

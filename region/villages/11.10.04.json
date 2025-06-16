@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.04.2001",
+      "name": "PASAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27411,
+      "coordinate": {
+        "longitude": 100.7772913,
+        "latitude": -0.6830967,
+        "elevation": 253
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2002",
+      "name": "UJUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99671,
+      "coordinate": {
+        "longitude": 140.4443573,
+        "latitude": -5.6189012,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2003",
+      "name": "PULO SAROK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.8034739,
+        "latitude": 2.2681614,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2004",
+      "name": "KILANGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2806623,
+        "latitude": -1.7671671,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2005",
+      "name": "KUTA SIMBOLING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.7857001,
+        "latitude": 2.2965016,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2007",
+      "name": "TELUK AMBUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.8024877,
+        "latitude": 2.2982865,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2008",
+      "name": "RANTAU GEDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36654,
+      "coordinate": {
+        "longitude": 102.9316121,
+        "latitude": -1.7073648,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2009",
+      "name": "TELUK RUMBIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.7688192,
+        "latitude": 2.3667425,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2010",
+      "name": "PEA BUMBUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.8535131,
+        "latitude": 2.3289135,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2011",
+      "name": "PEMUKA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.8532206,
+        "latitude": 2.2775741,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2012",
+      "name": "TAKAL PASIR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.8065793,
+        "latitude": 2.3227521,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2014",
+      "name": "SELOK ACEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.829767,
+        "latitude": 2.3078854,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2016",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2017",
+      "name": "UJUNG BAWANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21168,
+      "coordinate": {
+        "longitude": 98.6139675,
+        "latitude": 3.0771529,
+        "elevation": 1253
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2019",
+      "name": "SITI AMBIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24785,
+      "coordinate": {
+        "longitude": 97.8083503,
+        "latitude": 2.2906506,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.04.2020",
+      "name": "SUKA DAMAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.04",
+      "districtName": "SINGKIL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97789,
+      "coordinate": {
+        "longitude": 127.7464899,
+        "latitude": -0.2245384,
+        "elevation": 634
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

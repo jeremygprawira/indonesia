@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.11.2001",
+      "name": "PARO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.11",
+      "districtName": "PARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99916,
+      "coordinate": {
+        "longitude": 138.239978,
+        "latitude": -4.3807086,
+        "elevation": 694
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.11.2002",
+      "name": "LOMBRIK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.11",
+      "districtName": "PARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99916,
+      "coordinate": {
+        "longitude": 138.1759029,
+        "latitude": -4.4310693,
+        "elevation": 507
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.11.2003",
+      "name": "ANIMAREM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.11",
+      "districtName": "PARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99916,
+      "coordinate": {
+        "longitude": 138.2515217,
+        "latitude": -4.3909986,
+        "elevation": 727
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.11.2004",
+      "name": "TAWELMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.11",
+      "districtName": "PARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99916,
+      "coordinate": {
+        "longitude": 138.2942447,
+        "latitude": -4.4544657,
+        "elevation": 542
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.11.2005",
+      "name": "LOARABA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.11",
+      "districtName": "PARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99916,
+      "coordinate": {
+        "longitude": 138.2130231,
+        "latitude": -4.3567197,
+        "elevation": 956
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

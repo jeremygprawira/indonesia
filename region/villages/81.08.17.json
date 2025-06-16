@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.08.17.2001",
+      "name": "PURPURA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.17",
+      "districtName": "KISAR UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97441,
+      "coordinate": {
+        "longitude": 127.1938578,
+        "latitude": -8.0171224,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.17.2002",
+      "name": "NOMAHA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.17",
+      "districtName": "KISAR UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97441,
+      "coordinate": {
+        "longitude": 127.1907033,
+        "latitude": -8.0367351,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.17.2003",
+      "name": "LABELAU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.17",
+      "districtName": "KISAR UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97441,
+      "coordinate": {
+        "longitude": 127.1558298,
+        "latitude": -8.0335807,
+        "elevation": 112
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

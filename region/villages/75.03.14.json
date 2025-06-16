@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.03.14.2001",
+      "name": "MONGIILO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.14",
+      "districtName": "BULANGO ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96543,
+      "coordinate": {
+        "longitude": 123.1401041,
+        "latitude": 0.6315237,
+        "elevation": 340
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.14.2002",
+      "name": "OWATA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.14",
+      "districtName": "BULANGO ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96543,
+      "coordinate": {
+        "longitude": 123.1074656,
+        "latitude": 0.6741738,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.14.2003",
+      "name": "MONGIILO UTARA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.14",
+      "districtName": "BULANGO ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96543,
+      "coordinate": {
+        "longitude": 123.1484509,
+        "latitude": 0.7302778,
+        "elevation": 617
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.14.2004",
+      "name": "PILOLAHEYA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.14",
+      "districtName": "BULANGO ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96543,
+      "coordinate": {
+        "longitude": 123.1678803,
+        "latitude": 0.6304613,
+        "elevation": 541
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.14.2005",
+      "name": "ILOMATA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.14",
+      "districtName": "BULANGO ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96516,
+      "coordinate": {
+        "longitude": 123.0808022,
+        "latitude": 0.8753869,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.03.14.2006",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.03",
+      "cityName": "KAB. BONE BOLANGO",
+      "districtCode": "75.03.14",
+      "districtName": "BULANGO ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

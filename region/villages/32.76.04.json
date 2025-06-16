@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.04.1001",
+      "name": "MERUYUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.04",
+      "districtName": "LIMO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.04.1002",
+      "name": "GROGOL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.04",
+      "districtName": "LIMO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42436,
+      "coordinate": {
+        "longitude": 106.032367,
+        "latitude": -5.9754441,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.04.1003",
+      "name": "KRUKUT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.04",
+      "districtName": "LIMO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16512,
+      "coordinate": {
+        "longitude": 106.7925286,
+        "latitude": -6.3586748,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.04.1004",
+      "name": "LIMO",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.04",
+      "districtName": "LIMO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16515,
+      "coordinate": {
+        "longitude": 106.7750172,
+        "latitude": -6.3618691,
+        "elevation": 70
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

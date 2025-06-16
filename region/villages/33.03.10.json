@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.03.10.2001",
+      "name": "SERANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.10",
+      "districtName": "KARANGREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42116,
+      "coordinate": {
+        "longitude": 106.1498931,
+        "latitude": -6.1263233,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.10.2002",
+      "name": "KUTABAWA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.10",
+      "districtName": "KARANGREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53358,
+      "coordinate": {
+        "longitude": 109.2827033,
+        "latitude": -7.2254637,
+        "elevation": 1278
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.10.2003",
+      "name": "SIWARAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.10",
+      "districtName": "KARANGREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53358,
+      "coordinate": {
+        "longitude": 109.3243421,
+        "latitude": -7.2252563,
+        "elevation": 873
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.10.2004",
+      "name": "TLAHAB LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.10",
+      "districtName": "KARANGREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53358,
+      "coordinate": {
+        "longitude": 109.3333716,
+        "latitude": -7.2498902,
+        "elevation": 482
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.10.2005",
+      "name": "TLAHAB KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.10",
+      "districtName": "KARANGREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53358,
+      "coordinate": {
+        "longitude": 109.3460325,
+        "latitude": -7.2559225,
+        "elevation": 462
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.10.2006",
+      "name": "KARANGREJA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.10",
+      "districtName": "KARANGREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52254,
+      "coordinate": {
+        "longitude": 108.8427413,
+        "latitude": -6.9068354,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.10.2007",
+      "name": "GONDANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.10",
+      "districtName": "KARANGREJA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83353,
+      "coordinate": {
+        "longitude": 116.2010639,
+        "latitude": -8.3476101,
+        "elevation": 102
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

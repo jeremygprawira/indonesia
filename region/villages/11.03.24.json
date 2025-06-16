@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.03.24.2001",
+      "name": "ARUL PINANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.24",
+      "districtName": "PEUNARON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24461,
+      "coordinate": {
+        "longitude": 97.5934837,
+        "latitude": 4.6003261,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.24.2002",
+      "name": "PEUNARON BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.24",
+      "districtName": "PEUNARON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24461,
+      "coordinate": {
+        "longitude": 97.6892183,
+        "latitude": 4.601446,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.24.2003",
+      "name": "PEUNARON LAMA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.24",
+      "districtName": "PEUNARON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24461,
+      "coordinate": {
+        "longitude": 97.6278066,
+        "latitude": 4.6748458,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.24.2004",
+      "name": "BUKIT TIGA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.24",
+      "districtName": "PEUNARON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24461,
+      "coordinate": {
+        "longitude": 97.6569592,
+        "latitude": 4.6308967,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.24.2006",
+      "name": "SRI MULYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.24",
+      "districtName": "PEUNARON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30162,
+      "coordinate": {
+        "longitude": 104.8105961,
+        "latitude": -2.9336018,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.11.01.2001",
+      "name": "KEUDE ACEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1419871,
+        "latitude": 5.1721975,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2002",
+      "name": "SANGSO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3737635,
+        "latitude": 5.2087682,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2003",
+      "name": "PANTE RHENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3701379,
+        "latitude": 5.2129153,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2004",
+      "name": "MEULIEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3739825,
+        "latitude": 5.1979063,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2005",
+      "name": "NAMPLOH BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.364738,
+        "latitude": 5.1994781,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2006",
+      "name": "NAMPLOH MANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3650782,
+        "latitude": 5.2052945,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2007",
+      "name": "NAMPLOH BLANGGARANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3605705,
+        "latitude": 5.2043994,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2008",
+      "name": "NAMPLOH KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3590177,
+        "latitude": 5.2001917,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2009",
+      "name": "NAMPLOH PAPEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3576862,
+        "latitude": 5.1976874,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2010",
+      "name": "MEUNASAH LUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24263,
+      "coordinate": {
+        "longitude": 96.484047,
+        "latitude": 5.149836,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2011",
+      "name": "LHOK SEUMIRA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3536396,
+        "latitude": 5.1938383,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2012",
+      "name": "ULEE JEUMATAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3533002,
+        "latitude": 5.1910939,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2013",
+      "name": "LANCOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2615889,
+        "latitude": 5.2165611,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2014",
+      "name": "PALOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62264,
+      "coordinate": {
+        "longitude": 112.4480228,
+        "latitude": -6.8753553,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2015",
+      "name": "MESJID BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3497681,
+        "latitude": 5.181166,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2016",
+      "name": "BATEE ILIEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3449223,
+        "latitude": 5.1646166,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2017",
+      "name": "PULO BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.344841,
+        "latitude": 5.1774558,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2018",
+      "name": "MATANG WAKEUH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3574325,
+        "latitude": 5.1845997,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2019",
+      "name": "DARUSSALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71453,
+      "coordinate": {
+        "longitude": 115.1007552,
+        "latitude": -2.3880595,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2020",
+      "name": "MATANG JAREUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2021",
+      "name": "MATANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24185,
+      "coordinate": {
+        "longitude": 96.1956876,
+        "latitude": 5.2447945,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2022",
+      "name": "COT MANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23769,
+      "coordinate": {
+        "longitude": 96.8508761,
+        "latitude": 3.7858932,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2023",
+      "name": "ALUE BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3617741,
+        "latitude": 5.162757,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2024",
+      "name": "COT SIREN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3554693,
+        "latitude": 5.156433,
+        "elevation": 180
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2025",
+      "name": "ULEE ALUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3329213,
+        "latitude": 4.965705,
+        "elevation": 2026
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2026",
+      "name": "PINEUNG SIRIBEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3586338,
+        "latitude": 5.2142515,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2027",
+      "name": "GAMPONG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23234,
+      "coordinate": {
+        "longitude": 95.2999961,
+        "latitude": 5.5474683,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2028",
+      "name": "KANDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68362,
+      "coordinate": {
+        "longitude": 114.0785152,
+        "latitude": -7.7427153,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2029",
+      "name": "GAMPONG PUTOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24267,
+      "coordinate": {
+        "longitude": 96.7880625,
+        "latitude": 5.2128839,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2030",
+      "name": "MIDEUN JOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3500738,
+        "latitude": 5.2024617,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2031",
+      "name": "MIDEUN GEUDONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3462498,
+        "latitude": 5.1984031,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2032",
+      "name": "LUENG KEUBEU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3459338,
+        "latitude": 5.1954523,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2033",
+      "name": "GLUMPANG BUNGKOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3440924,
+        "latitude": 5.1921474,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2034",
+      "name": "GAMPONG MEULUM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2035",
+      "name": "COT MEURAK BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3371126,
+        "latitude": 5.180767,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2036",
+      "name": "COT MEURAK BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3370246,
+        "latitude": 5.1749361,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2037",
+      "name": "MEURAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3453253,
+        "latitude": 5.1303514,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2038",
+      "name": "ULEE UE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3498718,
+        "latitude": 5.2089491,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2039",
+      "name": "MATANG TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24263,
+      "coordinate": {
+        "longitude": 96.4894632,
+        "latitude": 5.1974165,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2040",
+      "name": "TANJONG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3587133,
+        "latitude": 5.2173022,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2041",
+      "name": "ANGKIENG BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3495294,
+        "latitude": 5.2209269,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2042",
+      "name": "MEUNASAH LINCAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3467542,
+        "latitude": 5.217811,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2043",
+      "name": "MEUNASAH LANCOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3416889,
+        "latitude": 5.2244276,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2044",
+      "name": "MEUNASAH PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3425377,
+        "latitude": 5.2191074,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2045",
+      "name": "TANJONGAN IDEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.01.2084",
+      "name": "GEULUMPANG PAYONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.01",
+      "districtName": "SAMALANGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23764,
+      "coordinate": {
+        "longitude": 96.8407428,
+        "latitude": 3.7370733,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 46
+  }
+}

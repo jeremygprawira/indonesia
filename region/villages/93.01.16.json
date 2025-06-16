@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.16.2001",
+      "name": "PO-EPE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.16",
+      "districtName": "NGGUTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99637,
+      "coordinate": {
+        "longitude": 139.6259856,
+        "latitude": -7.6715321,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.16.2002",
+      "name": "YAWIMU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.16",
+      "districtName": "NGGUTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99637,
+      "coordinate": {
+        "longitude": 139.6746428,
+        "latitude": -7.8244419,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.16.2003",
+      "name": "TAGA EPE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.16",
+      "districtName": "NGGUTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99637,
+      "coordinate": {
+        "longitude": 139.7327395,
+        "latitude": -7.5547133,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.16.2004",
+      "name": "NAKIAS",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.16",
+      "districtName": "NGGUTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99637,
+      "coordinate": {
+        "longitude": 139.5378529,
+        "latitude": -7.6028624,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.16.2005",
+      "name": "SALAM EPE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.16",
+      "districtName": "NGGUTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99637,
+      "coordinate": {
+        "longitude": 139.4119639,
+        "latitude": -7.4828861,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.16.2006",
+      "name": "YOMOP",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.16",
+      "districtName": "NGGUTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99637,
+      "coordinate": {
+        "longitude": 139.6063224,
+        "latitude": -7.8442236,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

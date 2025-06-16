@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.02.25.2001",
+      "name": "SIDO BINANGUN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.25",
+      "districtName": "WAY SEPUTIH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.25.2002",
+      "name": "SRI BAWONO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.25",
+      "districtName": "WAY SEPUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34179,
+      "coordinate": {
+        "longitude": 105.4016587,
+        "latitude": -4.8228333,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.25.2003",
+      "name": "SRI BUDAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.25",
+      "districtName": "WAY SEPUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34179,
+      "coordinate": {
+        "longitude": 105.4211252,
+        "latitude": -4.7931351,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.25.2004",
+      "name": "SUKO BINANGUN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.25",
+      "districtName": "WAY SEPUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34179,
+      "coordinate": {
+        "longitude": 105.4550804,
+        "latitude": -4.8002814,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.25.2005",
+      "name": "SRI BUSONO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.25",
+      "districtName": "WAY SEPUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34179,
+      "coordinate": {
+        "longitude": 105.48144,
+        "latitude": -4.8030931,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.25.2006",
+      "name": "SANGGA BUANA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.25",
+      "districtName": "WAY SEPUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34179,
+      "coordinate": {
+        "longitude": 105.4982858,
+        "latitude": -4.7602415,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

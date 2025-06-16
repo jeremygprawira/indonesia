@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "52.08.01",
+      "name": "TANJUNG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA"
+    },
+    {
+      "type": "district",
+      "code": "52.08.02",
+      "name": "GANGGA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA"
+    },
+    {
+      "type": "district",
+      "code": "52.08.03",
+      "name": "KAYANGAN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA"
+    },
+    {
+      "type": "district",
+      "code": "52.08.04",
+      "name": "BAYAN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA"
+    },
+    {
+      "type": "district",
+      "code": "52.08.05",
+      "name": "PEMENANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.08",
+      "cityName": "KAB. LOMBOK UTARA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.02.25.2001",
+      "name": "SANTIAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.25",
+      "districtName": "SANTIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85587,
+      "coordinate": {
+        "longitude": 124.6948386,
+        "latitude": -9.7967617,
+        "elevation": 508
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.25.2002",
+      "name": "POLI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.25",
+      "districtName": "SANTIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85587,
+      "coordinate": {
+        "longitude": 124.6990373,
+        "latitude": -9.7761847,
+        "elevation": 510
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.25.2003",
+      "name": "MANUFUI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.25",
+      "districtName": "SANTIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85587,
+      "coordinate": {
+        "longitude": 124.7352664,
+        "latitude": -9.7818624,
+        "elevation": 525
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.25.2004",
+      "name": "NENOTES",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.25",
+      "districtName": "SANTIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85587,
+      "coordinate": {
+        "longitude": 124.6730049,
+        "latitude": -9.7955942,
+        "elevation": 481
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.25.2005",
+      "name": "NAIFATU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.25",
+      "districtName": "SANTIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85587,
+      "coordinate": {
+        "longitude": 124.7071609,
+        "latitude": -9.7912387,
+        "elevation": 519
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

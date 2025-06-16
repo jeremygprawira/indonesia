@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.75.01.1001",
+      "name": "PISANGAN BARU",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.01",
+      "districtName": "MATRAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13110,
+      "coordinate": {
+        "longitude": 106.8683948,
+        "latitude": -6.2110735,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.01.1002",
+      "name": "UTAN KAYU UTARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.01",
+      "districtName": "MATRAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13120,
+      "coordinate": {
+        "longitude": 106.8684175,
+        "latitude": -6.1967873,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.01.1003",
+      "name": "KAYU MANIS",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.01",
+      "districtName": "MATRAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16169,
+      "coordinate": {
+        "longitude": 106.770616,
+        "latitude": -6.5257437,
+        "elevation": 158
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.01.1004",
+      "name": "PALMERIAM",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.01",
+      "districtName": "MATRAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13140,
+      "coordinate": {
+        "longitude": 106.8596783,
+        "latitude": -6.2052579,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.01.1005",
+      "name": "KEBON MANGGIS",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.01",
+      "districtName": "MATRAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13150,
+      "coordinate": {
+        "longitude": 106.8552828,
+        "latitude": -6.2063104,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.01.1006",
+      "name": "UTAN KAYU SELATAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.01",
+      "districtName": "MATRAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13120,
+      "coordinate": {
+        "longitude": 106.86835,
+        "latitude": -6.2031033,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

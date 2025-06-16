@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "95.05.01",
+      "name": "KOBAKMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "95.05.02",
+      "name": "KELILA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "95.05.03",
+      "name": "ERAGAYAM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "95.05.04",
+      "name": "MEGAMBILIS",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "95.05.05",
+      "name": "ILUGWA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.05",
+      "cityName": "KAB. MAMBERAMO TENGAH"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

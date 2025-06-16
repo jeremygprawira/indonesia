@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.16.03.2001",
+      "name": "KESEHATAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.052722,
+        "latitude": 4.2851808,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2002",
+      "name": "SUKA JADI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34874,
+      "coordinate": {
+        "longitude": 103.9150088,
+        "latitude": -5.2256172,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2006",
+      "name": "MENANGGINI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0071817,
+        "latitude": 4.311091,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2007",
+      "name": "TANJUNG KARANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97572,
+      "coordinate": {
+        "longitude": 126.3126149,
+        "latitude": -3.1984121,
+        "elevation": 647
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2009",
+      "name": "BUNDAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73752,
+      "coordinate": {
+        "longitude": 114.9583517,
+        "latitude": -1.4804539,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2011",
+      "name": "DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97785,
+      "coordinate": {
+        "longitude": 127.4261517,
+        "latitude": 0.3535202,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2012",
+      "name": "TANAH TERBAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0591835,
+        "latitude": 4.3099981,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2013",
+      "name": "AIR TENANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38363,
+      "coordinate": {
+        "longitude": 101.8844026,
+        "latitude": -3.1541241,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2014",
+      "name": "JOHAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0680559,
+        "latitude": 4.3203969,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2015",
+      "name": "TUPAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0571848,
+        "latitude": 4.3276153,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2016",
+      "name": "BANAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27683,
+      "coordinate": {
+        "longitude": 101.2265158,
+        "latitude": -1.0656947,
+        "elevation": 241
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2017",
+      "name": "RANTAU PANJANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75554,
+      "coordinate": {
+        "longitude": 116.9135588,
+        "latitude": 0.933645,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2018",
+      "name": "MEDANG ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0760587,
+        "latitude": 4.3349781,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2019",
+      "name": "PAHLAWAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39125,
+      "coordinate": {
+        "longitude": 102.5134332,
+        "latitude": -3.4418061,
+        "elevation": 644
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2020",
+      "name": "ALUR SELALAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 97.9895866,
+        "latitude": 4.3392092,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2021",
+      "name": "PAYA TAMPAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 97.9786538,
+        "latitude": 4.3583302,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2022",
+      "name": "ALUR BAUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0256379,
+        "latitude": 4.3522802,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2023",
+      "name": "KEBUN TANAH TERBAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0376163,
+        "latitude": 4.3048477,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2024",
+      "name": "KEBUN MEDANG ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0583906,
+        "latitude": 4.3405274,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2025",
+      "name": "KEBUN AFDELING SELELEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0144543,
+        "latitude": 4.3456918,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2026",
+      "name": "PAYA AWE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0774455,
+        "latitude": 4.3795725,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2027",
+      "name": "SIMPANG EMPAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71452,
+      "coordinate": {
+        "longitude": 115.216815,
+        "latitude": -2.4475083,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2028",
+      "name": "PAYA KULBI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0756376,
+        "latitude": 4.3858282,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2029",
+      "name": "ALUR BEMBAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0836822,
+        "latitude": 4.3497849,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2030",
+      "name": "PAYA META",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0613751,
+        "latitude": 4.3550083,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2031",
+      "name": "TANJUNG SEUMANTOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2032",
+      "name": "BUKIT KERANJI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0577941,
+        "latitude": 4.3829077,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2033",
+      "name": "KEBUN TANJUNG SEUMANTOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.075721,
+        "latitude": 4.3684877,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2034",
+      "name": "BUKIT PANJANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24782,
+      "coordinate": {
+        "longitude": 97.9281321,
+        "latitude": 2.5809032,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2035",
+      "name": "ALUE LHOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0199566,
+        "latitude": 4.3719729,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.03.2036",
+      "name": "SUKA JADI PAYA BUJOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.03",
+      "districtName": "KARANG BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 31
+  }
+}

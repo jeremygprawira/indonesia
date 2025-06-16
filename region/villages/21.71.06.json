@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.71.06.1001",
+      "name": "KAMPUNG PELITA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.06",
+      "districtName": "LUBUK BAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29443,
+      "coordinate": {
+        "longitude": 104.0197611,
+        "latitude": 1.1443357,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.06.1003",
+      "name": "LUBUK BAJA KOTA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.06",
+      "districtName": "LUBUK BAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29444,
+      "coordinate": {
+        "longitude": 104.0121243,
+        "latitude": 1.141179,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.06.1004",
+      "name": "BATU SELICIN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.06",
+      "districtName": "LUBUK BAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29441,
+      "coordinate": {
+        "longitude": 104.0074627,
+        "latitude": 1.1376295,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.06.1005",
+      "name": "TANJUNG UMA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.06",
+      "districtName": "LUBUK BAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29445,
+      "coordinate": {
+        "longitude": 103.9951284,
+        "latitude": 1.1418372,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.06.1006",
+      "name": "BALOI INDAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.06",
+      "districtName": "LUBUK BAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29432,
+      "coordinate": {
+        "longitude": 104.0071849,
+        "latitude": 1.1279225,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.06.14.1003",
+      "name": "LUGOSOBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 109.9909868,
+        "latitude": -7.6963131,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2001",
+      "name": "WINONGKIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 109.9585084,
+        "latitude": -7.6768867,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2002",
+      "name": "SEREN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3348484,
+        "latitude": -6.7625596,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2004",
+      "name": "GINTUNGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62282,
+      "coordinate": {
+        "longitude": 112.3915375,
+        "latitude": -7.2476183,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2005",
+      "name": "BULUS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66274,
+      "coordinate": {
+        "longitude": 111.7836393,
+        "latitude": -8.143219,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2006",
+      "name": "RENDENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62153,
+      "coordinate": {
+        "longitude": 111.7230328,
+        "latitude": -7.1112614,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2007",
+      "name": "KROYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57221,
+      "coordinate": {
+        "longitude": 111.0206224,
+        "latitude": -7.4406682,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2008",
+      "name": "WINONGLOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 109.9662749,
+        "latitude": -7.6674384,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2009",
+      "name": "MLARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 109.9747591,
+        "latitude": -7.6537636,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2010",
+      "name": "PELUTAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52311,
+      "coordinate": {
+        "longitude": 109.378301,
+        "latitude": -6.8828239,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2011",
+      "name": "BENDOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65391,
+      "coordinate": {
+        "longitude": 112.4311136,
+        "latitude": -7.8830022,
+        "elevation": 1111
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2012",
+      "name": "GEBANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69114,
+      "coordinate": {
+        "longitude": 112.7915868,
+        "latitude": -6.9920311,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2013",
+      "name": "SALAM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66155,
+      "coordinate": {
+        "longitude": 111.9717293,
+        "latitude": -8.0223177,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2014",
+      "name": "PAKEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68253,
+      "coordinate": {
+        "longitude": 113.7427616,
+        "latitude": -7.8652251,
+        "elevation": 550
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2015",
+      "name": "WONOTOPO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 110.0222586,
+        "latitude": -7.6526586,
+        "elevation": 190
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2016",
+      "name": "SIDOLEREN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 110.0061886,
+        "latitude": -7.6347288,
+        "elevation": 214
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2017",
+      "name": "PENUNGKULAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 110.0253012,
+        "latitude": -7.6307193,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2018",
+      "name": "REDIN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 110.0024911,
+        "latitude": -7.6107189,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2019",
+      "name": "TLOGOSONO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 109.9934541,
+        "latitude": -7.6290842,
+        "elevation": 177
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2020",
+      "name": "NGEMPLAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62192,
+      "coordinate": {
+        "longitude": 112.0662242,
+        "latitude": -7.1544829,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2021",
+      "name": "KRAGILAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42184,
+      "coordinate": {
+        "longitude": 106.293807,
+        "latitude": -6.1360437,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2022",
+      "name": "PRUMBEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 109.9815987,
+        "latitude": -7.6233558,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2023",
+      "name": "NGAGLIK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65311,
+      "coordinate": {
+        "longitude": 112.5192082,
+        "latitude": -7.87487,
+        "elevation": 930
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2024",
+      "name": "KEMIRI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99565,
+      "coordinate": {
+        "longitude": 138.648302,
+        "latitude": -3.9863651,
+        "elevation": 2771
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.14.2025",
+      "name": "KALITENGKEK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.14",
+      "districtName": "GEBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54191,
+      "coordinate": {
+        "longitude": 109.9908402,
+        "latitude": -7.5859913,
+        "elevation": 375
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 25
+  }
+}

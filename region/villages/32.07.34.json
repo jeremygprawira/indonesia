@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.07.34.2001",
+      "name": "CIKUPA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15710,
+      "coordinate": {
+        "longitude": 106.51818,
+        "latitude": -6.235682,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.34.2002",
+      "name": "SUKARAHARJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46258,
+      "coordinate": {
+        "longitude": 108.3285554,
+        "latitude": -7.1700231,
+        "elevation": 519
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.34.2003",
+      "name": "LUMBUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 82162,
+      "coordinate": {
+        "longitude": 114.9980151,
+        "latitude": -8.4839799,
+        "elevation": 147
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.34.2004",
+      "name": "LUMBUNGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46258,
+      "coordinate": {
+        "longitude": 108.3292933,
+        "latitude": -7.1505196,
+        "elevation": 449
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.34.2005",
+      "name": "AWILUAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46258,
+      "coordinate": {
+        "longitude": 108.3455623,
+        "latitude": -7.1595015,
+        "elevation": 421
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.34.2006",
+      "name": "DARMARAJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45372,
+      "coordinate": {
+        "longitude": 108.0662733,
+        "latitude": -6.918512,
+        "elevation": 296
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.34.2007",
+      "name": "RAWA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98982,
+      "coordinate": {
+        "longitude": 137.2496255,
+        "latitude": -3.2807465,
+        "elevation": 223
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.34.2008",
+      "name": "SADEWATA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.34",
+      "districtName": "LUMBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46258,
+      "coordinate": {
+        "longitude": 108.3284529,
+        "latitude": -7.126173,
+        "elevation": 537
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

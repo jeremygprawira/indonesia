@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.01.14.2001",
+      "name": "LIANG",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.14",
+      "districtName": "SALAHUTU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97543,
+      "coordinate": {
+        "longitude": 126.5638967,
+        "latitude": -3.723934,
+        "elevation": 824
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.14.2002",
+      "name": "WAAI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.14",
+      "districtName": "SALAHUTU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97582,
+      "coordinate": {
+        "longitude": 128.3214752,
+        "latitude": -3.5605213,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.14.2003",
+      "name": "TULEHU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.14",
+      "districtName": "SALAHUTU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97582,
+      "coordinate": {
+        "longitude": 128.3058856,
+        "latitude": -3.5968405,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.14.2004",
+      "name": "TIAL",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.14",
+      "districtName": "SALAHUTU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97582,
+      "coordinate": {
+        "longitude": 128.3220136,
+        "latitude": -3.628318,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.14.2005",
+      "name": "TENGAH TENGAH",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.14",
+      "districtName": "SALAHUTU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97582,
+      "coordinate": {
+        "longitude": 128.3548852,
+        "latitude": -3.6142469,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.14.2006",
+      "name": "SULI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.14",
+      "districtName": "SALAHUTU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97582,
+      "coordinate": {
+        "longitude": 128.2852969,
+        "latitude": -3.6076819,
+        "elevation": 107
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

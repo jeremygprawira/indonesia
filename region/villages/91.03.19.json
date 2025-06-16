@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.03.19.2001",
+      "name": "MARUWAI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.19",
+      "districtName": "YOKARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99355,
+      "coordinate": {
+        "longitude": 140.2232053,
+        "latitude": -2.4074463,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.19.2002",
+      "name": "MEUKISI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.19",
+      "districtName": "YOKARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99355,
+      "coordinate": {
+        "longitude": 140.2613008,
+        "latitude": -2.4131243,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.19.2003",
+      "name": "ENDOKISI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.19",
+      "districtName": "YOKARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99355,
+      "coordinate": {
+        "longitude": 140.2964185,
+        "latitude": -2.4290239,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.19.2005",
+      "name": "BUSERYO",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.19",
+      "districtName": "YOKARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99355,
+      "coordinate": {
+        "longitude": 140.3244075,
+        "latitude": -2.4472709,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.19.2006",
+      "name": "SENAMAY",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.19",
+      "districtName": "YOKARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99355,
+      "coordinate": {
+        "longitude": 140.3114638,
+        "latitude": -2.4425963,
+        "elevation": 190
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

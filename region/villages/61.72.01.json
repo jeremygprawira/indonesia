@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.72.01.1001",
+      "name": "ROBAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.01",
+      "districtName": "SINGKAWANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79112,
+      "coordinate": {
+        "longitude": 109.0036909,
+        "latitude": 0.9069215,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.01.1002",
+      "name": "CONDONG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.01",
+      "districtName": "SINGKAWANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79111,
+      "coordinate": {
+        "longitude": 108.9953454,
+        "latitude": 0.9136744,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.01.1003",
+      "name": "SEKIP LAMA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.01",
+      "districtName": "SINGKAWANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79113,
+      "coordinate": {
+        "longitude": 108.9955541,
+        "latitude": 0.9188827,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.01.1004",
+      "name": "JAWA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.01",
+      "districtName": "SINGKAWANG TENGAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99960,
+      "coordinate": {
+        "longitude": 137.4562998,
+        "latitude": -4.2809573,
+        "elevation": 2498
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.01.1005",
+      "name": "BUKIT BATU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.01",
+      "districtName": "SINGKAWANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73553,
+      "coordinate": {
+        "longitude": 114.329663,
+        "latitude": -1.7530394,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.01.1006",
+      "name": "SUNGAI WIE",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.01",
+      "districtName": "SINGKAWANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79115,
+      "coordinate": {
+        "longitude": 108.9831527,
+        "latitude": 0.9252613,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.04.04.2001",
+      "name": "KWOOR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.04",
+      "districtName": "KWOOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98369,
+      "coordinate": {
+        "longitude": 132.3217234,
+        "latitude": -0.4057635,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.04.2002",
+      "name": "HOPMARE",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.04",
+      "districtName": "KWOOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98369,
+      "coordinate": {
+        "longitude": 132.2774079,
+        "latitude": -0.3982016,
+        "elevation": 201
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.04.2003",
+      "name": "ORWEN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.04",
+      "districtName": "KWOOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98369,
+      "coordinate": {
+        "longitude": 132.3163427,
+        "latitude": -0.3875507,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.04.2004",
+      "name": "BARAR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.04",
+      "districtName": "KWOOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98369,
+      "coordinate": {
+        "longitude": 132.3611301,
+        "latitude": -0.3897959,
+        "elevation": 286
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.04.2005",
+      "name": "ESMAMBO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.04",
+      "districtName": "KWOOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98369,
+      "coordinate": {
+        "longitude": 132.2494002,
+        "latitude": -0.4138343,
+        "elevation": 100
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

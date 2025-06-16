@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.74.05.1001",
+      "name": "PEKIRINGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.05",
+      "districtName": "KESAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52193,
+      "coordinate": {
+        "longitude": 109.1411007,
+        "latitude": -6.9366543,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.05.1002",
+      "name": "SUNYARAGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.05",
+      "districtName": "KESAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45132,
+      "coordinate": {
+        "longitude": 108.540663,
+        "latitude": -6.7304695,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.05.1003",
+      "name": "KESAMBI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.05",
+      "districtName": "KESAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62257,
+      "coordinate": {
+        "longitude": 112.2699501,
+        "latitude": -7.0976637,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.05.1004",
+      "name": "DRAJAT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.05",
+      "districtName": "KESAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62264,
+      "coordinate": {
+        "longitude": 112.3880829,
+        "latitude": -6.8878589,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.05.1005",
+      "name": "KARYAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.05",
+      "districtName": "KESAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45131,
+      "coordinate": {
+        "longitude": 108.5281465,
+        "latitude": -6.73994,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

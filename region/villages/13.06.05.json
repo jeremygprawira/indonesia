@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.05.2002",
+      "name": "SUNGAI LANDIA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.05",
+      "districtName": "IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26160,
+      "coordinate": {
+        "longitude": 100.2882033,
+        "latitude": -0.3341329,
+        "elevation": 1170
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.05.2003",
+      "name": "BALINGKA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.05",
+      "districtName": "IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26160,
+      "coordinate": {
+        "longitude": 100.3179499,
+        "latitude": -0.3557537,
+        "elevation": 1389
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.05.2004",
+      "name": "KOTO TUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.05",
+      "districtName": "IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37121,
+      "coordinate": {
+        "longitude": 101.4301543,
+        "latitude": -2.0742069,
+        "elevation": 793
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.05.2005",
+      "name": "GUGUAK TABEK SAROJO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.05",
+      "districtName": "IV KOTO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.05.2006",
+      "name": "KOTO PANJANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.05",
+      "districtName": "IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37161,
+      "coordinate": {
+        "longitude": 101.3917703,
+        "latitude": -2.0221734,
+        "elevation": 801
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.05.2007",
+      "name": "SIANOK ANAM SUKU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.05",
+      "districtName": "IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26160,
+      "coordinate": {
+        "longitude": 100.3465243,
+        "latitude": -0.3009945,
+        "elevation": 814
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.05.2008",
+      "name": "KOTO GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.05",
+      "districtName": "IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27685,
+      "coordinate": {
+        "longitude": 101.6698256,
+        "latitude": -1.2946842,
+        "elevation": 140
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

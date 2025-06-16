@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.10.1001",
+      "name": "KARASAK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.10",
+      "districtName": "ASTANA ANYAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40243,
+      "coordinate": {
+        "longitude": 107.6085132,
+        "latitude": -6.9508763,
+        "elevation": 681
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.10.1002",
+      "name": "NYENGSERET",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.10",
+      "districtName": "ASTANA ANYAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40242,
+      "coordinate": {
+        "longitude": 107.6009628,
+        "latitude": -6.9311802,
+        "elevation": 699
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.10.1003",
+      "name": "KARANG ANYAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.10",
+      "districtName": "ASTANA ANYAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90134,
+      "coordinate": {
+        "longitude": 119.411647,
+        "latitude": -5.1766095,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.10.1004",
+      "name": "PANJUNAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.10",
+      "districtName": "ASTANA ANYAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61162,
+      "coordinate": {
+        "longitude": 112.4787756,
+        "latitude": -7.1554364,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.10.1005",
+      "name": "CIBADAK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.10",
+      "districtName": "ASTANA ANYAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15710,
+      "coordinate": {
+        "longitude": 106.4750136,
+        "latitude": -6.2001614,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.10.1006",
+      "name": "PELINDUNG HEWAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.10",
+      "districtName": "ASTANA ANYAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40243,
+      "coordinate": {
+        "longitude": 107.6030159,
+        "latitude": -6.9402463,
+        "elevation": 689
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

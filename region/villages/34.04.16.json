@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.16.2001",
+      "name": "PURWOBINANGUN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.16",
+      "districtName": "PAKEM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55582,
+      "coordinate": {
+        "longitude": 110.3974113,
+        "latitude": -7.6436088,
+        "elevation": 500
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.16.2002",
+      "name": "CANDIBINANGUN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.16",
+      "districtName": "PAKEM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67161,
+      "coordinate": {
+        "longitude": 112.7569934,
+        "latitude": -7.686589,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.16.2003",
+      "name": "HARJOBINANGUN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.16",
+      "districtName": "PAKEM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55582,
+      "coordinate": {
+        "longitude": 110.4088221,
+        "latitude": -7.6729106,
+        "elevation": 380
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.16.2004",
+      "name": "PAKEMBINANGUN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.16",
+      "districtName": "PAKEM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55582,
+      "coordinate": {
+        "longitude": 110.4236699,
+        "latitude": -7.6612178,
+        "elevation": 443
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.16.2005",
+      "name": "HARGOBINANGUN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.16",
+      "districtName": "PAKEM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55582,
+      "coordinate": {
+        "longitude": 110.4231791,
+        "latitude": -7.624081,
+        "elevation": 652
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

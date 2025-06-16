@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.71.02.1001",
+      "name": "KAMPUNG I SKIP",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.02",
+      "districtName": "TARAKAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77113,
+      "coordinate": {
+        "longitude": 117.617957,
+        "latitude": 3.3597946,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.02.1002",
+      "name": "PAMUSIAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.02",
+      "districtName": "TARAKAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77113,
+      "coordinate": {
+        "longitude": 117.6017463,
+        "latitude": 3.3071894,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.02.1003",
+      "name": "SEBENGKOK",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.02",
+      "districtName": "TARAKAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77114,
+      "coordinate": {
+        "longitude": 117.5932702,
+        "latitude": 3.3004198,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.02.1004",
+      "name": "SELUMIT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.02",
+      "districtName": "TARAKAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77113,
+      "coordinate": {
+        "longitude": 117.5890612,
+        "latitude": 3.3009472,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.02.1005",
+      "name": "SELUMIT PANTAI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.02",
+      "districtName": "TARAKAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77113,
+      "coordinate": {
+        "longitude": 117.5832869,
+        "latitude": 3.297867,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "51.03.05.1004",
+      "name": "BENOA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.05",
+      "districtName": "KUTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80362,
+      "coordinate": {
+        "longitude": 115.2157307,
+        "latitude": -8.7978511,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.05.1005",
+      "name": "TANJUNG BENOA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.05",
+      "districtName": "KUTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80362,
+      "coordinate": {
+        "longitude": 115.2191373,
+        "latitude": -8.7607416,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.05.1006",
+      "name": "JIMBARAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.05",
+      "districtName": "KUTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80362,
+      "coordinate": {
+        "longitude": 115.1576901,
+        "latitude": -8.7889403,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.05.2001",
+      "name": "PECATU",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.05",
+      "districtName": "KUTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80362,
+      "coordinate": {
+        "longitude": 115.1151318,
+        "latitude": -8.8259442,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.05.2002",
+      "name": "UNGASAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.05",
+      "districtName": "KUTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80362,
+      "coordinate": {
+        "longitude": 115.1601571,
+        "latitude": -8.8298223,
+        "elevation": 147
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.05.2003",
+      "name": "KUTUH",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.05",
+      "districtName": "KUTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80652,
+      "coordinate": {
+        "longitude": 115.3197618,
+        "latitude": -8.1584469,
+        "elevation": 659
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

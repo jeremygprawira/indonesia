@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.07.05.2001",
+      "name": "SABUBAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.05",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98335,
+      "coordinate": {
+        "longitude": 134.1341589,
+        "latitude": -2.1955394,
+        "elevation": 307
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.05.2002",
+      "name": "AMBUAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.05",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98335,
+      "coordinate": {
+        "longitude": 134.1017497,
+        "latitude": -2.0687505,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.05.2003",
+      "name": "KARUAN",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.05",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98335,
+      "coordinate": {
+        "longitude": 134.1371053,
+        "latitude": -2.2371034,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.05.2007",
+      "name": "YARPATE",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.05",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98335,
+      "coordinate": {
+        "longitude": 134.1230215,
+        "latitude": -2.1473142,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.05.2009",
+      "name": "NORDIWAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.05",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98335,
+      "coordinate": {
+        "longitude": 134.3346943,
+        "latitude": -2.1063375,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

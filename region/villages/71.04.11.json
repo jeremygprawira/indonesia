@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.04.11.2001",
+      "name": "BITUNURIS",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.11",
+      "districtName": "SALIBABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95871,
+      "coordinate": {
+        "longitude": 126.6829287,
+        "latitude": 3.8341465,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.11.2002",
+      "name": "BITUNURIS SELATAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.11",
+      "districtName": "SALIBABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95871,
+      "coordinate": {
+        "longitude": 126.6938451,
+        "latitude": 3.823181,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.11.2003",
+      "name": "SALIBABU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.11",
+      "districtName": "SALIBABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95871,
+      "coordinate": {
+        "longitude": 126.6726794,
+        "latitude": 3.8764371,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.11.2004",
+      "name": "SALIBABU UTARA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.11",
+      "districtName": "SALIBABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95871,
+      "coordinate": {
+        "longitude": 126.685661,
+        "latitude": 3.8848991,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.11.2005",
+      "name": "DALUM",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.11",
+      "districtName": "SALIBABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95871,
+      "coordinate": {
+        "longitude": 126.6812684,
+        "latitude": 3.8567281,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.11.2006",
+      "name": "BALANG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.11",
+      "districtName": "SALIBABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92315,
+      "coordinate": {
+        "longitude": 119.7299134,
+        "latitude": -5.6673968,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

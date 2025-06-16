@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.21.2001",
+      "name": "PULAU TIGA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.21",
+      "districtName": "PULAU TIGA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94975,
+      "coordinate": {
+        "longitude": 122.5704674,
+        "latitude": -3.3355168,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.21.2002",
+      "name": "TANJUNG KUMBIK UTARA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.21",
+      "districtName": "PULAU TIGA BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29786,
+      "coordinate": {
+        "longitude": 108.0827905,
+        "latitude": 3.6459681,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.21.2003",
+      "name": "SETUMUK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.21",
+      "districtName": "PULAU TIGA BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29786,
+      "coordinate": {
+        "longitude": 108.0667558,
+        "latitude": 3.6618109,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.21.2004",
+      "name": "SELADING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.21",
+      "districtName": "PULAU TIGA BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29786,
+      "coordinate": {
+        "longitude": 108.0555633,
+        "latitude": 3.6427759,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.02.12.1001",
+      "name": "SIMBORO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91512,
+      "coordinate": {
+        "longitude": 118.8596924,
+        "latitude": -2.6855971,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.12.1002",
+      "name": "RANGAS",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91415,
+      "coordinate": {
+        "longitude": 118.9358447,
+        "latitude": -3.5628937,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.12.2003",
+      "name": "BOTTENG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91375,
+      "coordinate": {
+        "longitude": 119.168669,
+        "latitude": -3.0684115,
+        "elevation": 770
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.12.2004",
+      "name": "SALETTO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91512,
+      "coordinate": {
+        "longitude": 118.8377416,
+        "latitude": -2.7335466,
+        "elevation": 222
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.12.2005",
+      "name": "SUMARE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91513,
+      "coordinate": {
+        "longitude": 118.8096995,
+        "latitude": -2.6566644,
+        "elevation": 184
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.12.2007",
+      "name": "BOTTENG UTARA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91512,
+      "coordinate": {
+        "longitude": 118.836697,
+        "latitude": -2.7500509,
+        "elevation": 295
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.12.2008",
+      "name": "TAPANDULLU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91512,
+      "coordinate": {
+        "longitude": 118.7987038,
+        "latitude": -2.6923588,
+        "elevation": 230
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.12.2009",
+      "name": "PATI-DI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.12",
+      "districtName": "SIMBORO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

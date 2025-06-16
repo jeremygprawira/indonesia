@@ -1,0 +1,650 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.05.07.2001",
+      "name": "ENTAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.698126,
+        "latitude": -7.7988897,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2002",
+      "name": "PLEMPUKANKEMBARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7058171,
+        "latitude": -7.7807442,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2003",
+      "name": "KENOYOJAYAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7142454,
+        "latitude": -7.8014452,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2004",
+      "name": "AMBALRESMI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7230793,
+        "latitude": -7.8039221,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2005",
+      "name": "KAIBONPETANGKURAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7345657,
+        "latitude": -7.8069778,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2006",
+      "name": "KAIBON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63171,
+      "coordinate": {
+        "longitude": 111.5185596,
+        "latitude": -7.680042,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2007",
+      "name": "SUMBERJATI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61364,
+      "coordinate": {
+        "longitude": 112.4779029,
+        "latitude": -7.482737,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2008",
+      "name": "BLENGORWETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.77025,
+        "latitude": -7.7873314,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2009",
+      "name": "BLENGORKULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7608724,
+        "latitude": -7.7807044,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2010",
+      "name": "BENERWETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7513829,
+        "latitude": -7.7823072,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2011",
+      "name": "BENERKULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7454616,
+        "latitude": -7.7795356,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2012",
+      "name": "AMBALKLIWONAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7340768,
+        "latitude": -7.7728662,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2013",
+      "name": "PASARSENEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7268792,
+        "latitude": -7.7695882,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2014",
+      "name": "PUCANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62391,
+      "coordinate": {
+        "longitude": 112.1320755,
+        "latitude": -6.9269224,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2015",
+      "name": "AMBALKEBREK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7158671,
+        "latitude": -7.7702765,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2016",
+      "name": "GONDANGLEGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64484,
+      "coordinate": {
+        "longitude": 112.0108048,
+        "latitude": -7.752914,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2017",
+      "name": "BANJARSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2018",
+      "name": "LAJER",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58161,
+      "coordinate": {
+        "longitude": 110.8304587,
+        "latitude": -7.1675134,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2019",
+      "name": "SINGOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61122,
+      "coordinate": {
+        "longitude": 112.6550611,
+        "latitude": -7.1757916,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2020",
+      "name": "SIDOLUHUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65216,
+      "coordinate": {
+        "longitude": 112.7294335,
+        "latitude": -7.8832813,
+        "elevation": 586
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2021",
+      "name": "SINUNGREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7431049,
+        "latitude": -7.7534514,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2022",
+      "name": "AMBARWINANGUN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7586676,
+        "latitude": -7.7441199,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2023",
+      "name": "PENEKET",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7691309,
+        "latitude": -7.7532871,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2024",
+      "name": "SIDOREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2025",
+      "name": "SIDOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2026",
+      "name": "SIDOMUKTI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96157,
+      "coordinate": {
+        "longitude": 122.6533617,
+        "latitude": 0.6760994,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2027",
+      "name": "PRASUTAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7568544,
+        "latitude": -7.7297591,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2028",
+      "name": "KRADENAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62391,
+      "coordinate": {
+        "longitude": 112.118357,
+        "latitude": -6.9057379,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2029",
+      "name": "PAGEDANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15339,
+      "coordinate": {
+        "longitude": 106.632755,
+        "latitude": -6.2994061,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2030",
+      "name": "SUROBAYAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51181,
+      "coordinate": {
+        "longitude": 109.633105,
+        "latitude": -6.9624011,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2031",
+      "name": "DUKUHREJOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7329134,
+        "latitude": -7.7335157,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.07.2032",
+      "name": "KEMBANGSAWIT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.07",
+      "districtName": "AMBAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54392,
+      "coordinate": {
+        "longitude": 109.7277839,
+        "latitude": -7.727356,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 32
+  }
+}

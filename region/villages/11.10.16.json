@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.16.2001",
+      "name": "HALOBAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.16",
+      "districtName": "PULAU BANYAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24790,
+      "coordinate": {
+        "longitude": 97.2732589,
+        "latitude": 2.1234082,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.16.2002",
+      "name": "ASANTOLA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.16",
+      "districtName": "PULAU BANYAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24790,
+      "coordinate": {
+        "longitude": 97.293261,
+        "latitude": 2.2231625,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.16.2003",
+      "name": "UJUNG SIALIT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.16",
+      "districtName": "PULAU BANYAK BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24790,
+      "coordinate": {
+        "longitude": 97.3184371,
+        "latitude": 2.1698209,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.16.2004",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.16",
+      "districtName": "PULAU BANYAK BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

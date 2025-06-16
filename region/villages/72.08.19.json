@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.08.19.2001",
+      "name": "AVOLUA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.19",
+      "districtName": "PARIGI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94463,
+      "coordinate": {
+        "longitude": 120.058738,
+        "latitude": -0.6657648,
+        "elevation": 356
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.19.2002",
+      "name": "TOBOLI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.19",
+      "districtName": "PARIGI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94463,
+      "coordinate": {
+        "longitude": 120.0828394,
+        "latitude": -0.7024182,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.19.2003",
+      "name": "TOBOLI BARAT",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.19",
+      "districtName": "PARIGI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94463,
+      "coordinate": {
+        "longitude": 120.0601595,
+        "latitude": -0.7159571,
+        "elevation": 380
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.19.2004",
+      "name": "PANGI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.19",
+      "districtName": "PARIGI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96565,
+      "coordinate": {
+        "longitude": 123.2528037,
+        "latitude": 0.5195118,
+        "elevation": 202
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.08.19.2005",
+      "name": "SAKINAH JAYA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.08",
+      "cityName": "KAB. PARIGI MOUTONG",
+      "districtCode": "72.08.19",
+      "districtName": "PARIGI UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94463,
+      "coordinate": {
+        "longitude": 120.0636019,
+        "latitude": -0.7310511,
+        "elevation": 260
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

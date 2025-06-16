@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.26.2001",
+      "name": "NUNUANAH",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.26",
+      "districtName": "AMFOANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85375,
+      "coordinate": {
+        "longitude": 123.9839131,
+        "latitude": -9.4786161,
+        "elevation": 478
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.26.2002",
+      "name": "KIFU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.26",
+      "districtName": "AMFOANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85375,
+      "coordinate": {
+        "longitude": 124.0130008,
+        "latitude": -9.4292797,
+        "elevation": 134
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.26.2003",
+      "name": "NETEMNANU SELATAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.26",
+      "districtName": "AMFOANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85375,
+      "coordinate": {
+        "longitude": 124.0212753,
+        "latitude": -9.3740748,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.26.2004",
+      "name": "NETEMNANU UTARA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.26",
+      "districtName": "AMFOANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85375,
+      "coordinate": {
+        "longitude": 124.0517813,
+        "latitude": -9.4209951,
+        "elevation": 195
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.26.2005",
+      "name": "NETEMNANU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.26",
+      "districtName": "AMFOANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85375,
+      "coordinate": {
+        "longitude": 124.1316533,
+        "latitude": -9.4719236,
+        "elevation": 484
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.14.10.1001",
+      "name": "SINE",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63264,
+      "coordinate": {
+        "longitude": 111.16709,
+        "latitude": -7.5147995,
+        "elevation": 474
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.10.1002",
+      "name": "SRAGEN KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57212,
+      "coordinate": {
+        "longitude": 111.0143256,
+        "latitude": -7.4284509,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.10.1003",
+      "name": "SRAGEN TENGAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57211,
+      "coordinate": {
+        "longitude": 111.0247425,
+        "latitude": -7.4246574,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.10.1004",
+      "name": "SRAGEN WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57214,
+      "coordinate": {
+        "longitude": 111.0295888,
+        "latitude": -7.4241481,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.10.1005",
+      "name": "NGLOROG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56272,
+      "coordinate": {
+        "longitude": 110.2862854,
+        "latitude": -7.3045916,
+        "elevation": 741
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.10.1006",
+      "name": "KARANG TENGAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15157,
+      "coordinate": {
+        "longitude": 106.7101342,
+        "latitude": -6.2167092,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.10.2007",
+      "name": "TANGKIL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66185,
+      "coordinate": {
+        "longitude": 112.3210633,
+        "latitude": -8.0984047,
+        "elevation": 262
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.10.2008",
+      "name": "KEDUNGUPIT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.10",
+      "districtName": "SRAGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57211,
+      "coordinate": {
+        "longitude": 111.0187442,
+        "latitude": -7.3737977,
+        "elevation": 71
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

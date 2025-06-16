@@ -1,0 +1,370 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.16.02.2001",
+      "name": "GUMENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61152,
+      "coordinate": {
+        "longitude": 112.5834217,
+        "latitude": -7.0119641,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2002",
+      "name": "BEGAGANLIMO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4796471,
+        "latitude": -7.7141108,
+        "elevation": 1330
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2003",
+      "name": "KALIKATIR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4713162,
+        "latitude": -7.6414929,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2004",
+      "name": "DILEM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4674958,
+        "latitude": -7.6559738,
+        "elevation": 444
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2005",
+      "name": "NGEMBAT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4597402,
+        "latitude": -7.6793074,
+        "elevation": 769
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2006",
+      "name": "JATIDUKUH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2007",
+      "name": "BENING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4551387,
+        "latitude": -7.6156917,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2008",
+      "name": "KARANGKUTEN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4583144,
+        "latitude": -7.6045123,
+        "elevation": 125
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2009",
+      "name": "TAWAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98023,
+      "coordinate": {
+        "longitude": 132.0632307,
+        "latitude": -2.7518686,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2010",
+      "name": "POHJEJER",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4688933,
+        "latitude": -7.6115573,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2011",
+      "name": "WONOPLOSO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4735793,
+        "latitude": -7.6264053,
+        "elevation": 175
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2012",
+      "name": "PUGERAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4861481,
+        "latitude": -7.6134091,
+        "elevation": 207
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2013",
+      "name": "GONDANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83353,
+      "coordinate": {
+        "longitude": 116.2010639,
+        "latitude": -8.3476101,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2014",
+      "name": "KEBONTUNGGUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4855463,
+        "latitude": -7.6260339,
+        "elevation": 218
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2015",
+      "name": "KEMASANTANI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.4981119,
+        "latitude": -7.6308804,
+        "elevation": 281
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2016",
+      "name": "PADI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.511428,
+        "latitude": -7.6283949,
+        "elevation": 336
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2017",
+      "name": "BAKALAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94885,
+      "coordinate": {
+        "longitude": 123.3181225,
+        "latitude": -1.2292569,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.02.2018",
+      "name": "CENTONG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.02",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61372,
+      "coordinate": {
+        "longitude": 112.5146106,
+        "latitude": -7.6171535,
+        "elevation": 299
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 18
+  }
+}

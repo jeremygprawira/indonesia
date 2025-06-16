@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.02.16.1001",
+      "name": "ANJUNGAN MELANCAR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.16",
+      "districtName": "ANJONGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78353,
+      "coordinate": {
+        "longitude": 109.1468858,
+        "latitude": 0.3339006,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.16.2002",
+      "name": "ANJUNGAN DALAM",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.16",
+      "districtName": "ANJONGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78353,
+      "coordinate": {
+        "longitude": 109.1337613,
+        "latitude": 0.3646276,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.16.2003",
+      "name": "KEPAYANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.16",
+      "districtName": "ANJONGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71161,
+      "coordinate": {
+        "longitude": 115.1032255,
+        "latitude": -2.9370708,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.16.2004",
+      "name": "PAK BULU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.16",
+      "districtName": "ANJONGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78353,
+      "coordinate": {
+        "longitude": 109.2188413,
+        "latitude": 0.3313688,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.16.2005",
+      "name": "DEMA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.16",
+      "districtName": "ANJONGAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99682,
+      "coordinate": {
+        "longitude": 139.9977917,
+        "latitude": -5.5793229,
+        "elevation": 62
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

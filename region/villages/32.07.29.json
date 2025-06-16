@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.07.29.2001",
+      "name": "CIMARAGAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.29",
+      "districtName": "CIMARAGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46381,
+      "coordinate": {
+        "longitude": 108.4639318,
+        "latitude": -7.373801,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.29.2002",
+      "name": "BEBER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.29",
+      "districtName": "CIMARAGAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83552,
+      "coordinate": {
+        "longitude": 116.2913498,
+        "latitude": -8.6047475,
+        "elevation": 332
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.29.2003",
+      "name": "RAKSABAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.29",
+      "districtName": "CIMARAGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46381,
+      "coordinate": {
+        "longitude": 108.4630214,
+        "latitude": -7.3852094,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.29.2004",
+      "name": "BOJONGMALANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.29",
+      "districtName": "CIMARAGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46381,
+      "coordinate": {
+        "longitude": 108.4555526,
+        "latitude": -7.3986595,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.29.2005",
+      "name": "JAYARAKSA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.29",
+      "districtName": "CIMARAGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43166,
+      "coordinate": {
+        "longitude": 106.9315623,
+        "latitude": -6.953938,
+        "elevation": 500
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

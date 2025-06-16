@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.11.19.2001",
+      "name": "KOMPA PARI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.19",
+      "districtName": "KATALA HAMU LINGU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87152,
+      "coordinate": {
+        "longitude": 119.9471956,
+        "latitude": -9.7904888,
+        "elevation": 608
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.19.2002",
+      "name": "MATAWAI AMAHU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.19",
+      "districtName": "KATALA HAMU LINGU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87152,
+      "coordinate": {
+        "longitude": 119.8988622,
+        "latitude": -9.8056551,
+        "elevation": 391
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.19.2003",
+      "name": "MANDAHU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.19",
+      "districtName": "KATALA HAMU LINGU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87152,
+      "coordinate": {
+        "longitude": 119.9977044,
+        "latitude": -9.8204536,
+        "elevation": 493
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.19.2004",
+      "name": "LAILARA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.19",
+      "districtName": "KATALA HAMU LINGU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87152,
+      "coordinate": {
+        "longitude": 119.9377517,
+        "latitude": -9.8722786,
+        "elevation": 343
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.19.2005",
+      "name": "PRAIBAKUL",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.19",
+      "districtName": "KATALA HAMU LINGU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87272,
+      "coordinate": {
+        "longitude": 119.4275252,
+        "latitude": -9.689989,
+        "elevation": 205
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

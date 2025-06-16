@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.72.08.1005",
+      "name": "DUSUN BARU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.08",
+      "districtName": "SUNGAI BUNGKAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38887,
+      "coordinate": {
+        "longitude": 102.711898,
+        "latitude": -4.2459691,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.08.2001",
+      "name": "SUMUR ANYIR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.08",
+      "districtName": "SUNGAI BUNGKAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3999547,
+        "latitude": -2.056666,
+        "elevation": 804
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.08.2002",
+      "name": "KOTO TINGGI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.08",
+      "districtName": "SUNGAI BUNGKAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3914819,
+        "latitude": -2.0605989,
+        "elevation": 860
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.08.2003",
+      "name": "TALANG LINDUNG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.08",
+      "districtName": "SUNGAI BUNGKAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3715184,
+        "latitude": -2.0760039,
+        "elevation": 1190
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.08.2004",
+      "name": "PELAYANG RAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.08",
+      "districtName": "SUNGAI BUNGKAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3874139,
+        "latitude": -2.0660914,
+        "elevation": 912
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.08.2006",
+      "name": "SUNGAI NING",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.08",
+      "districtName": "SUNGAI BUNGKAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3491345,
+        "latitude": -2.0491192,
+        "elevation": 1448
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

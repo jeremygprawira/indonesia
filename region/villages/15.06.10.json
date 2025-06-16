@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.06.10.1001",
+      "name": "TUNGKAL V",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36514,
+      "coordinate": {
+        "longitude": 103.3458971,
+        "latitude": -0.8146166,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.06.10.2002",
+      "name": "TUNGKAL IV DESA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36514,
+      "coordinate": {
+        "longitude": 103.4171041,
+        "latitude": -0.8073891,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.06.10.2003",
+      "name": "KUALA BARU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36514,
+      "coordinate": {
+        "longitude": 103.4390494,
+        "latitude": -0.8031047,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.06.10.2004",
+      "name": "TELUK PULAI RAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.06.10.2005",
+      "name": "MEKAR ALAM",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36511,
+      "coordinate": {
+        "longitude": 103.382806,
+        "latitude": -0.8132875,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.06.10.2006",
+      "name": "HARAPAN JAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98485,
+      "coordinate": {
+        "longitude": 130.4048604,
+        "latitude": -2.0424253,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.06.10.2007",
+      "name": "KUALA KAHAR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36511,
+      "coordinate": {
+        "longitude": 103.3046347,
+        "latitude": -0.790475,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.06.10.2008",
+      "name": "MUARA SEBERANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.06",
+      "cityName": "KAB. TANJUNG JABUNG BARAT",
+      "districtCode": "15.06.10",
+      "districtName": "SEBERANG KOTA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.03.15.2001",
+      "name": "SEMBALUN BUMBUNG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.03",
+      "cityName": "KAB. LOMBOK TIMUR",
+      "districtCode": "52.03.15",
+      "districtName": "SEMBALUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83657,
+      "coordinate": {
+        "longitude": 116.5488016,
+        "latitude": -8.4068138,
+        "elevation": 1603
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.03.15.2002",
+      "name": "SEMBALUN LAWANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.03",
+      "cityName": "KAB. LOMBOK TIMUR",
+      "districtCode": "52.03.15",
+      "districtName": "SEMBALUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83657,
+      "coordinate": {
+        "longitude": 116.5091387,
+        "latitude": -8.4137526,
+        "elevation": 1999
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.03.15.2003",
+      "name": "SAJANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.03",
+      "cityName": "KAB. LOMBOK TIMUR",
+      "districtCode": "52.03.15",
+      "districtName": "SEMBALUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83657,
+      "coordinate": {
+        "longitude": 116.4634286,
+        "latitude": -8.3486721,
+        "elevation": 1222
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.03.15.2004",
+      "name": "BILOK PETUNG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.03",
+      "cityName": "KAB. LOMBOK TIMUR",
+      "districtCode": "52.03.15",
+      "districtName": "SEMBALUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83657,
+      "coordinate": {
+        "longitude": 116.4833859,
+        "latitude": -8.2738249,
+        "elevation": 218
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.03.15.2005",
+      "name": "SEMBALUN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.03",
+      "cityName": "KAB. LOMBOK TIMUR",
+      "districtCode": "52.03.15",
+      "districtName": "SEMBALUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83657,
+      "coordinate": {
+        "longitude": 116.4974744,
+        "latitude": -8.3627603,
+        "elevation": 1272
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.03.15.2006",
+      "name": "SEMBALUN TIMBA GADING",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.03",
+      "cityName": "KAB. LOMBOK TIMUR",
+      "districtCode": "52.03.15",
+      "districtName": "SEMBALUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83657,
+      "coordinate": {
+        "longitude": 116.4796166,
+        "latitude": -8.3861226,
+        "elevation": 1945
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

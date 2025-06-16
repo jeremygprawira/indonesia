@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.76.02.1001",
+      "name": "GUNUNGGEDANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.76",
+      "cityName": "KOTA MOJOKERTO",
+      "districtCode": "35.76.02",
+      "districtName": "MAGERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61315,
+      "coordinate": {
+        "longitude": 112.4545549,
+        "latitude": -7.4741964,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.76.02.1003",
+      "name": "MAGERSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.76",
+      "cityName": "KOTA MOJOKERTO",
+      "districtCode": "35.76.02",
+      "districtName": "MAGERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61318,
+      "coordinate": {
+        "longitude": 112.4389793,
+        "latitude": -7.4604059,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.76.02.1004",
+      "name": "GEDONGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.76",
+      "cityName": "KOTA MOJOKERTO",
+      "districtCode": "35.76.02",
+      "districtName": "MAGERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61319,
+      "coordinate": {
+        "longitude": 112.4385228,
+        "latitude": -7.4623795,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.76.02.1008",
+      "name": "BALONGSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.76",
+      "cityName": "KOTA MOJOKERTO",
+      "districtCode": "35.76.02",
+      "districtName": "MAGERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60186,
+      "coordinate": {
+        "longitude": 112.6774109,
+        "latitude": -7.2589012,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.76.02.1009",
+      "name": "KEDUNDUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.76",
+      "cityName": "KOTA MOJOKERTO",
+      "districtCode": "35.76.02",
+      "districtName": "MAGERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61316,
+      "coordinate": {
+        "longitude": 112.4571582,
+        "latitude": -7.4659088,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.76.02.1010",
+      "name": "WATES",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.76",
+      "cityName": "KOTA MOJOKERTO",
+      "districtCode": "35.76.02",
+      "districtName": "MAGERSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61317,
+      "coordinate": {
+        "longitude": 112.4487485,
+        "latitude": -7.4577161,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

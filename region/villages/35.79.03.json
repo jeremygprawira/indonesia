@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.79.03.1001",
+      "name": "DADAPREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU",
+      "districtCode": "35.79.03",
+      "districtName": "JUNREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65323,
+      "coordinate": {
+        "longitude": 112.5735269,
+        "latitude": -7.9101257,
+        "elevation": 626
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.79.03.2002",
+      "name": "BEJI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU",
+      "districtCode": "35.79.03",
+      "districtName": "JUNREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65326,
+      "coordinate": {
+        "longitude": 112.5481308,
+        "latitude": -7.8944802,
+        "elevation": 783
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.79.03.2003",
+      "name": "JUNREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU",
+      "districtCode": "35.79.03",
+      "districtName": "JUNREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65321,
+      "coordinate": {
+        "longitude": 112.5521108,
+        "latitude": -7.9076191,
+        "elevation": 734
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.79.03.2004",
+      "name": "TLEKUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU",
+      "districtCode": "35.79.03",
+      "districtName": "JUNREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65327,
+      "coordinate": {
+        "longitude": 112.5380332,
+        "latitude": -7.9134707,
+        "elevation": 844
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.79.03.2005",
+      "name": "MOJOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU",
+      "districtCode": "35.79.03",
+      "districtName": "JUNREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65322,
+      "coordinate": {
+        "longitude": 112.5666864,
+        "latitude": -7.9011386,
+        "elevation": 656
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.79.03.2006",
+      "name": "PENDEM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU",
+      "districtCode": "35.79.03",
+      "districtName": "JUNREJO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83554,
+      "coordinate": {
+        "longitude": 116.3788987,
+        "latitude": -8.6781437,
+        "elevation": 326
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.79.03.2007",
+      "name": "TORONGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.79",
+      "cityName": "KOTA BATU",
+      "districtCode": "35.79.03",
+      "districtName": "JUNREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65325,
+      "coordinate": {
+        "longitude": 112.5611724,
+        "latitude": -7.8873335,
+        "elevation": 749
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

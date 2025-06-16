@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.75.04.1001",
+      "name": "TANAH TINGGI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.04",
+      "districtName": "BINJAI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98443,
+      "coordinate": {
+        "longitude": 131.4357968,
+        "latitude": -1.2003898,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.04.1002",
+      "name": "DATARAN TINGGI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.04",
+      "districtName": "BINJAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20736,
+      "coordinate": {
+        "longitude": 98.504631,
+        "latitude": 3.6052713,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.04.1003",
+      "name": "TIMBANG LANGKAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.04",
+      "districtName": "BINJAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20732,
+      "coordinate": {
+        "longitude": 98.5032736,
+        "latitude": 3.6004774,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.04.1004",
+      "name": "MENCIRIM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.04",
+      "districtName": "BINJAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20733,
+      "coordinate": {
+        "longitude": 98.4963702,
+        "latitude": 3.5943895,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.04.1005",
+      "name": "TUNGGURONO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.04",
+      "districtName": "BINJAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20734,
+      "coordinate": {
+        "longitude": 98.5226477,
+        "latitude": 3.5906019,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.04.1006",
+      "name": "SUMBER MULYOREJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.04",
+      "districtName": "BINJAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20735,
+      "coordinate": {
+        "longitude": 98.5182502,
+        "latitude": 3.6196236,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.75.04.1007",
+      "name": "SUMBER KARYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.75",
+      "cityName": "KOTA BINJAI",
+      "districtCode": "12.75.04",
+      "districtName": "BINJAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79214,
+      "coordinate": {
+        "longitude": 109.6244211,
+        "latitude": 0.74167,
+        "elevation": 136
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "16.12.01",
+      "name": "TALANG UBI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.12",
+      "cityName": "KAB. PENUKAL ABAB LEMATANG ILIR"
+    },
+    {
+      "type": "district",
+      "code": "16.12.02",
+      "name": "PENUKAL UTARA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.12",
+      "cityName": "KAB. PENUKAL ABAB LEMATANG ILIR"
+    },
+    {
+      "type": "district",
+      "code": "16.12.03",
+      "name": "PENUKAL",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.12",
+      "cityName": "KAB. PENUKAL ABAB LEMATANG ILIR"
+    },
+    {
+      "type": "district",
+      "code": "16.12.04",
+      "name": "ABAB",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.12",
+      "cityName": "KAB. PENUKAL ABAB LEMATANG ILIR"
+    },
+    {
+      "type": "district",
+      "code": "16.12.05",
+      "name": "TANAH ABANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.12",
+      "cityName": "KAB. PENUKAL ABAB LEMATANG ILIR"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

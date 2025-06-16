@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.03.11.2001",
+      "name": "SUNGAI PANCANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.11",
+      "districtName": "SEBATIK UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77489,
+      "coordinate": {
+        "longitude": 117.8985553,
+        "latitude": 4.1563893,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.11.2002",
+      "name": "LAPRI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.11",
+      "districtName": "SEBATIK UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77489,
+      "coordinate": {
+        "longitude": 117.8783075,
+        "latitude": 4.146814,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.11.2003",
+      "name": "SEBERANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.11",
+      "districtName": "SEBATIK UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92764,
+      "coordinate": {
+        "longitude": 120.0281311,
+        "latitude": -4.5348475,
+        "elevation": 146
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

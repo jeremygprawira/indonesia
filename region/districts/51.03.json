@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "51.03.01",
+      "name": "KUTA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.03.02",
+      "name": "MENGWI",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.03.03",
+      "name": "ABIANSEMAL",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.03.04",
+      "name": "PETANG",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.03.05",
+      "name": "KUTA SELATAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG"
+    },
+    {
+      "type": "district",
+      "code": "51.03.06",
+      "name": "KUTA UTARA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

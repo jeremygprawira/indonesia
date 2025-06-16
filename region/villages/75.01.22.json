@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.01.22.2001",
+      "name": "HUTADAA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.01",
+      "cityName": "KAB. GORONTALO",
+      "districtCode": "75.01.22",
+      "districtName": "TALAGA JAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96184,
+      "coordinate": {
+        "longitude": 123.0151904,
+        "latitude": 0.5754184,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.01.22.2002",
+      "name": "BUHU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.01",
+      "cityName": "KAB. GORONTALO",
+      "districtCode": "75.01.22",
+      "districtName": "TALAGA JAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96184,
+      "coordinate": {
+        "longitude": 123.0149769,
+        "latitude": 0.5798805,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.01.22.2003",
+      "name": "LUWOO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.01",
+      "cityName": "KAB. GORONTALO",
+      "districtCode": "75.01.22",
+      "districtName": "TALAGA JAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96184,
+      "coordinate": {
+        "longitude": 123.0327388,
+        "latitude": 0.5760188,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.01.22.2004",
+      "name": "BUNGGALO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.01",
+      "cityName": "KAB. GORONTALO",
+      "districtCode": "75.01.22",
+      "districtName": "TALAGA JAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96184,
+      "coordinate": {
+        "longitude": 123.027496,
+        "latitude": 0.5828594,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.01.22.2005",
+      "name": "BULOTA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.01",
+      "cityName": "KAB. GORONTALO",
+      "districtCode": "75.01.22",
+      "districtName": "TALAGA JAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96184,
+      "coordinate": {
+        "longitude": 123.0203765,
+        "latitude": 0.587786,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

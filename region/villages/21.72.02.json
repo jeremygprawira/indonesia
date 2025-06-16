@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.72.02.1001",
+      "name": "MELAYU KOTA PIRING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.02",
+      "districtName": "TANJUNG PINANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29123,
+      "coordinate": {
+        "longitude": 104.4855139,
+        "latitude": 0.916284,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.02.1002",
+      "name": "KAMPUNG BULANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.02",
+      "districtName": "TANJUNG PINANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29122,
+      "coordinate": {
+        "longitude": 104.4718193,
+        "latitude": 0.9233035,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.02.1003",
+      "name": "AIR RAJA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.02",
+      "districtName": "TANJUNG PINANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29122,
+      "coordinate": {
+        "longitude": 104.5002577,
+        "latitude": 0.9493084,
+        "elevation": -3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.02.1004",
+      "name": "BATU IX",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.02",
+      "districtName": "TANJUNG PINANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29125,
+      "coordinate": {
+        "longitude": 104.5092576,
+        "latitude": 0.9027918,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.02.1005",
+      "name": "PINANG KENCANA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.02",
+      "districtName": "TANJUNG PINANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29122,
+      "coordinate": {
+        "longitude": 104.5248963,
+        "latitude": 0.9298874,
+        "elevation": 30
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

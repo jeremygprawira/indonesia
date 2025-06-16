@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.01.10.2001",
+      "name": "MEKARSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.10.2002",
+      "name": "CIJAKAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42274,
+      "coordinate": {
+        "longitude": 105.9866365,
+        "latitude": -6.4854253,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.10.2003",
+      "name": "GEREDUG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42274,
+      "coordinate": {
+        "longitude": 105.9663348,
+        "latitude": -6.4503241,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.10.2004",
+      "name": "BOJONG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15710,
+      "coordinate": {
+        "longitude": 106.4855922,
+        "latitude": -6.220801,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.10.2005",
+      "name": "BANYUMAS",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42274,
+      "coordinate": {
+        "longitude": 105.9986626,
+        "latitude": -6.4177026,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.10.2006",
+      "name": "CITUMENGGUNG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42274,
+      "coordinate": {
+        "longitude": 105.9970029,
+        "latitude": -6.4644763,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.10.2007",
+      "name": "MANGGUNGJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42274,
+      "coordinate": {
+        "longitude": 106.0150798,
+        "latitude": -6.4226407,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.10.2008",
+      "name": "CAHAYAMEKAR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.10",
+      "districtName": "BOJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42274,
+      "coordinate": {
+        "longitude": 106.0085767,
+        "latitude": -6.4432503,
+        "elevation": 111
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.08.14.2001",
+      "name": "SUNGAI BERBARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.08",
+      "cityName": "KAB. SIAK",
+      "districtCode": "14.08.14",
+      "districtName": "PUSAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28765,
+      "coordinate": {
+        "longitude": 102.1215871,
+        "latitude": 0.853408,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.08.14.2002",
+      "name": "SUNGAI LIMAU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.08",
+      "cityName": "KAB. SIAK",
+      "districtCode": "14.08.14",
+      "districtName": "PUSAKO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77487,
+      "coordinate": {
+        "longitude": 117.8209343,
+        "latitude": 4.152515,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.08.14.2003",
+      "name": "DOSAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.08",
+      "cityName": "KAB. SIAK",
+      "districtCode": "14.08.14",
+      "districtName": "PUSAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78561,
+      "coordinate": {
+        "longitude": 110.5200967,
+        "latitude": 0.2784288,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.08.14.2004",
+      "name": "BENAYAH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.08",
+      "cityName": "KAB. SIAK",
+      "districtCode": "14.08.14",
+      "districtName": "PUSAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28765,
+      "coordinate": {
+        "longitude": 102.1123199,
+        "latitude": 0.9664503,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.08.14.2005",
+      "name": "PEBADARAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.08",
+      "cityName": "KAB. SIAK",
+      "districtCode": "14.08.14",
+      "districtName": "PUSAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28765,
+      "coordinate": {
+        "longitude": 102.1190536,
+        "latitude": 0.9795197,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.08.14.2006",
+      "name": "DUSUN PUSAKA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.08",
+      "cityName": "KAB. SIAK",
+      "districtCode": "14.08.14",
+      "districtName": "PUSAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28765,
+      "coordinate": {
+        "longitude": 102.1233524,
+        "latitude": 1.0174678,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.08.14.2007",
+      "name": "PERINCIT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.08",
+      "cityName": "KAB. SIAK",
+      "districtCode": "14.08.14",
+      "districtName": "PUSAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28765,
+      "coordinate": {
+        "longitude": 102.1109377,
+        "latitude": 1.0380402,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

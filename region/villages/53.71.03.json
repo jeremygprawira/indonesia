@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.71.03.1001",
+      "name": "KELAPA LIMA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.71",
+      "cityName": "KOTA KUPANG",
+      "districtCode": "53.71.03",
+      "districtName": "KELAPA LIMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99612,
+      "coordinate": {
+        "longitude": 140.414271,
+        "latitude": -8.4810468,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.71.03.1010",
+      "name": "OESAPA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.71",
+      "cityName": "KOTA KUPANG",
+      "districtCode": "53.71.03",
+      "districtName": "KELAPA LIMA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85228,
+      "coordinate": {
+        "longitude": 123.654142,
+        "latitude": -10.1467883,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.71.03.1011",
+      "name": "LASIANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.71",
+      "cityName": "KOTA KUPANG",
+      "districtCode": "53.71.03",
+      "districtName": "KELAPA LIMA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85228,
+      "coordinate": {
+        "longitude": 123.6713547,
+        "latitude": -10.1438856,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.71.03.1014",
+      "name": "OESAPA BARAT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.71",
+      "cityName": "KOTA KUPANG",
+      "districtCode": "53.71.03",
+      "districtName": "KELAPA LIMA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85228,
+      "coordinate": {
+        "longitude": 123.6308116,
+        "latitude": -10.1496487,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.71.03.1015",
+      "name": "OESAPA SELATAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.71",
+      "cityName": "KOTA KUPANG",
+      "districtCode": "53.71.03",
+      "districtName": "KELAPA LIMA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85228,
+      "coordinate": {
+        "longitude": 123.6500508,
+        "latitude": -10.1598154,
+        "elevation": 67
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

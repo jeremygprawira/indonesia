@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.73.06.1001",
+      "name": "KALIDERES",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.06",
+      "districtName": "KALIDERES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45165,
+      "coordinate": {
+        "longitude": 108.4082735,
+        "latitude": -6.6158559,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.06.1002",
+      "name": "SEMANAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.06",
+      "districtName": "KALIDERES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11850,
+      "coordinate": {
+        "longitude": 106.7024165,
+        "latitude": -6.1677024,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.06.1003",
+      "name": "TEGAL ALUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.06",
+      "districtName": "KALIDERES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11820,
+      "coordinate": {
+        "longitude": 106.7150914,
+        "latitude": -6.1159297,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.06.1004",
+      "name": "KAMAL",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.06",
+      "districtName": "KALIDERES",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97568,
+      "coordinate": {
+        "longitude": 128.2961031,
+        "latitude": -3.2002417,
+        "elevation": 209
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.73.06.1005",
+      "name": "PEGADUNGAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.73",
+      "cityName": "KOTA ADM. JAKARTA BARAT",
+      "districtCode": "31.73.06",
+      "districtName": "KALIDERES",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81161,
+      "coordinate": {
+        "longitude": 115.1611912,
+        "latitude": -8.2146259,
+        "elevation": 1100
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.02.14.2001",
+      "name": "RANTAU LIMAU MANIS",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.14",
+      "districtName": "TABIR ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37358,
+      "coordinate": {
+        "longitude": 102.436541,
+        "latitude": -1.7586769,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.14.2002",
+      "name": "ULAK MAKAM",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.14",
+      "districtName": "TABIR ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37358,
+      "coordinate": {
+        "longitude": 102.3633807,
+        "latitude": -1.7532476,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.14.2003",
+      "name": "AIR BATU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.14",
+      "districtName": "TABIR ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30961,
+      "coordinate": {
+        "longitude": 104.6282917,
+        "latitude": -2.8949526,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.14.2004",
+      "name": "REJO SARI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.14",
+      "districtName": "TABIR ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93757,
+      "coordinate": {
+        "longitude": 123.1161945,
+        "latitude": -5.3190245,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.14.2005",
+      "name": "KOTA RAJA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.14",
+      "districtName": "TABIR ILIR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.14.2006",
+      "name": "TUNGGUL BULIN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.14",
+      "districtName": "TABIR ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37358,
+      "coordinate": {
+        "longitude": 102.4102495,
+        "latitude": -1.7675252,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.14.2007",
+      "name": "MEKAR LIMAU MANIS",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.14",
+      "districtName": "TABIR ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37358,
+      "coordinate": {
+        "longitude": 102.4572536,
+        "latitude": -1.7831584,
+        "elevation": 103
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.04.08.2001",
+      "name": "POPAYA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.04",
+      "cityName": "KAB. POHUWATO",
+      "districtCode": "75.04.08",
+      "districtName": "DENGILO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96361,
+      "coordinate": {
+        "longitude": 122.0583903,
+        "latitude": 0.5393606,
+        "elevation": 259
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.04.08.2002",
+      "name": "KARYA BARU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.04",
+      "cityName": "KAB. POHUWATO",
+      "districtCode": "75.04.08",
+      "districtName": "DENGILO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96361,
+      "coordinate": {
+        "longitude": 122.0534119,
+        "latitude": 0.7172047,
+        "elevation": 1223
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.04.08.2003",
+      "name": "KARANGETANG",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.04",
+      "cityName": "KAB. POHUWATO",
+      "districtCode": "75.04.08",
+      "districtName": "DENGILO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.04.08.2004",
+      "name": "PADENGO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.04",
+      "cityName": "KAB. POHUWATO",
+      "districtCode": "75.04.08",
+      "districtName": "DENGILO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96467,
+      "coordinate": {
+        "longitude": 121.2460051,
+        "latitude": 0.6713393,
+        "elevation": 977
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.04.08.2005",
+      "name": "HUTAMOPUTI",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.04",
+      "cityName": "KAB. POHUWATO",
+      "districtCode": "75.04.08",
+      "districtName": "DENGILO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96361,
+      "coordinate": {
+        "longitude": 122.1083054,
+        "latitude": 0.5268038,
+        "elevation": 147
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

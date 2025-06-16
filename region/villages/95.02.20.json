@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.02.20.2001",
+      "name": "OKELWEL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.20",
+      "districtName": "OKHIKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99424,
+      "coordinate": {
+        "longitude": 140.6802336,
+        "latitude": -4.6748382,
+        "elevation": 1823
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.20.2002",
+      "name": "KOTYOBAKON",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.20",
+      "districtName": "OKHIKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99424,
+      "coordinate": {
+        "longitude": 140.6447833,
+        "latitude": -4.6583777,
+        "elevation": 2202
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.20.2003",
+      "name": "OKTENENG",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.20",
+      "districtName": "OKHIKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99424,
+      "coordinate": {
+        "longitude": 140.6483325,
+        "latitude": -4.6171642,
+        "elevation": 1222
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.20.2004",
+      "name": "TENGNONG",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.20",
+      "districtName": "OKHIKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99424,
+      "coordinate": {
+        "longitude": 140.6876494,
+        "latitude": -4.6358739,
+        "elevation": 1794
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

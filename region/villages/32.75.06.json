@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.06.1001",
+      "name": "MEDANSATRIA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.06",
+      "districtName": "MEDANSATRIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17132,
+      "coordinate": {
+        "longitude": 106.972384,
+        "latitude": -6.2000727,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.06.1002",
+      "name": "HARAPANMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.06",
+      "districtName": "MEDANSATRIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17143,
+      "coordinate": {
+        "longitude": 106.992246,
+        "latitude": -6.2279108,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.06.1003",
+      "name": "PEJUANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.06",
+      "districtName": "MEDANSATRIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17131,
+      "coordinate": {
+        "longitude": 106.9864283,
+        "latitude": -6.1841551,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.06.1004",
+      "name": "KALIBARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.06",
+      "districtName": "MEDANSATRIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71371,
+      "coordinate": {
+        "longitude": 115.4592545,
+        "latitude": -2.6026455,
+        "elevation": 36
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

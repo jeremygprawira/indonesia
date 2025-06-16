@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.74.08.1001",
+      "name": "PANCORAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.08",
+      "districtName": "PANCORAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3887627,
+        "latitude": -2.0512442,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.08.1002",
+      "name": "KALIBATA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.08",
+      "districtName": "PANCORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 12740,
+      "coordinate": {
+        "longitude": 106.8339208,
+        "latitude": -6.2664147,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.08.1003",
+      "name": "RAWAJATI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.08",
+      "districtName": "PANCORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 12750,
+      "coordinate": {
+        "longitude": 106.8560361,
+        "latitude": -6.2599926,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.08.1004",
+      "name": "DUREN TIGA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.08",
+      "districtName": "PANCORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 12760,
+      "coordinate": {
+        "longitude": 106.8318029,
+        "latitude": -6.2556915,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.08.1005",
+      "name": "PENGADEGAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.08",
+      "districtName": "PANCORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53393,
+      "coordinate": {
+        "longitude": 109.4713367,
+        "latitude": -7.3748437,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.74.08.1006",
+      "name": "CIKOKO",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.74",
+      "cityName": "KOTA ADM. JAKARTA SELATAN",
+      "districtCode": "31.74.08",
+      "districtName": "PANCORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 12770,
+      "coordinate": {
+        "longitude": 106.8546967,
+        "latitude": -6.2455209,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

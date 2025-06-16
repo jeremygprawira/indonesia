@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.25.05.2001",
+      "name": "PRANTEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9077699,
+        "latitude": -7.175978,
+        "elevation": 1835
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2002",
+      "name": "DELES",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9048802,
+        "latitude": -7.1386403,
+        "elevation": 1108
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2003",
+      "name": "GUNUNGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94480,
+      "coordinate": {
+        "longitude": 121.0110708,
+        "latitude": 0.6432046,
+        "elevation": 444
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2004",
+      "name": "JAMBANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60232,
+      "coordinate": {
+        "longitude": 112.7144304,
+        "latitude": -7.3205245,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2005",
+      "name": "KEBATURAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9231832,
+        "latitude": -7.1593559,
+        "elevation": 1412
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2006",
+      "name": "KALIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61155,
+      "coordinate": {
+        "longitude": 112.4980455,
+        "latitude": -7.0090794,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2007",
+      "name": "SANGUBANYU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9582803,
+        "latitude": -7.1015429,
+        "elevation": 774
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2008",
+      "name": "WONOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98441,
+      "coordinate": {
+        "longitude": 131.4382023,
+        "latitude": -1.0860469,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2009",
+      "name": "JLAMPRANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9272036,
+        "latitude": -7.1102761,
+        "elevation": 781
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2010",
+      "name": "BAWANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64136,
+      "coordinate": {
+        "longitude": 112.0615434,
+        "latitude": -7.8569828,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2011",
+      "name": "CANDIGUGUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9154249,
+        "latitude": -7.1103916,
+        "elevation": 829
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2012",
+      "name": "PANGEMPON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9095641,
+        "latitude": -7.1024686,
+        "elevation": 822
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2013",
+      "name": "SIDOHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94765,
+      "coordinate": {
+        "longitude": 122.3768222,
+        "latitude": -1.4449195,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2014",
+      "name": "SURJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.8998609,
+        "latitude": -7.0966816,
+        "elevation": 771
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2015",
+      "name": "SOKA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9132169,
+        "latitude": -7.0956244,
+        "elevation": 778
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2016",
+      "name": "SIBEBEK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9181768,
+        "latitude": -7.0751827,
+        "elevation": 679
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2017",
+      "name": "GETAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64482,
+      "coordinate": {
+        "longitude": 111.9590128,
+        "latitude": -7.6462102,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2018",
+      "name": "PASUSUKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9265196,
+        "latitude": -7.0946917,
+        "elevation": 772
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2019",
+      "name": "CANDIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63319,
+      "coordinate": {
+        "longitude": 111.3094026,
+        "latitude": -7.6564953,
+        "elevation": 439
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.05.2020",
+      "name": "PURBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.05",
+      "districtName": "BAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51274,
+      "coordinate": {
+        "longitude": 109.9356619,
+        "latitude": -7.0806748,
+        "elevation": 731
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

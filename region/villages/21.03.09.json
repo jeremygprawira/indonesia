@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.09.2001",
+      "name": "SUBI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.09",
+      "districtName": "SUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29779,
+      "coordinate": {
+        "longitude": 108.8666014,
+        "latitude": 3.0180116,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.09.2002",
+      "name": "SUBI BESAR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.09",
+      "districtName": "SUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29779,
+      "coordinate": {
+        "longitude": 108.8359662,
+        "latitude": 2.9702393,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.09.2003",
+      "name": "MELIAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.09",
+      "districtName": "SUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29779,
+      "coordinate": {
+        "longitude": 108.850938,
+        "latitude": 3.0447587,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.09.2005",
+      "name": "TERAYAK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.09",
+      "districtName": "SUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29779,
+      "coordinate": {
+        "longitude": 108.8502895,
+        "latitude": 3.0182205,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.09.2007",
+      "name": "SUBI BESAR TIMUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.09",
+      "districtName": "SUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29779,
+      "coordinate": {
+        "longitude": 108.8798749,
+        "latitude": 2.9430554,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.09.2008",
+      "name": "MELIAH SELATAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.09",
+      "districtName": "SUBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29779,
+      "coordinate": {
+        "longitude": 108.865446,
+        "latitude": 3.029808,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

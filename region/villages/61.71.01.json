@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.71.01.1002",
+      "name": "BENUAMELAYU LAUT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.01",
+      "districtName": "PONTIANAK SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78123,
+      "coordinate": {
+        "longitude": 109.3500744,
+        "latitude": -0.0351288,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.01.1003",
+      "name": "BENUAMELAYU DARAT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.01",
+      "districtName": "PONTIANAK SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78122,
+      "coordinate": {
+        "longitude": 109.3426686,
+        "latitude": -0.0389988,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.01.1004",
+      "name": "PARITTOKAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.01",
+      "districtName": "PONTIANAK SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78121,
+      "coordinate": {
+        "longitude": 109.33066,
+        "latitude": -0.0593017,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.01.1005",
+      "name": "KOTABARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.01",
+      "districtName": "PONTIANAK SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94771,
+      "coordinate": {
+        "longitude": 123.1630309,
+        "latitude": -0.8745506,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.01.1006",
+      "name": "AKCAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.01",
+      "districtName": "PONTIANAK SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78121,
+      "coordinate": {
+        "longitude": 109.3290717,
+        "latitude": -0.0463415,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

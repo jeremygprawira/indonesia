@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.03.17.2001",
+      "name": "PURBASARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.17",
+      "districtName": "KARANGJAMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74184,
+      "coordinate": {
+        "longitude": 111.7222882,
+        "latitude": -2.6077552,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.17.2002",
+      "name": "SIRANDU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.17",
+      "districtName": "KARANGJAMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53357,
+      "coordinate": {
+        "longitude": 109.3691669,
+        "latitude": -7.2094616,
+        "elevation": 769
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.17.2003",
+      "name": "KARANGJAMBU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.17",
+      "districtName": "KARANGJAMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52464,
+      "coordinate": {
+        "longitude": 109.1413395,
+        "latitude": -7.1118082,
+        "elevation": 494
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.17.2004",
+      "name": "SANGUWATANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.17",
+      "districtName": "KARANGJAMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53357,
+      "coordinate": {
+        "longitude": 109.3884553,
+        "latitude": -7.2101264,
+        "elevation": 818
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.17.2005",
+      "name": "JINGKANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.17",
+      "districtName": "KARANGJAMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53357,
+      "coordinate": {
+        "longitude": 109.4319792,
+        "latitude": -7.2127052,
+        "elevation": 841
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.03.17.2006",
+      "name": "DANASARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.03",
+      "cityName": "KAB. PURBALINGGA",
+      "districtCode": "33.03.17",
+      "districtName": "KARANGJAMBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52465,
+      "coordinate": {
+        "longitude": 109.1850778,
+        "latitude": -7.1153626,
+        "elevation": 737
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

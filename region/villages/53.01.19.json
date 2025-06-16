@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.19.2001",
+      "name": "OEBESI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.19",
+      "districtName": "AMARASI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85378,
+      "coordinate": {
+        "longitude": 124.0006186,
+        "latitude": -10.1994553,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.19.2002",
+      "name": "PAKUBAUN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.19",
+      "districtName": "AMARASI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85378,
+      "coordinate": {
+        "longitude": 124.0245057,
+        "latitude": -10.224186,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.19.2003",
+      "name": "RABEKA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.19",
+      "districtName": "AMARASI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85378,
+      "coordinate": {
+        "longitude": 124.0603805,
+        "latitude": -10.1825953,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.19.2004",
+      "name": "ENORAEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.19",
+      "districtName": "AMARASI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85378,
+      "coordinate": {
+        "longitude": 124.1417262,
+        "latitude": -10.1357754,
+        "elevation": 45
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.04.01.1001",
+      "name": "DABO",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.01",
+      "districtName": "SINGKEP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29871,
+      "coordinate": {
+        "longitude": 104.5646986,
+        "latitude": -0.4935757,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.01.1007",
+      "name": "DABO LAMA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.01",
+      "districtName": "SINGKEP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29871,
+      "coordinate": {
+        "longitude": 104.5535161,
+        "latitude": -0.4971377,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.01.1012",
+      "name": "SUNGAILUMPUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.01",
+      "districtName": "SINGKEP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29871,
+      "coordinate": {
+        "longitude": 104.5681158,
+        "latitude": -0.473316,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.01.2008",
+      "name": "BATU BERDAUN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.01",
+      "districtName": "SINGKEP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29871,
+      "coordinate": {
+        "longitude": 104.5058321,
+        "latitude": -0.5459108,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.01.2009",
+      "name": "TANJUNG HARAPAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.01",
+      "districtName": "SINGKEP",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4552093,
+        "latitude": 0.7507995,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.01.2010",
+      "name": "BATU KACANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.01",
+      "districtName": "SINGKEP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29871,
+      "coordinate": {
+        "longitude": 104.5061147,
+        "latitude": -0.4852948,
+        "elevation": 56
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

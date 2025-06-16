@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.07.31.2001",
+      "name": "TANJUNG MULIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38518,
+      "coordinate": {
+        "longitude": 102.9212406,
+        "latitude": -4.4619875,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2002",
+      "name": "PURWODADI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72275,
+      "coordinate": {
+        "longitude": 115.5545311,
+        "latitude": -3.6658913,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2003",
+      "name": "SIDODADI BATU 8",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2004",
+      "name": "SUKA MULIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78866,
+      "coordinate": {
+        "longitude": 110.6293085,
+        "latitude": -2.3455309,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2005",
+      "name": "JATI REJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29358,
+      "coordinate": {
+        "longitude": 102.233869,
+        "latitude": -0.3596365,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2006",
+      "name": "PAGAR MERBAU I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.9050613,
+        "latitude": 3.5039346,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2007",
+      "name": "PAGAR MERBAU II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.9184741,
+        "latitude": 3.5163004,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2008",
+      "name": "SIDOHARJO-I PASAR MIRING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.9067585,
+        "latitude": 3.4870977,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2009",
+      "name": "SIDOHARJO-I JATI BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2010",
+      "name": "BANDAR DOLOK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21173,
+      "coordinate": {
+        "longitude": 98.9607744,
+        "latitude": 2.7578867,
+        "elevation": 1104
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2011",
+      "name": "TANJUNG GARBUS II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.8775819,
+        "latitude": 3.5011527,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2012",
+      "name": "TANJUNG GARBUS KAMPUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.870301,
+        "latitude": 3.5228017,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2013",
+      "name": "PERBARAKAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.8501932,
+        "latitude": 3.531989,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2014",
+      "name": "SUKAMANDI HILIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.9213512,
+        "latitude": 3.5743101,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2015",
+      "name": "SUKAMANDI HULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20551,
+      "coordinate": {
+        "longitude": 98.9256317,
+        "latitude": 3.5540789,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.31.2016",
+      "name": "SUMBEREJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.31",
+      "districtName": "PAGAR MERBAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.227504,
+        "latitude": -3.3871872,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

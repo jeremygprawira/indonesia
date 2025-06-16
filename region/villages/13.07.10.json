@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.07.10.2001",
+      "name": "SITUJUAH BATUA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.10",
+      "districtName": "SITUJUAH LIMO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26250,
+      "coordinate": {
+        "longitude": 100.6121335,
+        "latitude": -0.3065382,
+        "elevation": 703
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.10.2002",
+      "name": "SITUJUAH LADANG LAWEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.10",
+      "districtName": "SITUJUAH LIMO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26250,
+      "coordinate": {
+        "longitude": 100.6212268,
+        "latitude": -0.3311431,
+        "elevation": 951
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.10.2003",
+      "name": "TUNGKA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.10",
+      "districtName": "SITUJUAH LIMO NAGARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91711,
+      "coordinate": {
+        "longitude": 119.7245358,
+        "latitude": -3.5159374,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.10.2004",
+      "name": "SITUJUAH BANDA DALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.10",
+      "districtName": "SITUJUAH LIMO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26250,
+      "coordinate": {
+        "longitude": 100.6056302,
+        "latitude": -0.2746006,
+        "elevation": 540
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.10.2005",
+      "name": "SITUJUAH GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.10",
+      "districtName": "SITUJUAH LIMO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26250,
+      "coordinate": {
+        "longitude": 100.6302252,
+        "latitude": -0.2824414,
+        "elevation": 652
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

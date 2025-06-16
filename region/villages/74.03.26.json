@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.26.2006",
+      "name": "BONE TONDO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.26",
+      "districtName": "BONE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93663,
+      "coordinate": {
+        "longitude": 122.3857685,
+        "latitude": -5.1414974,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.26.2007",
+      "name": "BHONE KAINSETALA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.26",
+      "districtName": "BONE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93663,
+      "coordinate": {
+        "longitude": 122.4433325,
+        "latitude": -5.1346859,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.26.2008",
+      "name": "BONE LOLIBU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.26",
+      "districtName": "BONE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93663,
+      "coordinate": {
+        "longitude": 122.4422919,
+        "latitude": -5.1595238,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.26.2009",
+      "name": "OELONGKO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.26",
+      "districtName": "BONE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93663,
+      "coordinate": {
+        "longitude": 122.4836093,
+        "latitude": -5.1342596,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.26.2010",
+      "name": "MATOMBURA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.26",
+      "districtName": "BONE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93663,
+      "coordinate": {
+        "longitude": 122.4721356,
+        "latitude": -5.1627813,
+        "elevation": 36
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

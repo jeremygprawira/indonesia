@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.72.01.1001",
+      "name": "PARUGA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA",
+      "districtCode": "52.72.01",
+      "districtName": "RASANAE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84111,
+      "coordinate": {
+        "longitude": 118.7181542,
+        "latitude": -8.4708593,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.72.01.1002",
+      "name": "NAE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA",
+      "districtCode": "52.72.01",
+      "districtName": "RASANAE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84116,
+      "coordinate": {
+        "longitude": 118.7330436,
+        "latitude": -8.4554223,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.72.01.1003",
+      "name": "SARAE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA",
+      "districtCode": "52.72.01",
+      "districtName": "RASANAE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84117,
+      "coordinate": {
+        "longitude": 118.7284691,
+        "latitude": -8.4502902,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.72.01.1004",
+      "name": "TANJUNG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA",
+      "districtCode": "52.72.01",
+      "districtName": "RASANAE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.72.01.1013",
+      "name": "PANE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA",
+      "districtCode": "52.72.01",
+      "districtName": "RASANAE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84119,
+      "coordinate": {
+        "longitude": 118.7347351,
+        "latitude": -8.4530499,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.72.01.1014",
+      "name": "DARA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA",
+      "districtCode": "52.72.01",
+      "districtName": "RASANAE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84119,
+      "coordinate": {
+        "longitude": 118.7221729,
+        "latitude": -8.455355,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

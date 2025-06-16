@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.72.08.1001",
+      "name": "SIMARIMBUN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.08",
+      "districtName": "SIANTAR MARIMBUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21129,
+      "coordinate": {
+        "longitude": 99.0337283,
+        "latitude": 2.9113418,
+        "elevation": 505
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.08.1002",
+      "name": "TONG MARIMBUN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.08",
+      "districtName": "SIANTAR MARIMBUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21129,
+      "coordinate": {
+        "longitude": 99.0474548,
+        "latitude": 2.9171868,
+        "elevation": 465
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.08.1003",
+      "name": "NAGA HUTA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.08",
+      "districtName": "SIANTAR MARIMBUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21129,
+      "coordinate": {
+        "longitude": 99.0420444,
+        "latitude": 2.9375579,
+        "elevation": 437
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.08.1004",
+      "name": "NAGA HUTA TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.08",
+      "districtName": "SIANTAR MARIMBUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21129,
+      "coordinate": {
+        "longitude": 99.0551531,
+        "latitude": 2.9356168,
+        "elevation": 427
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.08.1005",
+      "name": "PEMATANG MARIHAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.08",
+      "districtName": "SIANTAR MARIMBUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21127,
+      "coordinate": {
+        "longitude": 99.0719317,
+        "latitude": 2.9272365,
+        "elevation": 408
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.08.1006",
+      "name": "MARIHAT JAYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.08",
+      "districtName": "SIANTAR MARIMBUN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21128,
+      "coordinate": {
+        "longitude": 99.0637047,
+        "latitude": 2.9354796,
+        "elevation": 425
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

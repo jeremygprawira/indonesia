@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.28.2001",
+      "name": "KOGHOLIFANO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.28",
+      "districtName": "PASIR PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93685,
+      "coordinate": {
+        "longitude": 122.8144591,
+        "latitude": -4.9565692,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.28.2002",
+      "name": "POLA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.28",
+      "districtName": "PASIR PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93685,
+      "coordinate": {
+        "longitude": 122.8330657,
+        "latitude": -4.9851341,
+        "elevation": 366
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.28.2007",
+      "name": "KAMOSOPE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.28",
+      "districtName": "PASIR PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93685,
+      "coordinate": {
+        "longitude": 122.8267515,
+        "latitude": -5.0374188,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.28.2008",
+      "name": "LIWUMETINGKI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.28",
+      "districtName": "PASIR PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93685,
+      "coordinate": {
+        "longitude": 122.8247763,
+        "latitude": -5.0568811,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.28.2009",
+      "name": "LABULAWA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.28",
+      "districtName": "PASIR PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93685,
+      "coordinate": {
+        "longitude": 122.7779671,
+        "latitude": -5.0869234,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.28.2010",
+      "name": "BUMBU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.28",
+      "districtName": "PASIR PUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99014,
+      "coordinate": {
+        "longitude": 138.6091882,
+        "latitude": -3.7381131,
+        "elevation": 2520
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

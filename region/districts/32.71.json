@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "32.71.01",
+      "name": "BOGOR SELATAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR"
+    },
+    {
+      "type": "district",
+      "code": "32.71.02",
+      "name": "BOGOR TIMUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR"
+    },
+    {
+      "type": "district",
+      "code": "32.71.03",
+      "name": "BOGOR TENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR"
+    },
+    {
+      "type": "district",
+      "code": "32.71.04",
+      "name": "BOGOR BARAT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR"
+    },
+    {
+      "type": "district",
+      "code": "32.71.05",
+      "name": "BOGOR UTARA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR"
+    },
+    {
+      "type": "district",
+      "code": "32.71.06",
+      "name": "TANAH SAREAL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

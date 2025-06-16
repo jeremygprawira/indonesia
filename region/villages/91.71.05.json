@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.71.05.1001",
+      "name": "HEDAM",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA",
+      "districtCode": "91.71.05",
+      "districtName": "HERAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99331,
+      "coordinate": {
+        "longitude": 140.6525421,
+        "latitude": -2.6040885,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.71.05.1002",
+      "name": "WAENA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA",
+      "districtCode": "91.71.05",
+      "districtName": "HERAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99328,
+      "coordinate": {
+        "longitude": 140.6351901,
+        "latitude": -2.5914875,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.71.05.1004",
+      "name": "YABANSAI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA",
+      "districtCode": "91.71.05",
+      "districtName": "HERAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99333,
+      "coordinate": {
+        "longitude": 140.6348451,
+        "latitude": -2.5831877,
+        "elevation": 189
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.71.05.2003",
+      "name": "YOKA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA",
+      "districtCode": "91.71.05",
+      "districtName": "HERAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99053,
+      "coordinate": {
+        "longitude": 138.4902612,
+        "latitude": -3.4135365,
+        "elevation": 1601
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.71.05.2005",
+      "name": "WAENA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.71",
+      "cityName": "KOTA JAYAPURA",
+      "districtCode": "91.71.05",
+      "districtName": "HERAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99328,
+      "coordinate": {
+        "longitude": 140.6351901,
+        "latitude": -2.5914875,
+        "elevation": 90
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

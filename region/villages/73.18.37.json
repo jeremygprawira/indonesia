@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.18.37.2001",
+      "name": "RANO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.37",
+      "districtName": "RANO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91875,
+      "coordinate": {
+        "longitude": 119.7350144,
+        "latitude": -3.244983,
+        "elevation": 337
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.37.2002",
+      "name": "RANO UTARA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.37",
+      "districtName": "RANO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91875,
+      "coordinate": {
+        "longitude": 119.7506192,
+        "latitude": -3.2120774,
+        "elevation": 571
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.37.2003",
+      "name": "RUMANDAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.37",
+      "districtName": "RANO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91875,
+      "coordinate": {
+        "longitude": 119.7390902,
+        "latitude": -3.2696162,
+        "elevation": 909
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.37.2004",
+      "name": "RANO TENGAH",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.37",
+      "districtName": "RANO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91875,
+      "coordinate": {
+        "longitude": 119.7422282,
+        "latitude": -3.226241,
+        "elevation": 533
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.37.2005",
+      "name": "RANO TIMUR",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.37",
+      "districtName": "RANO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91875,
+      "coordinate": {
+        "longitude": 119.7737392,
+        "latitude": -3.2269324,
+        "elevation": 1308
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.03.15.2001",
+      "name": "PAYANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.6849746,
+        "latitude": 3.8899732,
+        "elevation": 347
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2002",
+      "name": "SUYADON",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.680226,
+        "latitude": 3.8961372,
+        "elevation": 313
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2003",
+      "name": "BULU MENGOLOM",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.6456937,
+        "latitude": 3.8689333,
+        "elevation": 215
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2004",
+      "name": "TUKULON",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.6512843,
+        "latitude": 3.879958,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2005",
+      "name": "UBOL SULOK",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.6328133,
+        "latitude": 3.9882549,
+        "elevation": 327
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2006",
+      "name": "BATUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.6453514,
+        "latitude": 3.9316673,
+        "elevation": 266
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2007",
+      "name": "UBOL ALUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.6033616,
+        "latitude": 3.8892649,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2008",
+      "name": "NANSAPAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5911006,
+        "latitude": 3.8931614,
+        "elevation": 228
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2009",
+      "name": "SAMUNTI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5209511,
+        "latitude": 3.9875709,
+        "elevation": 244
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2010",
+      "name": "SEMATA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5030956,
+        "latitude": 3.9685645,
+        "elevation": 264
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2011",
+      "name": "SUNGOI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5451554,
+        "latitude": 4.0256392,
+        "elevation": 196
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2012",
+      "name": "SALAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.4696273,
+        "latitude": 4.2249605,
+        "elevation": 358
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2013",
+      "name": "SINAMPILA I",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5125057,
+        "latitude": 3.9397214,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2014",
+      "name": "PALUAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5361511,
+        "latitude": 3.9136521,
+        "elevation": 338
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2015",
+      "name": "SEDALIT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5698866,
+        "latitude": 3.9412935,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2016",
+      "name": "TAMBALANG HILIR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5583555,
+        "latitude": 3.9232983,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2017",
+      "name": "TADUNGUS",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.4855838,
+        "latitude": 3.9731552,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2018",
+      "name": "SINAMPILA II",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5159014,
+        "latitude": 3.9242933,
+        "elevation": 355
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2019",
+      "name": "KALAMBUKU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5471343,
+        "latitude": 3.9457165,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2020",
+      "name": "JUKUP",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5269807,
+        "latitude": 3.9380223,
+        "elevation": 236
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2021",
+      "name": "LONG BULU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.54649,
+        "latitude": 3.9167328,
+        "elevation": 150
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2023",
+      "name": "LINSAYUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5613565,
+        "latitude": 4.1717457,
+        "elevation": 568
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2024",
+      "name": "TUMANTALAS",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.438185,
+        "latitude": 4.2220893,
+        "elevation": 792
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2025",
+      "name": "SANAL",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.4627359,
+        "latitude": 4.0534,
+        "elevation": 260
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2026",
+      "name": "LIMPAKON",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5590229,
+        "latitude": 4.2873611,
+        "elevation": 584
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.15.2027",
+      "name": "LABUK",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.15",
+      "districtName": "LUMBIS OGONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77450,
+      "coordinate": {
+        "longitude": 116.5810596,
+        "latitude": 4.2330051,
+        "elevation": 534
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

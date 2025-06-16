@@ -1,0 +1,38 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "93.01",
+      "name": "KAB. MERAUKE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN"
+    },
+    {
+      "type": "city",
+      "code": "93.02",
+      "name": "KAB. BOVEN DIGOEL",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN"
+    },
+    {
+      "type": "city",
+      "code": "93.03",
+      "name": "KAB. MAPPI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN"
+    },
+    {
+      "type": "city",
+      "code": "93.04",
+      "name": "KAB. ASMAT",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

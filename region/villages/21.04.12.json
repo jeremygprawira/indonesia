@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.04.12.2001",
+      "name": "TEMIANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.12",
+      "districtName": "TEMIANG PESISIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.4263931,
+        "latitude": 0.292135,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.12.2002",
+      "name": "TAJUR BIRU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.12",
+      "districtName": "TEMIANG PESISIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.4263931,
+        "latitude": 0.292135,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.12.2003",
+      "name": "PULAU BATANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.12",
+      "districtName": "TEMIANG PESISIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29873,
+      "coordinate": {
+        "longitude": 104.3322414,
+        "latitude": 0.3062424,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

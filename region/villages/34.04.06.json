@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.06.2001",
+      "name": "SINDUADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.06",
+      "districtName": "MLATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55284,
+      "coordinate": {
+        "longitude": 110.3658901,
+        "latitude": -7.7564995,
+        "elevation": 153
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.06.2002",
+      "name": "SENDANGADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.06",
+      "districtName": "MLATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55285,
+      "coordinate": {
+        "longitude": 110.3631243,
+        "latitude": -7.732558,
+        "elevation": 186
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.06.2003",
+      "name": "TLOGOADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.06",
+      "districtName": "MLATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55286,
+      "coordinate": {
+        "longitude": 110.3389892,
+        "latitude": -7.7328457,
+        "elevation": 177
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.06.2004",
+      "name": "TIRTOADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.06",
+      "districtName": "MLATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55287,
+      "coordinate": {
+        "longitude": 110.3206541,
+        "latitude": -7.7453171,
+        "elevation": 151
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.06.2005",
+      "name": "SUMBERADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.06",
+      "districtName": "MLATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55288,
+      "coordinate": {
+        "longitude": 110.331081,
+        "latitude": -7.7172552,
+        "elevation": 193
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.12.2002",
+      "name": "SUNGKUNG  I",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.12.2004",
+      "name": "SIDING",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79287,
+      "coordinate": {
+        "longitude": 110.0245664,
+        "latitude": 1.2650557,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.12.2005",
+      "name": "HLI BUEI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79287,
+      "coordinate": {
+        "longitude": 109.9392592,
+        "latitude": 1.2120066,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.12.2006",
+      "name": "TANGGUH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79287,
+      "coordinate": {
+        "longitude": 110.0710694,
+        "latitude": 1.1732833,
+        "elevation": 383
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.12.2007",
+      "name": "SUNGKUNG II",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79287,
+      "coordinate": {
+        "longitude": 110.085395,
+        "latitude": 1.0942273,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.12.2008",
+      "name": "SUNGKUNG III",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79287,
+      "coordinate": {
+        "longitude": 110.0943353,
+        "latitude": 1.0497428,
+        "elevation": 339
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.12.2009",
+      "name": "TAMONG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79287,
+      "coordinate": {
+        "longitude": 109.9457772,
+        "latitude": 1.1674545,
+        "elevation": 148
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.12.2010",
+      "name": "TAWANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.12",
+      "districtName": "SIDING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79287,
+      "coordinate": {
+        "longitude": 109.9999363,
+        "latitude": 1.0357288,
+        "elevation": 765
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

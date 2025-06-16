@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.72.04.1001",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.04",
+      "districtName": "BACUKIKI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.04.1002",
+      "name": "CAPPA GALUNG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.04",
+      "districtName": "BACUKIKI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91122,
+      "coordinate": {
+        "longitude": 119.6267325,
+        "latitude": -4.0320945,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.04.1003",
+      "name": "LUMPUE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.04",
+      "districtName": "BACUKIKI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91123,
+      "coordinate": {
+        "longitude": 119.6234339,
+        "latitude": -4.0597311,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.04.1004",
+      "name": "TIRO SOMPE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.04",
+      "districtName": "BACUKIKI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91125,
+      "coordinate": {
+        "longitude": 119.6290421,
+        "latitude": -4.0241331,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.04.1005",
+      "name": "SUMPANG MINANGAE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.04",
+      "districtName": "BACUKIKI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91121,
+      "coordinate": {
+        "longitude": 119.6268048,
+        "latitude": -4.042389,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.04.1006",
+      "name": "BUMI HARAPAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.04",
+      "districtName": "BACUKIKI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91121,
+      "coordinate": {
+        "longitude": 119.6410803,
+        "latitude": -4.0306606,
+        "elevation": 51
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

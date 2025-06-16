@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.09.10.2001",
+      "name": "LAIYA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.10",
+      "districtName": "CENRANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90524,
+      "coordinate": {
+        "longitude": 119.8311753,
+        "latitude": -5.0605446,
+        "elevation": 734
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.10.2002",
+      "name": "LABUAJA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.10",
+      "districtName": "CENRANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90524,
+      "coordinate": {
+        "longitude": 119.7432968,
+        "latitude": -5.0255951,
+        "elevation": 319
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.10.2003",
+      "name": "LIMAMPOCCOE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.10",
+      "districtName": "CENRANA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.10.2004",
+      "name": "LEBBO TENGAE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.10",
+      "districtName": "CENRANA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.10.2005",
+      "name": "ROMPEGADING",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.10",
+      "districtName": "CENRANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90863,
+      "coordinate": {
+        "longitude": 119.9257071,
+        "latitude": -4.3965527,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.10.2006",
+      "name": "BAJI PA-MAI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.10",
+      "districtName": "CENRANA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.10.2007",
+      "name": "CENRANA BARU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.10",
+      "districtName": "CENRANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90524,
+      "coordinate": {
+        "longitude": 119.8275402,
+        "latitude": -4.9789253,
+        "elevation": 592
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.04.2001",
+      "name": "SENDANGARUM",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.04",
+      "districtName": "MINGGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55562,
+      "coordinate": {
+        "longitude": 110.2522349,
+        "latitude": -7.7425271,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.04.2002",
+      "name": "SENDANGMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.04",
+      "districtName": "MINGGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55562,
+      "coordinate": {
+        "longitude": 110.239887,
+        "latitude": -7.7428085,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.04.2003",
+      "name": "SENDANGAGUNG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.04",
+      "districtName": "MINGGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62264,
+      "coordinate": {
+        "longitude": 112.3564777,
+        "latitude": -6.9009723,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.04.2004",
+      "name": "SENDANGSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.04",
+      "districtName": "MINGGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55562,
+      "coordinate": {
+        "longitude": 110.2547489,
+        "latitude": -7.7228133,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.04.2005",
+      "name": "SENDANGREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.04",
+      "districtName": "MINGGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62218,
+      "coordinate": {
+        "longitude": 112.3727523,
+        "latitude": -7.1351742,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

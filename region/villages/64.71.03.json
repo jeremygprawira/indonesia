@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.71.03.1001",
+      "name": "BATU AMPAR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.03",
+      "districtName": "BALIKPAPAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76136,
+      "coordinate": {
+        "longitude": 116.8478645,
+        "latitude": -1.2145731,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.03.1002",
+      "name": "GUNUNGSAMARINDA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.03",
+      "districtName": "BALIKPAPAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76125,
+      "coordinate": {
+        "longitude": 116.8485184,
+        "latitude": -1.2341866,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.03.1003",
+      "name": "KARANG JOANG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.03",
+      "districtName": "BALIKPAPAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76127,
+      "coordinate": {
+        "longitude": 116.8856572,
+        "latitude": -1.1369001,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.03.1004",
+      "name": "MUARARAPAK",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.03",
+      "districtName": "BALIKPAPAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76125,
+      "coordinate": {
+        "longitude": 116.8352439,
+        "latitude": -1.2265678,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.03.1005",
+      "name": "GUNUNGSAMARINDA BARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.03",
+      "districtName": "BALIKPAPAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76128,
+      "coordinate": {
+        "longitude": 116.8624904,
+        "latitude": -1.2345884,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.03.1006",
+      "name": "GRAHA INDAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.03",
+      "districtName": "BALIKPAPAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76129,
+      "coordinate": {
+        "longitude": 116.8639211,
+        "latitude": -1.1926135,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.01.12.2001",
+      "name": "BANJARARUM",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.12",
+      "districtName": "KALIBAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62370,
+      "coordinate": {
+        "longitude": 112.0554492,
+        "latitude": -7.063776,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.12.2002",
+      "name": "BANJARASRI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.12",
+      "districtName": "KALIBAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61272,
+      "coordinate": {
+        "longitude": 112.7573771,
+        "latitude": -7.5105119,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.12.2003",
+      "name": "BANJARHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.12",
+      "districtName": "KALIBAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55672,
+      "coordinate": {
+        "longitude": 110.2491435,
+        "latitude": -7.683801,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.12.2004",
+      "name": "BANJAROYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.12",
+      "districtName": "KALIBAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55672,
+      "coordinate": {
+        "longitude": 110.2411077,
+        "latitude": -7.6609561,
+        "elevation": 269
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

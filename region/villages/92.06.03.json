@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.03.2020",
+      "name": "IRARUTU III",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.03",
+      "districtName": "BABO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98132,
+      "coordinate": {
+        "longitude": 133.442873,
+        "latitude": -2.5876331,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.03.2021",
+      "name": "AMUTU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.03",
+      "districtName": "BABO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98132,
+      "coordinate": {
+        "longitude": 133.5463979,
+        "latitude": -2.4646037,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.03.2022",
+      "name": "NUSEI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.03",
+      "districtName": "BABO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98132,
+      "coordinate": {
+        "longitude": 133.575479,
+        "latitude": -2.6203994,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.03.2023",
+      "name": "KASIRA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.03",
+      "districtName": "BABO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98132,
+      "coordinate": {
+        "longitude": 133.417892,
+        "latitude": -2.511632,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.03.1001",
+      "name": "BABAKAN CIPARAY",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.03",
+      "districtName": "BABAKAN CIPARAY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40223,
+      "coordinate": {
+        "longitude": 107.5798893,
+        "latitude": -6.9411411,
+        "elevation": 696
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.03.1002",
+      "name": "BABAKAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.03",
+      "districtName": "BABAKAN CIPARAY",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83233,
+      "coordinate": {
+        "longitude": 116.134958,
+        "latitude": -8.6058326,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.03.1003",
+      "name": "SUKAHAJI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.03",
+      "districtName": "BABAKAN CIPARAY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40221,
+      "coordinate": {
+        "longitude": 107.5830501,
+        "latitude": -6.9270492,
+        "elevation": 711
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.03.1004",
+      "name": "MARGAHAYU UTARA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.03",
+      "districtName": "BABAKAN CIPARAY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40224,
+      "coordinate": {
+        "longitude": 107.5740892,
+        "latitude": -6.9483325,
+        "elevation": 684
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.03.1005",
+      "name": "MARGASUKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.03",
+      "districtName": "BABAKAN CIPARAY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40225,
+      "coordinate": {
+        "longitude": 107.5742748,
+        "latitude": -6.9527959,
+        "elevation": 681
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.03.1006",
+      "name": "CIRANGRANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.03",
+      "districtName": "BABAKAN CIPARAY",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40227,
+      "coordinate": {
+        "longitude": 107.5859079,
+        "latitude": -6.9570342,
+        "elevation": 678
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

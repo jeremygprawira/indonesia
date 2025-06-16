@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.07.2001",
+      "name": "KOTO SALAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.07",
+      "districtName": "KOTO SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37172,
+      "coordinate": {
+        "longitude": 101.4699365,
+        "latitude": -2.1116664,
+        "elevation": 825
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.07.2002",
+      "name": "AMPALU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.07",
+      "districtName": "KOTO SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25522,
+      "coordinate": {
+        "longitude": 100.1154781,
+        "latitude": -0.6031028,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.07.2003",
+      "name": "PADUKUAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.07",
+      "districtName": "KOTO SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27680,
+      "coordinate": {
+        "longitude": 101.8360454,
+        "latitude": -1.1394479,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.07.2004",
+      "name": "PULAU MAINAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.07",
+      "districtName": "KOTO SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27680,
+      "coordinate": {
+        "longitude": 101.8333332,
+        "latitude": -1.1207941,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.07.2005",
+      "name": "SIMALIDU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.07",
+      "districtName": "KOTO SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27680,
+      "coordinate": {
+        "longitude": 101.876796,
+        "latitude": -1.1075092,
+        "elevation": 75
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

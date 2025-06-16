@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.06.06.2001",
+      "name": "ABOUYAGA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.06",
+      "districtName": "MAPIA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98872,
+      "coordinate": {
+        "longitude": 135.7395921,
+        "latitude": -4.02533,
+        "elevation": 1883
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.06.06.2002",
+      "name": "MAIKOTU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.06",
+      "districtName": "MAPIA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98872,
+      "coordinate": {
+        "longitude": 135.736205,
+        "latitude": -4.1234889,
+        "elevation": 2792
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.06.06.2003",
+      "name": "TAUBAIKEBO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.06",
+      "districtName": "MAPIA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98872,
+      "coordinate": {
+        "longitude": 135.7444005,
+        "latitude": -4.0420051,
+        "elevation": 1887
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.06.06.2004",
+      "name": "YEGOUKOTU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.06",
+      "districtName": "MAPIA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98872,
+      "coordinate": {
+        "longitude": 135.7873167,
+        "latitude": -4.0601836,
+        "elevation": 1239
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

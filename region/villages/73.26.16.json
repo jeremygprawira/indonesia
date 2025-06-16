@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.26.16.2001",
+      "name": "TONDON LANGI-",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.16",
+      "districtName": "TONDON",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.16.2002",
+      "name": "TONDON",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.16",
+      "districtName": "TONDON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91857,
+      "coordinate": {
+        "longitude": 119.9274941,
+        "latitude": -2.9579948,
+        "elevation": 828
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.16.2003",
+      "name": "TONDON SIBATA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.16",
+      "districtName": "TONDON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91857,
+      "coordinate": {
+        "longitude": 119.9425835,
+        "latitude": -2.9463858,
+        "elevation": 845
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.16.2004",
+      "name": "TONDON MATALLO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.16",
+      "districtName": "TONDON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91857,
+      "coordinate": {
+        "longitude": 119.9521902,
+        "latitude": -2.9626323,
+        "elevation": 837
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

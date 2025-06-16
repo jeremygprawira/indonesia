@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.13.11.2001",
+      "name": "SURUHKALANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57731,
+      "coordinate": {
+        "longitude": 110.9131618,
+        "latitude": -7.6051392,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.13.11.2002",
+      "name": "JATI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97716,
+      "coordinate": {
+        "longitude": 127.3706044,
+        "latitude": 0.7779466,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.13.11.2003",
+      "name": "JATEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63262,
+      "coordinate": {
+        "longitude": 111.2395259,
+        "latitude": -7.5511726,
+        "elevation": 548
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.13.11.2004",
+      "name": "DAGEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57731,
+      "coordinate": {
+        "longitude": 110.8874982,
+        "latitude": -7.5683511,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.13.11.2005",
+      "name": "NGRINGO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57731,
+      "coordinate": {
+        "longitude": 110.8700682,
+        "latitude": -7.560735,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.13.11.2006",
+      "name": "JETIS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62211,
+      "coordinate": {
+        "longitude": 112.4234219,
+        "latitude": -7.1240941,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.13.11.2007",
+      "name": "SROYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62193,
+      "coordinate": {
+        "longitude": 112.0444876,
+        "latitude": -7.1589337,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.13.11.2008",
+      "name": "BRUJUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.13",
+      "cityName": "KAB. KARANGANYAR",
+      "districtCode": "33.13.11",
+      "districtName": "JATEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57731,
+      "coordinate": {
+        "longitude": 110.9020128,
+        "latitude": -7.5472915,
+        "elevation": 101
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

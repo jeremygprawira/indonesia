@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.03.2003",
+      "name": "SUNGAI RUMBAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.03",
+      "districtName": "SUNGAI RUMBAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27686,
+      "coordinate": {
+        "longitude": 101.7162533,
+        "latitude": -1.2078643,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.03.2004",
+      "name": "KURNIA KOTO SALAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.03",
+      "districtName": "SUNGAI RUMBAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27686,
+      "coordinate": {
+        "longitude": 101.753179,
+        "latitude": -1.2053634,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.03.2007",
+      "name": "SUNGAI RUMBAI TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.03",
+      "districtName": "SUNGAI RUMBAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27686,
+      "coordinate": {
+        "longitude": 101.74448,
+        "latitude": -1.2129119,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.03.2008",
+      "name": "KURNIA SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.03",
+      "districtName": "SUNGAI RUMBAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27686,
+      "coordinate": {
+        "longitude": 101.7699676,
+        "latitude": -1.2254014,
+        "elevation": 98
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

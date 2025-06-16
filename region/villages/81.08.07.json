@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.08.07.2001",
+      "name": "WONRELI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.07",
+      "districtName": "KISAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97445,
+      "coordinate": {
+        "longitude": 127.1749955,
+        "latitude": -8.0612246,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.07.2002",
+      "name": "LEKLOOR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.07",
+      "districtName": "KISAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97445,
+      "coordinate": {
+        "longitude": 127.1656458,
+        "latitude": -8.1019977,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.07.2003",
+      "name": "KOTA LAMA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.07",
+      "districtName": "KISAR SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.07.2004",
+      "name": "ABUSUR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.07",
+      "districtName": "KISAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97445,
+      "coordinate": {
+        "longitude": 127.1750647,
+        "latitude": -8.0818305,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.07.2005",
+      "name": "OIRATA TIMUR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.07",
+      "districtName": "KISAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97445,
+      "coordinate": {
+        "longitude": 127.2174543,
+        "latitude": -8.0904489,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.07.2006",
+      "name": "OIRATA BARAT",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.07",
+      "districtName": "KISAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97445,
+      "coordinate": {
+        "longitude": 127.1940406,
+        "latitude": -8.103636,
+        "elevation": 111
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

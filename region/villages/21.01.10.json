@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.01.10.1007",
+      "name": "KOTA BARU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.10",
+      "districtName": "TELOK SEBONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.10.2001",
+      "name": "BERAKIT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.10",
+      "districtName": "TELOK SEBONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29154,
+      "coordinate": {
+        "longitude": 104.5661141,
+        "latitude": 1.2087843,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.10.2002",
+      "name": "EKANG ANCULAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.10",
+      "districtName": "TELOK SEBONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29154,
+      "coordinate": {
+        "longitude": 104.3929532,
+        "latitude": 1.1043924,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.10.2003",
+      "name": "PENGUDANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.10",
+      "districtName": "TELOK SEBONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29154,
+      "coordinate": {
+        "longitude": 104.5146244,
+        "latitude": 1.1743632,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.10.2004",
+      "name": "SEBONG LAGOI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.10",
+      "districtName": "TELOK SEBONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29154,
+      "coordinate": {
+        "longitude": 104.3700185,
+        "latitude": 1.1749988,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.10.2005",
+      "name": "SEBONG PEREH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.10",
+      "districtName": "TELOK SEBONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29154,
+      "coordinate": {
+        "longitude": 104.2983372,
+        "latitude": 1.1212515,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.10.2006",
+      "name": "SRI BINTAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.10",
+      "districtName": "TELOK SEBONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29154,
+      "coordinate": {
+        "longitude": 104.4413574,
+        "latitude": 1.105708,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

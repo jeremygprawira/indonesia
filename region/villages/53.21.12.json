@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.21.12.2001",
+      "name": "BABOTIN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.12",
+      "districtName": "BOTIN LEOBELE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85765,
+      "coordinate": {
+        "longitude": 124.8721456,
+        "latitude": -9.4835042,
+        "elevation": 218
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.21.12.2002",
+      "name": "KEREANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.12",
+      "districtName": "BOTIN LEOBELE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85765,
+      "coordinate": {
+        "longitude": 124.9328648,
+        "latitude": -9.4813501,
+        "elevation": 268
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.21.12.2003",
+      "name": "BABOTIN MAEMINA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.12",
+      "districtName": "BOTIN LEOBELE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85765,
+      "coordinate": {
+        "longitude": 124.888297,
+        "latitude": -9.4849985,
+        "elevation": 279
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.21.12.2004",
+      "name": "BABOTIN SELATAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.12",
+      "districtName": "BOTIN LEOBELE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85765,
+      "coordinate": {
+        "longitude": 124.8730148,
+        "latitude": -9.5008244,
+        "elevation": 171
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.21.12.2005",
+      "name": "TAKARAI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.12",
+      "districtName": "BOTIN LEOBELE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85765,
+      "coordinate": {
+        "longitude": 124.8949888,
+        "latitude": -9.4936725,
+        "elevation": 164
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

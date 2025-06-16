@@ -1,0 +1,80 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "64.01",
+      "name": "KAB. PASER",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.02",
+      "name": "KAB. KUTAI KARTANEGARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.03",
+      "name": "KAB. BERAU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.07",
+      "name": "KAB. KUTAI BARAT",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.08",
+      "name": "KAB. KUTAI TIMUR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.09",
+      "name": "KAB. PENAJAM PASER UTARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.11",
+      "name": "KAB. MAHAKAM ULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.71",
+      "name": "KOTA BALIKPAPAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.72",
+      "name": "KOTA SAMARINDA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    },
+    {
+      "type": "city",
+      "code": "64.74",
+      "name": "KOTA BONTANG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR"
+    }
+  ],
+  "metadata": {
+    "totalRow": 10
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.74.06.1001",
+      "name": "PULAU SIMARDAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.06",
+      "districtName": "DATUK BANDAR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21366,
+      "coordinate": {
+        "longitude": 99.8106346,
+        "latitude": 2.9613457,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.06.1002",
+      "name": "SEMULA JADI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.06",
+      "districtName": "DATUK BANDAR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21365,
+      "coordinate": {
+        "longitude": 99.8149227,
+        "latitude": 2.960939,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.06.1003",
+      "name": "SELAT LANCANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.06",
+      "districtName": "DATUK BANDAR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21364,
+      "coordinate": {
+        "longitude": 99.8042369,
+        "latitude": 2.9516269,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.06.1004",
+      "name": "BUNGA TANJUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.06",
+      "districtName": "DATUK BANDAR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38760,
+      "coordinate": {
+        "longitude": 101.4422383,
+        "latitude": -2.7020427,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.06.1005",
+      "name": "SELAT TANJUNG MEDAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.06",
+      "districtName": "DATUK BANDAR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21364,
+      "coordinate": {
+        "longitude": 99.8198699,
+        "latitude": 2.9462103,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

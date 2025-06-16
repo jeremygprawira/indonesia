@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.22.1001",
+      "name": "GAYUNGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.22",
+      "districtName": "GAYUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60235,
+      "coordinate": {
+        "longitude": 112.724739,
+        "latitude": -7.3324732,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.22.1002",
+      "name": "MENANGGAL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.22",
+      "districtName": "GAYUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60234,
+      "coordinate": {
+        "longitude": 112.723847,
+        "latitude": -7.3387856,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.22.1003",
+      "name": "DUKUH MENANGGAL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.22",
+      "districtName": "GAYUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60234,
+      "coordinate": {
+        "longitude": 112.7283067,
+        "latitude": -7.3442374,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.22.1004",
+      "name": "KETINTANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.22",
+      "districtName": "GAYUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60231,
+      "coordinate": {
+        "longitude": 112.7262502,
+        "latitude": -7.3182671,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.13.2001",
+      "name": "FIRIWAGE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.13",
+      "districtName": "FIRIWAGE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99691,
+      "coordinate": {
+        "longitude": 140.1402905,
+        "latitude": -5.4972005,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.13.2002",
+      "name": "KARUWAGE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.13",
+      "districtName": "FIRIWAGE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99691,
+      "coordinate": {
+        "longitude": 140.0671978,
+        "latitude": -5.3824091,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.13.2003",
+      "name": "WALIBURU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.13",
+      "districtName": "FIRIWAGE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99691,
+      "coordinate": {
+        "longitude": 140.2464161,
+        "latitude": -5.4183548,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.13.2004",
+      "name": "KABUWAGE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.13",
+      "districtName": "FIRIWAGE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99691,
+      "coordinate": {
+        "longitude": 140.0667703,
+        "latitude": -5.2874624,
+        "elevation": 105
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

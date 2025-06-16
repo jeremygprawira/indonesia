@@ -1,0 +1,52 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "75.01",
+      "name": "KAB. GORONTALO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO"
+    },
+    {
+      "type": "city",
+      "code": "75.02",
+      "name": "KAB. BOALEMO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO"
+    },
+    {
+      "type": "city",
+      "code": "75.03",
+      "name": "KAB. BONE BOLANGO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO"
+    },
+    {
+      "type": "city",
+      "code": "75.04",
+      "name": "KAB. POHUWATO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO"
+    },
+    {
+      "type": "city",
+      "code": "75.05",
+      "name": "KAB. GORONTALO UTARA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO"
+    },
+    {
+      "type": "city",
+      "code": "75.71",
+      "name": "KOTA GORONTALO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

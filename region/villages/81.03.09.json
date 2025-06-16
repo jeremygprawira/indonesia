@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.03.09.2001",
+      "name": "ARMA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.03",
+      "cityName": "KAB. KEPULAUAN TANIMBAR",
+      "districtCode": "81.03.09",
+      "districtName": "NIRUNMAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97463,
+      "coordinate": {
+        "longitude": 131.6698205,
+        "latitude": -7.4380532,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.03.09.2002",
+      "name": "WATMURI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.03",
+      "cityName": "KAB. KEPULAUAN TANIMBAR",
+      "districtCode": "81.03.09",
+      "districtName": "NIRUNMAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97463,
+      "coordinate": {
+        "longitude": 131.646742,
+        "latitude": -7.3864806,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.03.09.2003",
+      "name": "MANGLUSI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.03",
+      "cityName": "KAB. KEPULAUAN TANIMBAR",
+      "districtCode": "81.03.09",
+      "districtName": "NIRUNMAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97463,
+      "coordinate": {
+        "longitude": 131.626702,
+        "latitude": -7.484207,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.03.09.2004",
+      "name": "TUTUKEMBONG",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.03",
+      "cityName": "KAB. KEPULAUAN TANIMBAR",
+      "districtCode": "81.03.09",
+      "districtName": "NIRUNMAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97463,
+      "coordinate": {
+        "longitude": 131.5789321,
+        "latitude": -7.4984766,
+        "elevation": 201
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.03.09.2005",
+      "name": "WATURU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.03",
+      "cityName": "KAB. KEPULAUAN TANIMBAR",
+      "districtCode": "81.03.09",
+      "districtName": "NIRUNMAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97463,
+      "coordinate": {
+        "longitude": 131.5582653,
+        "latitude": -7.5344263,
+        "elevation": 149
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.71.01.1001",
+      "name": "GAMBIR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.01",
+      "districtName": "GAMBIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10110,
+      "coordinate": {
+        "longitude": 106.8293243,
+        "latitude": -6.1762629,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.01.1002",
+      "name": "CIDENG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.01",
+      "districtName": "GAMBIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10150,
+      "coordinate": {
+        "longitude": 106.8094695,
+        "latitude": -6.1759869,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.01.1003",
+      "name": "PETOJO UTARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.01",
+      "districtName": "GAMBIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10130,
+      "coordinate": {
+        "longitude": 106.81605,
+        "latitude": -6.1645392,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.01.1004",
+      "name": "PETOJO SELATAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.01",
+      "districtName": "GAMBIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10160,
+      "coordinate": {
+        "longitude": 106.8166706,
+        "latitude": -6.1754871,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.01.1005",
+      "name": "KEBON KELAPA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.01",
+      "districtName": "GAMBIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10120,
+      "coordinate": {
+        "longitude": 106.8246676,
+        "latitude": -6.1639451,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.01.1006",
+      "name": "DURI PULO",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.01",
+      "districtName": "GAMBIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10140,
+      "coordinate": {
+        "longitude": 106.8046805,
+        "latitude": -6.162574,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

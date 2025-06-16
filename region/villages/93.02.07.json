@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.07.2001",
+      "name": "KOMBUT",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.07",
+      "districtName": "KOMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99662,
+      "coordinate": {
+        "longitude": 140.9123895,
+        "latitude": -5.9165844,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.07.2002",
+      "name": "MOUKBIRAN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.07",
+      "districtName": "KOMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99662,
+      "coordinate": {
+        "longitude": 140.9119203,
+        "latitude": -5.9047614,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.07.2003",
+      "name": "KAWANGTET",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.07",
+      "districtName": "KOMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99662,
+      "coordinate": {
+        "longitude": 140.8544816,
+        "latitude": -5.7641194,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.07.2004",
+      "name": "AMUAN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.07",
+      "districtName": "KOMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99662,
+      "coordinate": {
+        "longitude": 140.7942346,
+        "latitude": -5.8041138,
+        "elevation": 71
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

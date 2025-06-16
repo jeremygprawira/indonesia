@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.01.11.2001",
+      "name": "KEBONHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.11",
+      "districtName": "SAMIGALUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62362,
+      "coordinate": {
+        "longitude": 111.6225227,
+        "latitude": -6.8664439,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.11.2002",
+      "name": "BANJARSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.11",
+      "districtName": "SAMIGALUH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.11.2003",
+      "name": "PURWOHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.11",
+      "districtName": "SAMIGALUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68483,
+      "coordinate": {
+        "longitude": 114.2273775,
+        "latitude": -8.4831556,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.11.2004",
+      "name": "SIDOHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.11",
+      "districtName": "SAMIGALUH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94765,
+      "coordinate": {
+        "longitude": 122.3768222,
+        "latitude": -1.4449195,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.11.2005",
+      "name": "GERBOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.11",
+      "districtName": "SAMIGALUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55673,
+      "coordinate": {
+        "longitude": 110.1749895,
+        "latitude": -7.668709,
+        "elevation": 452
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.11.2006",
+      "name": "NGARGOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.11",
+      "districtName": "SAMIGALUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61124,
+      "coordinate": {
+        "longitude": 112.63955,
+        "latitude": -7.181407,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.11.2007",
+      "name": "PAGERHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.11",
+      "districtName": "SAMIGALUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55673,
+      "coordinate": {
+        "longitude": 110.1357826,
+        "latitude": -7.6667532,
+        "elevation": 481
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

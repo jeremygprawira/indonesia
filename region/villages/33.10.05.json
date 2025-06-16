@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.10.05.2001",
+      "name": "KARANGASEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62352,
+      "coordinate": {
+        "longitude": 111.9019585,
+        "latitude": -6.8154449,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2002",
+      "name": "BURIKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59311,
+      "coordinate": {
+        "longitude": 110.8515534,
+        "latitude": -6.7998071,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2003",
+      "name": "NANGGULAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57463,
+      "coordinate": {
+        "longitude": 110.7062061,
+        "latitude": -7.7840831,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2004",
+      "name": "BENDUNGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96265,
+      "coordinate": {
+        "longitude": 122.1497879,
+        "latitude": 0.6770698,
+        "elevation": 425
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2005",
+      "name": "TUGU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42284,
+      "coordinate": {
+        "longitude": 105.620572,
+        "latitude": -6.8037748,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2006",
+      "name": "KEDUNGAMPEL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57463,
+      "coordinate": {
+        "longitude": 110.6941416,
+        "latitude": -7.7744254,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2007",
+      "name": "BAWAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57463,
+      "coordinate": {
+        "longitude": 110.688196,
+        "latitude": -7.7631532,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2008",
+      "name": "BAREPAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57463,
+      "coordinate": {
+        "longitude": 110.7048489,
+        "latitude": -7.7691612,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2009",
+      "name": "PAKISAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81172,
+      "coordinate": {
+        "longitude": 115.2246131,
+        "latitude": -8.1781743,
+        "elevation": 562
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2010",
+      "name": "BALAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68463,
+      "coordinate": {
+        "longitude": 114.2307571,
+        "latitude": -8.2601084,
+        "elevation": 256
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2011",
+      "name": "CAWAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57463,
+      "coordinate": {
+        "longitude": 110.7047331,
+        "latitude": -7.7606123,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2012",
+      "name": "PLOSOWANGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9701086,
+        "latitude": -7.053049,
+        "elevation": 463
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2013",
+      "name": "BARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50614,
+      "coordinate": {
+        "longitude": 110.3976533,
+        "latitude": -7.2418509,
+        "elevation": 616
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2014",
+      "name": "TIRTOMARTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65183,
+      "coordinate": {
+        "longitude": 112.8813444,
+        "latitude": -8.2483187,
+        "elevation": 444
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2015",
+      "name": "JAPANAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61475,
+      "coordinate": {
+        "longitude": 112.3304063,
+        "latitude": -7.6304571,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2016",
+      "name": "TLINGSING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57463,
+      "coordinate": {
+        "longitude": 110.7303849,
+        "latitude": -7.7438,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2017",
+      "name": "MLESE",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57465,
+      "coordinate": {
+        "longitude": 110.6447397,
+        "latitude": -7.6879979,
+        "elevation": 148
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2018",
+      "name": "GOMBANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79356,
+      "coordinate": {
+        "longitude": 109.6052572,
+        "latitude": 0.4529422,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2019",
+      "name": "POGUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57463,
+      "coordinate": {
+        "longitude": 110.7241541,
+        "latitude": -7.7350167,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.05.2020",
+      "name": "BOGOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.05",
+      "districtName": "CAWAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98316,
+      "coordinate": {
+        "longitude": 133.823214,
+        "latitude": -0.9274183,
+        "elevation": 165
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

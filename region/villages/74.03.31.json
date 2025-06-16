@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.31.2001",
+      "name": "MAROBO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.31",
+      "districtName": "MAROBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93666,
+      "coordinate": {
+        "longitude": 122.3282934,
+        "latitude": -5.13517,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.31.2002",
+      "name": "WADOLAO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.31",
+      "districtName": "MAROBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93666,
+      "coordinate": {
+        "longitude": 122.3516331,
+        "latitude": -5.1032562,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.31.2003",
+      "name": "PASIKUTA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.31",
+      "districtName": "MAROBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93666,
+      "coordinate": {
+        "longitude": 122.2705644,
+        "latitude": -5.0209301,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.31.2004",
+      "name": "TAPITAPI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.31",
+      "districtName": "MAROBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93666,
+      "coordinate": {
+        "longitude": 122.3339632,
+        "latitude": -5.0919861,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.31.2005",
+      "name": "POAROHA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.31",
+      "districtName": "MAROBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93666,
+      "coordinate": {
+        "longitude": 122.3561294,
+        "latitude": -5.1505775,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.11.2001",
+      "name": "SINTUAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.11",
+      "districtName": "SINTUAK TOBOH GADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25582,
+      "coordinate": {
+        "longitude": 100.2687939,
+        "latitude": -0.6634454,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.11.2002",
+      "name": "TOBOH GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.11",
+      "districtName": "SINTUAK TOBOH GADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25582,
+      "coordinate": {
+        "longitude": 100.2348135,
+        "latitude": -0.6586081,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.11.2003",
+      "name": "TOBOH GADANG SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.11",
+      "districtName": "SINTUAK TOBOH GADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25582,
+      "coordinate": {
+        "longitude": 100.2501588,
+        "latitude": -0.6858978,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.11.2004",
+      "name": "TOBOH GADANG BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.11",
+      "districtName": "SINTUAK TOBOH GADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25582,
+      "coordinate": {
+        "longitude": 100.2334179,
+        "latitude": -0.6772769,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.11.2005",
+      "name": "TOBOH GADANG TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.11",
+      "districtName": "SINTUAK TOBOH GADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25582,
+      "coordinate": {
+        "longitude": 100.2467089,
+        "latitude": -0.663969,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

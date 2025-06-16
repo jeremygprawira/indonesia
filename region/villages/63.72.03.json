@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.72.03.1001",
+      "name": "PALAM",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.03",
+      "districtName": "CEMPAKA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94886,
+      "coordinate": {
+        "longitude": 123.4897664,
+        "latitude": -1.2622925,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.03.1002",
+      "name": "BANGKAL",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.03",
+      "districtName": "CEMPAKA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70732,
+      "coordinate": {
+        "longitude": 114.8012824,
+        "latitude": -3.5238466,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.03.1003",
+      "name": "SUNGAI TIUNG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.03",
+      "districtName": "CEMPAKA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70734,
+      "coordinate": {
+        "longitude": 114.8444503,
+        "latitude": -3.5345641,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.03.1004",
+      "name": "CEMPAKA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.03",
+      "districtName": "CEMPAKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97772,
+      "coordinate": {
+        "longitude": 128.3761596,
+        "latitude": 2.4556821,
+        "elevation": 254
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

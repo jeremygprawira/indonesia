@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.71.08.1001",
+      "name": "TAGAFO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.08",
+      "districtName": "TERNATE BARAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.08.1002",
+      "name": "LOTO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.08",
+      "districtName": "TERNATE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.3056304,
+        "latitude": 0.8255615,
+        "elevation": 203
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.08.1003",
+      "name": "TAKOME",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.08",
+      "districtName": "TERNATE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.31564,
+        "latitude": 0.8407964,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.08.1004",
+      "name": "SULAMADAHA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.08",
+      "districtName": "TERNATE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.3327864,
+        "latitude": 0.848757,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.08.1005",
+      "name": "TOBOLOLO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.08",
+      "districtName": "TERNATE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.343592,
+        "latitude": 0.842655,
+        "elevation": 227
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.08.1006",
+      "name": "BULA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.08",
+      "districtName": "TERNATE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.3502954,
+        "latitude": 0.8394626,
+        "elevation": 246
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.08.1007",
+      "name": "KULABA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.08",
+      "districtName": "TERNATE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.355265,
+        "latitude": 0.835846,
+        "elevation": 200
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.02.2001",
+      "name": "CIDADAP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.02",
+      "districtName": "SIMPENAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42381,
+      "coordinate": {
+        "longitude": 106.361974,
+        "latitude": -6.3998211,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.02.2002",
+      "name": "LOJI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.02",
+      "districtName": "SIMPENAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93672,
+      "coordinate": {
+        "longitude": 123.1745933,
+        "latitude": -4.7697988,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.02.2003",
+      "name": "KERTAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.02",
+      "districtName": "SIMPENAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5870764,
+        "latitude": -6.6716319,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.02.2004",
+      "name": "CIHAUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.02",
+      "districtName": "SIMPENAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52265,
+      "coordinate": {
+        "longitude": 108.8213533,
+        "latitude": -6.9596206,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.02.2005",
+      "name": "CIBUNTU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.02",
+      "districtName": "SIMPENAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40212,
+      "coordinate": {
+        "longitude": 107.5714966,
+        "latitude": -6.9227183,
+        "elevation": 711
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.02.2006",
+      "name": "MEKARASIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.02",
+      "districtName": "SIMPENAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41374,
+      "coordinate": {
+        "longitude": 107.5539853,
+        "latitude": -6.2865973,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.02.2007",
+      "name": "SANGRAWAYANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.02",
+      "districtName": "SIMPENAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43361,
+      "coordinate": {
+        "longitude": 106.5266052,
+        "latitude": -7.0765205,
+        "elevation": 41
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.09.01.1012",
+      "name": "PASAR LUBUK JAMBI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4634843,
+        "latitude": -0.6622668,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2004",
+      "name": "AIR BULUH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33173,
+      "coordinate": {
+        "longitude": 106.0071465,
+        "latitude": -2.1982532,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2005",
+      "name": "PANTAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72160,
+      "coordinate": {
+        "longitude": 116.1376525,
+        "latitude": -3.1661919,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2007",
+      "name": "LUBUK RAMO",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.6305702,
+        "latitude": -0.7057807,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2008",
+      "name": "SEBERANG CENGAR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.485819,
+        "latitude": -0.7481617,
+        "elevation": 209
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2009",
+      "name": "KOTO CENGAR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.53881,
+        "latitude": -0.6807725,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2010",
+      "name": "SANGAU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4892053,
+        "latitude": -0.6655338,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2011",
+      "name": "BANJAR PADANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4637721,
+        "latitude": -0.681712,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2013",
+      "name": "KASANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36141,
+      "coordinate": {
+        "longitude": 103.6241585,
+        "latitude": -1.5850797,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2014",
+      "name": "KOTO LUBUK JAMBI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4246623,
+        "latitude": -0.6860721,
+        "elevation": 263
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2015",
+      "name": "PULAUBINJAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4584129,
+        "latitude": -0.6423271,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2016",
+      "name": "SEBERANG PANTAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4706774,
+        "latitude": -0.6525369,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2017",
+      "name": "RANTAU SIALANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.124321,
+        "latitude": -4.4173297,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2018",
+      "name": "LUAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4699445,
+        "latitude": -0.6417447,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2019",
+      "name": "BANJAR GUNTUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.5083998,
+        "latitude": -0.6448459,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2020",
+      "name": "BUKITPEDUSUNAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4678978,
+        "latitude": -0.6252704,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2021",
+      "name": "SAIK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4278854,
+        "latitude": -0.6080404,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2022",
+      "name": "PEBAUN HULU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4375592,
+        "latitude": -0.6195389,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2023",
+      "name": "PEBAUN HILIR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4513806,
+        "latitude": -0.6223757,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2024",
+      "name": "KINALI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95869,
+      "coordinate": {
+        "longitude": 125.3708842,
+        "latitude": 2.7786445,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2025",
+      "name": "BUKIT KAUMAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4234948,
+        "latitude": -0.6584966,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2026",
+      "name": "AUR DURI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31172,
+      "coordinate": {
+        "longitude": 103.9745656,
+        "latitude": -3.6020496,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2027",
+      "name": "SUNGAIMANAU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4170318,
+        "latitude": -0.6489073,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.09.01.2030",
+      "name": "MUARO TOMBANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.09",
+      "cityName": "KAB. KUANTAN SINGINGI",
+      "districtCode": "14.09.01",
+      "districtName": "KUANTAN MUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29564,
+      "coordinate": {
+        "longitude": 101.4124998,
+        "latitude": -0.6298108,
+        "elevation": 65
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 24
+  }
+}

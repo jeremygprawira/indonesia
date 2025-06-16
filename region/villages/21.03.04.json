@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.04.1003",
+      "name": "SABANG BARAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.04",
+      "districtName": "MIDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29784,
+      "coordinate": {
+        "longitude": 107.7571648,
+        "latitude": 3.0038449,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.04.2001",
+      "name": "SEBELAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.04",
+      "districtName": "MIDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29784,
+      "coordinate": {
+        "longitude": 107.7731569,
+        "latitude": 2.9916649,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.04.2005",
+      "name": "AIR PUTIH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.04",
+      "districtName": "MIDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75124,
+      "coordinate": {
+        "longitude": 117.1220551,
+        "latitude": -0.4789732,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

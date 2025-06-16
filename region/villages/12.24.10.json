@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.24.10.1001",
+      "name": "PASAR LAHEWA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.1817898,
+        "latitude": 1.4039229,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2002",
+      "name": "IRAONO LASE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.181804,
+        "latitude": 1.3288868,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2003",
+      "name": "HOLI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.2106359,
+        "latitude": 1.3061299,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2004",
+      "name": "SIFAORO-ASI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2005",
+      "name": "HILIZUKHU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.2533309,
+        "latitude": 1.3315261,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2006",
+      "name": "ONOZALUKHU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.2325569,
+        "latitude": 1.3441048,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2007",
+      "name": "HILINA-A",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2008",
+      "name": "HILIGODU HOYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.2021028,
+        "latitude": 1.3530033,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2009",
+      "name": "SITOLUBANUA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22864,
+      "coordinate": {
+        "longitude": 97.5122589,
+        "latitude": 0.9642608,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2010",
+      "name": "HILIHATI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.162273,
+        "latitude": 1.3604425,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2011",
+      "name": "FADORO SITOLU HILI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.1642369,
+        "latitude": 1.3771927,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2012",
+      "name": "MARAFALA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.1405328,
+        "latitude": 1.38774,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2013",
+      "name": "HILIGAWOLO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.0915119,
+        "latitude": 1.4152855,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2014",
+      "name": "BALEFADORO TUHO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.1450887,
+        "latitude": 1.4238152,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2015",
+      "name": "OMBOLATA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22870,
+      "coordinate": {
+        "longitude": 97.646631,
+        "latitude": 1.1578396,
+        "elevation": 232
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2016",
+      "name": "AFIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22851,
+      "coordinate": {
+        "longitude": 97.5465265,
+        "latitude": 1.3794521,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2017",
+      "name": "MOAWO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.2050998,
+        "latitude": 1.3972388,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2018",
+      "name": "LASARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.2213768,
+        "latitude": 1.3753536,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2019",
+      "name": "SIHENE-ASI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2020",
+      "name": "FADORO HILIMBOWO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22851,
+      "coordinate": {
+        "longitude": 97.5545243,
+        "latitude": 1.2916704,
+        "elevation": 238
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.24.10.2021",
+      "name": "FADORO HILIHAMBAWA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.24",
+      "cityName": "KAB. NIAS UTARA",
+      "districtCode": "12.24.10",
+      "districtName": "LAHEWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22853,
+      "coordinate": {
+        "longitude": 97.2564803,
+        "latitude": 1.3637538,
+        "elevation": 92
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.71.04.1001",
+      "name": "KARANG PULE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM",
+      "districtCode": "52.71.04",
+      "districtName": "SEKARBELA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83116,
+      "coordinate": {
+        "longitude": 116.0918193,
+        "latitude": -8.6005939,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.71.04.1002",
+      "name": "TANJUNG KARANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM",
+      "districtCode": "52.71.04",
+      "districtName": "SEKARBELA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97572,
+      "coordinate": {
+        "longitude": 126.3126149,
+        "latitude": -3.1984121,
+        "elevation": 647
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.71.04.1003",
+      "name": "JEMPONG BARU",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM",
+      "districtCode": "52.71.04",
+      "districtName": "SEKARBELA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83116,
+      "coordinate": {
+        "longitude": 116.0881107,
+        "latitude": -8.6175391,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.71.04.1004",
+      "name": "TANJUNG KARANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM",
+      "districtCode": "52.71.04",
+      "districtName": "SEKARBELA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97572,
+      "coordinate": {
+        "longitude": 126.3126149,
+        "latitude": -3.1984121,
+        "elevation": 647
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.71.04.1005",
+      "name": "KEKALIK JAYA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM",
+      "districtCode": "52.71.04",
+      "districtName": "SEKARBELA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83116,
+      "coordinate": {
+        "longitude": 116.0873139,
+        "latitude": -8.5910641,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

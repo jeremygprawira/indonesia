@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.72.05.1001",
+      "name": "SUKMAJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.05",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42416,
+      "coordinate": {
+        "longitude": 106.068818,
+        "latitude": -6.0201838,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.05.1002",
+      "name": "JOMBANG WETAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.05",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42411,
+      "coordinate": {
+        "longitude": 106.0585925,
+        "latitude": -6.0152788,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.05.1003",
+      "name": "MASIGIT",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.05",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42414,
+      "coordinate": {
+        "longitude": 106.0516334,
+        "latitude": -6.0101215,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.05.1004",
+      "name": "PANGGUNG RAWI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.05",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42412,
+      "coordinate": {
+        "longitude": 106.0718632,
+        "latitude": -6.0066848,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.05.1005",
+      "name": "GEDONG DALEM",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.05",
+      "districtName": "JOMBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42413,
+      "coordinate": {
+        "longitude": 106.064007,
+        "latitude": -5.9970664,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.11.21.2001",
+      "name": "PRAIWITU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.21",
+      "districtName": "NGADU NGALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87172,
+      "coordinate": {
+        "longitude": 120.3540557,
+        "latitude": -10.175533,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.21.2002",
+      "name": "KAKAHA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.21",
+      "districtName": "NGADU NGALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87172,
+      "coordinate": {
+        "longitude": 120.3706673,
+        "latitude": -10.2061232,
+        "elevation": 201
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.21.2003",
+      "name": "HAMBAWUTANG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.21",
+      "districtName": "NGADU NGALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87172,
+      "coordinate": {
+        "longitude": 120.4275718,
+        "latitude": -10.2770486,
+        "elevation": 337
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.21.2004",
+      "name": "KABANDA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.21",
+      "districtName": "NGADU NGALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87172,
+      "coordinate": {
+        "longitude": 120.460345,
+        "latitude": -10.1589165,
+        "elevation": 291
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.21.2005",
+      "name": "PRAURAMING",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.21",
+      "districtName": "NGADU NGALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87172,
+      "coordinate": {
+        "longitude": 120.4198938,
+        "latitude": -10.1625102,
+        "elevation": 563
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

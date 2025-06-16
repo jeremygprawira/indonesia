@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.71.04.1001",
+      "name": "MENTENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73111,
+      "coordinate": {
+        "longitude": 113.8982182,
+        "latitude": -2.2457038,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1002",
+      "name": "SINDANG BARANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16117,
+      "coordinate": {
+        "longitude": 106.7629794,
+        "latitude": -6.5775171,
+        "elevation": 210
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1003",
+      "name": "BUBULAK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16115,
+      "coordinate": {
+        "longitude": 106.7537661,
+        "latitude": -6.5595357,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1004",
+      "name": "MARGA JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.533069,
+        "latitude": -3.4722242,
+        "elevation": 255
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1005",
+      "name": "BALUMBANG JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16116,
+      "coordinate": {
+        "longitude": 106.7409612,
+        "latitude": -6.5598462,
+        "elevation": 175
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1006",
+      "name": "SITU GEDE",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16115,
+      "coordinate": {
+        "longitude": 106.745414,
+        "latitude": -6.5545201,
+        "elevation": 176
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1007",
+      "name": "SEMPLAK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16114,
+      "coordinate": {
+        "longitude": 106.7602288,
+        "latitude": -6.5553261,
+        "elevation": 170
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1008",
+      "name": "CILENDEK BARAT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16112,
+      "coordinate": {
+        "longitude": 106.767589,
+        "latitude": -6.5709603,
+        "elevation": 212
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1009",
+      "name": "CILENDEK TIMUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16112,
+      "coordinate": {
+        "longitude": 106.7762183,
+        "latitude": -6.5694761,
+        "elevation": 211
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1010",
+      "name": "CURUG MEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16113,
+      "coordinate": {
+        "longitude": 106.7709178,
+        "latitude": -6.5597211,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1011",
+      "name": "CURUG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42171,
+      "coordinate": {
+        "longitude": 106.1814928,
+        "latitude": -6.1749669,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1012",
+      "name": "PASIR JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15135,
+      "coordinate": {
+        "longitude": 106.5614983,
+        "latitude": -6.1894916,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1013",
+      "name": "PASIR KUDA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16119,
+      "coordinate": {
+        "longitude": 106.7827119,
+        "latitude": -6.6075376,
+        "elevation": 266
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1014",
+      "name": "PASIR MULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16118,
+      "coordinate": {
+        "longitude": 106.7722386,
+        "latitude": -6.5989476,
+        "elevation": 234
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1015",
+      "name": "GUNUNG BATU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71667,
+      "coordinate": {
+        "longitude": 115.6085271,
+        "latitude": -2.4472639,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.71.04.1016",
+      "name": "LOJI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.71",
+      "cityName": "KOTA BOGOR",
+      "districtCode": "32.71.04",
+      "districtName": "BOGOR BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93672,
+      "coordinate": {
+        "longitude": 123.1745933,
+        "latitude": -4.7697988,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

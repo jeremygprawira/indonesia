@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.05.02.1002",
+      "name": "MANGADU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.02",
+      "districtName": "MANGARABOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4428041,
+        "latitude": -5.4786647,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.02.2001",
+      "name": "LENGKESE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.02",
+      "districtName": "MANGARABOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4650563,
+        "latitude": -5.4898903,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.02.2003",
+      "name": "TOPEJAWA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.02",
+      "districtName": "MANGARABOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4273846,
+        "latitude": -5.5041054,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.02.2004",
+      "name": "LAKATONG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.02",
+      "districtName": "MANGARABOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92261,
+      "coordinate": {
+        "longitude": 119.4367611,
+        "latitude": -5.5262995,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.02.2007",
+      "name": "BANGGAE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.02",
+      "districtName": "MANGARABOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91411,
+      "coordinate": {
+        "longitude": 118.9646683,
+        "latitude": -3.5373165,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.05.02.2008",
+      "name": "BONTOMANAI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.05",
+      "cityName": "KAB. TAKALAR",
+      "districtCode": "73.05.02",
+      "districtName": "MANGARABOMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92151,
+      "coordinate": {
+        "longitude": 119.3906875,
+        "latitude": -5.3035253,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

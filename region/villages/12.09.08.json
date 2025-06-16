@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.09.08.2002",
+      "name": "MERANTI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96545,
+      "coordinate": {
+        "longitude": 123.1123554,
+        "latitude": 0.6331198,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.08.2004",
+      "name": "PERKEBUNAN SEI BALAI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21252,
+      "coordinate": {
+        "longitude": 99.5884723,
+        "latitude": 3.0480589,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.08.2011",
+      "name": "SEI BELURU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21264,
+      "coordinate": {
+        "longitude": 99.6152425,
+        "latitude": 3.0767484,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.08.2012",
+      "name": "SERDANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42161,
+      "coordinate": {
+        "longitude": 106.0888947,
+        "latitude": -6.0324193,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.08.2019",
+      "name": "GAJAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62192,
+      "coordinate": {
+        "longitude": 112.1604378,
+        "latitude": -7.1190403,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.08.2021",
+      "name": "AIR PUTIH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75124,
+      "coordinate": {
+        "longitude": 117.1220551,
+        "latitude": -0.4789732,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.08.2022",
+      "name": "SUKAJADI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6262424,
+        "latitude": -6.1809115,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

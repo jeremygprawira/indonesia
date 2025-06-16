@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.20.2001",
+      "name": "KALITAMI I",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.20",
+      "districtName": "KAMUNDAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98152,
+      "coordinate": {
+        "longitude": 132.7754629,
+        "latitude": -2.1647309,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.20.2002",
+      "name": "KALITAMI II",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.20",
+      "districtName": "KAMUNDAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98152,
+      "coordinate": {
+        "longitude": 132.6387571,
+        "latitude": -2.1589789,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.20.2003",
+      "name": "KENARA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.20",
+      "districtName": "KAMUNDAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98152,
+      "coordinate": {
+        "longitude": 132.7386739,
+        "latitude": -2.1294296,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.20.2004",
+      "name": "BIBIRAM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.20",
+      "districtName": "KAMUNDAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98152,
+      "coordinate": {
+        "longitude": 132.6404355,
+        "latitude": -1.9632221,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

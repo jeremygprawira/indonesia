@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.06.17.2001",
+      "name": "MAJANNANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.06",
+      "cityName": "KAB. GOWA",
+      "districtCode": "73.06.17",
+      "districtName": "PARIGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90661,
+      "coordinate": {
+        "longitude": 119.6439048,
+        "latitude": -4.8750072,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.06.17.2002",
+      "name": "JONJO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.06",
+      "cityName": "KAB. GOWA",
+      "districtCode": "73.06.17",
+      "districtName": "PARIGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92174,
+      "coordinate": {
+        "longitude": 119.8038342,
+        "latitude": -5.2934095,
+        "elevation": 454
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.06.17.2003",
+      "name": "MANIMBAHOI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.06",
+      "cityName": "KAB. GOWA",
+      "districtCode": "73.06.17",
+      "districtName": "PARIGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92174,
+      "coordinate": {
+        "longitude": 119.9003077,
+        "latitude": -5.3100318,
+        "elevation": 1313
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.06.17.2004",
+      "name": "SICINI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.06",
+      "cityName": "KAB. GOWA",
+      "districtCode": "73.06.17",
+      "districtName": "PARIGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92174,
+      "coordinate": {
+        "longitude": 119.7937844,
+        "latitude": -5.3158823,
+        "elevation": 826
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.06.17.2005",
+      "name": "BILANRENGI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.06",
+      "cityName": "KAB. GOWA",
+      "districtCode": "73.06.17",
+      "districtName": "PARIGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92174,
+      "coordinate": {
+        "longitude": 119.8477497,
+        "latitude": -5.3125694,
+        "elevation": 896
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

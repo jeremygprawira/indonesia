@@ -1,0 +1,370 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.05.06.2001",
+      "name": "PUDAK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71664,
+      "coordinate": {
+        "longitude": 115.5159929,
+        "latitude": -2.3833328,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2002",
+      "name": "MUARA KUMPEH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.6599733,
+        "latitude": -1.5580408,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2003",
+      "name": "KOTA KARANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2004",
+      "name": "KASANG LOPAK ALAI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.7036279,
+        "latitude": -1.5774267,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2005",
+      "name": "KASANG PUDAK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.6678645,
+        "latitude": -1.5941166,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2008",
+      "name": "SOLOK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99715,
+      "coordinate": {
+        "longitude": 139.0639862,
+        "latitude": -4.7254464,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2009",
+      "name": "SAKEAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.7341949,
+        "latitude": -1.557772,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2010",
+      "name": "LOPAK ALAI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.7041816,
+        "latitude": -1.5598569,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2011",
+      "name": "TARIKAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.7558193,
+        "latitude": -1.5631968,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2012",
+      "name": "RAMIN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.8027459,
+        "latitude": -1.5097082,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2013",
+      "name": "TELUK RAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.8146055,
+        "latitude": -1.5433839,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2014",
+      "name": "PEMUNDURAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.8547896,
+        "latitude": -1.5732973,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2015",
+      "name": "SIPIN TELUK DUREN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.8055461,
+        "latitude": -1.583547,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2016",
+      "name": "ARANG ARANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.8106354,
+        "latitude": -1.6633743,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2017",
+      "name": "SUMBER JAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93885,
+      "coordinate": {
+        "longitude": 122.0026173,
+        "latitude": -4.3689575,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2018",
+      "name": "SUNGAI TERAP",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.7456537,
+        "latitude": -1.6221817,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2023",
+      "name": "KASANG KUMPEH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.6605126,
+        "latitude": -1.6010835,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.05.06.2024",
+      "name": "KASANG KOTA KARANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.05",
+      "cityName": "KAB.  MUARO JAMBI",
+      "districtCode": "15.05.06",
+      "districtName": "KUMPEH ULU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36373,
+      "coordinate": {
+        "longitude": 103.6874902,
+        "latitude": -1.5891395,
+        "elevation": 19
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 18
+  }
+}

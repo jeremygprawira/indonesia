@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.02.12.1001",
+      "name": "MENTAYA SEBERANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.12",
+      "districtName": "SERANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74324,
+      "coordinate": {
+        "longitude": 112.9985708,
+        "latitude": -2.5361822,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.12.2002",
+      "name": "TERANTANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.12",
+      "districtName": "SERANAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70580,
+      "coordinate": {
+        "longitude": 114.6490737,
+        "latitude": -3.2655513,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.12.2003",
+      "name": "BATUAH",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.12",
+      "districtName": "SERANAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75391,
+      "coordinate": {
+        "longitude": 117.0569398,
+        "latitude": -0.7999136,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.12.2004",
+      "name": "TERANTANG HILIR",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.12",
+      "districtName": "SERANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74315,
+      "coordinate": {
+        "longitude": 113.0824544,
+        "latitude": -2.4360611,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.12.2005",
+      "name": "GANEPO",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.12",
+      "districtName": "SERANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74314,
+      "coordinate": {
+        "longitude": 112.9828851,
+        "latitude": -2.6619195,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.12.2006",
+      "name": "SERAGAM JAYA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.12",
+      "districtName": "SERANAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74315,
+      "coordinate": {
+        "longitude": 113.0233909,
+        "latitude": -2.5412344,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

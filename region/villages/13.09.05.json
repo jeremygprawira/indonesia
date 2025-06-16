@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.09.05.2001",
+      "name": "SIMATALU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.05",
+      "districtName": "SIBERUT BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25394,
+      "coordinate": {
+        "longitude": 98.8019592,
+        "latitude": -1.385352,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.05.2002",
+      "name": "SIMALEGI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.05",
+      "districtName": "SIBERUT BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25394,
+      "coordinate": {
+        "longitude": 98.7003989,
+        "latitude": -1.1350594,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.05.2003",
+      "name": "SIGAPOKNA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.05",
+      "districtName": "SIBERUT BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25394,
+      "coordinate": {
+        "longitude": 98.8221302,
+        "latitude": -0.9714414,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

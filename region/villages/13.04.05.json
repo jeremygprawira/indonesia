@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.04.05.2001",
+      "name": "TANJUNG BARULAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.05",
+      "districtName": "TANJUNG EMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27280,
+      "coordinate": {
+        "longitude": 100.6993917,
+        "latitude": -0.4914914,
+        "elevation": 374
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.05.2002",
+      "name": "SARUASO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.05",
+      "districtName": "TANJUNG EMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27280,
+      "coordinate": {
+        "longitude": 100.6403118,
+        "latitude": -0.4830112,
+        "elevation": 332
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.05.2003",
+      "name": "KOTO TANGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.05",
+      "districtName": "TANJUNG EMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26223,
+      "coordinate": {
+        "longitude": 100.61182,
+        "latitude": -0.2247773,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.05.2004",
+      "name": "PAGARUYUNG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.05",
+      "districtName": "TANJUNG EMAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9245271,
+        "latitude": -3.6020817,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

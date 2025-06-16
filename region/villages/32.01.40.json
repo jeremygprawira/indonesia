@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.01.40.2001",
+      "name": "TAPOS I",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.40",
+      "districtName": "TENJOLAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16371,
+      "coordinate": {
+        "longitude": 106.7002018,
+        "latitude": -6.6675409,
+        "elevation": 686
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.40.2002",
+      "name": "TAPOS II",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.40",
+      "districtName": "TENJOLAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16371,
+      "coordinate": {
+        "longitude": 106.6928695,
+        "latitude": -6.6356857,
+        "elevation": 478
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.40.2003",
+      "name": "CIBITUNG TENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.40",
+      "districtName": "TENJOLAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16371,
+      "coordinate": {
+        "longitude": 106.6928828,
+        "latitude": -6.6165368,
+        "elevation": 345
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.40.2004",
+      "name": "SITUDAUN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.40",
+      "districtName": "TENJOLAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16371,
+      "coordinate": {
+        "longitude": 106.7075804,
+        "latitude": -6.6206787,
+        "elevation": 325
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.40.2005",
+      "name": "CINANGNENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.40",
+      "districtName": "TENJOLAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16371,
+      "coordinate": {
+        "longitude": 106.7042253,
+        "latitude": -6.6035484,
+        "elevation": 273
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.40.2006",
+      "name": "GUNUNG MALANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.40",
+      "districtName": "TENJOLAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83654,
+      "coordinate": {
+        "longitude": 116.6458022,
+        "latitude": -8.4377365,
+        "elevation": 387
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.40.2007",
+      "name": "GUNUNG MULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.40",
+      "districtName": "TENJOLAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16371,
+      "coordinate": {
+        "longitude": 106.7072136,
+        "latitude": -6.6395839,
+        "elevation": 490
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.09.02.1003",
+      "name": "WARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA",
+      "districtCode": "64.09.02",
+      "districtName": "WARU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98385,
+      "coordinate": {
+        "longitude": 133.2830049,
+        "latitude": -0.7126188,
+        "elevation": 404
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.09.02.2001",
+      "name": "API-API",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA",
+      "districtCode": "64.09.02",
+      "districtName": "WARU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75311,
+      "coordinate": {
+        "longitude": 117.4866454,
+        "latitude": 0.1297819,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.09.02.2002",
+      "name": "SESULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA",
+      "districtCode": "64.09.02",
+      "districtName": "WARU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76284,
+      "coordinate": {
+        "longitude": 116.585919,
+        "latitude": -1.3909431,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.09.02.2004",
+      "name": "BANGUN MULYA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA",
+      "districtCode": "64.09.02",
+      "districtName": "WARU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98144,
+      "coordinate": {
+        "longitude": 133.1804594,
+        "latitude": -1.9779237,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

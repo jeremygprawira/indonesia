@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.08.1001",
+      "name": "GUBENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.08",
+      "districtName": "GUBENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60281,
+      "coordinate": {
+        "longitude": 112.7500475,
+        "latitude": -7.2715562,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.08.1002",
+      "name": "MOJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.08",
+      "districtName": "GUBENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60285,
+      "coordinate": {
+        "longitude": 112.7711764,
+        "latitude": -7.2685314,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.08.1003",
+      "name": "AIRLANGGA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.08",
+      "districtName": "GUBENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60286,
+      "coordinate": {
+        "longitude": 112.758118,
+        "latitude": -7.2715227,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.08.1004",
+      "name": "KERTAJAYA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.08",
+      "districtName": "GUBENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5870764,
+        "latitude": -6.6716319,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.08.1005",
+      "name": "BARATAJAYA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.08",
+      "districtName": "GUBENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60284,
+      "coordinate": {
+        "longitude": 112.7596678,
+        "latitude": -7.2974883,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.08.1006",
+      "name": "PUCANG SEWU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.08",
+      "districtName": "GUBENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60283,
+      "coordinate": {
+        "longitude": 112.7522371,
+        "latitude": -7.2891036,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

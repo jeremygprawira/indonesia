@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.04.1001",
+      "name": "PANJANG SELATAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35243,
+      "coordinate": {
+        "longitude": 105.3234537,
+        "latitude": -5.4788581,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.04.1002",
+      "name": "SRENGSEM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35242,
+      "coordinate": {
+        "longitude": 105.3328396,
+        "latitude": -5.5044255,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.04.1003",
+      "name": "PANJANG UTARA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35241,
+      "coordinate": {
+        "longitude": 105.3187759,
+        "latitude": -5.4758747,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.04.1004",
+      "name": "PIDADA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35241,
+      "coordinate": {
+        "longitude": 105.3220574,
+        "latitude": -5.4583753,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.04.1007",
+      "name": "KARANG MARITIM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35245,
+      "coordinate": {
+        "longitude": 105.3279114,
+        "latitude": -5.4837715,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.04.1008",
+      "name": "WAY LUNIK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35244,
+      "coordinate": {
+        "longitude": 105.3075068,
+        "latitude": -5.4519682,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.04.1009",
+      "name": "KETAPANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96513,
+      "coordinate": {
+        "longitude": 123.0343637,
+        "latitude": 0.9320803,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.04.1010",
+      "name": "KETAPANG KUALA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.04",
+      "districtName": "PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35246,
+      "coordinate": {
+        "longitude": 105.3030524,
+        "latitude": -5.4437063,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.07.03.1008",
+      "name": "KAYUARA KUNING",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30915,
+      "coordinate": {
+        "longitude": 104.4271197,
+        "latitude": -2.9383953,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.1009",
+      "name": "MULIA AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.1012",
+      "name": "PANGKALAN BALAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30911,
+      "coordinate": {
+        "longitude": 104.4151024,
+        "latitude": -2.8736584,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.1023",
+      "name": "SETERIO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30912,
+      "coordinate": {
+        "longitude": 104.3954489,
+        "latitude": -2.8711113,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.1033",
+      "name": "KEDONDONG RAYE",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.3917493,
+        "latitude": -2.8837814,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2006",
+      "name": "LANGKAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.4915565,
+        "latitude": -2.8961244,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2007",
+      "name": "PANGKALAN PANJI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.4553227,
+        "latitude": -2.904609,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2010",
+      "name": "LUBUK SAUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39377,
+      "coordinate": {
+        "longitude": 102.6051752,
+        "latitude": -3.7002715,
+        "elevation": 488
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2011",
+      "name": "UJUNG TANJUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.3549442,
+        "latitude": -2.9717002,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2013",
+      "name": "SIDANG MAS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.3362857,
+        "latitude": -2.9721735,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2014",
+      "name": "GALANG TINGGI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32276,
+      "coordinate": {
+        "longitude": 103.7248396,
+        "latitude": -4.6429484,
+        "elevation": 499
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2015",
+      "name": "PETALING",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33481,
+      "coordinate": {
+        "longitude": 107.4145776,
+        "latitude": -2.9211242,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2016",
+      "name": "RIMBA ALAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.3375289,
+        "latitude": -2.9395807,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2017",
+      "name": "PELAJAU ILIR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.3511959,
+        "latitude": -2.9356063,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2018",
+      "name": "REGAN AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.3767106,
+        "latitude": -2.9229687,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2019",
+      "name": "SUKA MULIA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78866,
+      "coordinate": {
+        "longitude": 110.6293085,
+        "latitude": -2.3455309,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2020",
+      "name": "TANJUNG AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77215,
+      "coordinate": {
+        "longitude": 117.5155877,
+        "latitude": 2.7306148,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2021",
+      "name": "TANJUNG MENANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 102.9941622,
+        "latitude": -4.4284468,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2022",
+      "name": "SRI BANDUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34584,
+      "coordinate": {
+        "longitude": 104.7291508,
+        "latitude": -4.9060682,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2024",
+      "name": "PELAJAU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71663,
+      "coordinate": {
+        "longitude": 115.4686489,
+        "latitude": -2.4321195,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2025",
+      "name": "TANJUNG BERINGIN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74660,
+      "coordinate": {
+        "longitude": 111.0114753,
+        "latitude": -1.8123563,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2026",
+      "name": "TERENTANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33364,
+      "coordinate": {
+        "longitude": 105.4928269,
+        "latitude": -1.8794383,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2028",
+      "name": "TANJUNG KEPAYANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2034",
+      "name": "SUKARAJA BARU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30862,
+      "coordinate": {
+        "longitude": 104.7082197,
+        "latitude": -3.303783,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2037",
+      "name": "TERLANGU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0360749,
+        "latitude": -6.9075151,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.03.2038",
+      "name": "RIMBA BALAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.03",
+      "districtName": "BANYUASIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30953,
+      "coordinate": {
+        "longitude": 104.4632907,
+        "latitude": -2.8750299,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

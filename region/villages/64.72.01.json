@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.72.01.1001",
+      "name": "RAWA MAKMUR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.01",
+      "districtName": "PALARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75243,
+      "coordinate": {
+        "longitude": 117.1814102,
+        "latitude": -0.5708076,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.01.1002",
+      "name": "HANDIL BAKTI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.01",
+      "districtName": "PALARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75242,
+      "coordinate": {
+        "longitude": 117.1669002,
+        "latitude": -0.6114279,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.01.1003",
+      "name": "BUKUAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.01",
+      "districtName": "PALARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75241,
+      "coordinate": {
+        "longitude": 117.2115115,
+        "latitude": -0.5815778,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.01.1004",
+      "name": "SIMPANG PASIR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.01",
+      "districtName": "PALARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75243,
+      "coordinate": {
+        "longitude": 117.1485734,
+        "latitude": -0.5725806,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.01.1005",
+      "name": "BANTUAS",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.01",
+      "districtName": "PALARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75253,
+      "coordinate": {
+        "longitude": 117.2043218,
+        "latitude": -0.6441318,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

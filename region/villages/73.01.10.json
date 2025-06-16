@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.01.10.2001",
+      "name": "BONTOBULAENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.10",
+      "districtName": "PASIMASUNGGU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92552,
+      "coordinate": {
+        "longitude": 120.1171078,
+        "latitude": -5.3630617,
+        "elevation": 492
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.01.10.2002",
+      "name": "BONTOBARU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.10",
+      "districtName": "PASIMASUNGGU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92861,
+      "coordinate": {
+        "longitude": 120.7101675,
+        "latitude": -7.066741,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.01.10.2003",
+      "name": "BONTOMALLING",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.10",
+      "districtName": "PASIMASUNGGU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92861,
+      "coordinate": {
+        "longitude": 120.7589967,
+        "latitude": -7.1177584,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.01.10.2004",
+      "name": "LEMBANG BAJI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.10",
+      "districtName": "PASIMASUNGGU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92861,
+      "coordinate": {
+        "longitude": 120.7349797,
+        "latitude": -7.1246633,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.01.10.2005",
+      "name": "BONTOJATI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.10",
+      "districtName": "PASIMASUNGGU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92861,
+      "coordinate": {
+        "longitude": 120.7399198,
+        "latitude": -7.0848416,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.01.10.2006",
+      "name": "UJUNG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.01",
+      "cityName": "KAB. KEPULAUAN SELAYAR",
+      "districtCode": "73.01.10",
+      "districtName": "PASIMASUNGGU TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99671,
+      "coordinate": {
+        "longitude": 140.4443573,
+        "latitude": -5.6189012,
+        "elevation": 65
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.71.05.1001",
+      "name": "BULANG LINTANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.05",
+      "districtName": "BULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29471,
+      "coordinate": {
+        "longitude": 103.862151,
+        "latitude": 1.0062252,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.05.1002",
+      "name": "PULAU BULUH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.05",
+      "districtName": "BULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29472,
+      "coordinate": {
+        "longitude": 103.9123522,
+        "latitude": 1.0127059,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.05.1003",
+      "name": "TEMOYONG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.05",
+      "districtName": "BULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29475,
+      "coordinate": {
+        "longitude": 103.9574635,
+        "latitude": 0.9135028,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.05.1004",
+      "name": "BATU LEGONG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.05",
+      "districtName": "BULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29474,
+      "coordinate": {
+        "longitude": 103.9449767,
+        "latitude": 0.967549,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.05.1005",
+      "name": "PANTAI GELAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.05",
+      "districtName": "BULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29473,
+      "coordinate": {
+        "longitude": 103.9411785,
+        "latitude": 0.9443702,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.05.1006",
+      "name": "PULAU SETOKOK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.05",
+      "districtName": "BULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29476,
+      "coordinate": {
+        "longitude": 104.0623714,
+        "latitude": 0.9432361,
+        "elevation": 37
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

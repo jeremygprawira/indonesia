@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.11.2001",
+      "name": "BATU PUTIH",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.11",
+      "districtName": "POLEANG SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97472,
+      "coordinate": {
+        "longitude": 131.1532487,
+        "latitude": -7.7628458,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.11.2002",
+      "name": "WAEMPUTANG",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.11",
+      "districtName": "POLEANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93773,
+      "coordinate": {
+        "longitude": 121.695066,
+        "latitude": -4.8345155,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.11.2003",
+      "name": "KALI BARU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.11",
+      "districtName": "POLEANG SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98671,
+      "coordinate": {
+        "longitude": 136.9842753,
+        "latitude": -2.5588283,
+        "elevation": 382
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.11.2004",
+      "name": "AKACIPONG",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.11",
+      "districtName": "POLEANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93773,
+      "coordinate": {
+        "longitude": 121.6855545,
+        "latitude": -4.7838417,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.11.2005",
+      "name": "LA EA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.11",
+      "districtName": "POLEANG SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93773,
+      "coordinate": {
+        "longitude": 121.7298575,
+        "latitude": -4.8279423,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.12.2001",
+      "name": "TUHIBA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.12",
+      "districtName": "TUHIBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98145,
+      "coordinate": {
+        "longitude": 133.3810016,
+        "latitude": -1.9671249,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.12.2002",
+      "name": "TISAIDA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.12",
+      "districtName": "TUHIBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98145,
+      "coordinate": {
+        "longitude": 133.460909,
+        "latitude": -1.8603812,
+        "elevation": 347
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.12.2003",
+      "name": "KUCIR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.12",
+      "districtName": "TUHIBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98145,
+      "coordinate": {
+        "longitude": 133.3791974,
+        "latitude": -1.8661909,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.12.2004",
+      "name": "SIBENA RAYA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.12",
+      "districtName": "TUHIBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98145,
+      "coordinate": {
+        "longitude": 133.4366544,
+        "latitude": -1.9568417,
+        "elevation": 227
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.12.2005",
+      "name": "SIBENA PERMAI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.12",
+      "districtName": "TUHIBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98145,
+      "coordinate": {
+        "longitude": 133.395403,
+        "latitude": -2.0323022,
+        "elevation": 79
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

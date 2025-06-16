@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.75.02.1001",
+      "name": "PULO GADUNG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.02",
+      "districtName": "PULOGADUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13260,
+      "coordinate": {
+        "longitude": 106.9001235,
+        "latitude": -6.1830685,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.02.1002",
+      "name": "PISANGAN TIMUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.02",
+      "districtName": "PULOGADUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13230,
+      "coordinate": {
+        "longitude": 106.8806307,
+        "latitude": -6.2064618,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.02.1003",
+      "name": "CIPINANG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.02",
+      "districtName": "PULOGADUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42277,
+      "coordinate": {
+        "longitude": 105.8392375,
+        "latitude": -6.6238657,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.02.1004",
+      "name": "JATINEGARA KAUM",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.02",
+      "districtName": "PULOGADUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 13250,
+      "coordinate": {
+        "longitude": 106.9015929,
+        "latitude": -6.1998886,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.02.1005",
+      "name": "RAWAMANGUN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.02",
+      "districtName": "PULOGADUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97868,
+      "coordinate": {
+        "longitude": 128.2032396,
+        "latitude": 1.096092,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.02.1006",
+      "name": "KAYU PUTIH",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.02",
+      "districtName": "PULOGADUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85111,
+      "coordinate": {
+        "longitude": 123.6220681,
+        "latitude": -10.1634177,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.02.1007",
+      "name": "JATI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.02",
+      "districtName": "PULOGADUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97716,
+      "coordinate": {
+        "longitude": 127.3706044,
+        "latitude": 0.7779466,
+        "elevation": 109
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

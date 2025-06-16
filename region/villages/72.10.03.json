@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.10.03.2001",
+      "name": "KAMARORA A",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.03",
+      "districtName": "NOKILALAKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94365,
+      "coordinate": {
+        "longitude": 120.1346461,
+        "latitude": -1.1856412,
+        "elevation": 636
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.03.2002",
+      "name": "KAMARORA B",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.03",
+      "districtName": "NOKILALAKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94365,
+      "coordinate": {
+        "longitude": 120.1392781,
+        "latitude": -1.1852793,
+        "elevation": 629
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.03.2003",
+      "name": "KADIDIA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.03",
+      "districtName": "NOKILALAKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94365,
+      "coordinate": {
+        "longitude": 120.119635,
+        "latitude": -1.1848874,
+        "elevation": 611
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.03.2004",
+      "name": "SOPU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.03",
+      "districtName": "NOKILALAKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94365,
+      "coordinate": {
+        "longitude": 120.1058776,
+        "latitude": -1.1965824,
+        "elevation": 901
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.03.2005",
+      "name": "BULILI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.03",
+      "districtName": "NOKILALAKI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96364,
+      "coordinate": {
+        "longitude": 121.9189939,
+        "latitude": 0.4504137,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

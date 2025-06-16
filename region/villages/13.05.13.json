@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.13.2001",
+      "name": "MALAI V SUKU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.13",
+      "districtName": "BATANG GASAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25563,
+      "coordinate": {
+        "longitude": 100.0057558,
+        "latitude": -0.4550674,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.13.2002",
+      "name": "GASAN GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.13",
+      "districtName": "BATANG GASAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25563,
+      "coordinate": {
+        "longitude": 99.9922859,
+        "latitude": -0.4279009,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.13.2003",
+      "name": "MALAI V SUKU TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.13",
+      "districtName": "BATANG GASAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25563,
+      "coordinate": {
+        "longitude": 100.0464441,
+        "latitude": -0.4216099,
+        "elevation": 147
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.72.03.2001",
+      "name": "IBOIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.03",
+      "districtName": "SUKAMAKMUE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23528,
+      "coordinate": {
+        "longitude": 95.1102212,
+        "latitude": 5.9545719,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.03.2002",
+      "name": "BATEE SHOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.03",
+      "districtName": "SUKAMAKMUE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.03.2003",
+      "name": "PAYA SEUNARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.03",
+      "districtName": "SUKAMAKMUE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23516,
+      "coordinate": {
+        "longitude": 95.3067353,
+        "latitude": 5.8439153,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.03.2004",
+      "name": "PAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.03",
+      "districtName": "SUKAMAKMUE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71381,
+      "coordinate": {
+        "longitude": 115.4405228,
+        "latitude": -2.5796935,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.03.2005",
+      "name": "KEUNEKAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.03",
+      "districtName": "SUKAMAKMUE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.72.03.2006",
+      "name": "BEURAWANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.72",
+      "cityName": "KOTA SABANG",
+      "districtCode": "11.72.03",
+      "districtName": "SUKAMAKMUE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23527,
+      "coordinate": {
+        "longitude": 95.3296786,
+        "latitude": 5.7844645,
+        "elevation": 232
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

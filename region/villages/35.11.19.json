@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.11.19.2001",
+      "name": "SEMPOL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.19",
+      "districtName": "SEMPOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63392,
+      "coordinate": {
+        "longitude": 111.440755,
+        "latitude": -7.5791934,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.19.2002",
+      "name": "KALIANYAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.19",
+      "districtName": "SEMPOL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83664,
+      "coordinate": {
+        "longitude": 116.4051449,
+        "latitude": -8.6368878,
+        "elevation": 330
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.19.2003",
+      "name": "JAMPIT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.19",
+      "districtName": "SEMPOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68288,
+      "coordinate": {
+        "longitude": 114.1132531,
+        "latitude": -8.0749374,
+        "elevation": 1686
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.19.2004",
+      "name": "KALISAT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.19",
+      "districtName": "SEMPOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67152,
+      "coordinate": {
+        "longitude": 112.7761664,
+        "latitude": -7.674514,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.19.2005",
+      "name": "KALI GEDANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.19",
+      "districtName": "SEMPOL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68288,
+      "coordinate": {
+        "longitude": 114.1917169,
+        "latitude": -7.9947394,
+        "elevation": 1016
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.19.2006",
+      "name": "SUMBER REJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.19",
+      "districtName": "SEMPOL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95780,
+      "coordinate": {
+        "longitude": 124.4136465,
+        "latitude": 0.7112402,
+        "elevation": 727
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

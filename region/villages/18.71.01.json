@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.01.1003",
+      "name": "KEDATON",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.01",
+      "districtName": "KEDATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62181,
+      "coordinate": {
+        "longitude": 111.9289334,
+        "latitude": -7.2023869,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.01.1004",
+      "name": "SURABAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.01",
+      "districtName": "KEDATON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83674,
+      "coordinate": {
+        "longitude": 116.5394395,
+        "latitude": -8.7264882,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.01.1005",
+      "name": "SUKAMENANTI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.01",
+      "districtName": "KEDATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35146,
+      "coordinate": {
+        "longitude": 105.2524464,
+        "latitude": -5.3916459,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.01.1006",
+      "name": "SIDODADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.01",
+      "districtName": "KEDATON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5389879,
+        "latitude": 1.2234312,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.01.1009",
+      "name": "SUKAMENANTI BARU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.01",
+      "districtName": "KEDATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35146,
+      "coordinate": {
+        "longitude": 105.2552633,
+        "latitude": -5.3950666,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.01.1010",
+      "name": "PENENGAHAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.01",
+      "districtName": "KEDATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35112,
+      "coordinate": {
+        "longitude": 105.2596874,
+        "latitude": -5.4001555,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.01.1012",
+      "name": "PENENGAHAN RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.01",
+      "districtName": "KEDATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35112,
+      "coordinate": {
+        "longitude": 105.2557274,
+        "latitude": -5.401773,
+        "elevation": 107
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

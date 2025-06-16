@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.12.1001",
+      "name": "KEPARAKAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.12",
+      "districtName": "MERGANGSAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55152,
+      "coordinate": {
+        "longitude": 110.3725426,
+        "latitude": -7.8117845,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.12.1002",
+      "name": "WIROGUNAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.12",
+      "districtName": "MERGANGSAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67118,
+      "coordinate": {
+        "longitude": 112.8966426,
+        "latitude": -7.6710457,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.12.1003",
+      "name": "BRONTOKUSUMAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.12",
+      "districtName": "MERGANGSAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55153,
+      "coordinate": {
+        "longitude": 110.3717494,
+        "latitude": -7.8215449,
+        "elevation": 92
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.07.14.1001",
+      "name": "HEWULI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.14",
+      "districtName": "ALOK BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86115,
+      "coordinate": {
+        "longitude": 122.161048,
+        "latitude": -8.5871187,
+        "elevation": 223
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.14.1002",
+      "name": "WAILITI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.14",
+      "districtName": "ALOK BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86114,
+      "coordinate": {
+        "longitude": 122.1697398,
+        "latitude": -8.6025876,
+        "elevation": 307
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.14.1003",
+      "name": "WOLOMARANG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.14",
+      "districtName": "ALOK BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86114,
+      "coordinate": {
+        "longitude": 122.190669,
+        "latitude": -8.6134703,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.14.1004",
+      "name": "WURING",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.14",
+      "districtName": "ALOK BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86115,
+      "coordinate": {
+        "longitude": 122.143029,
+        "latitude": -8.5706586,
+        "elevation": 199
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

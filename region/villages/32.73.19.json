@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.19.1001",
+      "name": "BRAGA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.19",
+      "districtName": "SUMUR BANDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40111,
+      "coordinate": {
+        "longitude": 107.6085594,
+        "latitude": -6.9181138,
+        "elevation": 710
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.19.1002",
+      "name": "MERDEKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.19",
+      "districtName": "SUMUR BANDUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97586,
+      "coordinate": {
+        "longitude": 129.8977679,
+        "latitude": -4.5048592,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.19.1003",
+      "name": "KEBON PISANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.19",
+      "districtName": "SUMUR BANDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40112,
+      "coordinate": {
+        "longitude": 107.6181784,
+        "latitude": -6.9190726,
+        "elevation": 698
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.19.1004",
+      "name": "BABAKAN CIAMIS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.19",
+      "districtName": "SUMUR BANDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40117,
+      "coordinate": {
+        "longitude": 107.6085796,
+        "latitude": -6.9112913,
+        "elevation": 727
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

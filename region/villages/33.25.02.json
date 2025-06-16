@@ -1,0 +1,350 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.25.02.2001",
+      "name": "TOMBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98922,
+      "coordinate": {
+        "longitude": 138.0906377,
+        "latitude": -3.7287742,
+        "elevation": 2188
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2002",
+      "name": "WONOMERTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61476,
+      "coordinate": {
+        "longitude": 112.3468976,
+        "latitude": -7.7326974,
+        "elevation": 466
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2003",
+      "name": "WONODADI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61383,
+      "coordinate": {
+        "longitude": 112.5298071,
+        "latitude": -7.5415726,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2004",
+      "name": "PESALAKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.7758843,
+        "latitude": -7.0334904,
+        "elevation": 357
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2005",
+      "name": "BINANGUN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42453,
+      "coordinate": {
+        "longitude": 106.0685458,
+        "latitude": -6.0939067,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2006",
+      "name": "SIDAYU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.8074955,
+        "latitude": -7.0439824,
+        "elevation": 406
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2007",
+      "name": "TOSO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.8222336,
+        "latitude": -7.0384103,
+        "elevation": 400
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2010",
+      "name": "KLUWIH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63571,
+      "coordinate": {
+        "longitude": 111.2973185,
+        "latitude": -8.1915416,
+        "elevation": 511
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2011",
+      "name": "WONOKERTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92963,
+      "coordinate": {
+        "longitude": 120.47033,
+        "latitude": -2.679431,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2012",
+      "name": "BANDAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85881,
+      "coordinate": {
+        "longitude": 124.1939322,
+        "latitude": -8.2816816,
+        "elevation": 190
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2013",
+      "name": "TUMBREP",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.8119859,
+        "latitude": -7.0585375,
+        "elevation": 470
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2014",
+      "name": "TAMBAHREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62193,
+      "coordinate": {
+        "longitude": 112.0141392,
+        "latitude": -7.1131188,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2015",
+      "name": "PUNCANGGADING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.7871221,
+        "latitude": -7.0077548,
+        "elevation": 275
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2016",
+      "name": "CANDI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74181,
+      "coordinate": {
+        "longitude": 111.7259482,
+        "latitude": -2.7279637,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2018",
+      "name": "WONOSEGORO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.7916114,
+        "latitude": -6.9834808,
+        "elevation": 199
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2019",
+      "name": "SIMPAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.7789108,
+        "latitude": -6.9897809,
+        "elevation": 210
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.02.2020",
+      "name": "BATIOMBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.02",
+      "districtName": "BANDAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51254,
+      "coordinate": {
+        "longitude": 109.7832365,
+        "latitude": -6.9763001,
+        "elevation": 174
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 17
+  }
+}

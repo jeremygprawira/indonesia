@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.07.09.1005",
+      "name": "MELAYU BESAR KOTA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.09",
+      "districtName": "TANAH PUTIH TANJUNG MELAWAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28986,
+      "coordinate": {
+        "longitude": 101.0303509,
+        "latitude": 1.644211,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.09.2001",
+      "name": "MELAYU BESAR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.09",
+      "districtName": "TANAH PUTIH TANJUNG MELAWAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28986,
+      "coordinate": {
+        "longitude": 101.0477773,
+        "latitude": 1.7065448,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.09.2002",
+      "name": "MELAYU TENGAH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.09",
+      "districtName": "TANAH PUTIH TANJUNG MELAWAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70617,
+      "coordinate": {
+        "longitude": 114.8410553,
+        "latitude": -3.3838243,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.09.2003",
+      "name": "BATU HAMPAR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.09",
+      "districtName": "TANAH PUTIH TANJUNG MELAWAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37165,
+      "coordinate": {
+        "longitude": 101.2528913,
+        "latitude": -1.8302848,
+        "elevation": 1460
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.09.2004",
+      "name": "MESAH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.09",
+      "districtName": "TANAH PUTIH TANJUNG MELAWAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28986,
+      "coordinate": {
+        "longitude": 101.0791181,
+        "latitude": 1.6972889,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.09.2006",
+      "name": "LABUHAN PAPAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.09",
+      "districtName": "TANAH PUTIH TANJUNG MELAWAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28986,
+      "coordinate": {
+        "longitude": 101.1268173,
+        "latitude": 1.6824151,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

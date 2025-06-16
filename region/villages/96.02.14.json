@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.02.14.2005",
+      "name": "ALMA",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.14",
+      "districtName": "SALKMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98233,
+      "coordinate": {
+        "longitude": 131.9120927,
+        "latitude": -1.0908288,
+        "elevation": 125
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.14.2002",
+      "name": "KLAMIT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.14",
+      "districtName": "SALKMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98233,
+      "coordinate": {
+        "longitude": 131.9459778,
+        "latitude": -1.1279809,
+        "elevation": 169
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.14.2004",
+      "name": "KOFALIT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.14",
+      "districtName": "SALKMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98233,
+      "coordinate": {
+        "longitude": 131.8571564,
+        "latitude": -1.1857938,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.14.2003",
+      "name": "MLABOLO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.14",
+      "districtName": "SALKMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98233,
+      "coordinate": {
+        "longitude": 131.8806653,
+        "latitude": -1.115811,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.14.2001",
+      "name": "WENSLOLO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.14",
+      "districtName": "SALKMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98233,
+      "coordinate": {
+        "longitude": 131.9341863,
+        "latitude": -1.2170993,
+        "elevation": 98
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

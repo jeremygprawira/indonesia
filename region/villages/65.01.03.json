@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.01.03.2001",
+      "name": "KARANG AGUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.03",
+      "districtName": "TANJUNG PALAS UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77218,
+      "coordinate": {
+        "longitude": 117.2114145,
+        "latitude": 3.0291981,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.03.2002",
+      "name": "PIMPING",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.03",
+      "districtName": "TANJUNG PALAS UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77218,
+      "coordinate": {
+        "longitude": 117.233234,
+        "latitude": 2.9992972,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.03.2003",
+      "name": "PANCA AGUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.03",
+      "districtName": "TANJUNG PALAS UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77218,
+      "coordinate": {
+        "longitude": 117.1963505,
+        "latitude": 3.1084341,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.03.2004",
+      "name": "RUHUI RAHAYU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.03",
+      "districtName": "TANJUNG PALAS UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77218,
+      "coordinate": {
+        "longitude": 117.2695321,
+        "latitude": 3.0717169,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.03.2005",
+      "name": "ARDI MULYO",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.03",
+      "districtName": "TANJUNG PALAS UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77218,
+      "coordinate": {
+        "longitude": 117.2475535,
+        "latitude": 3.104182,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.03.2006",
+      "name": "KELUBIR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.03",
+      "districtName": "TANJUNG PALAS UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77218,
+      "coordinate": {
+        "longitude": 117.2593056,
+        "latitude": 3.0131001,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

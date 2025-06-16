@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.12.23.2001",
+      "name": "PURWOHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.23",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68483,
+      "coordinate": {
+        "longitude": 114.2273775,
+        "latitude": -8.4831556,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.23.2002",
+      "name": "KARANGTENGAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.23",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62362,
+      "coordinate": {
+        "longitude": 111.6242076,
+        "latitude": -6.882498,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.23.2003",
+      "name": "NGAMBARSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.23",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57677,
+      "coordinate": {
+        "longitude": 111.0422576,
+        "latitude": -8.0305447,
+        "elevation": 468
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.23.2004",
+      "name": "JEBLOGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.23",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63253,
+      "coordinate": {
+        "longitude": 111.3408447,
+        "latitude": -7.4448342,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.23.2005",
+      "name": "TEMBORO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.23",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63393,
+      "coordinate": {
+        "longitude": 111.3914457,
+        "latitude": -7.5904749,
+        "elevation": 132
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.08.2001",
+      "name": "SENDANGTIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.08",
+      "districtName": "BERBAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55573,
+      "coordinate": {
+        "longitude": 110.4327707,
+        "latitude": -7.8121509,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.08.2002",
+      "name": "TEGALTIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.08",
+      "districtName": "BERBAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55573,
+      "coordinate": {
+        "longitude": 110.4457035,
+        "latitude": -7.8080829,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.08.2003",
+      "name": "KALITIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.08",
+      "districtName": "BERBAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55573,
+      "coordinate": {
+        "longitude": 110.4533919,
+        "latitude": -7.7982771,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.08.2004",
+      "name": "JOGOTIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.08",
+      "districtName": "BERBAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55573,
+      "coordinate": {
+        "longitude": 110.4698981,
+        "latitude": -7.8147292,
+        "elevation": 98
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.23.1001",
+      "name": "JAMBANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.23",
+      "districtName": "JAMBANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60232,
+      "coordinate": {
+        "longitude": 112.7144304,
+        "latitude": -7.3205245,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.23.1002",
+      "name": "KARAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.23",
+      "districtName": "JAMBANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60232,
+      "coordinate": {
+        "longitude": 112.7187717,
+        "latitude": -7.315208,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.23.1003",
+      "name": "KEBONSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.23",
+      "districtName": "JAMBANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42442,
+      "coordinate": {
+        "longitude": 106.0194346,
+        "latitude": -6.0166593,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.23.1004",
+      "name": "PAGESANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.23",
+      "districtName": "JAMBANGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83127,
+      "coordinate": {
+        "longitude": 116.1033454,
+        "latitude": -8.6019388,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.05.10.1001",
+      "name": "KABOLA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.10",
+      "districtName": "KABOLA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85819,
+      "coordinate": {
+        "longitude": 124.5918912,
+        "latitude": -8.1590228,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.10.2002",
+      "name": "KOPIDIL",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.10",
+      "districtName": "KABOLA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85819,
+      "coordinate": {
+        "longitude": 124.5518286,
+        "latitude": -8.1754908,
+        "elevation": 491
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.10.2003",
+      "name": "PANTE DEERE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.10",
+      "districtName": "KABOLA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85819,
+      "coordinate": {
+        "longitude": 124.5629824,
+        "latitude": -8.1380167,
+        "elevation": 201
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.10.2004",
+      "name": "LAWAHING",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.10",
+      "districtName": "KABOLA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85851,
+      "coordinate": {
+        "longitude": 124.5383165,
+        "latitude": -8.1619559,
+        "elevation": 489
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.10.2005",
+      "name": "ALILA TIMUR",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.10",
+      "districtName": "KABOLA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85851,
+      "coordinate": {
+        "longitude": 124.5226554,
+        "latitude": -8.1459135,
+        "elevation": 424
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

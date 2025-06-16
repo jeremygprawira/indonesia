@@ -1,0 +1,510 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.02.2001",
+      "name": "LIPAT KAJANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 97.9918312,
+        "latitude": 2.4435933,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2002",
+      "name": "KAIN GOLONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 97.9818238,
+        "latitude": 2.4255477,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2003",
+      "name": "KUTA KERANGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0068256,
+        "latitude": 2.4423581,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2004",
+      "name": "SIATAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0340219,
+        "latitude": 2.4246201,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2005",
+      "name": "PANGI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96565,
+      "coordinate": {
+        "longitude": 123.2528037,
+        "latitude": 0.5195118,
+        "elevation": 202
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2006",
+      "name": "SUKAREJO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24411,
+      "coordinate": {
+        "longitude": 98.0186415,
+        "latitude": 4.4552722,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2007",
+      "name": "UJUNG LIMUS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 97.9857589,
+        "latitude": 2.4631536,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2008",
+      "name": "SILATONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0048981,
+        "latitude": 2.4530933,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2009",
+      "name": "PERTABAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0510236,
+        "latitude": 2.4346861,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2010",
+      "name": "LAE RIMAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0266555,
+        "latitude": 2.4576946,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2011",
+      "name": "PAKIRAMAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0444966,
+        "latitude": 2.4508746,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2012",
+      "name": "KUTA BATU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0575682,
+        "latitude": 2.4675427,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2013",
+      "name": "LAE NIPE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0519406,
+        "latitude": 2.4580796,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2014",
+      "name": "KUTA TINGGI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22272,
+      "coordinate": {
+        "longitude": 98.3079533,
+        "latitude": 2.480468,
+        "elevation": 1093
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2015",
+      "name": "TUHTUHAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0676289,
+        "latitude": 2.4348142,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2016",
+      "name": "LAE GECIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0829854,
+        "latitude": 2.4259898,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2017",
+      "name": "GUHA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71663,
+      "coordinate": {
+        "longitude": 115.4668961,
+        "latitude": -2.4159396,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2018",
+      "name": "LAE GAMBIR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 98.0701278,
+        "latitude": 2.4760611,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2019",
+      "name": "CIBUBUKAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 97.9641084,
+        "latitude": 2.4491532,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2020",
+      "name": "SERASAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36657,
+      "coordinate": {
+        "longitude": 103.4073099,
+        "latitude": -1.6090468,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2021",
+      "name": "TUGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 97.9741811,
+        "latitude": 2.4331789,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2022",
+      "name": "TANJUNG MAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50174,
+      "coordinate": {
+        "longitude": 110.4342368,
+        "latitude": -6.947658,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2023",
+      "name": "LIPAT KAJANG ATAS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24794,
+      "coordinate": {
+        "longitude": 97.9908511,
+        "latitude": 2.4370832,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2024",
+      "name": "SIDODADI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5389879,
+        "latitude": 1.2234312,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.02.2025",
+      "name": "PANDAN SARI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.02",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77361,
+      "coordinate": {
+        "longitude": 117.2332735,
+        "latitude": 2.0639448,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 25
+  }
+}

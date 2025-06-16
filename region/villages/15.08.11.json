@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.08.11.1001",
+      "name": "MANGGIS",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97592,
+      "coordinate": {
+        "longitude": 130.7889662,
+        "latitude": -3.8218769,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.11.1003",
+      "name": "BUNGO TAMAN AGUNG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37211,
+      "coordinate": {
+        "longitude": 102.1114655,
+        "latitude": -1.474017,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.11.1004",
+      "name": "SUNGAI BINJAI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37211,
+      "coordinate": {
+        "longitude": 102.1133882,
+        "latitude": -1.4380594,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.11.2002",
+      "name": "LUBUK BENTENG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37555,
+      "coordinate": {
+        "longitude": 102.2401021,
+        "latitude": -1.2047137,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.11.2005",
+      "name": "AIR GEMURUH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37211,
+      "coordinate": {
+        "longitude": 102.0804123,
+        "latitude": -1.4360238,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.11.2006",
+      "name": "PURWO BAKTI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37211,
+      "coordinate": {
+        "longitude": 102.1072228,
+        "latitude": -1.4533286,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.11.2007",
+      "name": "SARANA JAYA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37211,
+      "coordinate": {
+        "longitude": 102.0589212,
+        "latitude": -1.4124622,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.11.2008",
+      "name": "TELUK PANJANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.11",
+      "districtName": "BATHIN III",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37211,
+      "coordinate": {
+        "longitude": 102.0496378,
+        "latitude": -1.4291713,
+        "elevation": 52
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

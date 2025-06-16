@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.73.09.1001",
+      "name": "TEMMALEBBA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.09",
+      "districtName": "BARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91914,
+      "coordinate": {
+        "longitude": 120.1787426,
+        "latitude": -2.9573212,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.09.1002",
+      "name": "BALANDAI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.09",
+      "districtName": "BARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91914,
+      "coordinate": {
+        "longitude": 120.1776251,
+        "latitude": -2.9707418,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.09.1003",
+      "name": "RAMPOANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.09",
+      "districtName": "BARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91914,
+      "coordinate": {
+        "longitude": 120.1770731,
+        "latitude": -2.9510553,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.09.1004",
+      "name": "TOBULUNG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.09",
+      "districtName": "BARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91914,
+      "coordinate": {
+        "longitude": 120.1784595,
+        "latitude": -2.9429131,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.09.1005",
+      "name": "BUNTU DATU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.09",
+      "districtName": "BARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91914,
+      "coordinate": {
+        "longitude": 120.1771317,
+        "latitude": -2.9338961,
+        "elevation": 19
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.17.2001",
+      "name": "PADANG GELUGUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.17",
+      "districtName": "PADANG GELUGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26352,
+      "coordinate": {
+        "longitude": 100.050916,
+        "latitude": 0.4437125,
+        "elevation": 235
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.17.2002",
+      "name": "SONTANG CUBADAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.17",
+      "districtName": "PADANG GELUGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26352,
+      "coordinate": {
+        "longitude": 100.0259896,
+        "latitude": 0.4301027,
+        "elevation": 293
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.17.2003",
+      "name": "SITOMBOL PADANG GELUGUA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.17",
+      "districtName": "PADANG GELUGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26352,
+      "coordinate": {
+        "longitude": 100.0483406,
+        "latitude": 0.4618125,
+        "elevation": 231
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.17.2004",
+      "name": "BAHAGIA PADANG GELUGUA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.17",
+      "districtName": "PADANG GELUGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26352,
+      "coordinate": {
+        "longitude": 100.0543148,
+        "latitude": 0.395203,
+        "elevation": 228
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

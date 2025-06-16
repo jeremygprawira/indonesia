@@ -1,0 +1,510 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.16.08.1013",
+      "name": "JEPON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4770928,
+        "latitude": -6.973322,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2001",
+      "name": "BLUNGUN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4673516,
+        "latitude": -7.0862618,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2002",
+      "name": "SEMANGGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57117,
+      "coordinate": {
+        "longitude": 110.8357523,
+        "latitude": -7.5864952,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2003",
+      "name": "NGAMPON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4305244,
+        "latitude": -7.0181244,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2004",
+      "name": "JOMBLANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63381,
+      "coordinate": {
+        "longitude": 111.4867973,
+        "latitude": -7.6712231,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2005",
+      "name": "PALON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4769371,
+        "latitude": -7.0124703,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2006",
+      "name": "BANGSRI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63351,
+      "coordinate": {
+        "longitude": 111.3044798,
+        "latitude": -7.6747564,
+        "elevation": 483
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2007",
+      "name": "SUMURBOTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50269,
+      "coordinate": {
+        "longitude": 110.4223946,
+        "latitude": -7.0524263,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2008",
+      "name": "BRUMBUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64293,
+      "coordinate": {
+        "longitude": 112.2929375,
+        "latitude": -7.7994846,
+        "elevation": 249
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2009",
+      "name": "TURIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61175,
+      "coordinate": {
+        "longitude": 112.5341536,
+        "latitude": -7.3006192,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2010",
+      "name": "SEMAMPIR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64121,
+      "coordinate": {
+        "longitude": 112.0094459,
+        "latitude": -7.799564,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2011",
+      "name": "KEMIRI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99565,
+      "coordinate": {
+        "longitude": 138.648302,
+        "latitude": -3.9863651,
+        "elevation": 2771
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2012",
+      "name": "TEMPELLEMAHBANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4976344,
+        "latitude": -6.9750028,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2014",
+      "name": "SESO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86422,
+      "coordinate": {
+        "longitude": 121.0346112,
+        "latitude": -8.6864958,
+        "elevation": 469
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2015",
+      "name": "BALONG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92562,
+      "coordinate": {
+        "longitude": 120.2700841,
+        "latitude": -5.4658229,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2016",
+      "name": "GENENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62168,
+      "coordinate": {
+        "longitude": 111.5229069,
+        "latitude": -7.2799212,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2017",
+      "name": "NGLAROHGUNUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4874292,
+        "latitude": -6.9607668,
+        "elevation": 119
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2018",
+      "name": "KAWENGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62160,
+      "coordinate": {
+        "longitude": 111.6712142,
+        "latitude": -7.0843799,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2019",
+      "name": "GERSI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4610455,
+        "latitude": -6.956186,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2020",
+      "name": "GEDANGDOWO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4597457,
+        "latitude": -6.9495467,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2021",
+      "name": "PULEDAGEL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58261,
+      "coordinate": {
+        "longitude": 111.4595757,
+        "latitude": -6.9348789,
+        "elevation": 107
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2022",
+      "name": "BACEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63173,
+      "coordinate": {
+        "longitude": 111.5083088,
+        "latitude": -7.7063415,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2023",
+      "name": "JATIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62280,
+      "coordinate": {
+        "longitude": 112.4225253,
+        "latitude": -7.1508473,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2024",
+      "name": "SOKO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62292,
+      "coordinate": {
+        "longitude": 112.4585008,
+        "latitude": -7.0598172,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.16.08.2025",
+      "name": "WARU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.16",
+      "cityName": "KAB. BLORA",
+      "districtCode": "33.16.08",
+      "districtName": "JEPON",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98385,
+      "coordinate": {
+        "longitude": 133.2830049,
+        "latitude": -0.7126188,
+        "elevation": 404
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 25
+  }
+}

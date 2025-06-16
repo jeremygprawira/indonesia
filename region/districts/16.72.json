@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "16.72.01",
+      "name": "PAGAR ALAM UTARA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM"
+    },
+    {
+      "type": "district",
+      "code": "16.72.02",
+      "name": "PAGAR ALAM SELATAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM"
+    },
+    {
+      "type": "district",
+      "code": "16.72.03",
+      "name": "DEMPO UTARA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM"
+    },
+    {
+      "type": "district",
+      "code": "16.72.04",
+      "name": "DEMPO SELATAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM"
+    },
+    {
+      "type": "district",
+      "code": "16.72.05",
+      "name": "DEMPO TENGAH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

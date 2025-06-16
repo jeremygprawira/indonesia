@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.34.2001",
+      "name": "KEBONPEDES",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.34",
+      "districtName": "KEBONPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43194,
+      "coordinate": {
+        "longitude": 106.9725844,
+        "latitude": -6.9361389,
+        "elevation": 599
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.34.2002",
+      "name": "CIKARET",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.34",
+      "districtName": "KEBONPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42395,
+      "coordinate": {
+        "longitude": 106.116993,
+        "latitude": -6.7656833,
+        "elevation": 322
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.34.2003",
+      "name": "BOJONGSAWAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.34",
+      "districtName": "KEBONPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43194,
+      "coordinate": {
+        "longitude": 106.9804727,
+        "latitude": -6.9437019,
+        "elevation": 576
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.34.2004",
+      "name": "SASAGARAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.34",
+      "districtName": "KEBONPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43194,
+      "coordinate": {
+        "longitude": 106.9580748,
+        "latitude": -6.9564279,
+        "elevation": 529
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.34.2005",
+      "name": "JAMBENENGGANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.34",
+      "districtName": "KEBONPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43194,
+      "coordinate": {
+        "longitude": 106.9706361,
+        "latitude": -6.9493974,
+        "elevation": 554
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

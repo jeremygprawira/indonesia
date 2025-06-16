@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.73.02.1002",
+      "name": "BATUPASI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.02",
+      "districtName": "WARA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91911,
+      "coordinate": {
+        "longitude": 120.1936263,
+        "latitude": -2.9928924,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.02.1003",
+      "name": "SABBANG PARU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.02",
+      "districtName": "WARA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91913,
+      "coordinate": {
+        "longitude": 120.1917808,
+        "latitude": -2.985147,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.02.1005",
+      "name": "SALOBULO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.02",
+      "districtName": "WARA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91911,
+      "coordinate": {
+        "longitude": 120.1825973,
+        "latitude": -2.9846386,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.02.1007",
+      "name": "PENGGOLI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.02",
+      "districtName": "WARA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91914,
+      "coordinate": {
+        "longitude": 120.1982096,
+        "latitude": -2.9863993,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.02.1008",
+      "name": "LUMINDA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.02",
+      "districtName": "WARA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91912,
+      "coordinate": {
+        "longitude": 120.1896076,
+        "latitude": -2.9931807,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.02.1009",
+      "name": "PATTENE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.02",
+      "districtName": "WARA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91912,
+      "coordinate": {
+        "longitude": 120.1811239,
+        "latitude": -2.9952661,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

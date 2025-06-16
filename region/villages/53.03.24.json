@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.24.2001",
+      "name": "NAKU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.24",
+      "districtName": "BIBOKI FEOTLEU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97129,
+      "coordinate": {
+        "longitude": 128.2149047,
+        "latitude": -3.7381249,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.24.2002",
+      "name": "BIRUNATUN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.24",
+      "districtName": "BIBOKI FEOTLEU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85682,
+      "coordinate": {
+        "longitude": 124.7936706,
+        "latitude": -9.1863768,
+        "elevation": 408
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.24.2003",
+      "name": "MAKUN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.24",
+      "districtName": "BIBOKI FEOTLEU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85682,
+      "coordinate": {
+        "longitude": 124.7812401,
+        "latitude": -9.25155,
+        "elevation": 576
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.24.2004",
+      "name": "MANUMEAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.24",
+      "districtName": "BIBOKI FEOTLEU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85682,
+      "coordinate": {
+        "longitude": 124.7577144,
+        "latitude": -9.2166577,
+        "elevation": 453
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.24.2005",
+      "name": "KULUAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.24",
+      "districtName": "BIBOKI FEOTLEU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85682,
+      "coordinate": {
+        "longitude": 124.7423705,
+        "latitude": -9.2470737,
+        "elevation": 375
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

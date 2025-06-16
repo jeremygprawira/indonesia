@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.16.2001",
+      "name": "TAPAU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.16",
+      "districtName": "BUNGURAN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29778,
+      "coordinate": {
+        "longitude": 108.266251,
+        "latitude": 3.8985947,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.16.2002",
+      "name": "HARAPAN JAYA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.16",
+      "districtName": "BUNGURAN TENGAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98485,
+      "coordinate": {
+        "longitude": 130.4048604,
+        "latitude": -2.0424253,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.16.2003",
+      "name": "AIR LENGIT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.16",
+      "districtName": "BUNGURAN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29778,
+      "coordinate": {
+        "longitude": 108.2550413,
+        "latitude": 3.9285056,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

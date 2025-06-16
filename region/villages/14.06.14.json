@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.06.14.2001",
+      "name": "PAGARAN TAPAH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.14",
+      "districtName": "PAGARAN TAPAH DARUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28550,
+      "coordinate": {
+        "longitude": 100.6096785,
+        "latitude": 0.7482955,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.14.2002",
+      "name": "KEMBANG DAMAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.14",
+      "districtName": "PAGARAN TAPAH DARUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28550,
+      "coordinate": {
+        "longitude": 100.5892823,
+        "latitude": 0.7844558,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.14.2005",
+      "name": "SANGKIR INDAH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.14",
+      "districtName": "PAGARAN TAPAH DARUSSALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28550,
+      "coordinate": {
+        "longitude": 100.5582604,
+        "latitude": 0.7650777,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

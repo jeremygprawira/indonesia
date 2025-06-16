@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.09.1001",
+      "name": "CINERE",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.09",
+      "districtName": "CINERE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16514,
+      "coordinate": {
+        "longitude": 106.7826169,
+        "latitude": -6.3372932,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.09.1002",
+      "name": "GANDUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.09",
+      "districtName": "CINERE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63154,
+      "coordinate": {
+        "longitude": 111.6607593,
+        "latitude": -7.4540792,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.09.1003",
+      "name": "PANGKALAN JATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.09",
+      "districtName": "CINERE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16513,
+      "coordinate": {
+        "longitude": 106.7902842,
+        "latitude": -6.3208257,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.09.1004",
+      "name": "PANGKALAN JATI BARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.09",
+      "districtName": "CINERE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16513,
+      "coordinate": {
+        "longitude": 106.8046832,
+        "latitude": -6.3230854,
+        "elevation": 39
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

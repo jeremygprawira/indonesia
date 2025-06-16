@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.06.25.2001",
+      "name": "SUKASUKUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.25",
+      "districtName": "MANGUNREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46153,
+      "coordinate": {
+        "longitude": 108.1703182,
+        "latitude": -7.2703898,
+        "elevation": 473
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.25.2002",
+      "name": "SALEBU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.25",
+      "districtName": "MANGUNREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53257,
+      "coordinate": {
+        "longitude": 108.7204074,
+        "latitude": -7.2851348,
+        "elevation": 251
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.25.2003",
+      "name": "MANGUNREJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.25",
+      "districtName": "MANGUNREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42455,
+      "coordinate": {
+        "longitude": 106.0713719,
+        "latitude": -5.8877966,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.25.2004",
+      "name": "MARGAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.25",
+      "districtName": "MANGUNREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42361,
+      "coordinate": {
+        "longitude": 106.2472042,
+        "latitude": -6.4265678,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.25.2005",
+      "name": "PASIRSALAM",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.25",
+      "districtName": "MANGUNREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46462,
+      "coordinate": {
+        "longitude": 108.0762786,
+        "latitude": -7.3934235,
+        "elevation": 478
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.06.25.2006",
+      "name": "SUKALUYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.06",
+      "cityName": "KAB. TASIKMALAYA",
+      "districtCode": "32.06.25",
+      "districtName": "MANGUNREJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40123,
+      "coordinate": {
+        "longitude": 107.6291287,
+        "latitude": -6.8955698,
+        "elevation": 723
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

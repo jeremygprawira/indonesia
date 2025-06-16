@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.33.2001",
+      "name": "KOLESE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.33",
+      "districtName": "PASI KOLAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93733,
+      "coordinate": {
+        "longitude": 122.6235538,
+        "latitude": -5.4012003,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.33.2002",
+      "name": "TAMPUNABALE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.33",
+      "districtName": "PASI KOLAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93684,
+      "coordinate": {
+        "longitude": 122.7455667,
+        "latitude": -5.0444115,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.33.2003",
+      "name": "MATA INDAHA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.33",
+      "districtName": "PASI KOLAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93684,
+      "coordinate": {
+        "longitude": 122.7941405,
+        "latitude": -4.9926902,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.33.2004",
+      "name": "LAMBELU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.33",
+      "districtName": "PASI KOLAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93684,
+      "coordinate": {
+        "longitude": 122.7895925,
+        "latitude": -5.0186331,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.10.2001",
+      "name": "SARBE",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.10",
+      "districtName": "KURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98135,
+      "coordinate": {
+        "longitude": 133.8391984,
+        "latitude": -2.5052069,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.10.2002",
+      "name": "WAGURA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.10",
+      "districtName": "KURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98135,
+      "coordinate": {
+        "longitude": 133.8568922,
+        "latitude": -2.5992371,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.10.2003",
+      "name": "REFIDESO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.10",
+      "districtName": "KURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98135,
+      "coordinate": {
+        "longitude": 133.9289559,
+        "latitude": -2.7525267,
+        "elevation": 764
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.10.2004",
+      "name": "NARAMASA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.10",
+      "districtName": "KURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98135,
+      "coordinate": {
+        "longitude": 134.008903,
+        "latitude": -2.6151753,
+        "elevation": 183
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.10.2005",
+      "name": "OBO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.10",
+      "districtName": "KURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98135,
+      "coordinate": {
+        "longitude": 134.0935105,
+        "latitude": -2.7214848,
+        "elevation": 268
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

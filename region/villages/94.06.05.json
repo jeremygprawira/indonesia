@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.06.05.2001",
+      "name": "UNITO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.05",
+      "districtName": "SUKIKAI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98875,
+      "coordinate": {
+        "longitude": 135.4268454,
+        "latitude": -4.0340258,
+        "elevation": 1624
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.06.05.2002",
+      "name": "SUKIKAI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.05",
+      "districtName": "SUKIKAI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98875,
+      "coordinate": {
+        "longitude": 135.2488271,
+        "latitude": -3.9787681,
+        "elevation": 136
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.06.05.2003",
+      "name": "IYARO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.05",
+      "districtName": "SUKIKAI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98875,
+      "coordinate": {
+        "longitude": 135.503783,
+        "latitude": -4.0759498,
+        "elevation": 1148
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.06.05.2004",
+      "name": "WIGOUMAKIDA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.06",
+      "cityName": "KAB. DOGIYAI",
+      "districtCode": "94.06.05",
+      "districtName": "SUKIKAI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98875,
+      "coordinate": {
+        "longitude": 135.633717,
+        "latitude": -4.1523375,
+        "elevation": 2682
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

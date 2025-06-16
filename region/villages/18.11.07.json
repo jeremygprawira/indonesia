@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.11.07.2001",
+      "name": "BRABASAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.354012,
+        "latitude": -3.9951216,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2002",
+      "name": "GEDUNG RAM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.360778,
+        "latitude": -3.9671259,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2003",
+      "name": "MEKAR SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97865,
+      "coordinate": {
+        "longitude": 128.2817326,
+        "latitude": 1.159059,
+        "elevation": 517
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2004",
+      "name": "BUJUNG BURING",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3429189,
+        "latitude": -3.9205702,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2005",
+      "name": "KAGUNGAN DALAM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3173335,
+        "latitude": -3.8057437,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2006",
+      "name": "TANJUNG SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75772,
+      "coordinate": {
+        "longitude": 116.235402,
+        "latitude": -0.7190938,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2007",
+      "name": "HARAPAN MUKTI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3866506,
+        "latitude": -3.9085344,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2008",
+      "name": "SRI TANJUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29791,
+      "coordinate": {
+        "longitude": 106.2081023,
+        "latitude": 3.2274624,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2009",
+      "name": "BANGUN JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93881,
+      "coordinate": {
+        "longitude": 122.7196826,
+        "latitude": -4.4938676,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2010",
+      "name": "MUARA TENANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3719137,
+        "latitude": -3.9918173,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2011",
+      "name": "WIRA JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.4331119,
+        "latitude": -3.9604219,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2012",
+      "name": "SINAR LAGA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.4042548,
+        "latitude": -3.9737582,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2013",
+      "name": "TRI KARYA MULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3833124,
+        "latitude": -3.8739674,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2014",
+      "name": "BERASAN MAKMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3201469,
+        "latitude": -3.9980133,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2015",
+      "name": "MEKAR JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96364,
+      "coordinate": {
+        "longitude": 121.8908388,
+        "latitude": 0.50174,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2016",
+      "name": "GEDUNG MULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3701446,
+        "latitude": -3.9524566,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2017",
+      "name": "TANJUNG HARAPAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4552093,
+        "latitude": 0.7507995,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2018",
+      "name": "MUARA TENANG TIMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.4017423,
+        "latitude": -3.9983827,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2019",
+      "name": "SRIWIJAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33143,
+      "coordinate": {
+        "longitude": 106.1137485,
+        "latitude": -2.1458342,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2020",
+      "name": "MUKTI JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92965,
+      "coordinate": {
+        "longitude": 120.3050736,
+        "latitude": -2.723711,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.11.07.2021",
+      "name": "BUJUNG BURING BARU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.11",
+      "cityName": "KAB. MESUJI",
+      "districtCode": "18.11.07",
+      "districtName": "TANJUNG RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34692,
+      "coordinate": {
+        "longitude": 105.3382787,
+        "latitude": -3.9332938,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

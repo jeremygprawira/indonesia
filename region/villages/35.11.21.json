@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.11.21.2001",
+      "name": "TAMAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.21",
+      "districtName": "TAMAN KROCOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80352,
+      "coordinate": {
+        "longitude": 115.2285899,
+        "latitude": -8.4821857,
+        "elevation": 262
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.21.2002",
+      "name": "GENTONG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.21",
+      "districtName": "TAMAN KROCOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67139,
+      "coordinate": {
+        "longitude": 112.8939295,
+        "latitude": -7.6414668,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.21.2003",
+      "name": "KEMUNINGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.21",
+      "districtName": "TAMAN KROCOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68291,
+      "coordinate": {
+        "longitude": 113.8746175,
+        "latitude": -7.845197,
+        "elevation": 460
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.21.2004",
+      "name": "TREBUNGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.21",
+      "districtName": "TAMAN KROCOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68363,
+      "coordinate": {
+        "longitude": 114.0209687,
+        "latitude": -7.6518961,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.21.2005",
+      "name": "SUMBERKOKAP",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.21",
+      "districtName": "TAMAN KROCOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68291,
+      "coordinate": {
+        "longitude": 113.8650405,
+        "latitude": -7.8698587,
+        "elevation": 270
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.21.2006",
+      "name": "PAGUAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.21",
+      "districtName": "TAMAN KROCOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68291,
+      "coordinate": {
+        "longitude": 113.8675421,
+        "latitude": -7.8894357,
+        "elevation": 236
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.11.21.2007",
+      "name": "KRETEK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.11",
+      "cityName": "KAB. BONDOWOSO",
+      "districtCode": "35.11.21",
+      "districtName": "TAMAN KROCOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68291,
+      "coordinate": {
+        "longitude": 113.8406447,
+        "latitude": -7.8496855,
+        "elevation": 536
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

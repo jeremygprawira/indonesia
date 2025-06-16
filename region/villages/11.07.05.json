@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.05.2001",
+      "name": "BANGKEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.05",
+      "districtName": "GEUMPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24167,
+      "coordinate": {
+        "longitude": 96.1641712,
+        "latitude": 4.7932678,
+        "elevation": 594
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.05.2002",
+      "name": "PUCOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.05",
+      "districtName": "GEUMPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24167,
+      "coordinate": {
+        "longitude": 96.3047365,
+        "latitude": 4.876877,
+        "elevation": 2031
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.05.2004",
+      "name": "LEUPU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.05",
+      "districtName": "GEUMPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24167,
+      "coordinate": {
+        "longitude": 96.140449,
+        "latitude": 4.8674035,
+        "elevation": 768
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.05.2005",
+      "name": "PULO LHOIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.05",
+      "districtName": "GEUMPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24168,
+      "coordinate": {
+        "longitude": 95.9193019,
+        "latitude": 5.2197903,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.05.2006",
+      "name": "KEUNE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.05",
+      "districtName": "GEUMPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24167,
+      "coordinate": {
+        "longitude": 96.1170852,
+        "latitude": 4.8427483,
+        "elevation": 458
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

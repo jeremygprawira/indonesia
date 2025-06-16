@@ -1,0 +1,770 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.03.07.2001",
+      "name": "PASIR PUTIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2002",
+      "name": "TUALANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32158,
+      "coordinate": {
+        "longitude": 104.0039885,
+        "latitude": -4.3119827,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2003",
+      "name": "KEUDE PEUREULAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8911233,
+        "latitude": 4.809996,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2004",
+      "name": "LEUGE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.9130686,
+        "latitude": 4.7954627,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2005",
+      "name": "UTEUN DAMA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8733646,
+        "latitude": 4.7980186,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2006",
+      "name": "PUNTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.6814682,
+        "latitude": -8.4176944,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2007",
+      "name": "ALUE DUA PAYA GAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8589892,
+        "latitude": 4.7933803,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2008",
+      "name": "BLANG BITRA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8899282,
+        "latitude": 4.8219564,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2009",
+      "name": "KUALA BUGAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.9143839,
+        "latitude": 4.8497355,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2010",
+      "name": "PAYA LIPAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24267,
+      "coordinate": {
+        "longitude": 96.7706438,
+        "latitude": 5.1957782,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2011",
+      "name": "SEUMATANG MUDA ITAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.910123,
+        "latitude": 4.8458795,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2012",
+      "name": "LHOK DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23893,
+      "coordinate": {
+        "longitude": 95.7123814,
+        "latitude": 2.7569839,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2013",
+      "name": "BEUSA MEURANOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8921107,
+        "latitude": 4.8331982,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2014",
+      "name": "BANGKA RIMUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.899925,
+        "latitude": 4.8003961,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2015",
+      "name": "TANOH RATA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8530083,
+        "latitude": 4.8061806,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2016",
+      "name": "BANDRONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8442505,
+        "latitude": 4.8019518,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2017",
+      "name": "BLANG BALOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8979647,
+        "latitude": 4.8446028,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2018",
+      "name": "COT MUDA ITAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.9193381,
+        "latitude": 4.8117009,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2019",
+      "name": "KEUMUNENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8914748,
+        "latitude": 4.7962904,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2020",
+      "name": "KUALA LEUGE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.9384954,
+        "latitude": 4.7508364,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2021",
+      "name": "BALEE BUYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8949119,
+        "latitude": 4.7794118,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2022",
+      "name": "ALUE NIBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8826347,
+        "latitude": 4.7813801,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2023",
+      "name": "SEUNEUBOK PEUSANGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.9159441,
+        "latitude": 4.7680737,
+        "elevation": -2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2024",
+      "name": "SEUNEUBOK ACEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24470,
+      "coordinate": {
+        "longitude": 98.1481572,
+        "latitude": 4.4189084,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2025",
+      "name": "SEUNEUBOK PIDIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24471,
+      "coordinate": {
+        "longitude": 98.0449425,
+        "latitude": 4.4354647,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2026",
+      "name": "DAMA TUTONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8868901,
+        "latitude": 4.7716008,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2027",
+      "name": "MATANG GLEUM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.9095201,
+        "latitude": 4.7791573,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2028",
+      "name": "LUBOK PEMPENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8230675,
+        "latitude": 4.7380675,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2029",
+      "name": "BUKET PALA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24441,
+      "coordinate": {
+        "longitude": 97.7991406,
+        "latitude": 4.80232,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2030",
+      "name": "PAYA KALUI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8427326,
+        "latitude": 4.7898333,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2031",
+      "name": "CEK MBON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.7815446,
+        "latitude": 4.7002588,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2032",
+      "name": "PAYA MEULIGOU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.836156,
+        "latitude": 4.7947293,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2033",
+      "name": "BLANG SIMPO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8226829,
+        "latitude": 4.7753232,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2034",
+      "name": "BLANG BATEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8696777,
+        "latitude": 4.8079482,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2035",
+      "name": "MATANG PEULAWI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.918238,
+        "latitude": 4.8233831,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2036",
+      "name": "COT GEULUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.9007376,
+        "latitude": 4.8146245,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2037",
+      "name": "ALUE RAMBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24250,
+      "coordinate": {
+        "longitude": 96.6939361,
+        "latitude": 5.0818779,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.07.2038",
+      "name": "COT KEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.07",
+      "districtName": "PEUREULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24453,
+      "coordinate": {
+        "longitude": 97.8952991,
+        "latitude": 4.8261463,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 38
+  }
+}

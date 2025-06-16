@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.01.20.1001",
+      "name": "SIBULUAN NALAMBOK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.20",
+      "districtName": "SARUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22616,
+      "coordinate": {
+        "longitude": 98.8159789,
+        "latitude": 1.7086453,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.20.1002",
+      "name": "SARUDIK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.20",
+      "districtName": "SARUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22616,
+      "coordinate": {
+        "longitude": 98.8123071,
+        "latitude": 1.7325898,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.20.1004",
+      "name": "PASIR BIDANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.20",
+      "districtName": "SARUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22611,
+      "coordinate": {
+        "longitude": 98.7996577,
+        "latitude": 1.7219627,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.20.1005",
+      "name": "PONDOK BATU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.20",
+      "districtName": "SARUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38713,
+      "coordinate": {
+        "longitude": 101.1719575,
+        "latitude": -2.587508,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.20.2003",
+      "name": "SIPAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.20",
+      "districtName": "SARUDIK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22616,
+      "coordinate": {
+        "longitude": 98.8580545,
+        "latitude": 1.7562781,
+        "elevation": 603
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

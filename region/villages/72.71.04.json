@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.71.04.1001",
+      "name": "MAMBORO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.04",
+      "districtName": "PALU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94148,
+      "coordinate": {
+        "longitude": 119.8834994,
+        "latitude": -0.8002083,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.04.1002",
+      "name": "TAIPA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.04",
+      "districtName": "PALU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93350,
+      "coordinate": {
+        "longitude": 122.3891293,
+        "latitude": -3.7363423,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.04.1003",
+      "name": "KAYUMALUE NGAPA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.04",
+      "districtName": "PALU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94146,
+      "coordinate": {
+        "longitude": 119.8759786,
+        "latitude": -0.7566696,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.04.1004",
+      "name": "KAYUMALUE PAJEKO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.04",
+      "districtName": "PALU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94145,
+      "coordinate": {
+        "longitude": 119.8631927,
+        "latitude": -0.7524902,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.04.1010",
+      "name": "MAMBORO BARAT",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.04",
+      "districtName": "PALU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94148,
+      "coordinate": {
+        "longitude": 119.8762314,
+        "latitude": -0.8045843,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

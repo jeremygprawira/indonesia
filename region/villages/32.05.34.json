@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.05.34.2001",
+      "name": "PAKENJENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.34",
+      "districtName": "PAMULIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44168,
+      "coordinate": {
+        "longitude": 107.6984031,
+        "latitude": -7.392912,
+        "elevation": 975
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.34.2002",
+      "name": "GARUMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.34",
+      "districtName": "PAMULIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44168,
+      "coordinate": {
+        "longitude": 107.6715402,
+        "latitude": -7.3696914,
+        "elevation": 1170
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.34.2003",
+      "name": "PANAWA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.34",
+      "districtName": "PAMULIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44168,
+      "coordinate": {
+        "longitude": 107.6859942,
+        "latitude": -7.3339383,
+        "elevation": 1604
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.34.2004",
+      "name": "PANANJUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.34",
+      "districtName": "PAMULIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46396,
+      "coordinate": {
+        "longitude": 108.6471507,
+        "latitude": -7.6877987,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.34.2005",
+      "name": "LINGGARJATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.34",
+      "districtName": "PAMULIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45551,
+      "coordinate": {
+        "longitude": 108.4703967,
+        "latitude": -6.8797031,
+        "elevation": 644
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

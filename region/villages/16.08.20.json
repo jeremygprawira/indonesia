@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.08.20.2001",
+      "name": "SRI BUNGA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.20",
+      "districtName": "BUAY PEMUKA BANGSA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32364,
+      "coordinate": {
+        "longitude": 104.4556382,
+        "latitude": -4.1173544,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.20.2002",
+      "name": "ANYAR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.20",
+      "districtName": "BUAY PEMUKA BANGSA RAJA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83354,
+      "coordinate": {
+        "longitude": 116.4148579,
+        "latitude": -8.2407524,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.20.2003",
+      "name": "PANDAN SARI II",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.20",
+      "districtName": "BUAY PEMUKA BANGSA RAJA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.20.2004",
+      "name": "RAWASARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.20",
+      "districtName": "BUAY PEMUKA BANGSA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42273,
+      "coordinate": {
+        "longitude": 105.9372588,
+        "latitude": -6.4154282,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.20.2005",
+      "name": "SURYA MENANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.20",
+      "districtName": "BUAY PEMUKA BANGSA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32364,
+      "coordinate": {
+        "longitude": 104.4878541,
+        "latitude": -4.1499312,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.20.2006",
+      "name": "MUNCAK KABAU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.20",
+      "districtName": "BUAY PEMUKA BANGSA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32364,
+      "coordinate": {
+        "longitude": 104.460666,
+        "latitude": -4.1820726,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.20.2007",
+      "name": "SRI BULAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.20",
+      "districtName": "BUAY PEMUKA BANGSA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32364,
+      "coordinate": {
+        "longitude": 104.5144491,
+        "latitude": -4.1856679,
+        "elevation": 85
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

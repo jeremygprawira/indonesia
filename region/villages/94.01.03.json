@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.03.2001",
+      "name": "YAUR",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.03",
+      "districtName": "YAUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98852,
+      "coordinate": {
+        "longitude": 134.8152693,
+        "latitude": -3.0977867,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.03.2002",
+      "name": "AKUDIOMI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.03",
+      "districtName": "YAUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98852,
+      "coordinate": {
+        "longitude": 134.944554,
+        "latitude": -3.3384275,
+        "elevation": 664
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.03.2003",
+      "name": "SIMA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.03",
+      "districtName": "YAUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98852,
+      "coordinate": {
+        "longitude": 135.1185119,
+        "latitude": -3.373089,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.03.2004",
+      "name": "WAMI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.03",
+      "districtName": "YAUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98852,
+      "coordinate": {
+        "longitude": 135.2107661,
+        "latitude": -3.3822853,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

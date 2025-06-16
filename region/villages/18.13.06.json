@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.13.06.2001",
+      "name": "PASAR PULAU PISANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.06",
+      "districtName": "PULAU PISANG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.06.2002",
+      "name": "LABUHAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.06",
+      "districtName": "PULAU PISANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71381,
+      "coordinate": {
+        "longitude": 115.5038644,
+        "latitude": -2.5412494,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.06.2003",
+      "name": "BANDAR DALAM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.06",
+      "districtName": "PULAU PISANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34887,
+      "coordinate": {
+        "longitude": 104.455649,
+        "latitude": -5.7137469,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.06.2004",
+      "name": "PEKON LOK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.06",
+      "districtName": "PULAU PISANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34896,
+      "coordinate": {
+        "longitude": 103.8484174,
+        "latitude": -5.12261,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.06.2005",
+      "name": "SUKADANA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.06",
+      "districtName": "PULAU PISANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72168,
+      "coordinate": {
+        "longitude": 116.3378563,
+        "latitude": -2.7600863,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.13.06.2006",
+      "name": "SUKAMARGA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.13",
+      "cityName": "KAB. PESISIR BARAT",
+      "districtCode": "18.13.06",
+      "districtName": "PULAU PISANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42371,
+      "coordinate": {
+        "longitude": 106.3188601,
+        "latitude": -6.5392526,
+        "elevation": 141
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

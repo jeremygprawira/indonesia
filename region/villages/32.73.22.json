@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.22.1001",
+      "name": "SEKEJATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.22",
+      "districtName": "BUAHBATU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40286,
+      "coordinate": {
+        "longitude": 107.6526383,
+        "latitude": -6.9469608,
+        "elevation": 671
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.22.1002",
+      "name": "MARGASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.22",
+      "districtName": "BUAHBATU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6114541,
+        "latitude": -6.1774528,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.22.1003",
+      "name": "CIJAURA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.22",
+      "districtName": "BUAHBATU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40287,
+      "coordinate": {
+        "longitude": 107.6466851,
+        "latitude": -6.9562231,
+        "elevation": 674
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.22.1004",
+      "name": "JATI SARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.22",
+      "districtName": "BUAHBATU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32362,
+      "coordinate": {
+        "longitude": 104.5918863,
+        "latitude": -3.9697669,
+        "elevation": 42
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

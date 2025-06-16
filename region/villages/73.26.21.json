@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.26.21.2001",
+      "name": "AWAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.21",
+      "districtName": "AWAN RANTE KARUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91854,
+      "coordinate": {
+        "longitude": 119.7146108,
+        "latitude": -2.9121378,
+        "elevation": 1532
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.21.2002",
+      "name": "BATU LOTONG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.21",
+      "districtName": "AWAN RANTE KARUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91854,
+      "coordinate": {
+        "longitude": 119.7476764,
+        "latitude": -2.9319482,
+        "elevation": 1249
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.21.2003",
+      "name": "BUNTU KARUA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.21",
+      "districtName": "AWAN RANTE KARUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91854,
+      "coordinate": {
+        "longitude": 119.7439177,
+        "latitude": -2.8928365,
+        "elevation": 1398
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.21.2004",
+      "name": "LONDONG BIANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.21",
+      "districtName": "AWAN RANTE KARUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91854,
+      "coordinate": {
+        "longitude": 119.709175,
+        "latitude": -2.8922662,
+        "elevation": 2167
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

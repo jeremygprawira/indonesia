@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.05.08.2001",
+      "name": "PONELO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.05",
+      "cityName": "KAB. GORONTALO UTARA",
+      "districtCode": "75.05.08",
+      "districtName": "PONELO KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96517,
+      "coordinate": {
+        "longitude": 122.8903943,
+        "latitude": 0.9693138,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.05.08.2002",
+      "name": "MALAMBE",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.05",
+      "cityName": "KAB. GORONTALO UTARA",
+      "districtCode": "75.05.08",
+      "districtName": "PONELO KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96517,
+      "coordinate": {
+        "longitude": 122.8472577,
+        "latitude": 0.9044437,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.05.08.2003",
+      "name": "OTIOLA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.05",
+      "cityName": "KAB. GORONTALO UTARA",
+      "districtCode": "75.05.08",
+      "districtName": "PONELO KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96517,
+      "coordinate": {
+        "longitude": 122.883907,
+        "latitude": 0.8652839,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.05.08.2004",
+      "name": "TIHENGO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.05",
+      "cityName": "KAB. GORONTALO UTARA",
+      "districtCode": "75.05.08",
+      "districtName": "PONELO KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96517,
+      "coordinate": {
+        "longitude": 122.8934078,
+        "latitude": 0.8626775,
+        "elevation": 36
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

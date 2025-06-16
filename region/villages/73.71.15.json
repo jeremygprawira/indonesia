@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.71.15.1001",
+      "name": "BARRANG CADDI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.71",
+      "cityName": "KOTA MAKASSAR",
+      "districtCode": "73.71.15",
+      "districtName": "KEPULAUAN SANGKARRANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90167,
+      "coordinate": {
+        "longitude": 119.3204997,
+        "latitude": -5.0813356,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.71.15.1002",
+      "name": "BARRANG LOMPO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.71",
+      "cityName": "KOTA MAKASSAR",
+      "districtCode": "73.71.15",
+      "districtName": "KEPULAUAN SANGKARRANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90166,
+      "coordinate": {
+        "longitude": 119.3289699,
+        "latitude": -5.0484615,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.71.15.1003",
+      "name": "KODINGARENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.71",
+      "cityName": "KOTA MAKASSAR",
+      "districtCode": "73.71.15",
+      "districtName": "KEPULAUAN SANGKARRANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90168,
+      "coordinate": {
+        "longitude": 119.2647054,
+        "latitude": -5.1486381,
+        "elevation": 1
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.02.08.2001",
+      "name": "BANEMO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.08",
+      "districtName": "PATANI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97856,
+      "coordinate": {
+        "longitude": 128.5843782,
+        "latitude": 0.3863394,
+        "elevation": 373
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.08.2002",
+      "name": "BOBANE JAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.08",
+      "districtName": "PATANI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97856,
+      "coordinate": {
+        "longitude": 128.5432821,
+        "latitude": 0.3563776,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.08.2003",
+      "name": "BOBANE INDAH",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.08",
+      "districtName": "PATANI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97856,
+      "coordinate": {
+        "longitude": 128.6164026,
+        "latitude": 0.3171543,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.08.2004",
+      "name": "MAREALA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.08",
+      "districtName": "PATANI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97856,
+      "coordinate": {
+        "longitude": 128.5420529,
+        "latitude": 0.3714711,
+        "elevation": 141
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.08.2005",
+      "name": "SIBENPOPE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.08",
+      "districtName": "PATANI BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97856,
+      "coordinate": {
+        "longitude": 128.4977239,
+        "latitude": 0.3994088,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

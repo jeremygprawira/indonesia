@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.74.04.1001",
+      "name": "TISNONEGARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.04",
+      "districtName": "KANIGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67211,
+      "coordinate": {
+        "longitude": 113.2077436,
+        "latitude": -7.7547288,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.04.1002",
+      "name": "SUKOHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.04",
+      "districtName": "KANIGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67215,
+      "coordinate": {
+        "longitude": 113.2294791,
+        "latitude": -7.7666696,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.04.1003",
+      "name": "KANIGARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.04",
+      "districtName": "KANIGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67213,
+      "coordinate": {
+        "longitude": 113.2086581,
+        "latitude": -7.7654923,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.04.1004",
+      "name": "KEBONSARI WETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.04",
+      "districtName": "KANIGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67214,
+      "coordinate": {
+        "longitude": 113.2221041,
+        "latitude": -7.7696588,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.04.1005",
+      "name": "CURAHGRINTING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.04",
+      "districtName": "KANIGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67212,
+      "coordinate": {
+        "longitude": 113.1967555,
+        "latitude": -7.7640094,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.04.1006",
+      "name": "KEBONSARI KULON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.04",
+      "districtName": "KANIGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67214,
+      "coordinate": {
+        "longitude": 113.2212125,
+        "latitude": -7.761707,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

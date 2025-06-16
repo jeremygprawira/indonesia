@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.06.23.2001",
+      "name": "COT PUKLAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.3883011,
+        "latitude": 5.517323,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2002",
+      "name": "LAMME",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.398715,
+        "latitude": 5.5176606,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2003",
+      "name": "MEULAYO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.3941664,
+        "latitude": 5.5164888,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2004",
+      "name": "LAM SIEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.3895216,
+        "latitude": 5.5136876,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2005",
+      "name": "COT GEUNDREUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.3979167,
+        "latitude": 5.5087114,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2006",
+      "name": "PAYA UE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4033625,
+        "latitude": 5.5116618,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2007",
+      "name": "COT MON RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2008",
+      "name": "COT MEULANGEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4014176,
+        "latitude": 5.4988827,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2009",
+      "name": "COT MADHI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4202634,
+        "latitude": 5.5201614,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2010",
+      "name": "BUENG SIDOM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4102688,
+        "latitude": 5.5148367,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2011",
+      "name": "COT KARIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4098125,
+        "latitude": 5.5089666,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2012",
+      "name": "KAMPUNG BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2013",
+      "name": "COT MALEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4360649,
+        "latitude": 5.5166806,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2014",
+      "name": "COT RUMPUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4068974,
+        "latitude": 5.5026763,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2015",
+      "name": "COT HOHO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4135945,
+        "latitude": 5.5002237,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2016",
+      "name": "COT JAMBO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4088442,
+        "latitude": 5.4983679,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2017",
+      "name": "COT NAMBAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4104784,
+        "latitude": 5.4958602,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2018",
+      "name": "BUENG PAGEU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4503079,
+        "latitude": 5.5244597,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2019",
+      "name": "COT SAYUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4194751,
+        "latitude": 5.5037916,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2020",
+      "name": "TEUPIN BATEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4497823,
+        "latitude": 5.5164284,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2021",
+      "name": "COT LEUOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4188159,
+        "latitude": 5.4980653,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2022",
+      "name": "COT BAGIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4283114,
+        "latitude": 5.4973414,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2023",
+      "name": "KAYEE KUNYET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4559439,
+        "latitude": 5.514731,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2024",
+      "name": "COT MANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8481754,
+        "latitude": 3.716109,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2025",
+      "name": "EMPEE BATA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.4213928,
+        "latitude": 5.4896026,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.23.2026",
+      "name": "DATA MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.23",
+      "districtName": "BLANG BINTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23360,
+      "coordinate": {
+        "longitude": 95.462226,
+        "latitude": 5.5122422,
+        "elevation": 95
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

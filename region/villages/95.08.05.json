@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.05.2001",
+      "name": "GESELMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.05",
+      "districtName": "GESELMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99903,
+      "coordinate": {
+        "longitude": 138.0722214,
+        "latitude": -4.2423817,
+        "elevation": 2206
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.05.2002",
+      "name": "TALEM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.05",
+      "districtName": "GESELMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99903,
+      "coordinate": {
+        "longitude": 138.0865236,
+        "latitude": -4.2709391,
+        "elevation": 1056
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.05.2003",
+      "name": "KOSOLPEM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.05",
+      "districtName": "GESELMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99903,
+      "coordinate": {
+        "longitude": 138.0771514,
+        "latitude": -4.2947998,
+        "elevation": 984
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

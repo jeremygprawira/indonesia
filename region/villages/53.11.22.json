@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.11.22.2001",
+      "name": "LAHIRU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.22",
+      "districtName": "MAHU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87170,
+      "coordinate": {
+        "longitude": 120.4437206,
+        "latitude": -10.0943766,
+        "elevation": 291
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.22.2002",
+      "name": "PATAMAWAI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.22",
+      "districtName": "MAHU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87170,
+      "coordinate": {
+        "longitude": 120.4681579,
+        "latitude": -10.0638985,
+        "elevation": 642
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.22.2003",
+      "name": "WAIRARA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.22",
+      "districtName": "MAHU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87170,
+      "coordinate": {
+        "longitude": 120.5251199,
+        "latitude": -10.0689913,
+        "elevation": 523
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.22.2004",
+      "name": "PRAIKALALA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.22",
+      "districtName": "MAHU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87170,
+      "coordinate": {
+        "longitude": 120.500137,
+        "latitude": -10.0349015,
+        "elevation": 380
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.22.2005",
+      "name": "LULUNDILU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.22",
+      "districtName": "MAHU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87170,
+      "coordinate": {
+        "longitude": 120.4996315,
+        "latitude": -10.1045203,
+        "elevation": 312
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.22.2006",
+      "name": "HARAY",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.22",
+      "districtName": "MAHU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87170,
+      "coordinate": {
+        "longitude": 120.4977126,
+        "latitude": -10.1405879,
+        "elevation": 204
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

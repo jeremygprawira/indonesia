@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.71.05.1001",
+      "name": "ARAB MELAYU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.05",
+      "districtName": "PELAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36251,
+      "coordinate": {
+        "longitude": 103.6126344,
+        "latitude": -1.5876427,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.05.1002",
+      "name": "MUDUNG LAUT",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.05",
+      "districtName": "PELAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36252,
+      "coordinate": {
+        "longitude": 103.6139267,
+        "latitude": -1.5742013,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.05.1003",
+      "name": "JELMU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.05",
+      "districtName": "PELAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36253,
+      "coordinate": {
+        "longitude": 103.6096059,
+        "latitude": -1.5877469,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.05.1004",
+      "name": "TENGAH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.05",
+      "districtName": "PELAYANGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8002787,
+        "latitude": -4.3669841,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.05.1005",
+      "name": "TAHTUL YAMAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.05",
+      "districtName": "PELAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36255,
+      "coordinate": {
+        "longitude": 103.619368,
+        "latitude": -1.5671995,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.05.1006",
+      "name": "TANJUNG JOHOR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.05",
+      "districtName": "PELAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36256,
+      "coordinate": {
+        "longitude": 103.6280382,
+        "latitude": -1.5575512,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

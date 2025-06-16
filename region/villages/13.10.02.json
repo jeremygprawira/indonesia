@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.02.2001",
+      "name": "SUNGAI DAREH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.02",
+      "districtName": "PULAU PUNJUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27573,
+      "coordinate": {
+        "longitude": 101.5268884,
+        "latitude": -0.9696635,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.02.2002",
+      "name": "TEBING TINGGI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.02",
+      "districtName": "PULAU PUNJUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71667,
+      "coordinate": {
+        "longitude": 115.6104234,
+        "latitude": -2.4383082,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.02.2006",
+      "name": "EMPAT KOTO PULAU PUNJUNG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.02",
+      "districtName": "PULAU PUNJUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27573,
+      "coordinate": {
+        "longitude": 101.5155676,
+        "latitude": -0.9486813,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.02.2007",
+      "name": "SUNGAI KAMBUT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.02",
+      "districtName": "PULAU PUNJUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27573,
+      "coordinate": {
+        "longitude": 101.4570663,
+        "latitude": -0.9811704,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.02.2008",
+      "name": "GUNUNG SELASIH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.02",
+      "districtName": "PULAU PUNJUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27573,
+      "coordinate": {
+        "longitude": 101.4950585,
+        "latitude": -0.9272119,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.02.2009",
+      "name": "SIKABAU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.02",
+      "districtName": "PULAU PUNJUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27573,
+      "coordinate": {
+        "longitude": 101.5279213,
+        "latitude": -1.0252866,
+        "elevation": 153
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

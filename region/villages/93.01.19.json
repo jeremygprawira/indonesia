@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.19.2001",
+      "name": "KONORAU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.19",
+      "districtName": "WAAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 138.1646139,
+        "latitude": -8.3248597,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.19.2002",
+      "name": "WAAN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.19",
+      "districtName": "WAAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 137.9223293,
+        "latitude": -8.3075595,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.19.2003",
+      "name": "TOOR",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.19",
+      "districtName": "WAAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 137.7457068,
+        "latitude": -8.299494,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.19.2004",
+      "name": "KLADAR",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.19",
+      "districtName": "WAAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 137.6704775,
+        "latitude": -8.3898899,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.19.2005",
+      "name": "SABON",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.19",
+      "districtName": "WAAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 137.6863426,
+        "latitude": -8.2716765,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.19.2006",
+      "name": "DAFNAWANGA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.19",
+      "districtName": "WAAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 137.7433405,
+        "latitude": -8.1222121,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

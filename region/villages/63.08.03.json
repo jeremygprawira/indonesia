@@ -1,0 +1,670 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.08.03.2001",
+      "name": "RANTAU KARAU HILIR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1807504,
+        "latitude": -2.520457,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2002",
+      "name": "RANTAU KARAU HULU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1981512,
+        "latitude": -2.4958717,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2003",
+      "name": "BANYU TAJUN HILIR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1955193,
+        "latitude": -2.4791142,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2004",
+      "name": "BANYU TAJUN HULU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2331459,
+        "latitude": -2.4879357,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2005",
+      "name": "BANYU TAJUN PANGKALAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2199814,
+        "latitude": -2.4682602,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2006",
+      "name": "SUNGAI SANDUNG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2201664,
+        "latitude": -2.4604947,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2007",
+      "name": "SUNGAI PANDAN HILIR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2120852,
+        "latitude": -2.4608623,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2008",
+      "name": "TELUK BETUNG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2087123,
+        "latitude": -2.4658372,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2009",
+      "name": "TAMBALANG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1957172,
+        "latitude": -2.4683349,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2010",
+      "name": "HAMBUKU HULU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1891577,
+        "latitude": -2.4771612,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2011",
+      "name": "HAMBUKU TENGAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1772881,
+        "latitude": -2.4918889,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2014",
+      "name": "PANDULANGAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71416,
+      "coordinate": {
+        "longitude": 115.2844475,
+        "latitude": -2.4163831,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2015",
+      "name": "SUNGAI PANDAN HULU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2133149,
+        "latitude": -2.4684374,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2021",
+      "name": "PONDOK BABARIS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2011695,
+        "latitude": -2.5182873,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2024",
+      "name": "SUNGAI PINANG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2122621,
+        "latitude": -2.4535418,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2025",
+      "name": "TAMBALANG KECIL",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2062961,
+        "latitude": -2.4765027,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2026",
+      "name": "PUTAT ATAS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1804359,
+        "latitude": -2.4720326,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2029",
+      "name": "BANYU TAJUN DALAM",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.216901,
+        "latitude": -2.5032191,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2031",
+      "name": "SUNGAI PANDAN TENGAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.21242,
+        "latitude": -2.4668587,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2032",
+      "name": "HAMBUKU RAYA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.190816,
+        "latitude": -2.4858908,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2033",
+      "name": "SUNGAI KUINI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2264206,
+        "latitude": -2.475036,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2034",
+      "name": "TAPUS DALAM",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2254714,
+        "latitude": -2.5201014,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2035",
+      "name": "RANTAU KARAUTENGAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1914789,
+        "latitude": -2.5042671,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2037",
+      "name": "TAMBALANG TENGAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1988929,
+        "latitude": -2.4743601,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2038",
+      "name": "TELUK MESJID",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71663,
+      "coordinate": {
+        "longitude": 115.4122716,
+        "latitude": -2.4306798,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2039",
+      "name": "MURUNG ASAM",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2130999,
+        "latitude": -2.5119433,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2040",
+      "name": "TATAH LABAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1988882,
+        "latitude": -2.4869015,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2041",
+      "name": "JALAN LURUS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2160682,
+        "latitude": -2.4913197,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2042",
+      "name": "TELUK SINAR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1711582,
+        "latitude": -2.4999434,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2043",
+      "name": "PADANG BANGKAL",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1558712,
+        "latitude": -2.4835047,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2044",
+      "name": "HAMBUKU PASAR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1850856,
+        "latitude": -2.4892121,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2045",
+      "name": "PANGKALAN SARI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.2145279,
+        "latitude": -2.474954,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.08.03.2046",
+      "name": "RANTAU KARAU RAYA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.08",
+      "cityName": "KAB. HULU SUNGAI UTARA",
+      "districtCode": "63.08.03",
+      "districtName": "SUNGAI PANDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71455,
+      "coordinate": {
+        "longitude": 115.1852327,
+        "latitude": -2.507726,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 33
+  }
+}

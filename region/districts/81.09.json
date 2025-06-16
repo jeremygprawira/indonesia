@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "81.09.01",
+      "name": "NAMROLE",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.09",
+      "cityName": "KAB. BURU SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "81.09.02",
+      "name": "WAESAMA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.09",
+      "cityName": "KAB. BURU SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "81.09.03",
+      "name": "AMBALAU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.09",
+      "cityName": "KAB. BURU SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "81.09.04",
+      "name": "KEPALA MADAN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.09",
+      "cityName": "KAB. BURU SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "81.09.05",
+      "name": "LEKSULA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.09",
+      "cityName": "KAB. BURU SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "81.09.06",
+      "name": "FENA FAFAN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.09",
+      "cityName": "KAB. BURU SELATAN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

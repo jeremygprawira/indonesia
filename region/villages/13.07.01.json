@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.07.01.2001",
+      "name": "KURAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.01",
+      "districtName": "SULIKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26255,
+      "coordinate": {
+        "longitude": 100.4166577,
+        "latitude": -0.1208244,
+        "elevation": 761
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.01.2002",
+      "name": "SUNGAI RIMBANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.01",
+      "districtName": "SULIKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26255,
+      "coordinate": {
+        "longitude": 100.4570248,
+        "latitude": -0.0913674,
+        "elevation": 721
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.01.2003",
+      "name": "TANJUANG BUNGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.01",
+      "districtName": "SULIKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26255,
+      "coordinate": {
+        "longitude": 100.4394421,
+        "latitude": -0.0559719,
+        "elevation": 860
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.01.2004",
+      "name": "SULIKI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.01",
+      "districtName": "SULIKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26255,
+      "coordinate": {
+        "longitude": 100.4438689,
+        "latitude": -0.1302002,
+        "elevation": 1031
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.01.2005",
+      "name": "LIMBANANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.01",
+      "districtName": "SULIKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26255,
+      "coordinate": {
+        "longitude": 100.4921556,
+        "latitude": -0.0998087,
+        "elevation": 539
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.01.2006",
+      "name": "ANDIANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.01",
+      "districtName": "SULIKI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26255,
+      "coordinate": {
+        "longitude": 100.5037326,
+        "latitude": -0.088231,
+        "elevation": 568
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

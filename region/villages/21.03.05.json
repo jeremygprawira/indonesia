@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.05.1008",
+      "name": "SEDANAU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.05",
+      "districtName": "BUNGURAN BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29782,
+      "coordinate": {
+        "longitude": 108.0499167,
+        "latitude": 3.8693501,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.05.2007",
+      "name": "MEKAR JAYA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.05",
+      "districtName": "BUNGURAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96364,
+      "coordinate": {
+        "longitude": 121.8908388,
+        "latitude": 0.50174,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.05.2012",
+      "name": "BINJAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.05",
+      "districtName": "BUNGURAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71662,
+      "coordinate": {
+        "longitude": 115.5355902,
+        "latitude": -2.3687545,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.05.2013",
+      "name": "PIANTENGAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.05",
+      "districtName": "BUNGURAN BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29782,
+      "coordinate": {
+        "longitude": 108.1197728,
+        "latitude": 3.7266003,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.05.2015",
+      "name": "SELAUT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.05",
+      "districtName": "BUNGURAN BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29782,
+      "coordinate": {
+        "longitude": 107.9067972,
+        "latitude": 3.8974238,
+        "elevation": 399
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

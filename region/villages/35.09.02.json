@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.02.2001",
+      "name": "CAKRU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.02",
+      "districtName": "KENCONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68167,
+      "coordinate": {
+        "longitude": 113.3346211,
+        "latitude": -8.2776105,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.02.2002",
+      "name": "PASEBAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.02",
+      "districtName": "KENCONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68167,
+      "coordinate": {
+        "longitude": 113.3324785,
+        "latitude": -8.3150994,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.02.2003",
+      "name": "KRATON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.02",
+      "districtName": "KENCONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69119,
+      "coordinate": {
+        "longitude": 112.7528049,
+        "latitude": -7.0335862,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.02.2004",
+      "name": "KENCONG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.02",
+      "districtName": "KENCONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68167,
+      "coordinate": {
+        "longitude": 113.3642057,
+        "latitude": -8.2650927,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.02.2005",
+      "name": "WONOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.02",
+      "districtName": "KENCONG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98813,
+      "coordinate": {
+        "longitude": 135.4938422,
+        "latitude": -3.3900543,
+        "elevation": 54
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

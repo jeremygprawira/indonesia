@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.09.2001",
+      "name": "SAMABUSA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.09",
+      "districtName": "TELUK KIMI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98834,
+      "coordinate": {
+        "longitude": 135.6133283,
+        "latitude": -3.2044354,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.09.2002",
+      "name": "WAHARIA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.09",
+      "districtName": "TELUK KIMI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98835,
+      "coordinate": {
+        "longitude": 135.5575343,
+        "latitude": -3.2851967,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.09.2003",
+      "name": "KIMI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.09",
+      "districtName": "TELUK KIMI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98832,
+      "coordinate": {
+        "longitude": 135.587569,
+        "latitude": -3.3069422,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.09.2004",
+      "name": "LANI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.09",
+      "districtName": "TELUK KIMI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98982,
+      "coordinate": {
+        "longitude": 137.330212,
+        "latitude": -3.3037095,
+        "elevation": 138
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.09.2005",
+      "name": "AIR MANDIDI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.09",
+      "districtName": "TELUK KIMI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98831,
+      "coordinate": {
+        "longitude": 135.5821745,
+        "latitude": -3.2493526,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

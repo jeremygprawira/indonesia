@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.24.02.1007",
+      "name": "MAGANI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.02",
+      "districtName": "NUHA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92983,
+      "coordinate": {
+        "longitude": 121.3399556,
+        "latitude": -2.5204596,
+        "elevation": 420
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.02.2001",
+      "name": "NUHA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.02",
+      "districtName": "NUHA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92983,
+      "coordinate": {
+        "longitude": 121.4136623,
+        "latitude": -2.4282773,
+        "elevation": 1166
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.02.2003",
+      "name": "NIKKEL",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.02",
+      "districtName": "NUHA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92983,
+      "coordinate": {
+        "longitude": 121.3557804,
+        "latitude": -2.5201601,
+        "elevation": 396
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.02.2005",
+      "name": "MATANO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.02",
+      "districtName": "NUHA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92983,
+      "coordinate": {
+        "longitude": 121.209725,
+        "latitude": -2.4189081,
+        "elevation": 507
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.02.2009",
+      "name": "SOROWAKO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.02",
+      "districtName": "NUHA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92983,
+      "coordinate": {
+        "longitude": 121.4277883,
+        "latitude": -2.5352035,
+        "elevation": 394
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,950 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.08.14.2001",
+      "name": "TEUPIN GAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4611153,
+        "latitude": 5.1596003,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2002",
+      "name": "GEULUMPANG UMPUNG UNOU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4846408,
+        "latitude": 5.2116065,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2003",
+      "name": "RANTO PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6737284,
+        "latitude": 4.650445,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2004",
+      "name": "SEUNEUBOK DOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.496973,
+        "latitude": 5.1910369,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2005",
+      "name": "MEUNASAH GEUDONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4797046,
+        "latitude": 5.1873138,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2006",
+      "name": "MEUNASAH MERBO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4884772,
+        "latitude": 5.1914732,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2007",
+      "name": "TANJONG MEUNYE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4798696,
+        "latitude": 5.1549428,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2008",
+      "name": "MATANG JURONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4716236,
+        "latitude": 5.1737776,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2009",
+      "name": "TANJONG DALAM UTARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4878321,
+        "latitude": 5.1637108,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2010",
+      "name": "MEUNASAH DAYAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24353,
+      "coordinate": {
+        "longitude": 97.0959704,
+        "latitude": 5.2008027,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2011",
+      "name": "SEUNEUBOK PIDIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24471,
+      "coordinate": {
+        "longitude": 98.0449425,
+        "latitude": 4.4354647,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2012",
+      "name": "TANJONG MENUANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4948617,
+        "latitude": 5.1692981,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2013",
+      "name": "MATANG TEUNGOH-TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4700185,
+        "latitude": 5.0654734,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2014",
+      "name": "LHOK REUDEUP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4576479,
+        "latitude": 5.0828789,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2015",
+      "name": "LHOK MERBO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24377,
+      "coordinate": {
+        "longitude": 96.9170256,
+        "latitude": 5.2291603,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2016",
+      "name": "TANJONG ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4654444,
+        "latitude": 5.1030628,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2017",
+      "name": "ALUE IE MIRAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24385,
+      "coordinate": {
+        "longitude": 97.2047502,
+        "latitude": 5.0204599,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2018",
+      "name": "TANJONG PUNTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4765265,
+        "latitude": 5.0949914,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2019",
+      "name": "BUKET ALUE PUTEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2020",
+      "name": "BUKET JRAT MANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4506075,
+        "latitude": 5.034687,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2021",
+      "name": "MATANG MANEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4660307,
+        "latitude": 5.08893,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2022",
+      "name": "PUCOK ALUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24384,
+      "coordinate": {
+        "longitude": 97.2761105,
+        "latitude": 4.9881235,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2023",
+      "name": "MATANG SERDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.466495,
+        "latitude": 4.9996611,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2024",
+      "name": "MATANG SANTOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4605005,
+        "latitude": 5.0977957,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2025",
+      "name": "BUKET PADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4626967,
+        "latitude": 5.0733772,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2026",
+      "name": "MATANG SEUKE PULOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.48237,
+        "latitude": 5.0587942,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2027",
+      "name": "LHOK BEURINGEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4749985,
+        "latitude": 5.0718743,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2028",
+      "name": "LUENG TUHA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4741762,
+        "latitude": 5.0511952,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2029",
+      "name": "MATANG RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.473826,
+        "latitude": 5.0577503,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2030",
+      "name": "TANJONG CEUNGAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.466075,
+        "latitude": 5.1303704,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2031",
+      "name": "TEUPIN BAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4655062,
+        "latitude": 5.1405195,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2032",
+      "name": "MEUNASAH PANTON LABU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4592858,
+        "latitude": 5.1247099,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2033",
+      "name": "KOTA PANTON LABU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2034",
+      "name": "RAWANG ITEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4515206,
+        "latitude": 5.1119527,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2035",
+      "name": "SAMAKUROK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4585235,
+        "latitude": 5.1088435,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2036",
+      "name": "BIARA BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4399545,
+        "latitude": 5.1077658,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2037",
+      "name": "BIARA TIMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4477664,
+        "latitude": 5.1088909,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2038",
+      "name": "MATANG DRIEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4459151,
+        "latitude": 5.1149747,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2039",
+      "name": "CEUMPEUDAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4465916,
+        "latitude": 5.1241705,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2040",
+      "name": "ALUE PAPEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24379,
+      "coordinate": {
+        "longitude": 96.9755649,
+        "latitude": 5.0510991,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2041",
+      "name": "LHOK BINTANG HU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4510497,
+        "latitude": 5.0937391,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2042",
+      "name": "BIRAM RAYEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.447864,
+        "latitude": 5.0848067,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2043",
+      "name": "COT BIEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4385731,
+        "latitude": 5.0905552,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2044",
+      "name": "MATANG ARONGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4288072,
+        "latitude": 5.0903931,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2045",
+      "name": "BIRAM CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4467281,
+        "latitude": 5.0745328,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2046",
+      "name": "BUKET BATEE BADAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24395,
+      "coordinate": {
+        "longitude": 97.4542807,
+        "latitude": 5.0684046,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.14.2047",
+      "name": "ULEE GLEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.14",
+      "districtName": "T. JAMBO AYE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24357,
+      "coordinate": {
+        "longitude": 96.8714496,
+        "latitude": 5.161622,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 47
+  }
+}

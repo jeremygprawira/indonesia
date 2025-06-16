@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.06.2001",
+      "name": "FOLEY",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.06",
+      "districtName": "MISOOL TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.06.2002",
+      "name": "TOMOLOL",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.06",
+      "districtName": "MISOOL TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98486,
+      "coordinate": {
+        "longitude": 130.295152,
+        "latitude": -1.911564,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.06.2006",
+      "name": "LIMALAS BARAT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.06",
+      "districtName": "MISOOL TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98486,
+      "coordinate": {
+        "longitude": 130.2100088,
+        "latitude": -1.7325017,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.06.2003",
+      "name": "USAHA JAYA",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.06",
+      "districtName": "MISOOL TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98485,
+      "coordinate": {
+        "longitude": 130.392843,
+        "latitude": -2.0257301,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.06.2004",
+      "name": "LIMALAS TIMUR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.06",
+      "districtName": "MISOOL TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98486,
+      "coordinate": {
+        "longitude": 130.3412724,
+        "latitude": -1.7045453,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.06.2005",
+      "name": "AUDAM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.06",
+      "districtName": "MISOOL TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98486,
+      "coordinate": {
+        "longitude": 130.3304311,
+        "latitude": -1.6847979,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

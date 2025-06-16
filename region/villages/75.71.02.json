@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.02.1010",
+      "name": "BIAWAO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.02",
+      "districtName": "KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96111,
+      "coordinate": {
+        "longitude": 123.0564236,
+        "latitude": 0.5356273,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.02.1012",
+      "name": "BIAWU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.02",
+      "districtName": "KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96111,
+      "coordinate": {
+        "longitude": 123.0536833,
+        "latitude": 0.5358364,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.02.1013",
+      "name": "LIMBA B",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.02",
+      "districtName": "KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96115,
+      "coordinate": {
+        "longitude": 123.0542769,
+        "latitude": 0.5425883,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.02.1019",
+      "name": "LIMBA U I",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.02",
+      "districtName": "KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96115,
+      "coordinate": {
+        "longitude": 123.061207,
+        "latitude": 0.5477751,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.02.1020",
+      "name": "LIMBA U II",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.02",
+      "districtName": "KOTA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96115,
+      "coordinate": {
+        "longitude": 123.0550039,
+        "latitude": 0.5490902,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.20.10.2001",
+      "name": "KARIMUNJAWA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.10",
+      "districtName": "KARIMUNJAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59455,
+      "coordinate": {
+        "longitude": 110.4493671,
+        "latitude": -5.8539766,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.10.2002",
+      "name": "KEMUJAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.10",
+      "districtName": "KARIMUNJAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59455,
+      "coordinate": {
+        "longitude": 110.4739843,
+        "latitude": -5.8043961,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.10.2003",
+      "name": "PARANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.10",
+      "districtName": "KARIMUNJAWA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90133,
+      "coordinate": {
+        "longitude": 119.4167216,
+        "latitude": -5.1641369,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.10.2004",
+      "name": "NYAMUK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.10",
+      "districtName": "KARIMUNJAWA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59455,
+      "coordinate": {
+        "longitude": 110.1909695,
+        "latitude": -5.8156074,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

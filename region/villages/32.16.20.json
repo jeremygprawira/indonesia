@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.16.20.2001",
+      "name": "CICAU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.20",
+      "districtName": "CIKARANG PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17531,
+      "coordinate": {
+        "longitude": 107.1460856,
+        "latitude": -6.3705367,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.20.2002",
+      "name": "SUKAMAHI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.20",
+      "districtName": "CIKARANG PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17531,
+      "coordinate": {
+        "longitude": 107.182454,
+        "latitude": -6.3745702,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.20.2003",
+      "name": "PASIRANJI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.20",
+      "districtName": "CIKARANG PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17531,
+      "coordinate": {
+        "longitude": 107.2033611,
+        "latitude": -6.3811609,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.20.2004",
+      "name": "HEGARMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.20",
+      "districtName": "CIKARANG PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17531,
+      "coordinate": {
+        "longitude": 107.1908754,
+        "latitude": -6.3394093,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.20.2005",
+      "name": "JAYAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.20",
+      "districtName": "CIKARANG PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17531,
+      "coordinate": {
+        "longitude": 107.1739005,
+        "latitude": -6.3345681,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.20.2006",
+      "name": "PASIRTANJUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.20",
+      "districtName": "CIKARANG PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42312,
+      "coordinate": {
+        "longitude": 106.272502,
+        "latitude": -6.40039,
+        "elevation": 80
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.03.11.2001",
+      "name": "BOHE SILIAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.11",
+      "districtName": "MARATUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77381,
+      "coordinate": {
+        "longitude": 118.6145623,
+        "latitude": 2.1989885,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.11.2002",
+      "name": "PAYUNG-PAYUNG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.11",
+      "districtName": "MARATUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77381,
+      "coordinate": {
+        "longitude": 118.5343283,
+        "latitude": 2.1398597,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.11.2003",
+      "name": "TELUK ALULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.11",
+      "districtName": "MARATUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77381,
+      "coordinate": {
+        "longitude": 118.6061321,
+        "latitude": 2.2708182,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.11.2004",
+      "name": "TELUK HARAPAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.11",
+      "districtName": "MARATUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77381,
+      "coordinate": {
+        "longitude": 118.5712616,
+        "latitude": 2.2770488,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

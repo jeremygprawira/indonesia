@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.16.04.2001",
+      "name": "SUKAWIJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.04",
+      "districtName": "TAMBELANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17621,
+      "coordinate": {
+        "longitude": 107.1378428,
+        "latitude": -6.1498665,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.04.2002",
+      "name": "SUKAMAJU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.04",
+      "districtName": "TAMBELANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.04.2003",
+      "name": "SUKARAJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.04",
+      "districtName": "TAMBELANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.04.2004",
+      "name": "SUKARAPIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.04",
+      "districtName": "TAMBELANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17621,
+      "coordinate": {
+        "longitude": 107.1195638,
+        "latitude": -6.1834338,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.04.2005",
+      "name": "SUKARAHAYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.04",
+      "districtName": "TAMBELANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17621,
+      "coordinate": {
+        "longitude": 107.1227707,
+        "latitude": -6.1705643,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.04.2006",
+      "name": "SUKAMANTRI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.04",
+      "districtName": "TAMBELANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15560,
+      "coordinate": {
+        "longitude": 106.5488515,
+        "latitude": -6.1640126,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.16.04.2007",
+      "name": "SUKABAKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.16",
+      "cityName": "KAB. BEKASI",
+      "districtCode": "32.16.04",
+      "districtName": "TAMBELANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15810,
+      "coordinate": {
+        "longitude": 106.5708034,
+        "latitude": -6.2542563,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

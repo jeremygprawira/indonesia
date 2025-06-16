@@ -1,0 +1,590 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.12.10.2001",
+      "name": "SOPNYAI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9131215,
+        "latitude": -1.204124,
+        "elevation": 1922
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2002",
+      "name": "IKIMABOU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9761772,
+        "latitude": -1.2604971,
+        "elevation": 2067
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2003",
+      "name": "MANGGOT",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.8688797,
+        "latitude": -1.2280571,
+        "elevation": 1862
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2004",
+      "name": "KISAP",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9077247,
+        "latitude": -1.2283423,
+        "elevation": 2174
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2005",
+      "name": "NUNGKIMOR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.916021,
+        "latitude": -1.2159709,
+        "elevation": 2052
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2006",
+      "name": "CANGOISI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9665087,
+        "latitude": -1.2356502,
+        "elevation": 1952
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2007",
+      "name": "MINYEIMEMUD",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9287561,
+        "latitude": -1.2501853,
+        "elevation": 2359
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2008",
+      "name": "PENIBUT",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.8748747,
+        "latitude": -1.2372004,
+        "elevation": 1967
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2009",
+      "name": "DEMUNTI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9470114,
+        "latitude": -1.2430045,
+        "elevation": 2188
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2010",
+      "name": "GUEIPIMBAI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.997129,
+        "latitude": -1.2937682,
+        "elevation": 1821
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2011",
+      "name": "TIGAUCOMTI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9362648,
+        "latitude": -1.2641524,
+        "elevation": 2492
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2012",
+      "name": "URWONG",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9560535,
+        "latitude": -1.230818,
+        "elevation": 2085
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2013",
+      "name": "ARYON",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9653179,
+        "latitude": -1.24831,
+        "elevation": 2078
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2014",
+      "name": "PUNGGUNG",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9688685,
+        "latitude": -1.2534493,
+        "elevation": 2233
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2015",
+      "name": "HUMEISI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9755037,
+        "latitude": -1.253398,
+        "elevation": 1887
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2016",
+      "name": "HAKTIEBOU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9873049,
+        "latitude": -1.2730755,
+        "elevation": 2024
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2017",
+      "name": "KWOK SATU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.992362,
+        "latitude": -1.2463685,
+        "elevation": 1961
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2018",
+      "name": "KWOK DUA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9856457,
+        "latitude": -1.2057849,
+        "elevation": 2397
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2019",
+      "name": "KWAIYEHEP",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9824005,
+        "latitude": -1.2619256,
+        "elevation": 2213
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2020",
+      "name": "MBEGAU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.886925,
+        "latitude": -1.2560586,
+        "elevation": 1921
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2021",
+      "name": "NGIMOUBRI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9028672,
+        "latitude": -1.2375965,
+        "elevation": 2094
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2022",
+      "name": "LIEHAK",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9162384,
+        "latitude": -1.2351275,
+        "elevation": 2190
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2023",
+      "name": "UMCEP",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.8803049,
+        "latitude": -1.2123257,
+        "elevation": 2023
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2024",
+      "name": "TUMBEIBEHEI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.8803717,
+        "latitude": -1.2083808,
+        "elevation": 2053
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2025",
+      "name": "TINGWOIKIOU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9135028,
+        "latitude": -1.1847208,
+        "elevation": 2184
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2026",
+      "name": "GUWEI UTI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9645933,
+        "latitude": -1.2097509,
+        "elevation": 2336
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2027",
+      "name": "NTAP",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.9898085,
+        "latitude": -1.2798233,
+        "elevation": 2133
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2028",
+      "name": "MONUT",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.8907185,
+        "latitude": -1.1954846,
+        "elevation": 1834
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.12.10.2029",
+      "name": "MBRANDE",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.12",
+      "cityName": "KAB. PEGUNUNGAN ARFAK",
+      "districtCode": "92.12.10",
+      "districtName": "HINGK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98353,
+      "coordinate": {
+        "longitude": 133.8889542,
+        "latitude": -1.2203526,
+        "elevation": 2032
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 29
+  }
+}

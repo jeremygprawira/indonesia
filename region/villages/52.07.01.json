@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.07.01.2001",
+      "name": "GOA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.01",
+      "districtName": "JEREWEH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84456,
+      "coordinate": {
+        "longitude": 116.7945741,
+        "latitude": -8.8296113,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.07.01.2002",
+      "name": "BELO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.01",
+      "districtName": "JEREWEH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 125.0951802,
+        "latitude": -1.88192,
+        "elevation": 230
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.07.01.2003",
+      "name": "BERU",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.01",
+      "districtName": "JEREWEH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86111,
+      "coordinate": {
+        "longitude": 122.2231003,
+        "latitude": -8.6287879,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.07.01.2009",
+      "name": "DASAN ANYAR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.07",
+      "cityName": "KAB. SUMBAWA BARAT",
+      "districtCode": "52.07.01",
+      "districtName": "JEREWEH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84456,
+      "coordinate": {
+        "longitude": 116.815863,
+        "latitude": -8.8322919,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.12.2001",
+      "name": "BUMI RAYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.12",
+      "districtName": "NABIRE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98856,
+      "coordinate": {
+        "longitude": 135.4445186,
+        "latitude": -3.4626025,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.12.2002",
+      "name": "WAROKI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.12",
+      "districtName": "NABIRE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98856,
+      "coordinate": {
+        "longitude": 135.4325465,
+        "latitude": -3.3833172,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.12.2003",
+      "name": "GERBANG SADU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.12",
+      "districtName": "NABIRE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98856,
+      "coordinate": {
+        "longitude": 135.4984575,
+        "latitude": -3.4383227,
+        "elevation": 248
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.12.2004",
+      "name": "KALI SEMEN",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.12",
+      "districtName": "NABIRE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98856,
+      "coordinate": {
+        "longitude": 135.4318092,
+        "latitude": -3.4409204,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.12.2005",
+      "name": "WADIO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.12",
+      "districtName": "NABIRE BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98856,
+      "coordinate": {
+        "longitude": 135.4718308,
+        "latitude": -3.4582684,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

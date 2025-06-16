@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.06.08.2001",
+      "name": "ARIATE",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.08",
+      "districtName": "HUAMUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97560,
+      "coordinate": {
+        "longitude": 128.0516894,
+        "latitude": -3.1661813,
+        "elevation": 248
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.08.2002",
+      "name": "LOKKI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.08",
+      "districtName": "HUAMUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97560,
+      "coordinate": {
+        "longitude": 128.0324564,
+        "latitude": -3.2584699,
+        "elevation": 203
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.08.2003",
+      "name": "LUHU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.08",
+      "districtName": "HUAMUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97560,
+      "coordinate": {
+        "longitude": 127.9711219,
+        "latitude": -3.3446894,
+        "elevation": 382
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.08.2004",
+      "name": "IHA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.08",
+      "districtName": "HUAMUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97560,
+      "coordinate": {
+        "longitude": 127.9079118,
+        "latitude": -3.4664497,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.08.2005",
+      "name": "KULUR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.08",
+      "districtName": "HUAMUAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97560,
+      "coordinate": {
+        "longitude": 127.9791127,
+        "latitude": -3.3927415,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

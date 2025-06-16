@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.07.2005",
+      "name": "WAISILIP",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.07",
+      "districtName": "WAIGEO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98464,
+      "coordinate": {
+        "longitude": 130.4527808,
+        "latitude": -0.2571401,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.07.2002",
+      "name": "MUTUS",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.07",
+      "districtName": "WAIGEO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98464,
+      "coordinate": {
+        "longitude": 130.3010166,
+        "latitude": -0.3688994,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.07.2004",
+      "name": "SALEO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.07",
+      "districtName": "WAIGEO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98464,
+      "coordinate": {
+        "longitude": 130.4150545,
+        "latitude": -0.139486,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.07.2003",
+      "name": "BIANCI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.07",
+      "districtName": "WAIGEO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98464,
+      "coordinate": {
+        "longitude": 130.3587582,
+        "latitude": -0.3146188,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.07.2001",
+      "name": "SELPELE",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.07",
+      "districtName": "WAIGEO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98464,
+      "coordinate": {
+        "longitude": 130.2983579,
+        "latitude": -0.2381117,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

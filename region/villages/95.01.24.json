@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.01.24.2001",
+      "name": "WADANGKU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.24",
+      "districtName": "WADANGKU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99525,
+      "coordinate": {
+        "longitude": 138.9944798,
+        "latitude": -3.9582325,
+        "elevation": 2608
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.24.2002",
+      "name": "AGULIMO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.24",
+      "districtName": "WADANGKU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99525,
+      "coordinate": {
+        "longitude": 138.9672839,
+        "latitude": -3.9291192,
+        "elevation": 2073
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.24.2003",
+      "name": "MUSIEM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.24",
+      "districtName": "WADANGKU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99525,
+      "coordinate": {
+        "longitude": 138.951568,
+        "latitude": -3.9289281,
+        "elevation": 2327
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.24.2004",
+      "name": "YOMOSIMO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.24",
+      "districtName": "WADANGKU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99525,
+      "coordinate": {
+        "longitude": 139.0208785,
+        "latitude": -3.9763013,
+        "elevation": 3189
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.24.2005",
+      "name": "LUKU-LUKU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.24",
+      "districtName": "WADANGKU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99525,
+      "coordinate": {
+        "longitude": 138.9468874,
+        "latitude": -3.9167768,
+        "elevation": 1985
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

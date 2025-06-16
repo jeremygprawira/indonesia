@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.26.19.2001",
+      "name": "SULOARA-",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.19",
+      "districtName": "SESEAN SULOARA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.19.2002",
+      "name": "SESEAN MATALLO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.19",
+      "districtName": "SESEAN SULOARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91845,
+      "coordinate": {
+        "longitude": 119.8933928,
+        "latitude": -2.9095604,
+        "elevation": 1248
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.19.2003",
+      "name": "LANDORUNDUN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.19",
+      "districtName": "SESEAN SULOARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91845,
+      "coordinate": {
+        "longitude": 119.8474053,
+        "latitude": -2.8938586,
+        "elevation": 1430
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.19.2004",
+      "name": "TONGA RIU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.19",
+      "districtName": "SESEAN SULOARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91845,
+      "coordinate": {
+        "longitude": 119.8549011,
+        "latitude": -2.9014494,
+        "elevation": 1377
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.19.2005",
+      "name": "LEMPO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.19",
+      "districtName": "SESEAN SULOARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91845,
+      "coordinate": {
+        "longitude": 119.861632,
+        "latitude": -2.9260874,
+        "elevation": 1061
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

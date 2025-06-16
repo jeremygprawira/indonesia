@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.01.14.2001",
+      "name": "KELONG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.14",
+      "districtName": "BINTAN PESISIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29151,
+      "coordinate": {
+        "longitude": 104.6826126,
+        "latitude": 0.8708259,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.14.2002",
+      "name": "MAPUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.14",
+      "districtName": "BINTAN PESISIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29151,
+      "coordinate": {
+        "longitude": 104.817289,
+        "latitude": 0.9979032,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.14.2003",
+      "name": "NUMBING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.14",
+      "districtName": "BINTAN PESISIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29151,
+      "coordinate": {
+        "longitude": 104.7176142,
+        "latitude": 0.7746542,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.14.2004",
+      "name": "AIR GELUBI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.14",
+      "districtName": "BINTAN PESISIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29151,
+      "coordinate": {
+        "longitude": 104.6388236,
+        "latitude": 0.8795254,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

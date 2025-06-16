@@ -1,0 +1,66 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "36.01",
+      "name": "KAB. PANDEGLANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    },
+    {
+      "type": "city",
+      "code": "36.02",
+      "name": "KAB. LEBAK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    },
+    {
+      "type": "city",
+      "code": "36.03",
+      "name": "KAB. TANGERANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    },
+    {
+      "type": "city",
+      "code": "36.04",
+      "name": "KAB. SERANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    },
+    {
+      "type": "city",
+      "code": "36.71",
+      "name": "KOTA TANGERANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    },
+    {
+      "type": "city",
+      "code": "36.72",
+      "name": "KOTA CILEGON",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    },
+    {
+      "type": "city",
+      "code": "36.73",
+      "name": "KOTA SERANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    },
+    {
+      "type": "city",
+      "code": "36.74",
+      "name": "KOTA TANGERANG SELATAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.05.07.2001",
+      "name": "ONANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.05",
+      "cityName": "KAB. MAJENE",
+      "districtCode": "76.05.07",
+      "districtName": "TUBO SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91455,
+      "coordinate": {
+        "longitude": 118.8337225,
+        "latitude": -3.1641834,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.05.07.2002",
+      "name": "TUBO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.05",
+      "cityName": "KAB. MAJENE",
+      "districtCode": "76.05.07",
+      "districtName": "TUBO SENDANA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97738,
+      "coordinate": {
+        "longitude": 127.374764,
+        "latitude": 0.8217779,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.05.07.2003",
+      "name": "ONANG UTARA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.05",
+      "cityName": "KAB. MAJENE",
+      "districtCode": "76.05.07",
+      "districtName": "TUBO SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91455,
+      "coordinate": {
+        "longitude": 118.7993793,
+        "latitude": -3.1341107,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.05.07.2004",
+      "name": "TUBO SELATAN",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.05",
+      "cityName": "KAB. MAJENE",
+      "districtCode": "76.05.07",
+      "districtName": "TUBO SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91455,
+      "coordinate": {
+        "longitude": 118.7838911,
+        "latitude": -3.0996361,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.05.07.2005",
+      "name": "BONDE BONDE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.05",
+      "cityName": "KAB. MAJENE",
+      "districtCode": "76.05.07",
+      "districtName": "TUBO SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91455,
+      "coordinate": {
+        "longitude": 118.7872699,
+        "latitude": -3.1143683,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.05.07.2006",
+      "name": "TUBO TENGAH",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.05",
+      "cityName": "KAB. MAJENE",
+      "districtCode": "76.05.07",
+      "districtName": "TUBO SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91455,
+      "coordinate": {
+        "longitude": 118.7940778,
+        "latitude": -3.0848677,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.05.07.2007",
+      "name": "TUBO POANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.05",
+      "cityName": "KAB. MAJENE",
+      "districtCode": "76.05.07",
+      "districtName": "TUBO SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91455,
+      "coordinate": {
+        "longitude": 118.827931,
+        "latitude": -3.0966181,
+        "elevation": 92
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

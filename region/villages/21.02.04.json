@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.04.1001",
+      "name": "MERAL KOTA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.04",
+      "districtName": "MERAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29666,
+      "coordinate": {
+        "longitude": 103.396647,
+        "latitude": 0.9978082,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.04.1002",
+      "name": "BARAN BARAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.04",
+      "districtName": "MERAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29666,
+      "coordinate": {
+        "longitude": 103.4024391,
+        "latitude": 1.0033443,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.04.1003",
+      "name": "SUNGAI RAYA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.04",
+      "districtName": "MERAL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70673,
+      "coordinate": {
+        "longitude": 115.054434,
+        "latitude": -3.2845258,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.04.1006",
+      "name": "BARAN TIMUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.04",
+      "districtName": "MERAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29666,
+      "coordinate": {
+        "longitude": 103.4065548,
+        "latitude": 1.0037022,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.04.1007",
+      "name": "SUNGAI PASIR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.04",
+      "districtName": "MERAL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72156,
+      "coordinate": {
+        "longitude": 116.0413369,
+        "latitude": -3.6058108,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.04.1008",
+      "name": "PARIT BENUT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.04",
+      "districtName": "MERAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29666,
+      "coordinate": {
+        "longitude": 103.3587801,
+        "latitude": 1.0195406,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.03.2001",
+      "name": "TIRTOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.03",
+      "districtName": "KRETEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55772,
+      "coordinate": {
+        "longitude": 110.2928899,
+        "latitude": -7.9709574,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.03.2002",
+      "name": "PARANGTRITIS",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.03",
+      "districtName": "KRETEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55772,
+      "coordinate": {
+        "longitude": 110.3027792,
+        "latitude": -8.0162053,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.03.2003",
+      "name": "DONOTIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.03",
+      "districtName": "KRETEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55772,
+      "coordinate": {
+        "longitude": 110.3121399,
+        "latitude": -7.9829103,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.03.2004",
+      "name": "TIRTOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.03",
+      "districtName": "KRETEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55772,
+      "coordinate": {
+        "longitude": 110.2978609,
+        "latitude": -7.9863565,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.03.2005",
+      "name": "TIRTOHARGO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.03",
+      "districtName": "KRETEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55772,
+      "coordinate": {
+        "longitude": 110.2830641,
+        "latitude": -8.0051267,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

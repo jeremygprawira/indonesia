@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.02.2001",
+      "name": "GADINGSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.02",
+      "districtName": "SANDEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68251,
+      "coordinate": {
+        "longitude": 113.7581828,
+        "latitude": -7.9126786,
+        "elevation": 530
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.02.2002",
+      "name": "GADINGHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.02",
+      "districtName": "SANDEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55763,
+      "coordinate": {
+        "longitude": 110.2661058,
+        "latitude": -7.9839653,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.02.2003",
+      "name": "SRIGADING",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.02",
+      "districtName": "SANDEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61385,
+      "coordinate": {
+        "longitude": 112.5837573,
+        "latitude": -7.5882349,
+        "elevation": 226
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.02.2004",
+      "name": "MURTIGADING",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.02",
+      "districtName": "SANDEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55763,
+      "coordinate": {
+        "longitude": 110.2681516,
+        "latitude": -7.9678173,
+        "elevation": 19
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

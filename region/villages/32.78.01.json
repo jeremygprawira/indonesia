@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.78.01.1001",
+      "name": "YUDANAGARA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.01",
+      "districtName": "CIHIDEUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46121,
+      "coordinate": {
+        "longitude": 108.2191043,
+        "latitude": -7.3294786,
+        "elevation": 357
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.01.1002",
+      "name": "NAGARAWANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.01",
+      "districtName": "CIHIDEUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46124,
+      "coordinate": {
+        "longitude": 108.2178047,
+        "latitude": -7.3350983,
+        "elevation": 354
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.01.1003",
+      "name": "CILEMBANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.01",
+      "districtName": "CIHIDEUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46123,
+      "coordinate": {
+        "longitude": 108.2065866,
+        "latitude": -7.3301741,
+        "elevation": 368
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.01.1004",
+      "name": "ARGASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.01",
+      "districtName": "CIHIDEUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46122,
+      "coordinate": {
+        "longitude": 108.2044235,
+        "latitude": -7.3257504,
+        "elevation": 367
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.01.1005",
+      "name": "TUGUJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.01",
+      "districtName": "CIHIDEUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46126,
+      "coordinate": {
+        "longitude": 108.2107672,
+        "latitude": -7.3443724,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.01.1006",
+      "name": "TUGURAJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.01",
+      "districtName": "CIHIDEUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46125,
+      "coordinate": {
+        "longitude": 108.2105072,
+        "latitude": -7.3368355,
+        "elevation": 362
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

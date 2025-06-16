@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.72.07.1001",
+      "name": "GURILLA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.07",
+      "districtName": "SIANTAR SITALASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21137,
+      "coordinate": {
+        "longitude": 99.0329487,
+        "latitude": 2.9765142,
+        "elevation": 458
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.07.1002",
+      "name": "BAH KAPUL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.07",
+      "districtName": "SIANTAR SITALASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21139,
+      "coordinate": {
+        "longitude": 99.0408298,
+        "latitude": 2.9647729,
+        "elevation": 436
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.07.1003",
+      "name": "SETIA NEGARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.07",
+      "districtName": "SIANTAR SITALASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34769,
+      "coordinate": {
+        "longitude": 104.8060767,
+        "latitude": -4.4369182,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.07.1004",
+      "name": "BUKIT SOFA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.07",
+      "districtName": "SIANTAR SITALASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21137,
+      "coordinate": {
+        "longitude": 99.0484274,
+        "latitude": 2.9607694,
+        "elevation": 415
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.07.1005",
+      "name": "BAH SORMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.07",
+      "districtName": "SIANTAR SITALASARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21139,
+      "coordinate": {
+        "longitude": 99.038326,
+        "latitude": 2.9713157,
+        "elevation": 451
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

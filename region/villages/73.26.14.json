@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.26.14.1002",
+      "name": "BARUPPU SELATAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.14",
+      "districtName": "BARUPPU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91846,
+      "coordinate": {
+        "longitude": 119.7543931,
+        "latitude": -2.8248693,
+        "elevation": 1680
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.14.2001",
+      "name": "BARUPPU- UTARA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.14",
+      "districtName": "BARUPPU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.14.2003",
+      "name": "BARUPPU BENTENG BATU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.14",
+      "districtName": "BARUPPU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91846,
+      "coordinate": {
+        "longitude": 119.7398322,
+        "latitude": -2.8383048,
+        "elevation": 1346
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.14.2004",
+      "name": "BARUPPU- PARODO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.14",
+      "districtName": "BARUPPU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

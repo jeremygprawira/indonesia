@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.12.06.2001",
+      "name": "KUBU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99030,
+      "coordinate": {
+        "longitude": 138.498435,
+        "latitude": -3.7448303,
+        "elevation": 2412
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2002",
+      "name": "OLAK-OLAK KUBU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.3282493,
+        "latitude": -0.4867503,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2003",
+      "name": "SUNGAI SELAMAT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.2247719,
+        "latitude": -0.4184481,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2004",
+      "name": "SUNGAI BEMBAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.2317885,
+        "latitude": -0.366214,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2005",
+      "name": "PINANG LUAR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.3315975,
+        "latitude": -0.2809586,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2006",
+      "name": "SERUAT DUA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.1741905,
+        "latitude": -0.4796159,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2007",
+      "name": "SERUAT TIGA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.1913044,
+        "latitude": -0.4105337,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2008",
+      "name": "DABONG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.2520469,
+        "latitude": -0.5784208,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2009",
+      "name": "AMBAWANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70882,
+      "coordinate": {
+        "longitude": 114.8990561,
+        "latitude": -3.9348732,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2010",
+      "name": "SEPAKAT BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.176308,
+        "latitude": -0.3750703,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2011",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2012",
+      "name": "AIR PUTIH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75124,
+      "coordinate": {
+        "longitude": 117.1220551,
+        "latitude": -0.4789732,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2013",
+      "name": "TELUK NANGKA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.4221869,
+        "latitude": -0.4726796,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2014",
+      "name": "JANGKANG SATU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.4373384,
+        "latitude": -0.3839514,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2015",
+      "name": "JANGKANG DUA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.4113757,
+        "latitude": -0.4121016,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2016",
+      "name": "PINANG DALAM",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.4115048,
+        "latitude": -0.3671,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2017",
+      "name": "SUNGAI TERUS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.4208228,
+        "latitude": -0.4977462,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2018",
+      "name": "PELITA JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.2228945,
+        "latitude": -1.8426249,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2019",
+      "name": "MENGKALANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74664,
+      "coordinate": {
+        "longitude": 111.2523582,
+        "latitude": -1.6499442,
+        "elevation": 498
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.06.2020",
+      "name": "MENGKALANG JAMBU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.06",
+      "districtName": "KUBU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78384,
+      "coordinate": {
+        "longitude": 109.2203578,
+        "latitude": -0.5558645,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

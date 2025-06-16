@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.06.1001",
+      "name": "PETEMON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.06",
+      "districtName": "SAWAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60252,
+      "coordinate": {
+        "longitude": 112.7185303,
+        "latitude": -7.2589651,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.06.1002",
+      "name": "SAWAHAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.06",
+      "districtName": "SAWAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70571,
+      "coordinate": {
+        "longitude": 114.8048108,
+        "latitude": -3.0383602,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.06.1003",
+      "name": "BANYU URIP",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.06",
+      "districtName": "SAWAHAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83572,
+      "coordinate": {
+        "longitude": 116.219451,
+        "latitude": -8.8485729,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.06.1004",
+      "name": "PUTAT JAYA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.06",
+      "districtName": "SAWAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60255,
+      "coordinate": {
+        "longitude": 112.7197252,
+        "latitude": -7.277689,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.06.1005",
+      "name": "KUPANG KRAJAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.06",
+      "districtName": "SAWAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60253,
+      "coordinate": {
+        "longitude": 112.7240303,
+        "latitude": -7.2711554,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.06.1006",
+      "name": "PAKIS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.06",
+      "districtName": "SAWAHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60256,
+      "coordinate": {
+        "longitude": 112.7266342,
+        "latitude": -7.2872466,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

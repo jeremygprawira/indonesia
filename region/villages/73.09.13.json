@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.09.13.2001",
+      "name": "MONCONGLOE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.13",
+      "districtName": "MONCONGLOE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90564,
+      "coordinate": {
+        "longitude": 119.528189,
+        "latitude": -5.1450172,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.13.2002",
+      "name": "MONCONGLOE BULU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.13",
+      "districtName": "MONCONGLOE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90564,
+      "coordinate": {
+        "longitude": 119.5629889,
+        "latitude": -5.1612831,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.13.2003",
+      "name": "MONCONGLOE LAPPARA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.13",
+      "districtName": "MONCONGLOE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90564,
+      "coordinate": {
+        "longitude": 119.524707,
+        "latitude": -5.1589199,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.13.2004",
+      "name": "BONTO BUNGA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.13",
+      "districtName": "MONCONGLOE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90564,
+      "coordinate": {
+        "longitude": 119.5587711,
+        "latitude": -5.1367006,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.13.2005",
+      "name": "BONTO MARANNU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.13",
+      "districtName": "MONCONGLOE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90564,
+      "coordinate": {
+        "longitude": 119.5601361,
+        "latitude": -5.1213443,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

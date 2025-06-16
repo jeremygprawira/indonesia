@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.02.16.2001",
+      "name": "TIOLOME",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.16",
+      "districtName": "MOLANIKIME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98946,
+      "coordinate": {
+        "longitude": 137.8395977,
+        "latitude": -3.5323871,
+        "elevation": 2911
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.16.2002",
+      "name": "BELABAGA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.16",
+      "districtName": "MOLANIKIME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98946,
+      "coordinate": {
+        "longitude": 137.8325236,
+        "latitude": -3.5762853,
+        "elevation": 2866
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.16.2003",
+      "name": "MEWUT",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.16",
+      "districtName": "MOLANIKIME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98946,
+      "coordinate": {
+        "longitude": 137.8563174,
+        "latitude": -3.6079896,
+        "elevation": 2869
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.16.2004",
+      "name": "MALOINGGEN",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.16",
+      "districtName": "MOLANIKIME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98946,
+      "coordinate": {
+        "longitude": 137.9803299,
+        "latitude": -3.71384,
+        "elevation": 2067
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.16.2005",
+      "name": "WANUME",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.16",
+      "districtName": "MOLANIKIME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98946,
+      "coordinate": {
+        "longitude": 137.9803299,
+        "latitude": -3.71384,
+        "elevation": 2067
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

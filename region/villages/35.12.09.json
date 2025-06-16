@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.12.09.2001",
+      "name": "TANJUNG GLUGUR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.09",
+      "districtName": "MANGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68363,
+      "coordinate": {
+        "longitude": 114.0561581,
+        "latitude": -7.6359703,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.09.2002",
+      "name": "MANGARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.09",
+      "districtName": "MANGARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95873,
+      "coordinate": {
+        "longitude": 126.7492508,
+        "latitude": 3.8149467,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.09.2003",
+      "name": "TANJUNG KAMAL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.09",
+      "districtName": "MANGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68363,
+      "coordinate": {
+        "longitude": 114.0748607,
+        "latitude": -7.6532816,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.09.2004",
+      "name": "SEMIRING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.09",
+      "districtName": "MANGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68363,
+      "coordinate": {
+        "longitude": 114.0149658,
+        "latitude": -7.6293912,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.09.2005",
+      "name": "TANJUNG PECINAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.09",
+      "districtName": "MANGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68363,
+      "coordinate": {
+        "longitude": 114.0310464,
+        "latitude": -7.6153723,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.09.2006",
+      "name": "TREBUNGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.09",
+      "districtName": "MANGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68363,
+      "coordinate": {
+        "longitude": 114.0209687,
+        "latitude": -7.6518961,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

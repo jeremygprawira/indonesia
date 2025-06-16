@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.10.10.2001",
+      "name": "LAMBARA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.10",
+      "districtName": "TANAMBULAVA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94141,
+      "coordinate": {
+        "longitude": 119.8732658,
+        "latitude": -0.7358961,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.10.2002",
+      "name": "SIBALAYA SELATAN",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.10",
+      "districtName": "TANAMBULAVA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94368,
+      "coordinate": {
+        "longitude": 119.9283569,
+        "latitude": -1.1543076,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.10.2003",
+      "name": "SIBALAYA UTARA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.10",
+      "districtName": "TANAMBULAVA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94368,
+      "coordinate": {
+        "longitude": 119.9481443,
+        "latitude": -1.1302608,
+        "elevation": 532
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.10.2004",
+      "name": "SIBOWI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.10",
+      "districtName": "TANAMBULAVA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94368,
+      "coordinate": {
+        "longitude": 119.9444064,
+        "latitude": -1.1144467,
+        "elevation": 343
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.10.10.2005",
+      "name": "SIBALAYA BARAT",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.10",
+      "cityName": "KAB. SIGI",
+      "districtCode": "72.10.10",
+      "districtName": "TANAMBULAVA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94368,
+      "coordinate": {
+        "longitude": 119.909668,
+        "latitude": -1.1468002,
+        "elevation": 64
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

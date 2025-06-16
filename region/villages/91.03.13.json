@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.03.13.2002",
+      "name": "DOYO LAMA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.13",
+      "districtName": "WAIBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99368,
+      "coordinate": {
+        "longitude": 140.4573077,
+        "latitude": -2.5676143,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.13.2003",
+      "name": "KWADEWARE",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.13",
+      "districtName": "WAIBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99368,
+      "coordinate": {
+        "longitude": 140.4582427,
+        "latitude": -2.5794562,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.13.2004",
+      "name": "YAKONDE",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.13",
+      "districtName": "WAIBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99368,
+      "coordinate": {
+        "longitude": 140.3727433,
+        "latitude": -2.5791768,
+        "elevation": 332
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.13.2005",
+      "name": "SOSIRI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.13",
+      "districtName": "WAIBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99368,
+      "coordinate": {
+        "longitude": 140.4358968,
+        "latitude": -2.5431938,
+        "elevation": 150
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.13.2006",
+      "name": "DOYO BARU",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.13",
+      "districtName": "WAIBU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99368,
+      "coordinate": {
+        "longitude": 140.4635867,
+        "latitude": -2.5418947,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.13.3001",
+      "name": "DESA ADAT DONDAI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.13",
+      "districtName": "WAIBU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.03.13.3007",
+      "name": "DESA ADAT BAMBAR",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.03",
+      "cityName": "KAB. JAYAPURA",
+      "districtCode": "91.03.13",
+      "districtName": "WAIBU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

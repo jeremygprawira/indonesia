@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.02.19.2001",
+      "name": "MERANTI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.19",
+      "districtName": "RENAH PAMENANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96545,
+      "coordinate": {
+        "longitude": 123.1123554,
+        "latitude": 0.6331198,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.19.2002",
+      "name": "BUKIT BUNGKUL",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.19",
+      "districtName": "RENAH PAMENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37351,
+      "coordinate": {
+        "longitude": 102.3283617,
+        "latitude": -2.1896793,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.19.2003",
+      "name": "RASAU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.19",
+      "districtName": "RENAH PAMENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78654,
+      "coordinate": {
+        "longitude": 110.993558,
+        "latitude": 1.0258546,
+        "elevation": 668
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.19.2004",
+      "name": "LANTAK SERIBU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.19",
+      "districtName": "RENAH PAMENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37351,
+      "coordinate": {
+        "longitude": 102.4442499,
+        "latitude": -2.2151546,
+        "elevation": 82
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "13.76.01",
+      "name": "PAYAKUMBUH BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH"
+    },
+    {
+      "type": "district",
+      "code": "13.76.02",
+      "name": "PAYAKUMBUH UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH"
+    },
+    {
+      "type": "district",
+      "code": "13.76.03",
+      "name": "PAYAKUMBUH TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH"
+    },
+    {
+      "type": "district",
+      "code": "13.76.04",
+      "name": "LAMPOSI TIGO NAGORI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH"
+    },
+    {
+      "type": "district",
+      "code": "13.76.05",
+      "name": "PAYAKUMBUH SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

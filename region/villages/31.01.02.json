@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.01.02.1001",
+      "name": "PULAU UNTUNG JAWA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU",
+      "districtCode": "31.01.02",
+      "districtName": "KEPULAUAN SERIBU SELATAN.",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14510,
+      "coordinate": {
+        "longitude": 106.6926577,
+        "latitude": -5.9742766,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.01.02.1002",
+      "name": "PULAU TIDUNG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU",
+      "districtCode": "31.01.02",
+      "districtName": "KEPULAUAN SERIBU SELATAN.",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14520,
+      "coordinate": {
+        "longitude": 106.4969904,
+        "latitude": -5.798551,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.01.02.1003",
+      "name": "PULAU PARI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU",
+      "districtCode": "31.01.02",
+      "districtName": "KEPULAUAN SERIBU SELATAN.",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14520,
+      "coordinate": {
+        "longitude": 106.6190915,
+        "latitude": -5.8585958,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

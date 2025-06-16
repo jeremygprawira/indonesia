@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.71.01.1001",
+      "name": "MANGGAR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.01",
+      "districtName": "BALIKPAPAN TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76116,
+      "coordinate": {
+        "longitude": 116.9438184,
+        "latitude": -1.2251283,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.01.1002",
+      "name": "LAMARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.01",
+      "districtName": "BALIKPAPAN TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76117,
+      "coordinate": {
+        "longitude": 116.9656407,
+        "latitude": -1.1768148,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.01.1003",
+      "name": "TERITIP",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.01",
+      "districtName": "BALIKPAPAN TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76118,
+      "coordinate": {
+        "longitude": 116.9837261,
+        "latitude": -1.143294,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.01.1004",
+      "name": "MANGGAR BARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.01",
+      "districtName": "BALIKPAPAN TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76116,
+      "coordinate": {
+        "longitude": 116.9695894,
+        "latitude": -1.2092652,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

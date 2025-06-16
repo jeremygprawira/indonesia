@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.71.08.1001",
+      "name": "JOHAR BARU",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.08",
+      "districtName": "JOHAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10560,
+      "coordinate": {
+        "longitude": 106.8580476,
+        "latitude": -6.1839757,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.08.1002",
+      "name": "KAMPUNG RAWA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.08",
+      "districtName": "JOHAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10550,
+      "coordinate": {
+        "longitude": 106.8559367,
+        "latitude": -6.1795531,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.08.1003",
+      "name": "GALUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.08",
+      "districtName": "JOHAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10530,
+      "coordinate": {
+        "longitude": 106.8550985,
+        "latitude": -6.1762835,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.08.1004",
+      "name": "TANAH TINGGI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.08",
+      "districtName": "JOHAR BARU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98443,
+      "coordinate": {
+        "longitude": 131.4357968,
+        "latitude": -1.2003898,
+        "elevation": 47
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

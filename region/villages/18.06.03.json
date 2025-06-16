@@ -1,0 +1,570 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.06.03.2001",
+      "name": "KARANG ANYAR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90134,
+      "coordinate": {
+        "longitude": 119.411647,
+        "latitude": -5.1766095,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2002",
+      "name": "KALIREJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61155,
+      "coordinate": {
+        "longitude": 112.4980455,
+        "latitude": -7.0090794,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2003",
+      "name": "DADIREJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51151,
+      "coordinate": {
+        "longitude": 109.6224124,
+        "latitude": -6.9042067,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2004",
+      "name": "BANYU URIP",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83572,
+      "coordinate": {
+        "longitude": 116.219451,
+        "latitude": -8.8485729,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2005",
+      "name": "WONOSOBO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98422,
+      "coordinate": {
+        "longitude": 131.1813808,
+        "latitude": -1.2348679,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2006",
+      "name": "SOPONYONO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5467249,
+        "latitude": -5.4913077,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2007",
+      "name": "BANDAR KEJADIAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5216777,
+        "latitude": -5.418117,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2008",
+      "name": "WAY PANAS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5565963,
+        "latitude": -5.4263012,
+        "elevation": 198
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2009",
+      "name": "SINAR SAUDARA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5476761,
+        "latitude": -5.4832174,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2010",
+      "name": "SRIDADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52272,
+      "coordinate": {
+        "longitude": 109.0921266,
+        "latitude": -7.2248695,
+        "elevation": 936
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2011",
+      "name": "LAKARAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5262487,
+        "latitude": -5.4846687,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2012",
+      "name": "PADANG RATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35366,
+      "coordinate": {
+        "longitude": 105.0575715,
+        "latitude": -5.4105257,
+        "elevation": 153
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2013",
+      "name": "PARDASUKA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34888,
+      "coordinate": {
+        "longitude": 104.2316216,
+        "latitude": -5.5100273,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2014",
+      "name": "TANJUNG KURUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34765,
+      "coordinate": {
+        "longitude": 104.3855188,
+        "latitude": -4.6906619,
+        "elevation": 264
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2015",
+      "name": "PADANG MANIS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35367,
+      "coordinate": {
+        "longitude": 105.053155,
+        "latitude": -5.4161489,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2016",
+      "name": "KEJADIAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34694,
+      "coordinate": {
+        "longitude": 105.0800121,
+        "latitude": -4.2083429,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2017",
+      "name": "DADISARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5235101,
+        "latitude": -5.4895811,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2018",
+      "name": "KALISARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60112,
+      "coordinate": {
+        "longitude": 112.8190444,
+        "latitude": -7.2572891,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2019",
+      "name": "BANJAR NEGORO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2020",
+      "name": "PEKON BALAK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.524892,
+        "latitude": -5.443139,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2021",
+      "name": "KUNYAYAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5119653,
+        "latitude": -5.431631,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2022",
+      "name": "BANJAR SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72275,
+      "coordinate": {
+        "longitude": 115.6351318,
+        "latitude": -3.6908535,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2023",
+      "name": "NEGERI NGARIP",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5080196,
+        "latitude": -5.4518635,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2034",
+      "name": "DADIMULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5200274,
+        "latitude": -5.4962509,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2035",
+      "name": "SAMPANG TURUS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.54473,
+        "latitude": -5.4295314,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2036",
+      "name": "SRI MELATI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5038228,
+        "latitude": -5.4674288,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2037",
+      "name": "WAY LIWOK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.549277,
+        "latitude": -5.4784437,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.03.2038",
+      "name": "SUMUR TUJUH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.03",
+      "districtName": "WONOSOBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35685,
+      "coordinate": {
+        "longitude": 104.5394789,
+        "latitude": -5.4657386,
+        "elevation": 42
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 28
+  }
+}

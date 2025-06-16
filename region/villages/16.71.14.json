@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.71.14.1001",
+      "name": "PLAJU ULU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.14",
+      "districtName": "PLAJU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30266,
+      "coordinate": {
+        "longitude": 104.8095387,
+        "latitude": -3.0015908,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.14.1002",
+      "name": "PLAJU DARAT",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.14",
+      "districtName": "PLAJU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30267,
+      "coordinate": {
+        "longitude": 104.8092284,
+        "latitude": -3.0126012,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.14.1003",
+      "name": "PLAJU ILIR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.14",
+      "districtName": "PLAJU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30268,
+      "coordinate": {
+        "longitude": 104.8184296,
+        "latitude": -2.9971081,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.14.1004",
+      "name": "BAGUSKUNING",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.14",
+      "districtName": "PLAJU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.14.1005",
+      "name": "KOMPERTA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.14",
+      "districtName": "PLAJU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30268,
+      "coordinate": {
+        "longitude": 104.831437,
+        "latitude": -2.9982168,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.14.1006",
+      "name": "TALANGPUTRI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.14",
+      "districtName": "PLAJU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.14.1007",
+      "name": "TALANGBUBUK",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.14",
+      "districtName": "PLAJU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

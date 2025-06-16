@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.09.11.2001",
+      "name": "TELUK KEPAYANG PULAU INDAH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.09",
+      "cityName": "KAB. TEBO",
+      "districtCode": "15.09.11",
+      "districtName": "VII KOTO ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37562,
+      "coordinate": {
+        "longitude": 102.1040221,
+        "latitude": -1.1415376,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.09.11.2002",
+      "name": "BALAI RAJO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.09",
+      "cityName": "KAB. TEBO",
+      "districtCode": "15.09.11",
+      "districtName": "VII KOTO ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37562,
+      "coordinate": {
+        "longitude": 102.1407084,
+        "latitude": -1.0470695,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.09.11.2003",
+      "name": "CERMIN ALAM",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.09",
+      "cityName": "KAB. TEBO",
+      "districtCode": "15.09.11",
+      "districtName": "VII KOTO ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37562,
+      "coordinate": {
+        "longitude": 102.1511638,
+        "latitude": -1.1831135,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.09.11.2004",
+      "name": "SUNGAI KARANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.09",
+      "cityName": "KAB. TEBO",
+      "districtCode": "15.09.11",
+      "districtName": "VII KOTO ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37562,
+      "coordinate": {
+        "longitude": 102.1087475,
+        "latitude": -1.0472202,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.09.11.2005",
+      "name": "PASEBAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.09",
+      "cityName": "KAB. TEBO",
+      "districtCode": "15.09.11",
+      "districtName": "VII KOTO ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68167,
+      "coordinate": {
+        "longitude": 113.3324785,
+        "latitude": -8.3150994,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.09.11.2006",
+      "name": "PASIR MAYANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.09",
+      "cityName": "KAB. TEBO",
+      "districtCode": "15.09.11",
+      "districtName": "VII KOTO ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76281,
+      "coordinate": {
+        "longitude": 116.257881,
+        "latitude": -1.7359798,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

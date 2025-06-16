@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.10.01.2001",
+      "name": "SARONGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.01",
+      "districtName": "PESANGGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68488,
+      "coordinate": {
+        "longitude": 113.8955877,
+        "latitude": -8.5798562,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.01.2002",
+      "name": "PESANGGARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.01",
+      "districtName": "PESANGGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68488,
+      "coordinate": {
+        "longitude": 114.0921998,
+        "latitude": -8.5900318,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.01.2004",
+      "name": "SUMBERAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.01",
+      "districtName": "PESANGGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62253,
+      "coordinate": {
+        "longitude": 112.3308397,
+        "latitude": -7.1492576,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.01.2009",
+      "name": "KANDANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.01",
+      "districtName": "PESANGGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60199,
+      "coordinate": {
+        "longitude": 112.6513782,
+        "latitude": -7.2510679,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.01.2010",
+      "name": "SUMBERMULYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.01",
+      "districtName": "PESANGGARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61485,
+      "coordinate": {
+        "longitude": 112.2541118,
+        "latitude": -7.559444,
+        "elevation": 42
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

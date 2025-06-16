@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.71.07.1001",
+      "name": "KARAWACI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15115,
+      "coordinate": {
+        "longitude": 106.625835,
+        "latitude": -6.1899046,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1002",
+      "name": "BOJONG JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15115,
+      "coordinate": {
+        "longitude": 106.6201824,
+        "latitude": -6.2045428,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1003",
+      "name": "KARAWACI BARU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15116,
+      "coordinate": {
+        "longitude": 106.6129198,
+        "latitude": -6.2026869,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1004",
+      "name": "NUSA JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97866,
+      "coordinate": {
+        "longitude": 127.8861464,
+        "latitude": 0.6893374,
+        "elevation": 500
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1005",
+      "name": "CIMONE",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15114,
+      "coordinate": {
+        "longitude": 106.6098565,
+        "latitude": -6.1914018,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1006",
+      "name": "CIMONE JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15116,
+      "coordinate": {
+        "longitude": 106.6165909,
+        "latitude": -6.1900846,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1007",
+      "name": "PABUARAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42183,
+      "coordinate": {
+        "longitude": 106.2437572,
+        "latitude": -6.1626994,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1008",
+      "name": "SUMUR PACING",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15114,
+      "coordinate": {
+        "longitude": 106.6179403,
+        "latitude": -6.1746613,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1009",
+      "name": "BUGEL",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6059141,
+        "latitude": -6.1769462,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1010",
+      "name": "MARGA SARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76131,
+      "coordinate": {
+        "longitude": 116.8204868,
+        "latitude": -1.2386266,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1011",
+      "name": "PABUARAN TUMPENG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15112,
+      "coordinate": {
+        "longitude": 106.6141265,
+        "latitude": -6.1660975,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1012",
+      "name": "NAMBO JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93394,
+      "coordinate": {
+        "longitude": 123.1323685,
+        "latitude": -4.2548267,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1013",
+      "name": "GERENDENG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6230359,
+        "latitude": -6.1735976,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1014",
+      "name": "SUKAJADI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6262424,
+        "latitude": -6.1809115,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1015",
+      "name": "PASAR BARU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.07.1016",
+      "name": "KOANG JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.07",
+      "districtName": "KARAWACI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15112,
+      "coordinate": {
+        "longitude": 106.6200113,
+        "latitude": -6.1599736,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.18.06.2001",
+      "name": "BANDAR TENGAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.18",
+      "cityName": "KAB. SERDANG BEDAGAI",
+      "districtCode": "12.18.06",
+      "districtName": "BANDAR KHALIPAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20994,
+      "coordinate": {
+        "longitude": 99.2625687,
+        "latitude": 3.3662057,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.18.06.2002",
+      "name": "JUHAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.18",
+      "cityName": "KAB. SERDANG BEDAGAI",
+      "districtCode": "12.18.06",
+      "districtName": "BANDAR KHALIPAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20994,
+      "coordinate": {
+        "longitude": 99.2599907,
+        "latitude": 3.411895,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.18.06.2003",
+      "name": "GELAM SEI SERIMAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.18",
+      "cityName": "KAB. SERDANG BEDAGAI",
+      "districtCode": "12.18.06",
+      "districtName": "BANDAR KHALIPAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20994,
+      "coordinate": {
+        "longitude": 99.2680785,
+        "latitude": 3.4557048,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.18.06.2004",
+      "name": "PEKAN  BANDAR KHALIPAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.18",
+      "cityName": "KAB. SERDANG BEDAGAI",
+      "districtCode": "12.18.06",
+      "districtName": "BANDAR KHALIPAH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.18.06.2005",
+      "name": "KAYU BESAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.18",
+      "cityName": "KAB. SERDANG BEDAGAI",
+      "districtCode": "12.18.06",
+      "districtName": "BANDAR KHALIPAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20994,
+      "coordinate": {
+        "longitude": 99.3026597,
+        "latitude": 3.4343765,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

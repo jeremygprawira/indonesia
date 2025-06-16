@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.74.04.1001",
+      "name": "JAGASATRU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.04",
+      "districtName": "PEKALIPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45115,
+      "coordinate": {
+        "longitude": 108.5655718,
+        "latitude": -6.7291065,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.04.1002",
+      "name": "PEKALIPAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.04",
+      "districtName": "PEKALIPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45117,
+      "coordinate": {
+        "longitude": 108.5644086,
+        "latitude": -6.7225835,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.04.1003",
+      "name": "PULASAREN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.04",
+      "districtName": "PEKALIPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45116,
+      "coordinate": {
+        "longitude": 108.5643381,
+        "latitude": -6.7264247,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.04.1004",
+      "name": "PEKALANGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.04",
+      "districtName": "PEKALIPAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68281,
+      "coordinate": {
+        "longitude": 113.8567753,
+        "latitude": -7.9530685,
+        "elevation": 301
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

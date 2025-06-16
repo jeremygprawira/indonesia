@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.25.06.2002",
+      "name": "SENDANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69465,
+      "coordinate": {
+        "longitude": 113.6172231,
+        "latitude": -7.1226914,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2003",
+      "name": "BANTENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9442808,
+        "latitude": -7.0646791,
+        "elevation": 573
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2004",
+      "name": "SUMURBANGER",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9605565,
+        "latitude": -7.0873294,
+        "elevation": 684
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2005",
+      "name": "MARGOSONO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9761741,
+        "latitude": -7.0592136,
+        "elevation": 513
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2006",
+      "name": "SIDALANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9699411,
+        "latitude": -7.0714998,
+        "elevation": 650
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2007",
+      "name": "PLOSOWANGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9701086,
+        "latitude": -7.053049,
+        "elevation": 463
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2008",
+      "name": "WANAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62257,
+      "coordinate": {
+        "longitude": 112.2752096,
+        "latitude": -7.1196572,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2009",
+      "name": "GONDO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9458332,
+        "latitude": -7.0531079,
+        "elevation": 534
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2010",
+      "name": "REJOSARI BARAT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9493355,
+        "latitude": -7.0346835,
+        "elevation": 311
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2011",
+      "name": "BOJA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9659453,
+        "latitude": -7.0394321,
+        "elevation": 368
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2012",
+      "name": "PUJUT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9766155,
+        "latitude": -7.0306344,
+        "elevation": 272
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2013",
+      "name": "TERSONO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9571395,
+        "latitude": -7.0270462,
+        "elevation": 279
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2014",
+      "name": "TANJUNGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.0707831,
+        "latitude": -6.2208802,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2015",
+      "name": "KEBUMEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51263,
+      "coordinate": {
+        "longitude": 109.8189083,
+        "latitude": -6.9592548,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2016",
+      "name": "HARJOWINANGUN BARAT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9739213,
+        "latitude": -7.0232643,
+        "elevation": 272
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2017",
+      "name": "TEGALOMBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63451,
+      "coordinate": {
+        "longitude": 111.4006596,
+        "latitude": -7.9026054,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2020",
+      "name": "KRANGGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61321,
+      "coordinate": {
+        "longitude": 112.4343593,
+        "latitude": -7.4807365,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2021",
+      "name": "SATRIYAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9758703,
+        "latitude": -6.9874603,
+        "elevation": 135
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2022",
+      "name": "HARJOWINANGUN TIMUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.9912574,
+        "latitude": -7.0208207,
+        "elevation": 256
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.25.06.2023",
+      "name": "REJOSARI TIMUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.25",
+      "cityName": "KAB. BATANG",
+      "districtCode": "33.25.06",
+      "districtName": "TERSONO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51272,
+      "coordinate": {
+        "longitude": 109.958748,
+        "latitude": -7.0365604,
+        "elevation": 306
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.01.02.2001",
+      "name": "LONG BELUAH",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.02",
+      "districtName": "TANJUNG PALAS BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77217,
+      "coordinate": {
+        "longitude": 117.1096744,
+        "latitude": 2.717288,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.02.2002",
+      "name": "LONG SAM",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.02",
+      "districtName": "TANJUNG PALAS BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77217,
+      "coordinate": {
+        "longitude": 117.1079807,
+        "latitude": 2.6822524,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.02.2003",
+      "name": "MARA I",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.02",
+      "districtName": "TANJUNG PALAS BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77217,
+      "coordinate": {
+        "longitude": 117.2287074,
+        "latitude": 2.7133034,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.02.2004",
+      "name": "MARA HILIR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.02",
+      "districtName": "TANJUNG PALAS BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77217,
+      "coordinate": {
+        "longitude": 117.2511505,
+        "latitude": 2.7050494,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.01.02.2005",
+      "name": "LONG PARI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.01",
+      "cityName": "KAB. BULUNGAN",
+      "districtCode": "65.01.02",
+      "districtName": "TANJUNG PALAS BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77217,
+      "coordinate": {
+        "longitude": 117.167807,
+        "latitude": 2.8544444,
+        "elevation": 104
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

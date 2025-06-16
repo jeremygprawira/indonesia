@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "51.06.03.2001",
+      "name": "JEHEM",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI",
+      "districtCode": "51.06.03",
+      "districtName": "TEMBUKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80671,
+      "coordinate": {
+        "longitude": 115.3712441,
+        "latitude": -8.4350424,
+        "elevation": 506
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.06.03.2002",
+      "name": "TEMBUKU",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI",
+      "districtCode": "51.06.03",
+      "districtName": "TEMBUKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80671,
+      "coordinate": {
+        "longitude": 115.3841016,
+        "latitude": -8.4368526,
+        "elevation": 480
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.06.03.2003",
+      "name": "YANGAPI",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI",
+      "districtCode": "51.06.03",
+      "districtName": "TEMBUKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80671,
+      "coordinate": {
+        "longitude": 115.3852228,
+        "latitude": -8.4045072,
+        "elevation": 647
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.06.03.2004",
+      "name": "UNDISAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI",
+      "districtCode": "51.06.03",
+      "districtName": "TEMBUKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80671,
+      "coordinate": {
+        "longitude": 115.3941066,
+        "latitude": -8.449727,
+        "elevation": 482
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.06.03.2005",
+      "name": "BANGBANG",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI",
+      "districtCode": "51.06.03",
+      "districtName": "TEMBUKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80671,
+      "coordinate": {
+        "longitude": 115.4062658,
+        "latitude": -8.4403472,
+        "elevation": 497
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.06.03.2006",
+      "name": "PENINJOAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.06",
+      "cityName": "KAB. BANGLI",
+      "districtCode": "51.06.03",
+      "districtName": "TEMBUKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80671,
+      "coordinate": {
+        "longitude": 115.4037826,
+        "latitude": -8.4114099,
+        "elevation": 589
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

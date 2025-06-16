@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.15.05.2001",
+      "name": "KECUPAK I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.05",
+      "districtName": "PERGETTENG GETTENG SENGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22273,
+      "coordinate": {
+        "longitude": 98.2865731,
+        "latitude": 2.5595216,
+        "elevation": 867
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.05.2002",
+      "name": "KECUPAK II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.05",
+      "districtName": "PERGETTENG GETTENG SENGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22273,
+      "coordinate": {
+        "longitude": 98.2982866,
+        "latitude": 2.5572383,
+        "elevation": 917
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.05.2003",
+      "name": "AORNAKAN I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.05",
+      "districtName": "PERGETTENG GETTENG SENGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22273,
+      "coordinate": {
+        "longitude": 98.2849555,
+        "latitude": 2.5329817,
+        "elevation": 974
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.05.2004",
+      "name": "SIMERPARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.05",
+      "districtName": "PERGETTENG GETTENG SENGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22273,
+      "coordinate": {
+        "longitude": 98.2391694,
+        "latitude": 2.5511075,
+        "elevation": 619
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.05.2005",
+      "name": "AORNAKAN II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.05",
+      "districtName": "PERGETTENG GETTENG SENGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22273,
+      "coordinate": {
+        "longitude": 98.3025398,
+        "latitude": 2.5451184,
+        "elevation": 927
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

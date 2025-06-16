@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.14.09.2001",
+      "name": "MBALI LENDEIKI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.09",
+      "districtName": "NDAO NUSE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85983,
+      "coordinate": {
+        "longitude": 122.6517388,
+        "latitude": -10.8082511,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.09.2002",
+      "name": "ANARAE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.09",
+      "districtName": "NDAO NUSE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85983,
+      "coordinate": {
+        "longitude": 122.666679,
+        "latitude": -10.8064334,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.09.2003",
+      "name": "MBIU LOMBO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.09",
+      "districtName": "NDAO NUSE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85983,
+      "coordinate": {
+        "longitude": 122.6778375,
+        "latitude": -10.830777,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.09.2004",
+      "name": "NUSE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.09",
+      "districtName": "NDAO NUSE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85983,
+      "coordinate": {
+        "longitude": 122.7643061,
+        "latitude": -10.7801479,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.09.2005",
+      "name": "NDAONUSE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.09",
+      "districtName": "NDAO NUSE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85983,
+      "coordinate": {
+        "longitude": 122.6761554,
+        "latitude": -10.8185719,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.04.2001",
+      "name": "SELOHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.04",
+      "districtName": "PUNDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55771,
+      "coordinate": {
+        "longitude": 110.3499593,
+        "latitude": -7.9820914,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.04.2002",
+      "name": "PANJANGREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.04",
+      "districtName": "PUNDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55771,
+      "coordinate": {
+        "longitude": 110.3331979,
+        "latitude": -7.9626287,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.04.2003",
+      "name": "SRIHARDONO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.04",
+      "districtName": "PUNDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55771,
+      "coordinate": {
+        "longitude": 110.343773,
+        "latitude": -7.950697,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

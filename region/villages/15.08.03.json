@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.08.03.1006",
+      "name": "TANJUNG GEDANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.03",
+      "districtName": "PASAR MUARO BUNGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37214,
+      "coordinate": {
+        "longitude": 102.1242757,
+        "latitude": -1.4794008,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.03.1007",
+      "name": "BUNGO TIMUR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.03",
+      "districtName": "PASAR MUARO BUNGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37214,
+      "coordinate": {
+        "longitude": 102.1218767,
+        "latitude": -1.4899411,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.03.1008",
+      "name": "BUNGO BARAT",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.03",
+      "districtName": "PASAR MUARO BUNGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37214,
+      "coordinate": {
+        "longitude": 102.1161614,
+        "latitude": -1.4897758,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.03.1022",
+      "name": "JAYA SETIA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.03",
+      "districtName": "PASAR MUARO BUNGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37214,
+      "coordinate": {
+        "longitude": 102.1316806,
+        "latitude": -1.4938698,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.03.1023",
+      "name": "BATANG BUNGO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.03",
+      "districtName": "PASAR MUARO BUNGO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37214,
+      "coordinate": {
+        "longitude": 102.112798,
+        "latitude": -1.484502,
+        "elevation": 55
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

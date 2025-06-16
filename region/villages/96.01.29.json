@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.01.29.2003",
+      "name": "SABAKE",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.29",
+      "districtName": "BOTAIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98433,
+      "coordinate": {
+        "longitude": 131.6414509,
+        "latitude": -1.4044234,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.29.2005",
+      "name": "BOTAIN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.29",
+      "districtName": "BOTAIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98213,
+      "coordinate": {
+        "longitude": 131.8275996,
+        "latitude": -1.479117,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.29.2001",
+      "name": "KLAFLUK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.29",
+      "districtName": "BOTAIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98433,
+      "coordinate": {
+        "longitude": 131.2838186,
+        "latitude": -0.9233615,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.29.2004",
+      "name": "KLAYASTANI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.29",
+      "districtName": "BOTAIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98433,
+      "coordinate": {
+        "longitude": 131.7563702,
+        "latitude": -1.4257247,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.29.2002",
+      "name": "MAMSIT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.29",
+      "districtName": "BOTAIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98433,
+      "coordinate": {
+        "longitude": 131.4765239,
+        "latitude": -1.4434433,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

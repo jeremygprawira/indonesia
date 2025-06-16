@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.01.20.2004",
+      "name": "KLALIN MOS",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.20",
+      "districtName": "WEMAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98455,
+      "coordinate": {
+        "longitude": 131.8012646,
+        "latitude": -1.1638758,
+        "elevation": 263
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.20.2006",
+      "name": "KAMLIN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.20",
+      "districtName": "WEMAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98455,
+      "coordinate": {
+        "longitude": 131.8616122,
+        "latitude": -1.117363,
+        "elevation": 246
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.20.2002",
+      "name": "KLAWAREN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.20",
+      "districtName": "WEMAK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.20.2001",
+      "name": "SALUK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.20",
+      "districtName": "WEMAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98455,
+      "coordinate": {
+        "longitude": 131.7950563,
+        "latitude": -1.1157055,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.20.2005",
+      "name": "KWARI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.20",
+      "districtName": "WEMAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98455,
+      "coordinate": {
+        "longitude": 131.7706786,
+        "latitude": -1.1069902,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.01.20.2003",
+      "name": "WOLOIN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.01",
+      "cityName": "KAB. SORONG",
+      "districtCode": "96.01.20",
+      "districtName": "WEMAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98214,
+      "coordinate": {
+        "longitude": 131.9047801,
+        "latitude": -1.3355855,
+        "elevation": 176
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

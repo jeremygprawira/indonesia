@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.11.1001",
+      "name": "TANJUNG SENANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.11",
+      "districtName": "TANJUNG SENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35141,
+      "coordinate": {
+        "longitude": 105.2782016,
+        "latitude": -5.3644733,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.11.1002",
+      "name": "WAY KANDIS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.11",
+      "districtName": "TANJUNG SENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35143,
+      "coordinate": {
+        "longitude": 105.2822365,
+        "latitude": -5.353856,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.11.1003",
+      "name": "LABUHAN DALAM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.11",
+      "districtName": "TANJUNG SENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35142,
+      "coordinate": {
+        "longitude": 105.2591848,
+        "latitude": -5.3566262,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.11.1004",
+      "name": "PERUMNAS WAY KANDIS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.11",
+      "districtName": "TANJUNG SENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35141,
+      "coordinate": {
+        "longitude": 105.2865575,
+        "latitude": -5.3638777,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.11.1005",
+      "name": "PEMATANG WANGI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.11",
+      "districtName": "TANJUNG SENANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35141,
+      "coordinate": {
+        "longitude": 105.277657,
+        "latitude": -5.3552343,
+        "elevation": 98
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

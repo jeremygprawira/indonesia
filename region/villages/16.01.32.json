@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.01.32.2001",
+      "name": "BUNGLAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70671,
+      "coordinate": {
+        "longitude": 115.1118011,
+        "latitude": -3.4898899,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.32.2002",
+      "name": "KEDATON",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62181,
+      "coordinate": {
+        "longitude": 111.9289334,
+        "latitude": -7.2023869,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.32.2003",
+      "name": "KAMPAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38874,
+      "coordinate": {
+        "longitude": 102.6981076,
+        "latitude": -4.1510095,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.32.2004",
+      "name": "RANTAU PANJANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75554,
+      "coordinate": {
+        "longitude": 116.9135588,
+        "latitude": 0.933645,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.32.2005",
+      "name": "KEDATON TIMUR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32193,
+      "coordinate": {
+        "longitude": 104.5025233,
+        "latitude": -3.8476246,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.32.2006",
+      "name": "SUKA PINDAH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38756,
+      "coordinate": {
+        "longitude": 101.1818711,
+        "latitude": -2.4268496,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.32.2007",
+      "name": "SINAR KEDATON",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32193,
+      "coordinate": {
+        "longitude": 104.4395155,
+        "latitude": -3.7575386,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.32.2008",
+      "name": "LUBUK KEMILING",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.32",
+      "districtName": "KEDATON PENINJAUAN RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32193,
+      "coordinate": {
+        "longitude": 104.5156984,
+        "latitude": -3.7973546,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

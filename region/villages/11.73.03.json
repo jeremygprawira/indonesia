@@ -1,0 +1,450 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.73.03.2001",
+      "name": "KUALA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95765,
+      "coordinate": {
+        "longitude": 123.2816993,
+        "latitude": 0.9006094,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2002",
+      "name": "BLANG CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1616439,
+        "latitude": 5.1377088,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2003",
+      "name": "JAMBO MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1643455,
+        "latitude": 5.1424893,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2004",
+      "name": "JAMBO TIMU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1733683,
+        "latitude": 5.1396317,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2005",
+      "name": "TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1634573,
+        "latitude": 5.1286512,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2006",
+      "name": "BLANG TEUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1699332,
+        "latitude": 5.1365157,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2007",
+      "name": "TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24416,
+      "coordinate": {
+        "longitude": 97.9757522,
+        "latitude": 4.4640502,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2008",
+      "name": "BALOI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1720777,
+        "latitude": 5.1235485,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2009",
+      "name": "MANE KAREUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1675151,
+        "latitude": 5.0897406,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2010",
+      "name": "ASAN KAREUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.163967,
+        "latitude": 5.0910979,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2011",
+      "name": "RAYEUK KAREUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1538267,
+        "latitude": 5.1001685,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2012",
+      "name": "BLANG PUNTEUET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1671761,
+        "latitude": 5.1126608,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2013",
+      "name": "KUMBANG PUNTEUET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1611109,
+        "latitude": 5.1139998,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2014",
+      "name": "MESJID PUNTEUET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1559508,
+        "latitude": 5.1176454,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2015",
+      "name": "ULEE BLANG MANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.171279,
+        "latitude": 5.1166197,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2016",
+      "name": "KEUDE PUNTEUET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1682229,
+        "latitude": 5.1158478,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2017",
+      "name": "ALUE LIM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1224904,
+        "latitude": 5.1152568,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2018",
+      "name": "BLANG BULOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1395089,
+        "latitude": 5.105721,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2019",
+      "name": "BLANG WEU PANJOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.0960229,
+        "latitude": 5.1517949,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2020",
+      "name": "JEULIKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.102025,
+        "latitude": 5.1444064,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2021",
+      "name": "BLANG WEU BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.104718,
+        "latitude": 5.1616357,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.73.03.2022",
+      "name": "SEUNEUBOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.73",
+      "cityName": "KOTA LHOKSEUMAWE",
+      "districtCode": "11.73.03",
+      "districtName": "BLANG MANGAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.0915884,
+        "latitude": 5.1617477,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 22
+  }
+}

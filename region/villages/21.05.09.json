@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.05.09.2001",
+      "name": "IMPOL",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.09",
+      "districtName": "JEMAJA BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29792,
+      "coordinate": {
+        "longitude": 105.72113,
+        "latitude": 3.0868389,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.09.2002",
+      "name": "KERAMUT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.09",
+      "districtName": "JEMAJA BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29792,
+      "coordinate": {
+        "longitude": 105.63042,
+        "latitude": 3.0974789,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.09.2003",
+      "name": "SUNGGAK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.09",
+      "districtName": "JEMAJA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98369,
+      "coordinate": {
+        "longitude": 132.34952,
+        "latitude": -0.4772332,
+        "elevation": 288
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

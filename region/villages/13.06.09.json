@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.09.2001",
+      "name": "KOTO TANGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.09",
+      "districtName": "TILATANG KAMANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26223,
+      "coordinate": {
+        "longitude": 100.61182,
+        "latitude": -0.2247773,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.09.2003",
+      "name": "GADUT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.09",
+      "districtName": "TILATANG KAMANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26153,
+      "coordinate": {
+        "longitude": 100.3743619,
+        "latitude": -0.2638723,
+        "elevation": 895
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.09.2004",
+      "name": "KAPAU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.09",
+      "districtName": "TILATANG KAMANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26153,
+      "coordinate": {
+        "longitude": 100.4035435,
+        "latitude": -0.2728219,
+        "elevation": 879
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

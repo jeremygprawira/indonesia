@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.13.1003",
+      "name": "LABUNIA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.13",
+      "districtName": "WAKORUMBA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93681,
+      "coordinate": {
+        "longitude": 122.8632538,
+        "latitude": -4.88706,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.13.2001",
+      "name": "WAMBONA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.13",
+      "districtName": "WAKORUMBA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93681,
+      "coordinate": {
+        "longitude": 122.8322971,
+        "latitude": -4.8526672,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.13.2004",
+      "name": "BAKEALU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.13",
+      "districtName": "WAKORUMBA SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.13.2005",
+      "name": "PURE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.13",
+      "districtName": "WAKORUMBA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93681,
+      "coordinate": {
+        "longitude": 122.88033,
+        "latitude": -4.9239055,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.13.2006",
+      "name": "WAKORUMBA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.13",
+      "districtName": "WAKORUMBA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93681,
+      "coordinate": {
+        "longitude": 122.8436249,
+        "latitude": -4.9367983,
+        "elevation": 111
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

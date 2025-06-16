@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.02.14.2001",
+      "name": "OKSOP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.14",
+      "districtName": "OKSOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99416,
+      "coordinate": {
+        "longitude": 140.5259527,
+        "latitude": -4.7912074,
+        "elevation": 2474
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.14.2002",
+      "name": "MIMIN",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.14",
+      "districtName": "OKSOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99416,
+      "coordinate": {
+        "longitude": 140.5597272,
+        "latitude": -4.7494448,
+        "elevation": 2373
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.14.2003",
+      "name": "ATENOR",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.14",
+      "districtName": "OKSOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99416,
+      "coordinate": {
+        "longitude": 140.5216714,
+        "latitude": -4.7555141,
+        "elevation": 2638
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.14.2004",
+      "name": "OKTUMI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.14",
+      "districtName": "OKSOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99425,
+      "coordinate": {
+        "longitude": 140.8185575,
+        "latitude": -4.733065,
+        "elevation": 1685
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.14.2005",
+      "name": "ALUTBAKON",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.14",
+      "districtName": "OKSOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99416,
+      "coordinate": {
+        "longitude": 140.5433864,
+        "latitude": -4.8344512,
+        "elevation": 2264
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

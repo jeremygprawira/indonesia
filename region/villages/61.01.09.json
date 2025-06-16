@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.01.09.2001",
+      "name": "KALIAU-",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.09",
+      "districtName": "SAJINGAN BESAR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.09.2002",
+      "name": "SEBUNGA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.09",
+      "districtName": "SAJINGAN BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79467,
+      "coordinate": {
+        "longitude": 109.6918917,
+        "latitude": 1.520231,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.09.2003",
+      "name": "SANTABAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.09",
+      "districtName": "SAJINGAN BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79467,
+      "coordinate": {
+        "longitude": 109.5382297,
+        "latitude": 1.6811298,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.09.2004",
+      "name": "SANATAB",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.09",
+      "districtName": "SAJINGAN BESAR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.01.09.2005",
+      "name": "SUNGAI BENING",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.01",
+      "cityName": "KAB. SAMBAS",
+      "districtCode": "61.01.09",
+      "districtName": "SAJINGAN BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79467,
+      "coordinate": {
+        "longitude": 109.5863164,
+        "latitude": 1.7786994,
+        "elevation": 60
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

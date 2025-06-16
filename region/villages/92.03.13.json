@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.03.13.2001",
+      "name": "ANDAMATA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.13",
+      "districtName": "ARGUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98014,
+      "coordinate": {
+        "longitude": 132.5398184,
+        "latitude": -2.6886663,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.13.2002",
+      "name": "TAVER",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.13",
+      "districtName": "ARGUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98014,
+      "coordinate": {
+        "longitude": 132.5473402,
+        "latitude": -2.6525603,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.13.2003",
+      "name": "ARGUNI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.13",
+      "districtName": "ARGUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98014,
+      "coordinate": {
+        "longitude": 132.5538188,
+        "latitude": -2.6480736,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.13.2004",
+      "name": "FIOR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.13",
+      "districtName": "ARGUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98014,
+      "coordinate": {
+        "longitude": 132.5908868,
+        "latitude": -2.7060592,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.03.13.2005",
+      "name": "FURIR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.03",
+      "cityName": "KAB. FAK FAK",
+      "districtCode": "92.03.13",
+      "districtName": "ARGUNI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98014,
+      "coordinate": {
+        "longitude": 132.6200233,
+        "latitude": -2.7277056,
+        "elevation": 151
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

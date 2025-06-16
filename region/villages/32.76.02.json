@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.02.1007",
+      "name": "HARJAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.02",
+      "districtName": "CIMANGGIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16454,
+      "coordinate": {
+        "longitude": 106.8922915,
+        "latitude": -6.3758733,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.02.1008",
+      "name": "CURUG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.02",
+      "districtName": "CIMANGGIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42171,
+      "coordinate": {
+        "longitude": 106.1814928,
+        "latitude": -6.1749669,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.02.1009",
+      "name": "TUGU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.02",
+      "districtName": "CIMANGGIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42284,
+      "coordinate": {
+        "longitude": 105.620572,
+        "latitude": -6.8037748,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.02.1010",
+      "name": "MEKARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.02",
+      "districtName": "CIMANGGIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.02.1011",
+      "name": "PASIR GUNUNG SELATAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.02",
+      "districtName": "CIMANGGIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16451,
+      "coordinate": {
+        "longitude": 106.8446778,
+        "latitude": -6.3435138,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.02.1012",
+      "name": "CISALAK PASAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.02",
+      "districtName": "CIMANGGIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16452,
+      "coordinate": {
+        "longitude": 106.8788781,
+        "latitude": -6.3759019,
+        "elevation": 83
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

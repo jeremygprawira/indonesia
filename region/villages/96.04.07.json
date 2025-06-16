@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.04.07.2002",
+      "name": "BANSO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.07",
+      "districtName": "SYUJAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98374,
+      "coordinate": {
+        "longitude": 132.5283922,
+        "latitude": -0.6557885,
+        "elevation": 713
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.07.2001",
+      "name": "SYUJAK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.07",
+      "districtName": "SYUJAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98374,
+      "coordinate": {
+        "longitude": 132.3995719,
+        "latitude": -0.6525212,
+        "elevation": 1471
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.07.2004",
+      "name": "FRAFANE",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.07",
+      "districtName": "SYUJAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98374,
+      "coordinate": {
+        "longitude": 132.297749,
+        "latitude": -0.5935219,
+        "elevation": 950
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.07.2003",
+      "name": "IOF",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.07",
+      "districtName": "SYUJAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98374,
+      "coordinate": {
+        "longitude": 132.4703233,
+        "latitude": -0.6776942,
+        "elevation": 1481
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

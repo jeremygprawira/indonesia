@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.04.20.2001",
+      "name": "PELITA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.20",
+      "districtName": "MANDIOLI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.3350246,
+        "latitude": -1.8563327,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.20.2002",
+      "name": "INDONG",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.20",
+      "districtName": "MANDIOLI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97791,
+      "coordinate": {
+        "longitude": 127.2959433,
+        "latitude": -0.6912659,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.20.2003",
+      "name": "WAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.20",
+      "districtName": "MANDIOLI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97791,
+      "coordinate": {
+        "longitude": 127.290338,
+        "latitude": -0.7180059,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.20.2004",
+      "name": "LELEONGUSU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.20",
+      "districtName": "MANDIOLI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97791,
+      "coordinate": {
+        "longitude": 127.2113394,
+        "latitude": -0.6264393,
+        "elevation": 119
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.20.2005",
+      "name": "AKEDABO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.20",
+      "districtName": "MANDIOLI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97791,
+      "coordinate": {
+        "longitude": 127.2556856,
+        "latitude": -0.620255,
+        "elevation": 265
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.20.2006",
+      "name": "BOBO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.20",
+      "districtName": "MANDIOLI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97823,
+      "coordinate": {
+        "longitude": 127.3664314,
+        "latitude": 0.6657905,
+        "elevation": 37
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

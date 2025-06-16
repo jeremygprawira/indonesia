@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.71.04.1001",
+      "name": "BERENG BENGKEL",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.04",
+      "districtName": "SABANGAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73114,
+      "coordinate": {
+        "longitude": 114.0223843,
+        "latitude": -2.2467564,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.04.1002",
+      "name": "KALAMPANGAN",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.04",
+      "districtName": "SABANGAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73114,
+      "coordinate": {
+        "longitude": 114.0201288,
+        "latitude": -2.2867625,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.04.1003",
+      "name": "KERENG BANGKIRAI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.04",
+      "districtName": "SABANGAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73113,
+      "coordinate": {
+        "longitude": 113.8062811,
+        "latitude": -2.2863181,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.04.1004",
+      "name": "KAMELOH BARU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.04",
+      "districtName": "SABANGAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73114,
+      "coordinate": {
+        "longitude": 114.0500097,
+        "latitude": -2.2658245,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.04.1005",
+      "name": "DANAU TUNDAI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.04",
+      "districtName": "SABANGAU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73114,
+      "coordinate": {
+        "longitude": 114.0056385,
+        "latitude": -2.224482,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.04.1006",
+      "name": "SABARU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.04",
+      "districtName": "SABANGAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90672,
+      "coordinate": {
+        "longitude": 117.0528243,
+        "latitude": -5.0958596,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

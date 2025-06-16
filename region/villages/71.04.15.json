@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.04.15.2001",
+      "name": "PULUTAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.15",
+      "districtName": "PULUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95878,
+      "coordinate": {
+        "longitude": 126.7917644,
+        "latitude": 4.1458893,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.15.2002",
+      "name": "PULUTAN UTARA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.15",
+      "districtName": "PULUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95878,
+      "coordinate": {
+        "longitude": 126.7967094,
+        "latitude": 4.1514665,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.15.2003",
+      "name": "PULUTAN SELATAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.15",
+      "districtName": "PULUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95878,
+      "coordinate": {
+        "longitude": 126.8012962,
+        "latitude": 4.113938,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.15.2004",
+      "name": "DARAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.15",
+      "districtName": "PULUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95878,
+      "coordinate": {
+        "longitude": 126.8036683,
+        "latitude": 4.1608424,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.04.15.2005",
+      "name": "DARAN UTARA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.15",
+      "districtName": "PULUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95878,
+      "coordinate": {
+        "longitude": 126.8108591,
+        "latitude": 4.1692402,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

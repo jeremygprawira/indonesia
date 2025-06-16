@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "64.11.01",
+      "name": "LONG BAGUN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU"
+    },
+    {
+      "type": "district",
+      "code": "64.11.02",
+      "name": "LONG HUBUNG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU"
+    },
+    {
+      "type": "district",
+      "code": "64.11.03",
+      "name": "LAHAM",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU"
+    },
+    {
+      "type": "district",
+      "code": "64.11.04",
+      "name": "LONG APARI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU"
+    },
+    {
+      "type": "district",
+      "code": "64.11.05",
+      "name": "LONG PAHANGAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

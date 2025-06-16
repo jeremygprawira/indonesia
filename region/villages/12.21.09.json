@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.21.09.2001",
+      "name": "TANJUNG BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78683,
+      "coordinate": {
+        "longitude": 112.3768229,
+        "latitude": -0.2669518,
+        "elevation": 337
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2002",
+      "name": "TAMIANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72169,
+      "coordinate": {
+        "longitude": 116.304368,
+        "latitude": -2.4272491,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2003",
+      "name": "TANJUNG BARANI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.976827,
+        "latitude": 0.9313937,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2004",
+      "name": "MANGGIS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97592,
+      "coordinate": {
+        "longitude": 130.7889662,
+        "latitude": -3.8218769,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2005",
+      "name": "PAGARAN TAYAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.9876762,
+        "latitude": 0.9163084,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2006",
+      "name": "HATONGGA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.9939278,
+        "latitude": 0.9116287,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2007",
+      "name": "BOTUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.9864538,
+        "latitude": 0.8901584,
+        "elevation": 170
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2008",
+      "name": "SIADAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.9894528,
+        "latitude": 0.8822758,
+        "elevation": 185
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2009",
+      "name": "SIOJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.9938664,
+        "latitude": 0.874037,
+        "elevation": 369
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2010",
+      "name": "PAGARAN MANGGIS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 99.9990591,
+        "latitude": 0.8732605,
+        "elevation": 260
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2011",
+      "name": "MUARA MALINTO LAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0248578,
+        "latitude": 0.8556288,
+        "elevation": 296
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2012",
+      "name": "HUTABARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0105209,
+        "latitude": 0.8758788,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2013",
+      "name": "HUTA NOPAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0155996,
+        "latitude": 0.8745257,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2014",
+      "name": "TANDOLAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0188563,
+        "latitude": 0.8737979,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2015",
+      "name": "TANGGA BATU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74663,
+      "coordinate": {
+        "longitude": 111.4432127,
+        "latitude": -1.8645134,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2016",
+      "name": "PAGARAN DOLOK PINARIK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0225815,
+        "latitude": 0.8754742,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2017",
+      "name": "MUARA MALINTO BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0062205,
+        "latitude": 0.8761846,
+        "elevation": 158
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2018",
+      "name": "AEK SORIK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0259169,
+        "latitude": 0.8919937,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2019",
+      "name": "TANJUNG BOTUNG PINARIK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.0345283,
+        "latitude": 0.8536383,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.21.09.2020",
+      "name": "PINARIK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.21",
+      "cityName": "KAB. PADANG LAWAS",
+      "districtCode": "12.21.09",
+      "districtName": "BATANG LUBU SUTAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22742,
+      "coordinate": {
+        "longitude": 100.1076384,
+        "latitude": 0.8182038,
+        "elevation": 655
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

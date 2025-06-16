@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.04.13.2001",
+      "name": "BATU BULEK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.13",
+      "districtName": "LINTAU BUO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27293,
+      "coordinate": {
+        "longitude": 100.692295,
+        "latitude": -0.370771,
+        "elevation": 1102
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.13.2002",
+      "name": "BALAI TANGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.13",
+      "districtName": "LINTAU BUO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27293,
+      "coordinate": {
+        "longitude": 100.7385966,
+        "latitude": -0.4099315,
+        "elevation": 515
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.13.2003",
+      "name": "TANJUANG BONAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.13",
+      "districtName": "LINTAU BUO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27293,
+      "coordinate": {
+        "longitude": 100.7868876,
+        "latitude": -0.3682171,
+        "elevation": 470
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.13.2004",
+      "name": "LUBUAK JANTAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.13",
+      "districtName": "LINTAU BUO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27293,
+      "coordinate": {
+        "longitude": 100.792139,
+        "latitude": -0.4211214,
+        "elevation": 754
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.13.2005",
+      "name": "TAPI SELO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.13",
+      "districtName": "LINTAU BUO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27293,
+      "coordinate": {
+        "longitude": 100.6866679,
+        "latitude": -0.4280334,
+        "elevation": 841
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

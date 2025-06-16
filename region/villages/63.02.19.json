@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.02.19.2001",
+      "name": "SENGAYAM",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.19",
+      "districtName": "PAMUKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72169,
+      "coordinate": {
+        "longitude": 115.9968234,
+        "latitude": -2.3599643,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.19.2002",
+      "name": "MAYANG SARI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.19",
+      "districtName": "PAMUKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72169,
+      "coordinate": {
+        "longitude": 116.0278942,
+        "latitude": -2.3333884,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.19.2003",
+      "name": "MARGA JAYA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.19",
+      "districtName": "PAMUKAN BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.533069,
+        "latitude": -3.4722242,
+        "elevation": 255
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.19.2004",
+      "name": "MANGKA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.19",
+      "districtName": "PAMUKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72169,
+      "coordinate": {
+        "longitude": 116.030175,
+        "latitude": -2.371757,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.19.2005",
+      "name": "BATUAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.19",
+      "districtName": "PAMUKAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75391,
+      "coordinate": {
+        "longitude": 117.0569398,
+        "latitude": -0.7999136,
+        "elevation": 63
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

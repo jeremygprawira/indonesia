@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.01.13.1003",
+      "name": "NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.13",
+      "districtName": "SITAHUIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22380,
+      "coordinate": {
+        "longitude": 99.1708551,
+        "latitude": 2.4063093,
+        "elevation": 912
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.13.2001",
+      "name": "BONANDOLOK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.13",
+      "districtName": "SITAHUIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22611,
+      "coordinate": {
+        "longitude": 98.8129065,
+        "latitude": 1.7692557,
+        "elevation": 467
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.13.2002",
+      "name": "RAMPA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.13",
+      "districtName": "SITAHUIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72114,
+      "coordinate": {
+        "longitude": 116.2220203,
+        "latitude": -3.2400446,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.13.2004",
+      "name": "MARDAME",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.13",
+      "districtName": "SITAHUIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22611,
+      "coordinate": {
+        "longitude": 98.7811773,
+        "latitude": 1.8428337,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.13.2005",
+      "name": "NAGA TIMBUL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.13",
+      "districtName": "SITAHUIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22387,
+      "coordinate": {
+        "longitude": 99.1441893,
+        "latitude": 2.4937565,
+        "elevation": 939
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.13.2006",
+      "name": "SIMANINGGIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.13",
+      "districtName": "SITAHUIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22763,
+      "coordinate": {
+        "longitude": 99.7178571,
+        "latitude": 1.079459,
+        "elevation": 162
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

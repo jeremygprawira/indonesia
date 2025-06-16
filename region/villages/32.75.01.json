@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.01.1001",
+      "name": "BEKASIJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.01",
+      "districtName": "BEKASI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17112,
+      "coordinate": {
+        "longitude": 107.0164214,
+        "latitude": -6.230647,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.01.1002",
+      "name": "MARGAHAYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.01",
+      "districtName": "BEKASI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75571,
+      "coordinate": {
+        "longitude": 116.8400512,
+        "latitude": -0.5082879,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.01.1003",
+      "name": "DURENJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.01",
+      "districtName": "BEKASI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17111,
+      "coordinate": {
+        "longitude": 107.0275973,
+        "latitude": -6.237424,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.01.1004",
+      "name": "ARENJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.01",
+      "districtName": "BEKASI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17111,
+      "coordinate": {
+        "longitude": 107.0336431,
+        "latitude": -6.240427,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

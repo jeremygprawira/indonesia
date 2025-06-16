@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.11.2001",
+      "name": "TOTOBERI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.11",
+      "districtName": "WAPOGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98861,
+      "coordinate": {
+        "longitude": 136.0159165,
+        "latitude": -2.8751011,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.11.2002",
+      "name": "SAMANUI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.11",
+      "districtName": "WAPOGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98861,
+      "coordinate": {
+        "longitude": 135.9640954,
+        "latitude": -2.7890916,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.11.2003",
+      "name": "KAMARISANO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.11",
+      "districtName": "WAPOGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98861,
+      "coordinate": {
+        "longitude": 136.2506081,
+        "latitude": -2.9320813,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.11.2004",
+      "name": "TAUMI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.11",
+      "districtName": "WAPOGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98861,
+      "coordinate": {
+        "longitude": 136.0656641,
+        "latitude": -2.9401796,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.11.2005",
+      "name": "KEUW",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.11",
+      "districtName": "WAPOGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98861,
+      "coordinate": {
+        "longitude": 136.1404679,
+        "latitude": -2.8104035,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.03.23.1001",
+      "name": "PANANEKENG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.23",
+      "districtName": "TAHUNA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95811,
+      "coordinate": {
+        "longitude": 125.470691,
+        "latitude": 3.6411292,
+        "elevation": 222
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.23.1002",
+      "name": "ANGGES",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.23",
+      "districtName": "TAHUNA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95817,
+      "coordinate": {
+        "longitude": 125.4565483,
+        "latitude": 3.642923,
+        "elevation": 202
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.23.1003",
+      "name": "KOLONGAN MITUNG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.23",
+      "districtName": "TAHUNA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95817,
+      "coordinate": {
+        "longitude": 125.452223,
+        "latitude": 3.6448983,
+        "elevation": 224
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.23.1004",
+      "name": "KOLONGAN BEHA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.23",
+      "districtName": "TAHUNA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95818,
+      "coordinate": {
+        "longitude": 125.4364795,
+        "latitude": 3.64088,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.23.1005",
+      "name": "KOLONGAN BEHA BARU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.23",
+      "districtName": "TAHUNA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95815,
+      "coordinate": {
+        "longitude": 125.4459523,
+        "latitude": 3.6458602,
+        "elevation": 206
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.23.1006",
+      "name": "KOLONGAN AKEMBAWI",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.23",
+      "districtName": "TAHUNA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95818,
+      "coordinate": {
+        "longitude": 125.4230203,
+        "latitude": 3.6505188,
+        "elevation": 316
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "51.07.07.2001",
+      "name": "MUNCAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83553,
+      "coordinate": {
+        "longitude": 116.3280444,
+        "latitude": -8.6595737,
+        "elevation": 317
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.07.07.2002",
+      "name": "SELAT",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83370,
+      "coordinate": {
+        "longitude": 116.2119462,
+        "latitude": -8.5775173,
+        "elevation": 163
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.07.07.2003",
+      "name": "DUDA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80862,
+      "coordinate": {
+        "longitude": 115.4882562,
+        "latitude": -8.4509969,
+        "elevation": 496
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.07.07.2004",
+      "name": "SEBUDI",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80862,
+      "coordinate": {
+        "longitude": 115.4801573,
+        "latitude": -8.3883821,
+        "elevation": 973
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.07.07.2005",
+      "name": "DUDA UTARA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80862,
+      "coordinate": {
+        "longitude": 115.5039901,
+        "latitude": -8.4229722,
+        "elevation": 665
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.07.07.2006",
+      "name": "DUDA TIMUR",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80862,
+      "coordinate": {
+        "longitude": 115.5012013,
+        "latitude": -8.4578371,
+        "elevation": 593
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.07.07.2007",
+      "name": "PERINGSARI",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.07.07.2008",
+      "name": "AMERTA BHUANA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.07",
+      "cityName": "KAB. KARANGASEM",
+      "districtCode": "51.07.07",
+      "districtName": "SELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80862,
+      "coordinate": {
+        "longitude": 115.4880268,
+        "latitude": -8.4197236,
+        "elevation": 670
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

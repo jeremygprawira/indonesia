@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.72.01.1001",
+      "name": "PENJARINGAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.01",
+      "districtName": "PENJARINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14440,
+      "coordinate": {
+        "longitude": 106.7994284,
+        "latitude": -6.1198328,
+        "elevation": -3
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.72.01.1002",
+      "name": "KAMAL MUARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.01",
+      "districtName": "PENJARINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14470,
+      "coordinate": {
+        "longitude": 106.7356919,
+        "latitude": -6.1005999,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.72.01.1003",
+      "name": "KAPUK MUARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.01",
+      "districtName": "PENJARINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14460,
+      "coordinate": {
+        "longitude": 106.7631963,
+        "latitude": -6.1126766,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.72.01.1004",
+      "name": "PEJAGALAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.01",
+      "districtName": "PENJARINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14450,
+      "coordinate": {
+        "longitude": 106.7832397,
+        "latitude": -6.1349751,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.72.01.1005",
+      "name": "PLUIT",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.01",
+      "districtName": "PENJARINGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14450,
+      "coordinate": {
+        "longitude": 106.7838313,
+        "latitude": -6.1076156,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

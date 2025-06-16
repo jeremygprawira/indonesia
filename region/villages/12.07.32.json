@@ -1,0 +1,390 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.07.32.2001",
+      "name": "SEI TUAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.8066539,
+        "latitude": 3.6884817,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2002",
+      "name": "TENGAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8002787,
+        "latitude": -4.3669841,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2003",
+      "name": "BAGAN SERDANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.8487617,
+        "latitude": 3.6981953,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2004",
+      "name": "RANTAU PANJANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75554,
+      "coordinate": {
+        "longitude": 116.9135588,
+        "latitude": 0.933645,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2005",
+      "name": "RUGEMUK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2006",
+      "name": "KUBAH SENTANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.8688716,
+        "latitude": 3.6591531,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2007",
+      "name": "PANTAI LABU PEKAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.9015088,
+        "latitude": 3.667441,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2008",
+      "name": "PANTAI LABU BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.9067441,
+        "latitude": 3.6527213,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2009",
+      "name": "RAMUNIA 1",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2010",
+      "name": "RAMUNIA 2",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2011",
+      "name": "PERKEBUNAN RAMUNIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.8924581,
+        "latitude": 3.6460002,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2012",
+      "name": "DENAI LAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.9267283,
+        "latitude": 3.6356396,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2013",
+      "name": "DENAI KUALA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.9386385,
+        "latitude": 3.6742561,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2014",
+      "name": "DENAI SARANG BURUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.918333,
+        "latitude": 3.6557552,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2015",
+      "name": "BINJAI BAKUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.9371906,
+        "latitude": 3.642873,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2016",
+      "name": "PALUH SIBAJI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.9059625,
+        "latitude": 3.6652015,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2017",
+      "name": "KELAMBIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.8443942,
+        "latitude": 3.6773347,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2018",
+      "name": "DURIAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96513,
+      "coordinate": {
+        "longitude": 123.0236369,
+        "latitude": 0.8345443,
+        "elevation": 366
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.32.2019",
+      "name": "PEMATANG BIARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.32",
+      "districtName": "PANTAI LABU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20553,
+      "coordinate": {
+        "longitude": 98.8664641,
+        "latitude": 3.675371,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 19
+  }
+}

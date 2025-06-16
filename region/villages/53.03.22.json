@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.22.2001",
+      "name": "TEBA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.22",
+      "districtName": "BIBOKI TAN PAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85684,
+      "coordinate": {
+        "longitude": 124.7516611,
+        "latitude": -9.3871667,
+        "elevation": 503
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.22.2002",
+      "name": "OERINBESI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.22",
+      "districtName": "BIBOKI TAN PAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85684,
+      "coordinate": {
+        "longitude": 124.7909465,
+        "latitude": -9.3527165,
+        "elevation": 372
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.22.2003",
+      "name": "OEKOPA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.22",
+      "districtName": "BIBOKI TAN PAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85684,
+      "coordinate": {
+        "longitude": 124.795131,
+        "latitude": -9.3306528,
+        "elevation": 362
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.22.2004",
+      "name": "T-EBA TIMUR",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.22",
+      "districtName": "BIBOKI TAN PAH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

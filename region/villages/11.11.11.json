@@ -1,0 +1,830 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.11.11.2001",
+      "name": "RHEUM BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3901761,
+        "latitude": 5.200735,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2002",
+      "name": "RHEUM BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4014126,
+        "latitude": 5.2085666,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2003",
+      "name": "RHEUM TIMU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3981689,
+        "latitude": 5.2035606,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2004",
+      "name": "BLANG KUTA COH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4007394,
+        "latitude": 5.1997044,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2005",
+      "name": "BLANG KUTA DUA MEUNASAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4070467,
+        "latitude": 5.2052914,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2006",
+      "name": "LANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1154536,
+        "latitude": 5.276798,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2007",
+      "name": "BLANG TEUMULEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4128498,
+        "latitude": 5.1969828,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2008",
+      "name": "MEUNASAH MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1260894,
+        "latitude": 5.1794528,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2009",
+      "name": "JURONG BINJEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4035579,
+        "latitude": 5.193504,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2010",
+      "name": "BLANG MANE DUA MEUNASAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2011",
+      "name": "BLANG MANE BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3897768,
+        "latitude": 5.1915223,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2012",
+      "name": "BALEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0816934,
+        "latitude": 5.2537716,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2013",
+      "name": "ARONGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23660,
+      "coordinate": {
+        "longitude": 96.2681878,
+        "latitude": 4.055797,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2014",
+      "name": "MEUNASAH MAMPLAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4090348,
+        "latitude": 5.1806186,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2015",
+      "name": "PULO DAPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4133154,
+        "latitude": 5.1890039,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2016",
+      "name": "CEURUCOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3829464,
+        "latitude": 5.1889727,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2017",
+      "name": "IE RHOB GLUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3926534,
+        "latitude": 5.1878057,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2018",
+      "name": "IE RHOB BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3934105,
+        "latitude": 5.181582,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2019",
+      "name": "IE RHOB TIMU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3879826,
+        "latitude": 5.16533,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2020",
+      "name": "IE RHOB BABAH LUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3791972,
+        "latitude": 5.1583595,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2021",
+      "name": "GLEE MEUDONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3803308,
+        "latitude": 5.176597,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2022",
+      "name": "PULO DRIEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4018688,
+        "latitude": 5.1863785,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2023",
+      "name": "MEUNASAH DAYAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24353,
+      "coordinate": {
+        "longitude": 97.0959704,
+        "latitude": 5.2008027,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2024",
+      "name": "COT TRIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24353,
+      "coordinate": {
+        "longitude": 97.0728054,
+        "latitude": 5.1816979,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2025",
+      "name": "KRUENG MEUSEUGOB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4053133,
+        "latitude": 5.0261044,
+        "elevation": 921
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2026",
+      "name": "LHOK TANOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4049776,
+        "latitude": 5.152588,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2027",
+      "name": "BLANG TAMBUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4224273,
+        "latitude": 5.1942215,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2028",
+      "name": "KEUDE TAMBUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4471186,
+        "latitude": 5.2014613,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2029",
+      "name": "MEUNASAH ASAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4308889,
+        "latitude": 5.2113469,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2030",
+      "name": "PEUNEULET TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.445951,
+        "latitude": 5.2099992,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2031",
+      "name": "CURE TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.433842,
+        "latitude": 5.2166075,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2032",
+      "name": "CURE BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4428607,
+        "latitude": 5.217695,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2033",
+      "name": "PEUNEULET BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4533308,
+        "latitude": 5.2182359,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2034",
+      "name": "ULEE KAREUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4590976,
+        "latitude": 5.2304982,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2035",
+      "name": "BLANG PAYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4674264,
+        "latitude": 5.2266173,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2036",
+      "name": "CALOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.480342,
+        "latitude": 5.2114319,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2037",
+      "name": "ALUE LEUHOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4743396,
+        "latitude": 5.2059457,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2038",
+      "name": "PAKU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91351,
+      "coordinate": {
+        "longitude": 119.4694428,
+        "latitude": -3.4843093,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2039",
+      "name": "LHOK MANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4724907,
+        "latitude": 5.219728,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2040",
+      "name": "TAMBUE BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.4193454,
+        "latitude": 5.2070421,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.11.2041",
+      "name": "MEUNASAH BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.11",
+      "districtName": "SIMPANG MAMPLAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24253,
+      "coordinate": {
+        "longitude": 96.3785585,
+        "latitude": 5.1933869,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 41
+  }
+}

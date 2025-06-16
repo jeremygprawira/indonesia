@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "94.08.01",
+      "name": "TIGI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI"
+    },
+    {
+      "type": "district",
+      "code": "94.08.02",
+      "name": "TIGI TIMUR",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI"
+    },
+    {
+      "type": "district",
+      "code": "94.08.03",
+      "name": "BOWOBADO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI"
+    },
+    {
+      "type": "district",
+      "code": "94.08.04",
+      "name": "TIGI BARAT",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI"
+    },
+    {
+      "type": "district",
+      "code": "94.08.05",
+      "name": "KAPIRAYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

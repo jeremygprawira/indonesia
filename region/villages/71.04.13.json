@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.04.13.2001",
+      "name": "PULAU MIANGAS",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.04",
+      "cityName": "KAB. KEPULAUAN TALAUD",
+      "districtCode": "71.04.13",
+      "districtName": "MIANGAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95889,
+      "coordinate": {
+        "longitude": 126.584454,
+        "latitude": 5.5576392,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 1
+  }
+}

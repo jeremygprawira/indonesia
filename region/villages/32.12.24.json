@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.12.24.2001",
+      "name": "BOGOR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98316,
+      "coordinate": {
+        "longitude": 133.823214,
+        "latitude": -0.9274183,
+        "elevation": 165
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.24.2002",
+      "name": "SUKRA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45259,
+      "coordinate": {
+        "longitude": 107.9260784,
+        "latitude": -6.2971523,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.24.2003",
+      "name": "UJUNGGEBANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45259,
+      "coordinate": {
+        "longitude": 107.9252497,
+        "latitude": -6.2707332,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.24.2004",
+      "name": "TEGALTAMAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.24.2005",
+      "name": "SUKRA WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.24.2006",
+      "name": "SUMURADEM",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45259,
+      "coordinate": {
+        "longitude": 107.9698253,
+        "latitude": -6.2799351,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.24.2007",
+      "name": "SUMURADEM TIMUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45259,
+      "coordinate": {
+        "longitude": 107.9735782,
+        "latitude": -6.3042972,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.24.2017",
+      "name": "KARANGLAYUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.24",
+      "districtName": "SUKRA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46199,
+      "coordinate": {
+        "longitude": 108.3740754,
+        "latitude": -7.4248163,
+        "elevation": 372
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

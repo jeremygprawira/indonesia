@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.10.23.2001",
+      "name": "TEGALSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.23",
+      "districtName": "TEGALSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42183,
+      "coordinate": {
+        "longitude": 106.2098711,
+        "latitude": -6.1564995,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.23.2002",
+      "name": "KARANGDORO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.23",
+      "districtName": "TEGALSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68485,
+      "coordinate": {
+        "longitude": 114.1088811,
+        "latitude": -8.430908,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.23.2003",
+      "name": "TAMANSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.23",
+      "districtName": "TEGALSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42438,
+      "coordinate": {
+        "longitude": 106.0013817,
+        "latitude": -5.9296445,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.23.2004",
+      "name": "DASRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.23",
+      "districtName": "TEGALSARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98459,
+      "coordinate": {
+        "longitude": 132.2059461,
+        "latitude": -0.9124923,
+        "elevation": 202
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.23.2005",
+      "name": "KARANGMULYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.23",
+      "districtName": "TEGALSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68485,
+      "coordinate": {
+        "longitude": 114.1180493,
+        "latitude": -8.4558765,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.23.2006",
+      "name": "TEGALREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.23",
+      "districtName": "TEGALSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94615,
+      "coordinate": {
+        "longitude": 120.7810818,
+        "latitude": -1.373442,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

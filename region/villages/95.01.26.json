@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.01.26.2001",
+      "name": "KORAGI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.26",
+      "districtName": "KORAGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99544,
+      "coordinate": {
+        "longitude": 138.8032321,
+        "latitude": -3.8707622,
+        "elevation": 1945
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.26.2002",
+      "name": "TELEGAI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.26",
+      "districtName": "KORAGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99544,
+      "coordinate": {
+        "longitude": 138.8117329,
+        "latitude": -3.8790737,
+        "elevation": 1683
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.26.2003",
+      "name": "KUMUDILUK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.26",
+      "districtName": "KORAGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99544,
+      "coordinate": {
+        "longitude": 138.8124531,
+        "latitude": -3.8613624,
+        "elevation": 1665
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.26.2004",
+      "name": "TAGIBAGA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.26",
+      "districtName": "KORAGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99544,
+      "coordinate": {
+        "longitude": 138.7967799,
+        "latitude": -3.866979,
+        "elevation": 1902
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.26.2005",
+      "name": "TENONDEK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.26",
+      "districtName": "KORAGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99544,
+      "coordinate": {
+        "longitude": 138.8068057,
+        "latitude": -3.8764233,
+        "elevation": 1777
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

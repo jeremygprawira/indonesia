@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.02.13.2003",
+      "name": "BEMUS",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.13",
+      "districtName": "FOKOUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98231,
+      "coordinate": {
+        "longitude": 132.0327481,
+        "latitude": -1.1739691,
+        "elevation": 142
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.13.2001",
+      "name": "PASIR PUTIH",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.13",
+      "districtName": "FOKOUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.13.2002",
+      "name": "WANDUM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.13",
+      "districtName": "FOKOUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98231,
+      "coordinate": {
+        "longitude": 132.0025451,
+        "latitude": -1.115474,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.13.2004",
+      "name": "WELEK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.13",
+      "districtName": "FOKOUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98231,
+      "coordinate": {
+        "longitude": 132.0797295,
+        "latitude": -1.2040458,
+        "elevation": 475
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

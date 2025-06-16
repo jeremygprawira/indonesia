@@ -1,0 +1,790 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.08.20.2001",
+      "name": "BLANG ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24554,
+      "coordinate": {
+        "longitude": 96.7181104,
+        "latitude": 4.843002,
+        "elevation": 763
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2002",
+      "name": "TGK.DIBANDA PIRAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2401983,
+        "latitude": 4.996963,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2003",
+      "name": "PAYA MEUDRU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2548121,
+        "latitude": 4.9892493,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2004",
+      "name": "BLANG SIALET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2300838,
+        "latitude": 4.9879242,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2005",
+      "name": "BUKET GURU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2399055,
+        "latitude": 4.9802693,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2006",
+      "name": "GEULUMPANG PIRAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2470627,
+        "latitude": 4.993091,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2007",
+      "name": "ALUE LHOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0199566,
+        "latitude": 4.3719729,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2008",
+      "name": "SEUNEUBOK ACEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24470,
+      "coordinate": {
+        "longitude": 98.1481572,
+        "latitude": 4.4189084,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2009",
+      "name": "BUKET PIDIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2545055,
+        "latitude": 4.9684221,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2010",
+      "name": "KEBON PIRAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2432137,
+        "latitude": 4.9554728,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2011",
+      "name": "ALUE LEUKOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2299807,
+        "latitude": 4.9566149,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2012",
+      "name": "BLANG MANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24268,
+      "coordinate": {
+        "longitude": 96.7444197,
+        "latitude": 5.0342649,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2013",
+      "name": "PEUREUPOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.207153,
+        "latitude": 4.9442007,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2014",
+      "name": "ALUE BIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2015",
+      "name": "PANTE SEULEUMAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2378908,
+        "latitude": 5.0153601,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2016",
+      "name": "MEURIA SEULEUMAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2358179,
+        "latitude": 5.0101754,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2017",
+      "name": "TUNONG KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2461767,
+        "latitude": 5.0136504,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2018",
+      "name": "GEUREUGHEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2418815,
+        "latitude": 5.0078234,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2019",
+      "name": "MEUNYE SEULEUMAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2472626,
+        "latitude": 5.0184399,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2020",
+      "name": "SIMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61264,
+      "coordinate": {
+        "longitude": 112.5912431,
+        "latitude": -7.4852611,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2021",
+      "name": "TUMPOK MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2492298,
+        "latitude": 5.0113656,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2022",
+      "name": "JOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2402649,
+        "latitude": 5.0198125,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2023",
+      "name": "LEUHONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2296039,
+        "latitude": 5.0052655,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2024",
+      "name": "TANJONG BURUNYONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2252451,
+        "latitude": 4.9983962,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2025",
+      "name": "KEUDE PAYA BAKONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2297923,
+        "latitude": 4.9922403,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2026",
+      "name": "BLANG GUNCI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2294782,
+        "latitude": 4.9861,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2027",
+      "name": "GAMPONG NGA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2304764,
+        "latitude": 4.9757756,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2028",
+      "name": "MAMPREE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2259074,
+        "latitude": 4.9842254,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2029",
+      "name": "MATANG PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24411,
+      "coordinate": {
+        "longitude": 98.0052938,
+        "latitude": 4.44855,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2030",
+      "name": "TANJONG DRIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2031",
+      "name": "ASAN SEULEUMAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2109645,
+        "latitude": 4.9712187,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2032",
+      "name": "TGK. DIBANDA TEK-TEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2184757,
+        "latitude": 4.9611041,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2033",
+      "name": "COT TEUFAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2114232,
+        "latitude": 4.9537321,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2034",
+      "name": "PUCOK ALUE SEULEUMAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2062834,
+        "latitude": 4.9660858,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2035",
+      "name": "LUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24261,
+      "coordinate": {
+        "longitude": 96.7865694,
+        "latitude": 5.2293472,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2036",
+      "name": "CEMPEUDAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.2329287,
+        "latitude": 4.9929963,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2037",
+      "name": "BLANG PAKU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24580,
+      "coordinate": {
+        "longitude": 96.7445269,
+        "latitude": 4.721885,
+        "elevation": 977
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2038",
+      "name": "BLANG DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3067826,
+        "latitude": 5.2072247,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.20.2039",
+      "name": "BLANG PANTE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.20",
+      "districtName": "PAYA BAKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24383,
+      "coordinate": {
+        "longitude": 97.1049593,
+        "latitude": 4.9257191,
+        "elevation": 200
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 39
+  }
+}

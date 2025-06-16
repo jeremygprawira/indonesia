@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.19.2001",
+      "name": "LABANGKA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.19",
+      "districtName": "LABANGKA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76285,
+      "coordinate": {
+        "longitude": 116.4569064,
+        "latitude": -1.4310685,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.19.2002",
+      "name": "SEKOKAT",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.19",
+      "districtName": "LABANGKA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84383,
+      "coordinate": {
+        "longitude": 117.7216529,
+        "latitude": -8.9030048,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.19.2003",
+      "name": "SUKA MULYA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.19",
+      "districtName": "LABANGKA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4120185,
+        "latitude": 0.7188407,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.19.2004",
+      "name": "SUKA DAMAI",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.19",
+      "districtName": "LABANGKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97789,
+      "coordinate": {
+        "longitude": 127.7464899,
+        "latitude": -0.2245384,
+        "elevation": 634
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.19.2005",
+      "name": "JAYA MAKMUR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.19",
+      "districtName": "LABANGKA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99646,
+      "coordinate": {
+        "longitude": 140.2580233,
+        "latitude": -8.2407339,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

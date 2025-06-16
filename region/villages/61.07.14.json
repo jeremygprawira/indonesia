@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.14.2001",
+      "name": "CIPTA KARYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.14",
+      "districtName": "SUNGAI BETUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79211,
+      "coordinate": {
+        "longitude": 109.4286398,
+        "latitude": 0.8535872,
+        "elevation": 183
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.14.2002",
+      "name": "SUKA BANGUN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.14",
+      "districtName": "SUNGAI BETUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79211,
+      "coordinate": {
+        "longitude": 109.3296312,
+        "latitude": 0.8705849,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.14.2003",
+      "name": "KARYA BHAKTI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.14",
+      "districtName": "SUNGAI BETUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93670,
+      "coordinate": {
+        "longitude": 123.0365777,
+        "latitude": -4.6447309,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.14.2004",
+      "name": "SUKA MAJU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.14",
+      "districtName": "SUNGAI BETUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

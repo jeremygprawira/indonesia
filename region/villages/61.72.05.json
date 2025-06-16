@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.72.05.1001",
+      "name": "SEDAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.05",
+      "districtName": "SINGKAWANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79163,
+      "coordinate": {
+        "longitude": 108.9136904,
+        "latitude": 0.8425322,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.05.1002",
+      "name": "SAGATANI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.05",
+      "districtName": "SINGKAWANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79163,
+      "coordinate": {
+        "longitude": 109.0193497,
+        "latitude": 0.7863338,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.05.1003",
+      "name": "SIJANGKUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.05",
+      "districtName": "SINGKAWANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79163,
+      "coordinate": {
+        "longitude": 108.9767788,
+        "latitude": 0.8526416,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.05.1004",
+      "name": "PANGMILANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.05",
+      "districtName": "SINGKAWANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79163,
+      "coordinate": {
+        "longitude": 108.9862864,
+        "latitude": 0.7932751,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

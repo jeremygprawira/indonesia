@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.04.01.2001",
+      "name": "NAMLEA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.01",
+      "districtName": "NAMLEA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97571,
+      "coordinate": {
+        "longitude": 127.0912848,
+        "latitude": -3.2582613,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.01.2002",
+      "name": "LALA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.01",
+      "districtName": "NAMLEA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97571,
+      "coordinate": {
+        "longitude": 127.095572,
+        "latitude": -3.2216034,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.01.2003",
+      "name": "KARANG JAYA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.01",
+      "districtName": "NAMLEA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97571,
+      "coordinate": {
+        "longitude": 127.0846104,
+        "latitude": -3.228409,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.01.2009",
+      "name": "SIAHONI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.01",
+      "districtName": "NAMLEA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97571,
+      "coordinate": {
+        "longitude": 127.0222493,
+        "latitude": -3.2518147,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.01.2010",
+      "name": "JAMILU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.01",
+      "districtName": "NAMLEA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97571,
+      "coordinate": {
+        "longitude": 127.0089949,
+        "latitude": -3.2620883,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.01.2011",
+      "name": "SANLEKO",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.01",
+      "districtName": "NAMLEA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97571,
+      "coordinate": {
+        "longitude": 127.0248493,
+        "latitude": -3.2900623,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.01.2012",
+      "name": "BATU BOY",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.01",
+      "districtName": "NAMLEA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97571,
+      "coordinate": {
+        "longitude": 127.0559281,
+        "latitude": -3.2526593,
+        "elevation": 41
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

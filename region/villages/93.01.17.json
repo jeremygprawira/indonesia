@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.17.2001",
+      "name": "KWEMSID",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.17",
+      "districtName": "KAPTEL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99636,
+      "coordinate": {
+        "longitude": 139.8744423,
+        "latitude": -7.9131076,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.17.2002",
+      "name": "KAPTEL",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.17",
+      "districtName": "KAPTEL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99636,
+      "coordinate": {
+        "longitude": 140.1322729,
+        "latitude": -7.422023,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.17.2003",
+      "name": "KANISKOBAT",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.17",
+      "districtName": "KAPTEL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99636,
+      "coordinate": {
+        "longitude": 139.9781238,
+        "latitude": -7.6240834,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.17.2004",
+      "name": "IHALIK",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.17",
+      "districtName": "KAPTEL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99636,
+      "coordinate": {
+        "longitude": 140.0248222,
+        "latitude": -7.4893204,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.17.2005",
+      "name": "BU EPE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.17",
+      "districtName": "KAPTEL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99636,
+      "coordinate": {
+        "longitude": 139.6609858,
+        "latitude": -7.6680546,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

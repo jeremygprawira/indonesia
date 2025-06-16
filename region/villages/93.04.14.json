@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.04.14.2001",
+      "name": "YAMKAP",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.14",
+      "districtName": "DER KOUMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99771,
+      "coordinate": {
+        "longitude": 138.7330328,
+        "latitude": -6.1948829,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.14.2002",
+      "name": "AMKUM",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.14",
+      "districtName": "DER KOUMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.14.2003",
+      "name": "AMARU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.14",
+      "districtName": "DER KOUMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99771,
+      "coordinate": {
+        "longitude": 138.8361338,
+        "latitude": -6.2715333,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.14.2004",
+      "name": "AMKAI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.14",
+      "districtName": "DER KOUMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99771,
+      "coordinate": {
+        "longitude": 138.7471548,
+        "latitude": -6.2733249,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.14.2005",
+      "name": "AMAGAIS",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.14",
+      "districtName": "DER KOUMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99771,
+      "coordinate": {
+        "longitude": 138.8181214,
+        "latitude": -6.1928958,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.04.14.2006",
+      "name": "EROSAMAN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.04",
+      "cityName": "KAB. ASMAT",
+      "districtCode": "93.04.14",
+      "districtName": "DER KOUMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99771,
+      "coordinate": {
+        "longitude": 138.7648505,
+        "latitude": -6.2273891,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

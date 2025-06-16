@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.01.02.1001",
+      "name": "SORKAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.5972976,
+        "latitude": 1.9067369,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.1002",
+      "name": "PARGARUTAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22739,
+      "coordinate": {
+        "longitude": 99.4405567,
+        "latitude": 1.5962874,
+        "elevation": 772
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.1004",
+      "name": "TARUTUNG BOLAK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22756,
+      "coordinate": {
+        "longitude": 99.6189546,
+        "latitude": 1.8276581,
+        "elevation": 552
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.1009",
+      "name": "NAIPOSPOS BARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.6114576,
+        "latitude": 1.9051091,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2003",
+      "name": "TELUK ROBAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.5788452,
+        "latitude": 1.8664856,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2005",
+      "name": "FAJAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.6445996,
+        "latitude": 1.9297529,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2006",
+      "name": "PARDAMEAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21128,
+      "coordinate": {
+        "longitude": 99.0733809,
+        "latitude": 2.9489062,
+        "elevation": 385
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2007",
+      "name": "PELITA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.3350246,
+        "latitude": -1.8563327,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2008",
+      "name": "RIANIATE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22390,
+      "coordinate": {
+        "longitude": 98.7342779,
+        "latitude": 2.5479721,
+        "elevation": 986
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2010",
+      "name": "GONTING MAHE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.6347946,
+        "latitude": 1.9097801,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2011",
+      "name": "DOLOK PANTIS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.6918629,
+        "latitude": 1.9607223,
+        "elevation": 390
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2014",
+      "name": "PEA RAJA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.6139579,
+        "latitude": 1.9178471,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2015",
+      "name": "BOTTOT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.5903904,
+        "latitude": 1.8749358,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2016",
+      "name": "SORKAM TENGAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.5979136,
+        "latitude": 1.9015145,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2017",
+      "name": "SORKAM KIRI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.5994478,
+        "latitude": 1.8920301,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2018",
+      "name": "PANANGGAHAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22567,
+      "coordinate": {
+        "longitude": 98.4159484,
+        "latitude": 2.034584,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2019",
+      "name": "PAGARAN JULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.6096506,
+        "latitude": 1.8856355,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2020",
+      "name": "HITE URAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.677242,
+        "latitude": 1.9186811,
+        "elevation": 210
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2021",
+      "name": "SIHAPAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22656,
+      "coordinate": {
+        "longitude": 98.8995119,
+        "latitude": 1.4556691,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2022",
+      "name": "NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22380,
+      "coordinate": {
+        "longitude": 99.1708551,
+        "latitude": 2.4063093,
+        "elevation": 912
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.02.2023",
+      "name": "MUARA NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.02",
+      "districtName": "SORKAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22560,
+      "coordinate": {
+        "longitude": 98.5986962,
+        "latitude": 1.8584087,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

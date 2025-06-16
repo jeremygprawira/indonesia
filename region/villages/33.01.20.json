@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.01.20.2001",
+      "name": "BINANGUN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42453,
+      "coordinate": {
+        "longitude": 106.0685458,
+        "latitude": -6.0939067,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.20.2002",
+      "name": "BANTARSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53281,
+      "coordinate": {
+        "longitude": 108.8675459,
+        "latitude": -7.5689253,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.20.2003",
+      "name": "CIKEDONDONG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53281,
+      "coordinate": {
+        "longitude": 108.9075572,
+        "latitude": -7.4937237,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.20.2004",
+      "name": "KEDUNGWADAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53281,
+      "coordinate": {
+        "longitude": 108.9238088,
+        "latitude": -7.4890529,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.20.2005",
+      "name": "CITEMBONG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53281,
+      "coordinate": {
+        "longitude": 108.9420436,
+        "latitude": -7.4810858,
+        "elevation": 274
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.20.2006",
+      "name": "KAMULYAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54366,
+      "coordinate": {
+        "longitude": 109.4931735,
+        "latitude": -7.6991318,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.20.2007",
+      "name": "RAWAJAYA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 128.014977,
+        "latitude": 1.7186143,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.20.2008",
+      "name": "BULAKSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.20",
+      "districtName": "BANTARSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51155,
+      "coordinate": {
+        "longitude": 109.5276109,
+        "latitude": -6.9629044,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

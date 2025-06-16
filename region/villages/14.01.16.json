@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.01.16.2001",
+      "name": "KAMPUNG PINANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.16",
+      "districtName": "PERHENTIAN RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28462,
+      "coordinate": {
+        "longitude": 101.4386523,
+        "latitude": 0.3787877,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.16.2002",
+      "name": "PANTAI RAJA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.16",
+      "districtName": "PERHENTIAN RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28462,
+      "coordinate": {
+        "longitude": 101.4248287,
+        "latitude": 0.2996634,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.16.2003",
+      "name": "HANGTUAH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.16",
+      "districtName": "PERHENTIAN RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28462,
+      "coordinate": {
+        "longitude": 101.3863977,
+        "latitude": 0.3076183,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.16.2004",
+      "name": "SIALANG KUBANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.16",
+      "districtName": "PERHENTIAN RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28462,
+      "coordinate": {
+        "longitude": 101.344056,
+        "latitude": 0.2803084,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.16.2005",
+      "name": "LUBUK SAKAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.16",
+      "districtName": "PERHENTIAN RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28462,
+      "coordinate": {
+        "longitude": 101.4218014,
+        "latitude": 0.3393801,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

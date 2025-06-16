@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.71.02.1002",
+      "name": "PASIR PUTIH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.02",
+      "districtName": "JAMBI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.02.1003",
+      "name": "TAMBAK SARI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.02",
+      "districtName": "JAMBI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67163,
+      "coordinate": {
+        "longitude": 112.6464914,
+        "latitude": -7.7875695,
+        "elevation": 951
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.02.1004",
+      "name": "THEHOK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.02",
+      "districtName": "JAMBI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36138,
+      "coordinate": {
+        "longitude": 103.625319,
+        "latitude": -1.6347612,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.02.1005",
+      "name": "WIJAYA PURA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.02",
+      "districtName": "JAMBI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36131,
+      "coordinate": {
+        "longitude": 103.6346769,
+        "latitude": -1.6136118,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.02.1006",
+      "name": "PAKUAN BARU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.02",
+      "districtName": "JAMBI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34762,
+      "coordinate": {
+        "longitude": 104.7386923,
+        "latitude": -4.4255775,
+        "elevation": 49
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

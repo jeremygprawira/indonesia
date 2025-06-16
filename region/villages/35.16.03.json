@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.16.03.2001",
+      "name": "KEMIRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99565,
+      "coordinate": {
+        "longitude": 138.648302,
+        "latitude": -3.9863651,
+        "elevation": 2771
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2002",
+      "name": "WIYU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5080523,
+        "latitude": -7.6426175,
+        "elevation": 408
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2003",
+      "name": "KESIMANTENGAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5210521,
+        "latitude": -7.642849,
+        "elevation": 434
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2004",
+      "name": "SAJEN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.525568,
+        "latitude": -7.6803436,
+        "elevation": 756
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2005",
+      "name": "PACET",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5396877,
+        "latitude": -7.6828569,
+        "elevation": 809
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2006",
+      "name": "PADUSAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5496027,
+        "latitude": -7.6964095,
+        "elevation": 1163
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2007",
+      "name": "CEPOKOLIMO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2008",
+      "name": "CLAKET",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5665707,
+        "latitude": -7.6930052,
+        "elevation": 1285
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2009",
+      "name": "CEMBOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5761149,
+        "latitude": -7.6733851,
+        "elevation": 949
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2010",
+      "name": "NOGOSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5688124,
+        "latitude": -7.6489622,
+        "elevation": 596
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2011",
+      "name": "KEMBANGBELOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5571014,
+        "latitude": -7.6469233,
+        "elevation": 551
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2012",
+      "name": "MOJOKEMBANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5622778,
+        "latitude": -7.6335552,
+        "elevation": 491
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2013",
+      "name": "BENDUNGANJATI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5498902,
+        "latitude": -7.6365087,
+        "elevation": 465
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2014",
+      "name": "PETAK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94754,
+      "coordinate": {
+        "longitude": 122.151953,
+        "latitude": -0.9104443,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2015",
+      "name": "CANDIWATU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5232621,
+        "latitude": -7.630242,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2016",
+      "name": "WARUGUNUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5333705,
+        "latitude": -7.6296535,
+        "elevation": 406
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2017",
+      "name": "TANJUNGKENONGO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.540737,
+        "latitude": -7.6135367,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2018",
+      "name": "SUMBERKEMBAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5500426,
+        "latitude": -7.6145576,
+        "elevation": 329
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2019",
+      "name": "KURIPANSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5453277,
+        "latitude": -7.602167,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.16.03.2020",
+      "name": "PANDANARUM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.16",
+      "cityName": "KAB. MOJOKERTO",
+      "districtCode": "35.16.03",
+      "districtName": "PACET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61374,
+      "coordinate": {
+        "longitude": 112.5302423,
+        "latitude": -7.6062074,
+        "elevation": 274
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

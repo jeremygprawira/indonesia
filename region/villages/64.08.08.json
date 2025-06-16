@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.08.08.2001",
+      "name": "MAKMUR JAYA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.08",
+      "districtName": "KOMBENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91579,
+      "coordinate": {
+        "longitude": 119.409388,
+        "latitude": -1.3443041,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.08.2002",
+      "name": "MARGA MULYA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.08",
+      "districtName": "KOMBENG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99631,
+      "coordinate": {
+        "longitude": 140.4887841,
+        "latitude": -8.4189429,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.08.2003",
+      "name": "SUKAMAJU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.08",
+      "districtName": "KOMBENG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.08.2004",
+      "name": "SIDOMULYO",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.08",
+      "districtName": "KOMBENG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.08.2005",
+      "name": "SRI PANTUN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.08",
+      "districtName": "KOMBENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75555,
+      "coordinate": {
+        "longitude": 116.9724226,
+        "latitude": 1.0518625,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.08.2006",
+      "name": "KOMBENG INDAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.08",
+      "districtName": "KOMBENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75555,
+      "coordinate": {
+        "longitude": 116.987302,
+        "latitude": 1.0518828,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.08.2007",
+      "name": "MIAU BARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.08",
+      "districtName": "KOMBENG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75555,
+      "coordinate": {
+        "longitude": 116.9176414,
+        "latitude": 1.3555043,
+        "elevation": 175
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

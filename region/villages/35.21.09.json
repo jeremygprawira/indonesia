@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.21.09.1013",
+      "name": "MARGOMULYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1810289,
+        "latitude": -1.3600825,
+        "elevation": 471
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.1014",
+      "name": "KARANGTENGAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62362,
+      "coordinate": {
+        "longitude": 111.6242076,
+        "latitude": -6.882498,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.1015",
+      "name": "KETANGGI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63211,
+      "coordinate": {
+        "longitude": 111.4484199,
+        "latitude": -7.399488,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.1016",
+      "name": "PELEM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62161,
+      "coordinate": {
+        "longitude": 111.7043734,
+        "latitude": -7.2383031,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2001",
+      "name": "MANGUNHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67217,
+      "coordinate": {
+        "longitude": 113.2282547,
+        "latitude": -7.7402359,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2002",
+      "name": "KANDANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60199,
+      "coordinate": {
+        "longitude": 112.6513782,
+        "latitude": -7.2510679,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2003",
+      "name": "KARTOHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63117,
+      "coordinate": {
+        "longitude": 111.5250283,
+        "latitude": -7.627968,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2004",
+      "name": "KARANGASRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63218,
+      "coordinate": {
+        "longitude": 111.4611018,
+        "latitude": -7.4089944,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2005",
+      "name": "BANYUURIP",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92966,
+      "coordinate": {
+        "longitude": 120.5268634,
+        "latitude": -2.6230166,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2006",
+      "name": "BERAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63216,
+      "coordinate": {
+        "longitude": 111.4303664,
+        "latitude": -7.4256173,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2007",
+      "name": "JURUREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63215,
+      "coordinate": {
+        "longitude": 111.4202767,
+        "latitude": -7.420018,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2008",
+      "name": "GRUDO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63214,
+      "coordinate": {
+        "longitude": 111.4272229,
+        "latitude": -7.4009362,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2009",
+      "name": "WATUALANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63218,
+      "coordinate": {
+        "longitude": 111.4012108,
+        "latitude": -7.4038293,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2010",
+      "name": "NGAWI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63218,
+      "coordinate": {
+        "longitude": 111.4642453,
+        "latitude": -7.3881471,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2011",
+      "name": "KARANGTENGAH PRANDON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63218,
+      "coordinate": {
+        "longitude": 111.4758661,
+        "latitude": -7.3920646,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.21.09.2012",
+      "name": "KEREK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.21",
+      "cityName": "KAB. NGAWI",
+      "districtCode": "35.21.09",
+      "districtName": "NGAWI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63218,
+      "coordinate": {
+        "longitude": 111.4666566,
+        "latitude": -7.3657695,
+        "elevation": 77
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "64.74.01",
+      "name": "BONTANG UTARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG"
+    },
+    {
+      "type": "district",
+      "code": "64.74.02",
+      "name": "BONTANG SELATAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG"
+    },
+    {
+      "type": "district",
+      "code": "64.74.03",
+      "name": "BONTANG BARAT",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG"
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

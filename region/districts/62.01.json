@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "62.01.01",
+      "name": "KUMAI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.01",
+      "cityName": "KAB. KOTAWARINGIN BARAT"
+    },
+    {
+      "type": "district",
+      "code": "62.01.02",
+      "name": "ARUT SELATAN",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.01",
+      "cityName": "KAB. KOTAWARINGIN BARAT"
+    },
+    {
+      "type": "district",
+      "code": "62.01.03",
+      "name": "KOTAWARINGIN LAMA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.01",
+      "cityName": "KAB. KOTAWARINGIN BARAT"
+    },
+    {
+      "type": "district",
+      "code": "62.01.04",
+      "name": "ARUT UTARA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.01",
+      "cityName": "KAB. KOTAWARINGIN BARAT"
+    },
+    {
+      "type": "district",
+      "code": "62.01.05",
+      "name": "PANGKALAN LADA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.01",
+      "cityName": "KAB. KOTAWARINGIN BARAT"
+    },
+    {
+      "type": "district",
+      "code": "62.01.06",
+      "name": "PANGKALAN BANTENG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.01",
+      "cityName": "KAB. KOTAWARINGIN BARAT"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

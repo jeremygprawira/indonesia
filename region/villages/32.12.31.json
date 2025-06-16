@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.12.31.2001",
+      "name": "LIMPAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45257,
+      "coordinate": {
+        "longitude": 107.9798531,
+        "latitude": -6.342262,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.31.2002",
+      "name": "MEKARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.31.2003",
+      "name": "PATROL BARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45257,
+      "coordinate": {
+        "longitude": 107.992392,
+        "latitude": -6.2965458,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.31.2004",
+      "name": "PATROL LOR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45257,
+      "coordinate": {
+        "longitude": 107.9965898,
+        "latitude": -6.2984252,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.31.2005",
+      "name": "PATROL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45257,
+      "coordinate": {
+        "longitude": 107.99173,
+        "latitude": -6.3321641,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.31.2006",
+      "name": "BUGEL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6059141,
+        "latitude": -6.1769462,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.31.2007",
+      "name": "ARJASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45257,
+      "coordinate": {
+        "longitude": 108.009012,
+        "latitude": -6.3425555,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.31.2008",
+      "name": "SUKAHAJI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.31",
+      "districtName": "PATROL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40221,
+      "coordinate": {
+        "longitude": 107.5830501,
+        "latitude": -6.9270492,
+        "elevation": 711
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

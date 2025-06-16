@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.11.06.2001",
+      "name": "YARMATUM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.11",
+      "cityName": "KAB. MANOKWARI SELATAN",
+      "districtCode": "92.11.06",
+      "districtName": "TAHOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98325,
+      "coordinate": {
+        "longitude": 133.9688318,
+        "latitude": -1.7786813,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.11.06.2002",
+      "name": "REYOB",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.11",
+      "cityName": "KAB. MANOKWARI SELATAN",
+      "districtCode": "92.11.06",
+      "districtName": "TAHOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98325,
+      "coordinate": {
+        "longitude": 133.9421226,
+        "latitude": -1.7925314,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.11.06.2003",
+      "name": "KAPRUS",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.11",
+      "cityName": "KAB. MANOKWARI SELATAN",
+      "districtCode": "92.11.06",
+      "districtName": "TAHOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98325,
+      "coordinate": {
+        "longitude": 133.9866176,
+        "latitude": -1.823289,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.11.06.2004",
+      "name": "SEIMEBA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.11",
+      "cityName": "KAB. MANOKWARI SELATAN",
+      "districtCode": "92.11.06",
+      "districtName": "TAHOTA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98325,
+      "coordinate": {
+        "longitude": 133.9720636,
+        "latitude": -1.6965607,
+        "elevation": 114
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

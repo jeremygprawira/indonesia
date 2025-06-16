@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.04.06.2002",
+      "name": "SYUKWO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.06",
+      "districtName": "ABUN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.06.2003",
+      "name": "WAIBEM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.06",
+      "districtName": "ABUN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98363,
+      "coordinate": {
+        "longitude": 132.9054689,
+        "latitude": -0.5813988,
+        "elevation": 1275
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.06.2001",
+      "name": "WAU",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.06",
+      "districtName": "ABUN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98363,
+      "coordinate": {
+        "longitude": 132.7795529,
+        "latitude": -0.4341633,
+        "elevation": 243
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.06.2005",
+      "name": "WEPRARI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.06",
+      "districtName": "ABUN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98363,
+      "coordinate": {
+        "longitude": 132.8777488,
+        "latitude": -0.5384841,
+        "elevation": 492
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.06.2004",
+      "name": "WEYAF",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.06",
+      "districtName": "ABUN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98363,
+      "coordinate": {
+        "longitude": 132.8176229,
+        "latitude": -0.5516046,
+        "elevation": 790
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

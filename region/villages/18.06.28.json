@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.06.28.2001",
+      "name": "LENGKUKAI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.28",
+      "districtName": "KELUMBAYAN BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35389,
+      "coordinate": {
+        "longitude": 105.0578039,
+        "latitude": -5.6443184,
+        "elevation": 221
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.28.2002",
+      "name": "SIDOHARJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.28",
+      "districtName": "KELUMBAYAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94765,
+      "coordinate": {
+        "longitude": 122.3768222,
+        "latitude": -1.4449195,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.28.2003",
+      "name": "MERBAU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.28",
+      "districtName": "KELUMBAYAN BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35389,
+      "coordinate": {
+        "longitude": 105.0233629,
+        "latitude": -5.6432173,
+        "elevation": 348
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.28.2004",
+      "name": "BATU PATAH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.28",
+      "districtName": "KELUMBAYAN BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35389,
+      "coordinate": {
+        "longitude": 105.0151149,
+        "latitude": -5.6638329,
+        "elevation": 250
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.28.2005",
+      "name": "PURWOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.28",
+      "districtName": "KELUMBAYAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92970,
+      "coordinate": {
+        "longitude": 120.8539597,
+        "latitude": -2.5056239,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.06.28.2006",
+      "name": "MARGA MULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.06",
+      "cityName": "KAB. TANGGAMUS",
+      "districtCode": "18.06.28",
+      "districtName": "KELUMBAYAN BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99631,
+      "coordinate": {
+        "longitude": 140.4887841,
+        "latitude": -8.4189429,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

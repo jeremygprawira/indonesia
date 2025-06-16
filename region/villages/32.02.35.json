@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.35.2001",
+      "name": "CIREUNGHAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.35",
+      "districtName": "CIREUNGHAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43193,
+      "coordinate": {
+        "longitude": 107.0157174,
+        "latitude": -6.945072,
+        "elevation": 564
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.35.2002",
+      "name": "CIPURUT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.35",
+      "districtName": "CIREUNGHAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43193,
+      "coordinate": {
+        "longitude": 106.9948711,
+        "latitude": -6.938885,
+        "elevation": 575
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.35.2003",
+      "name": "BENCOY",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.35",
+      "districtName": "CIREUNGHAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43193,
+      "coordinate": {
+        "longitude": 107.0450429,
+        "latitude": -6.9505528,
+        "elevation": 744
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.35.2004",
+      "name": "CIKURUTUG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.35",
+      "districtName": "CIREUNGHAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43193,
+      "coordinate": {
+        "longitude": 107.0178522,
+        "latitude": -6.9340705,
+        "elevation": 577
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.35.2005",
+      "name": "TEGALPANJANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.35",
+      "districtName": "CIREUNGHAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44115,
+      "coordinate": {
+        "longitude": 107.9828133,
+        "latitude": -7.1865389,
+        "elevation": 759
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

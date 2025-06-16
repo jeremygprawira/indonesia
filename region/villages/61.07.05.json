@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.05.2001",
+      "name": "SELUAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.05",
+      "districtName": "SELUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79285,
+      "coordinate": {
+        "longitude": 109.8524508,
+        "latitude": 1.2671961,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.05.2002",
+      "name": "BENGKAWAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.05",
+      "districtName": "SELUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79285,
+      "coordinate": {
+        "longitude": 109.8572537,
+        "latitude": 1.1576598,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.05.2003",
+      "name": "SAHAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.05",
+      "districtName": "SELUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79285,
+      "coordinate": {
+        "longitude": 109.8316619,
+        "latitude": 1.1462846,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.05.2004",
+      "name": "MAYAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.05",
+      "districtName": "SELUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79285,
+      "coordinate": {
+        "longitude": 109.7997489,
+        "latitude": 1.2226551,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.05.2005",
+      "name": "KALON",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.05",
+      "districtName": "SELUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79285,
+      "coordinate": {
+        "longitude": 109.6102783,
+        "latitude": 1.3384951,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.05.2006",
+      "name": "SENTANGAU JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.05",
+      "districtName": "SELUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79285,
+      "coordinate": {
+        "longitude": 109.7858055,
+        "latitude": 1.2798053,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

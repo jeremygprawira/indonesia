@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "31.72.01",
+      "name": "PENJARINGAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA"
+    },
+    {
+      "type": "district",
+      "code": "31.72.02",
+      "name": "TANJUNG PRIOK",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA"
+    },
+    {
+      "type": "district",
+      "code": "31.72.03",
+      "name": "KOJA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA"
+    },
+    {
+      "type": "district",
+      "code": "31.72.04",
+      "name": "CILINCING",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA"
+    },
+    {
+      "type": "district",
+      "code": "31.72.05",
+      "name": "PADEMANGAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA"
+    },
+    {
+      "type": "district",
+      "code": "31.72.06",
+      "name": "KELAPA GADING",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.02.22.2001",
+      "name": "BESANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.22",
+      "districtName": "MOLLO BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85541,
+      "coordinate": {
+        "longitude": 124.1317512,
+        "latitude": -9.7786521,
+        "elevation": 589
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.22.2002",
+      "name": "FATUKOKO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.22",
+      "districtName": "MOLLO BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85541,
+      "coordinate": {
+        "longitude": 124.1556004,
+        "latitude": -9.8654976,
+        "elevation": 356
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.22.2003",
+      "name": "KOA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.22",
+      "districtName": "MOLLO BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99644,
+      "coordinate": {
+        "longitude": 140.5008788,
+        "latitude": -7.9156286,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.22.2004",
+      "name": "OEL UBAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.22",
+      "districtName": "MOLLO BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85541,
+      "coordinate": {
+        "longitude": 124.1399753,
+        "latitude": -9.8139353,
+        "elevation": 461
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.22.2005",
+      "name": "SALBAIT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.22",
+      "districtName": "MOLLO BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85541,
+      "coordinate": {
+        "longitude": 124.1258087,
+        "latitude": -9.8682837,
+        "elevation": 314
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.18.1001",
+      "name": "LAURU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.18",
+      "districtName": "RUMBIA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0523902,
+        "latitude": -4.7766053,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.18.1002",
+      "name": "POEA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.18",
+      "districtName": "RUMBIA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0485919,
+        "latitude": -4.7956667,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.18.1003",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.18",
+      "districtName": "RUMBIA TENGAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.18.2004",
+      "name": "TAPUHAHI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.18",
+      "districtName": "RUMBIA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0698102,
+        "latitude": -4.7891493,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.18.2005",
+      "name": "LAMPATA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.18",
+      "districtName": "RUMBIA TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0900035,
+        "latitude": -4.8105391,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

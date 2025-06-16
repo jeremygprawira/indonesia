@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.72.04.1001",
+      "name": "LUBUK GAUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.04",
+      "districtName": "SUNGAI SEMBILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37316,
+      "coordinate": {
+        "longitude": 102.2197241,
+        "latitude": -2.0730454,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.04.1002",
+      "name": "TANJUNG PENYEMBAL",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.04",
+      "districtName": "SUNGAI SEMBILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28826,
+      "coordinate": {
+        "longitude": 101.3357096,
+        "latitude": 1.8012956,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.04.1003",
+      "name": "BANGSAL ACEH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.04",
+      "districtName": "SUNGAI SEMBILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28826,
+      "coordinate": {
+        "longitude": 101.355986,
+        "latitude": 1.6805661,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.04.1004",
+      "name": "BASILAM BARU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.04",
+      "districtName": "SUNGAI SEMBILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28826,
+      "coordinate": {
+        "longitude": 101.3188456,
+        "latitude": 1.929692,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.04.1005",
+      "name": "BATU TERITIP",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.04",
+      "districtName": "SUNGAI SEMBILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28826,
+      "coordinate": {
+        "longitude": 101.2249428,
+        "latitude": 2.0872651,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.04.1006",
+      "name": "SUNGAI GENIOT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.04",
+      "districtName": "SUNGAI SEMBILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28882,
+      "coordinate": {
+        "longitude": 101.2613171,
+        "latitude": 1.929942,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

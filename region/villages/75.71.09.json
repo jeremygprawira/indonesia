@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.09.1001",
+      "name": "TANJUNG KRAMAT",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.09",
+      "districtName": "HULONTHALANGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96111,
+      "coordinate": {
+        "longitude": 123.0473617,
+        "latitude": 0.4965362,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.09.1002",
+      "name": "POHE",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.09",
+      "districtName": "HULONTHALANGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96117,
+      "coordinate": {
+        "longitude": 123.048575,
+        "latitude": 0.5094563,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.09.1003",
+      "name": "TENDA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.09",
+      "districtName": "HULONTHALANGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96117,
+      "coordinate": {
+        "longitude": 123.0567589,
+        "latitude": 0.522783,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.09.1004",
+      "name": "DONGGALA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.09",
+      "districtName": "HULONTHALANGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96116,
+      "coordinate": {
+        "longitude": 123.0465826,
+        "latitude": 0.5320126,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.09.1005",
+      "name": "SIENDENG",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.09",
+      "districtName": "HULONTHALANGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96111,
+      "coordinate": {
+        "longitude": 123.0544026,
+        "latitude": 0.5278634,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

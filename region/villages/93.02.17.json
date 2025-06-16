@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.17.2001",
+      "name": "NINATI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.17",
+      "districtName": "NINATI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99683,
+      "coordinate": {
+        "longitude": 140.9155624,
+        "latitude": -5.6837065,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.17.2002",
+      "name": "UPYETETKO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.17",
+      "districtName": "NINATI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99683,
+      "coordinate": {
+        "longitude": 140.7943373,
+        "latitude": -5.6652411,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.17.2003",
+      "name": "KAWAKTEMBUT",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.17",
+      "districtName": "NINATI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99683,
+      "coordinate": {
+        "longitude": 140.965013,
+        "latitude": -5.6651828,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.17.2004",
+      "name": "TEMBUTKA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.17",
+      "districtName": "NINATI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99683,
+      "coordinate": {
+        "longitude": 140.8668981,
+        "latitude": -5.6229012,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.17.2005",
+      "name": "TIMKA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.17",
+      "districtName": "NINATI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99683,
+      "coordinate": {
+        "longitude": 140.9131202,
+        "latitude": -5.678128,
+        "elevation": 87
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

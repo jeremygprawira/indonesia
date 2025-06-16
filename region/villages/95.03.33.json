@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.03.33.2001",
+      "name": "DIRWEMNA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.33",
+      "districtName": "DIRWEMNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99752,
+      "coordinate": {
+        "longitude": 139.9574012,
+        "latitude": -4.3081447,
+        "elevation": 1525
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.33.2002",
+      "name": "AKSAL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.33",
+      "districtName": "DIRWEMNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99752,
+      "coordinate": {
+        "longitude": 139.694238,
+        "latitude": -4.297904,
+        "elevation": 3001
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.33.2003",
+      "name": "DOLSEN",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.33",
+      "districtName": "DIRWEMNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99752,
+      "coordinate": {
+        "longitude": 139.9672865,
+        "latitude": -4.322103,
+        "elevation": 1841
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.33.2004",
+      "name": "SALENGKOMO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.33",
+      "districtName": "DIRWEMNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99752,
+      "coordinate": {
+        "longitude": 139.9578074,
+        "latitude": -4.3019304,
+        "elevation": 1709
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.33.2005",
+      "name": "SILION",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.33",
+      "districtName": "DIRWEMNA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99752,
+      "coordinate": {
+        "longitude": 139.9778336,
+        "latitude": -4.282216,
+        "elevation": 1396
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

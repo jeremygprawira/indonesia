@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.74.01.1001",
+      "name": "KEJAKSAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.01",
+      "districtName": "KEJAKSAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45123,
+      "coordinate": {
+        "longitude": 108.5585034,
+        "latitude": -6.7128428,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.01.1002",
+      "name": "SUKAPURA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.01",
+      "districtName": "KEJAKSAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67254,
+      "coordinate": {
+        "longitude": 113.0453167,
+        "latitude": -7.8748704,
+        "elevation": 811
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.01.1003",
+      "name": "KESENDEN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.01",
+      "districtName": "KEJAKSAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45121,
+      "coordinate": {
+        "longitude": 108.5588133,
+        "latitude": -6.7002535,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.74.01.1004",
+      "name": "KEBONBARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.74",
+      "cityName": "KOTA CIREBON",
+      "districtCode": "32.74.01",
+      "districtName": "KEJAKSAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45121,
+      "coordinate": {
+        "longitude": 108.5623397,
+        "latitude": -6.7057047,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

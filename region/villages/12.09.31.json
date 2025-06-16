@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.09.31.2001",
+      "name": "AIR TELUK KIRI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.31",
+      "districtName": "TELUK DALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21270,
+      "coordinate": {
+        "longitude": 99.6505078,
+        "latitude": 2.8449882,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.31.2002",
+      "name": "TELUK DALAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.31",
+      "districtName": "TELUK DALAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75572,
+      "coordinate": {
+        "longitude": 117.0170263,
+        "latitude": -0.4383212,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.31.2003",
+      "name": "PERKEBUNAN TELUK DALAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.31",
+      "districtName": "TELUK DALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21270,
+      "coordinate": {
+        "longitude": 99.6815419,
+        "latitude": 2.846935,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.31.2004",
+      "name": "PULAU MARIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.31",
+      "districtName": "TELUK DALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21270,
+      "coordinate": {
+        "longitude": 99.6276209,
+        "latitude": 2.7799337,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.31.2005",
+      "name": "PULAU TANJUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.31",
+      "districtName": "TELUK DALAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.8836293,
+        "latitude": -3.5734459,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.31.2006",
+      "name": "MEKAR TANJUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.31",
+      "districtName": "TELUK DALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36514,
+      "coordinate": {
+        "longitude": 103.3361813,
+        "latitude": -0.856211,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

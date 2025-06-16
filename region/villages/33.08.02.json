@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.08.02.2001",
+      "name": "GIRIPURNO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65333,
+      "coordinate": {
+        "longitude": 112.5638234,
+        "latitude": -7.8496151,
+        "elevation": 925
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2002",
+      "name": "GIRITENGAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.1831809,
+        "latitude": -7.6397496,
+        "elevation": 609
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2003",
+      "name": "TUKSONGO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.2018841,
+        "latitude": -7.6226893,
+        "elevation": 250
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2004",
+      "name": "MAJAKSINGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.2028382,
+        "latitude": -7.6378509,
+        "elevation": 466
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2005",
+      "name": "KENALAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.4072869,
+        "latitude": -7.4390163,
+        "elevation": 1664
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2006",
+      "name": "BIGARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.2424063,
+        "latitude": -7.6487663,
+        "elevation": 268
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2007",
+      "name": "SAMBENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62164,
+      "coordinate": {
+        "longitude": 111.6276322,
+        "latitude": -7.1294269,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2008",
+      "name": "CANDIREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63319,
+      "coordinate": {
+        "longitude": 111.3094026,
+        "latitude": -7.6564953,
+        "elevation": 439
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2009",
+      "name": "NGARGOGONDO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.2153338,
+        "latitude": -7.625631,
+        "elevation": 234
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2010",
+      "name": "WANUREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.2202576,
+        "latitude": -7.6136334,
+        "elevation": 234
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2011",
+      "name": "BOROBUDUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.2011991,
+        "latitude": -7.6078664,
+        "elevation": 252
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2012",
+      "name": "TANJUNGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.0707831,
+        "latitude": -6.2208802,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2013",
+      "name": "KARANGANYAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67131,
+      "coordinate": {
+        "longitude": 112.9011027,
+        "latitude": -7.6377667,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2014",
+      "name": "KARANGREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5878894,
+        "latitude": -7.0705063,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2015",
+      "name": "NGADIHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.1724043,
+        "latitude": -7.6143028,
+        "elevation": 275
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2016",
+      "name": "KEBONSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42442,
+      "coordinate": {
+        "longitude": 106.0194346,
+        "latitude": -6.0166593,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2017",
+      "name": "TEGALARUM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63384,
+      "coordinate": {
+        "longitude": 111.4798967,
+        "latitude": -7.6510862,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2018",
+      "name": "KEMBANGLIMUS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56553,
+      "coordinate": {
+        "longitude": 110.1765049,
+        "latitude": -7.5966724,
+        "elevation": 302
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2019",
+      "name": "WRINGINPUTIH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68472,
+      "coordinate": {
+        "longitude": 114.358661,
+        "latitude": -8.4856218,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.02.2020",
+      "name": "BUMIHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.02",
+      "districtName": "BOROBUDUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68466,
+      "coordinate": {
+        "longitude": 114.0660584,
+        "latitude": -8.2079681,
+        "elevation": 959
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

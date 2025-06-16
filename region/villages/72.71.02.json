@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.71.02.1002",
+      "name": "UJUNA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.02",
+      "districtName": "PALU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94222,
+      "coordinate": {
+        "longitude": 119.862496,
+        "latitude": -0.9034613,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.02.1005",
+      "name": "BALAROA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.02",
+      "districtName": "PALU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94226,
+      "coordinate": {
+        "longitude": 119.8390097,
+        "latitude": -0.9050019,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.02.1007",
+      "name": "KAMONJI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.02",
+      "districtName": "PALU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94223,
+      "coordinate": {
+        "longitude": 119.8521118,
+        "latitude": -0.9011747,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.02.1008",
+      "name": "BARU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.02",
+      "districtName": "PALU BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99761,
+      "coordinate": {
+        "longitude": 139.8625859,
+        "latitude": -4.2736507,
+        "elevation": 1151
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.02.1009",
+      "name": "LERE",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.02",
+      "districtName": "PALU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93876,
+      "coordinate": {
+        "longitude": 122.045207,
+        "latitude": -4.3514517,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.02.1015",
+      "name": "SIRANINDI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.02",
+      "districtName": "PALU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94221,
+      "coordinate": {
+        "longitude": 119.8565234,
+        "latitude": -0.8999042,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

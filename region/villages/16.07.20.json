@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.07.20.2001",
+      "name": "KARANG SARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.20",
+      "districtName": "KARANG AGUNG ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72270,
+      "coordinate": {
+        "longitude": 115.7865301,
+        "latitude": -3.4140077,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.20.2002",
+      "name": "MAJU RIA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.20",
+      "districtName": "KARANG AGUNG ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30971,
+      "coordinate": {
+        "longitude": 104.7110751,
+        "latitude": -2.2486727,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.20.2003",
+      "name": "SRI AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.20",
+      "districtName": "KARANG AGUNG ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34553,
+      "coordinate": {
+        "longitude": 104.7604349,
+        "latitude": -4.8117601,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.20.2004",
+      "name": "SUMBER REJEKI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.20",
+      "districtName": "KARANG AGUNG ILIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99646,
+      "coordinate": {
+        "longitude": 140.3806655,
+        "latitude": -8.1431714,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.20.2005",
+      "name": "TABALA JAYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.20",
+      "districtName": "KARANG AGUNG ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30971,
+      "coordinate": {
+        "longitude": 104.6448215,
+        "latitude": -2.3329086,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.20.2006",
+      "name": "JATI SARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.20",
+      "districtName": "KARANG AGUNG ILIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32362,
+      "coordinate": {
+        "longitude": 104.5918863,
+        "latitude": -3.9697669,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.07.20.2007",
+      "name": "MEKAR SARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.07",
+      "cityName": "KAB. BANYUASIN",
+      "districtCode": "16.07.20",
+      "districtName": "KARANG AGUNG ILIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97865,
+      "coordinate": {
+        "longitude": 128.2817326,
+        "latitude": 1.159059,
+        "elevation": 517
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

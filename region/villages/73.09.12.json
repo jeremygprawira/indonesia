@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.09.12.1001",
+      "name": "ALLEPOLEA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.12",
+      "districtName": "LAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90514,
+      "coordinate": {
+        "longitude": 119.5727353,
+        "latitude": -4.9829487,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.12.1002",
+      "name": "MACCINI BAJI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.12",
+      "districtName": "LAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90513,
+      "coordinate": {
+        "longitude": 119.5829379,
+        "latitude": -4.9565103,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.12.1003",
+      "name": "SOREANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.12",
+      "districtName": "LAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90513,
+      "coordinate": {
+        "longitude": 119.5585362,
+        "latitude": -4.9784125,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.12.1004",
+      "name": "MATTIRODECENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.12",
+      "districtName": "LAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90513,
+      "coordinate": {
+        "longitude": 119.5959037,
+        "latitude": -4.9633838,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.12.2005",
+      "name": "MARANNU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.12",
+      "districtName": "LAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92965,
+      "coordinate": {
+        "longitude": 120.2995945,
+        "latitude": -2.6460951,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.12.2006",
+      "name": "BONTO MARANNU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.12",
+      "districtName": "LAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90564,
+      "coordinate": {
+        "longitude": 119.5601361,
+        "latitude": -5.1213443,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.20.2001",
+      "name": "WALURAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.20",
+      "districtName": "WALURAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43175,
+      "coordinate": {
+        "longitude": 106.5987383,
+        "latitude": -7.2251476,
+        "elevation": 360
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.20.2002",
+      "name": "SUKAMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.20",
+      "districtName": "WALURAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93885,
+      "coordinate": {
+        "longitude": 122.0967512,
+        "latitude": -4.3238343,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.20.2003",
+      "name": "CARINGINNUNGGAL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.20",
+      "districtName": "WALURAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43175,
+      "coordinate": {
+        "longitude": 106.5472002,
+        "latitude": -7.2692192,
+        "elevation": 244
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.20.2004",
+      "name": "MEKARMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.20",
+      "districtName": "WALURAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40562,
+      "coordinate": {
+        "longitude": 107.4701886,
+        "latitude": -6.9306492,
+        "elevation": 657
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.20.2005",
+      "name": "MANGUNJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.20",
+      "districtName": "WALURAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46371,
+      "coordinate": {
+        "longitude": 108.696215,
+        "latitude": -7.4736183,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.20.2006",
+      "name": "WALURAN MANDIRI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.20",
+      "districtName": "WALURAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43175,
+      "coordinate": {
+        "longitude": 106.6138193,
+        "latitude": -7.1748934,
+        "elevation": 696
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.03.21.2001",
+      "name": "NEKAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.21",
+      "districtName": "ENTIKONG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97591,
+      "coordinate": {
+        "longitude": 130.6654819,
+        "latitude": -3.6082367,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.21.2002",
+      "name": "SEMANGET",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.21",
+      "districtName": "ENTIKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78557,
+      "coordinate": {
+        "longitude": 110.4292606,
+        "latitude": 0.9349609,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.21.2003",
+      "name": "ENTIKONG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.21",
+      "districtName": "ENTIKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78557,
+      "coordinate": {
+        "longitude": 110.344228,
+        "latitude": 0.9758891,
+        "elevation": 122
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.21.2004",
+      "name": "PALA PASANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.21",
+      "districtName": "ENTIKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78557,
+      "coordinate": {
+        "longitude": 110.2238386,
+        "latitude": 1.0232449,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.21.2005",
+      "name": "SURUH TEMBAWANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.21",
+      "districtName": "ENTIKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78557,
+      "coordinate": {
+        "longitude": 110.1271792,
+        "latitude": 1.1350163,
+        "elevation": 560
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

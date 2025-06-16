@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.15.2001",
+      "name": "MAGEK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.15",
+      "districtName": "KAMANG MAGEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26152,
+      "coordinate": {
+        "longitude": 100.4336704,
+        "latitude": -0.2455934,
+        "elevation": 862
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.15.2002",
+      "name": "KAMANG HILIA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.15",
+      "districtName": "KAMANG MAGEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26152,
+      "coordinate": {
+        "longitude": 100.4345707,
+        "latitude": -0.2224714,
+        "elevation": 858
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.15.2003",
+      "name": "KAMANG MUDIAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.15",
+      "districtName": "KAMANG MAGEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26152,
+      "coordinate": {
+        "longitude": 100.4028208,
+        "latitude": -0.202514,
+        "elevation": 863
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.15.2004",
+      "name": "KAMANG TANGAH ANAM SUKU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.15",
+      "districtName": "KAMANG MAGEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26152,
+      "coordinate": {
+        "longitude": 100.4087679,
+        "latitude": -0.2157191,
+        "elevation": 864
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.15.2005",
+      "name": "PAUH KAMANG MUDIAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.15",
+      "districtName": "KAMANG MAGEK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26152,
+      "coordinate": {
+        "longitude": 100.3848064,
+        "latitude": -0.1829397,
+        "elevation": 894
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

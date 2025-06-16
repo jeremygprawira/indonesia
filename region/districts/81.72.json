@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "81.72.01",
+      "name": "PULAU DULLAH UTARA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL"
+    },
+    {
+      "type": "district",
+      "code": "81.72.02",
+      "name": "PULAU DULLAH SELATAN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL"
+    },
+    {
+      "type": "district",
+      "code": "81.72.03",
+      "name": "TAYANDO TAM",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL"
+    },
+    {
+      "type": "district",
+      "code": "81.72.04",
+      "name": "PULAU-PULAU KUR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL"
+    },
+    {
+      "type": "district",
+      "code": "81.72.05",
+      "name": "KUR SELATAN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

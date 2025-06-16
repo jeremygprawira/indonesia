@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.01.39.2001",
+      "name": "WAME",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.39",
+      "districtName": "WAME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99585,
+      "coordinate": {
+        "longitude": 138.4521882,
+        "latitude": -4.0200687,
+        "elevation": 2921
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.39.2002",
+      "name": "DUMAPAGA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.39",
+      "districtName": "WAME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99536,
+      "coordinate": {
+        "longitude": 138.7428032,
+        "latitude": -3.9317008,
+        "elevation": 2193
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.39.2003",
+      "name": "YANENGGAME",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.39",
+      "districtName": "WAME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99536,
+      "coordinate": {
+        "longitude": 138.768386,
+        "latitude": -3.9325211,
+        "elevation": 1977
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.39.2004",
+      "name": "DOGONAME",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.39",
+      "districtName": "WAME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99536,
+      "coordinate": {
+        "longitude": 138.7553275,
+        "latitude": -3.9306224,
+        "elevation": 2089
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

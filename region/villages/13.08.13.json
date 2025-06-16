@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.13.2001",
+      "name": "MALAMPAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.13",
+      "districtName": "TIGO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26358,
+      "coordinate": {
+        "longitude": 100.0876456,
+        "latitude": 0.0573815,
+        "elevation": 506
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.13.2002",
+      "name": "LADANG PANJANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.13",
+      "districtName": "TIGO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36363,
+      "coordinate": {
+        "longitude": 103.6674376,
+        "latitude": -1.7943565,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.13.2003",
+      "name": "BINJAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.13",
+      "districtName": "TIGO NAGARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71662,
+      "coordinate": {
+        "longitude": 115.5355902,
+        "latitude": -2.3687545,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.13.2004",
+      "name": "MALAMPAH BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.13",
+      "districtName": "TIGO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26358,
+      "coordinate": {
+        "longitude": 100.0338832,
+        "latitude": -0.0068838,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.13.2005",
+      "name": "LADANG PANJANG BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.13",
+      "districtName": "TIGO NAGARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26358,
+      "coordinate": {
+        "longitude": 100.0508725,
+        "latitude": -0.016585,
+        "elevation": 160
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

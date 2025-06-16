@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.05.09.2001",
+      "name": "WAIGAI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.09",
+      "districtName": "SULABESI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97798,
+      "coordinate": {
+        "longitude": 125.9820228,
+        "latitude": -2.4072128,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.09.2002",
+      "name": "FUATA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.09",
+      "districtName": "SULABESI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97798,
+      "coordinate": {
+        "longitude": 125.9678484,
+        "latitude": -2.3757395,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.09.2003",
+      "name": "WAINIB",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.09",
+      "districtName": "SULABESI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97798,
+      "coordinate": {
+        "longitude": 125.9645079,
+        "latitude": -2.3179749,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.09.2004",
+      "name": "SKOM",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.09",
+      "districtName": "SULABESI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97798,
+      "coordinate": {
+        "longitude": 125.9450235,
+        "latitude": -2.2872846,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.09.2005",
+      "name": "WAI TAMUA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.09",
+      "districtName": "SULABESI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97798,
+      "coordinate": {
+        "longitude": 125.9706655,
+        "latitude": -2.342711,
+        "elevation": 61
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "36.73.01",
+      "name": "SERANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.73",
+      "cityName": "KOTA SERANG"
+    },
+    {
+      "type": "district",
+      "code": "36.73.02",
+      "name": "KASEMEN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.73",
+      "cityName": "KOTA SERANG"
+    },
+    {
+      "type": "district",
+      "code": "36.73.03",
+      "name": "WALANTAKA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.73",
+      "cityName": "KOTA SERANG"
+    },
+    {
+      "type": "district",
+      "code": "36.73.04",
+      "name": "CURUG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.73",
+      "cityName": "KOTA SERANG"
+    },
+    {
+      "type": "district",
+      "code": "36.73.05",
+      "name": "CIPOCOK JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.73",
+      "cityName": "KOTA SERANG"
+    },
+    {
+      "type": "district",
+      "code": "36.73.06",
+      "name": "TAKTAKAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.73",
+      "cityName": "KOTA SERANG"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

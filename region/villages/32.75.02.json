@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.02.1001",
+      "name": "BINTARA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.02",
+      "districtName": "BEKASI BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17134,
+      "coordinate": {
+        "longitude": 106.9567225,
+        "latitude": -6.2272985,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.02.1002",
+      "name": "KRANJI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.02",
+      "districtName": "BEKASI BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62264,
+      "coordinate": {
+        "longitude": 112.3826494,
+        "latitude": -6.8798462,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.02.1003",
+      "name": "KOTABARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.02",
+      "districtName": "BEKASI BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94771,
+      "coordinate": {
+        "longitude": 123.1630309,
+        "latitude": -0.8745506,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.02.1004",
+      "name": "BINTARAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.02",
+      "districtName": "BEKASI BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17136,
+      "coordinate": {
+        "longitude": 106.950183,
+        "latitude": -6.2401391,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.02.1005",
+      "name": "JAKASAMPURNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.02",
+      "districtName": "BEKASI BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17145,
+      "coordinate": {
+        "longitude": 106.9674583,
+        "latitude": -6.2434228,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

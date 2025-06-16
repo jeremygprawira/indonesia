@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.10.17.1002",
+      "name": "BOYOLANGU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.17",
+      "districtName": "GIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68424,
+      "coordinate": {
+        "longitude": 114.3443077,
+        "latitude": -8.2029182,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.17.1003",
+      "name": "MOJOPANGGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.17",
+      "districtName": "GIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68425,
+      "coordinate": {
+        "longitude": 114.3548696,
+        "latitude": -8.2143636,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.17.1004",
+      "name": "PENATABAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.17",
+      "districtName": "GIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68422,
+      "coordinate": {
+        "longitude": 114.3537762,
+        "latitude": -8.2029641,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.17.1005",
+      "name": "GIRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.17",
+      "districtName": "GIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61124,
+      "coordinate": {
+        "longitude": 112.631855,
+        "latitude": -7.1708794,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.17.2001",
+      "name": "JAMBESARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.17",
+      "districtName": "GIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68263,
+      "coordinate": {
+        "longitude": 113.8386868,
+        "latitude": -7.9871132,
+        "elevation": 317
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.17.2006",
+      "name": "GROGOL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.17",
+      "districtName": "GIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42436,
+      "coordinate": {
+        "longitude": 106.032367,
+        "latitude": -5.9754441,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

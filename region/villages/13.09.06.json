@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.09.06.2001",
+      "name": "KATUREI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.06",
+      "districtName": "SIBERUT BARAT DAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25393,
+      "coordinate": {
+        "longitude": 99.2456894,
+        "latitude": -1.6842844,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.06.2002",
+      "name": "SAGULUBBEG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.06",
+      "districtName": "SIBERUT BARAT DAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25393,
+      "coordinate": {
+        "longitude": 98.9079586,
+        "latitude": -1.5918246,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.06.2003",
+      "name": "PASAKIAT TAILELEU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.06",
+      "districtName": "SIBERUT BARAT DAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25393,
+      "coordinate": {
+        "longitude": 99.0796633,
+        "latitude": -1.7251378,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

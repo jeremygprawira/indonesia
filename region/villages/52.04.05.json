@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.05.2001",
+      "name": "LUAR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84353,
+      "coordinate": {
+        "longitude": 116.9854967,
+        "latitude": -8.5417694,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.05.2002",
+      "name": "BARU",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99761,
+      "coordinate": {
+        "longitude": 139.8625859,
+        "latitude": -4.2736507,
+        "elevation": 1151
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.05.2003",
+      "name": "KALIMANGO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84353,
+      "coordinate": {
+        "longitude": 116.9951803,
+        "latitude": -8.5397035,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.05.2004",
+      "name": "MARENTE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84353,
+      "coordinate": {
+        "longitude": 117.0421881,
+        "latitude": -8.5893584,
+        "elevation": 585
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.05.2005",
+      "name": "JURAN ALAS",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84353,
+      "coordinate": {
+        "longitude": 117.0058046,
+        "latitude": -8.5380442,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.05.2006",
+      "name": "DALAM",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97785,
+      "coordinate": {
+        "longitude": 127.4261517,
+        "latitude": 0.3535202,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.05.2007",
+      "name": "PULAU BUNGIN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84353,
+      "coordinate": {
+        "longitude": 116.9929996,
+        "latitude": -8.4769778,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.05.2012",
+      "name": "LABUHAN  ALAS",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.05",
+      "districtName": "ALAS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

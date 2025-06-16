@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.04.2001",
+      "name": "KOUH",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.04",
+      "districtName": "KOUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99655,
+      "coordinate": {
+        "longitude": 140.145578,
+        "latitude": -5.7878303,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.04.2002",
+      "name": "JAIR",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.04",
+      "districtName": "KOUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99655,
+      "coordinate": {
+        "longitude": 140.2039969,
+        "latitude": -5.8308858,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.04.2003",
+      "name": "MANDOBO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.04",
+      "districtName": "KOUH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99655,
+      "coordinate": {
+        "longitude": 140.2255616,
+        "latitude": -5.7842138,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

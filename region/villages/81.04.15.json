@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.04.15.2001",
+      "name": "UBUNG",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.15",
+      "districtName": "LILIALY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97570,
+      "coordinate": {
+        "longitude": 127.0546265,
+        "latitude": -3.1997433,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.15.2002",
+      "name": "JIKUMERASA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.15",
+      "districtName": "LILIALY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97570,
+      "coordinate": {
+        "longitude": 127.01457,
+        "latitude": -3.1910731,
+        "elevation": 150
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.15.2003",
+      "name": "WAEMITING",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.15",
+      "districtName": "LILIALY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97570,
+      "coordinate": {
+        "longitude": 126.9785144,
+        "latitude": -3.2003092,
+        "elevation": 157
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.15.2004",
+      "name": "SAWA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.15",
+      "districtName": "LILIALY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99783,
+      "coordinate": {
+        "longitude": 138.2273167,
+        "latitude": -5.0789913,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.15.2005",
+      "name": "WAEPERANG",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.15",
+      "districtName": "LILIALY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97570,
+      "coordinate": {
+        "longitude": 126.9349324,
+        "latitude": -3.1675579,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.07.1001",
+      "name": "TANGGIKIKI",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.07",
+      "districtName": "SIPATANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96126,
+      "coordinate": {
+        "longitude": 123.0650092,
+        "latitude": 0.5732,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.07.1002",
+      "name": "TAPA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.07",
+      "districtName": "SIPATANA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97792,
+      "coordinate": {
+        "longitude": 127.4173909,
+        "latitude": -1.1981733,
+        "elevation": 451
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.07.1003",
+      "name": "BULOTADAA BARAT",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.07",
+      "districtName": "SIPATANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96124,
+      "coordinate": {
+        "longitude": 123.0574771,
+        "latitude": 0.5851974,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.07.1004",
+      "name": "BULOTADAA TIMUR",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.07",
+      "districtName": "SIPATANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96121,
+      "coordinate": {
+        "longitude": 123.068417,
+        "latitude": 0.5808783,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.07.1005",
+      "name": "MOLOSIPAT U",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.07",
+      "districtName": "SIPATANA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

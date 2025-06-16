@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.05.14.2001",
+      "name": "MIOSNUM",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.05",
+      "cityName": "KAB. KEPULAUAN YAPEN",
+      "districtCode": "91.05.14",
+      "districtName": "PULAU YERUI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98646,
+      "coordinate": {
+        "longitude": 135.3037668,
+        "latitude": -1.4970125,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.05.14.2002",
+      "name": "JENIARI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.05",
+      "cityName": "KAB. KEPULAUAN YAPEN",
+      "districtCode": "91.05.14",
+      "districtName": "PULAU YERUI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98646,
+      "coordinate": {
+        "longitude": 135.2512223,
+        "latitude": -1.5071533,
+        "elevation": -7
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.05.14.2003",
+      "name": "UMPEKI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.05",
+      "cityName": "KAB. KEPULAUAN YAPEN",
+      "districtCode": "91.05.14",
+      "districtName": "PULAU YERUI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98646,
+      "coordinate": {
+        "longitude": 135.1578318,
+        "latitude": -1.5024359,
+        "elevation": 211
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.05.14.2004",
+      "name": "AUSEM",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.05",
+      "cityName": "KAB. KEPULAUAN YAPEN",
+      "districtCode": "91.05.14",
+      "districtName": "PULAU YERUI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98646,
+      "coordinate": {
+        "longitude": 135.1162734,
+        "latitude": -1.4900921,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.05.14.2005",
+      "name": "YEITUARAU",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.05",
+      "cityName": "KAB. KEPULAUAN YAPEN",
+      "districtCode": "91.05.14",
+      "districtName": "PULAU YERUI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98646,
+      "coordinate": {
+        "longitude": 135.2013739,
+        "latitude": -1.5046068,
+        "elevation": 195
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

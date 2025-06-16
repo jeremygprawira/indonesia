@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.09.1001",
+      "name": "PATEHAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.09",
+      "districtName": "KRATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55133,
+      "coordinate": {
+        "longitude": 110.3601555,
+        "latitude": -7.8110834,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.09.1002",
+      "name": "PANEMBAHAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.09",
+      "districtName": "KRATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55131,
+      "coordinate": {
+        "longitude": 110.3657093,
+        "latitude": -7.8085429,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.09.1003",
+      "name": "KADIPATEN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.09",
+      "districtName": "KRATON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62111,
+      "coordinate": {
+        "longitude": 111.887017,
+        "latitude": -7.1509096,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

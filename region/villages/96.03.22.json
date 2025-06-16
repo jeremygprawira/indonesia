@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.22.2003",
+      "name": "DUBER",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.22",
+      "districtName": "SUPNIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98463,
+      "coordinate": {
+        "longitude": 130.9516528,
+        "latitude": -0.0226289,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.22.2002",
+      "name": "URAI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.22",
+      "districtName": "SUPNIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98463,
+      "coordinate": {
+        "longitude": 130.9428945,
+        "latitude": -0.0199983,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.22.2001",
+      "name": "RAUKI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.22",
+      "districtName": "SUPNIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98463,
+      "coordinate": {
+        "longitude": 130.9469191,
+        "latitude": -0.0305936,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.22.2004",
+      "name": "KAPADIRI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.22",
+      "districtName": "SUPNIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98463,
+      "coordinate": {
+        "longitude": 130.7231656,
+        "latitude": -0.0471587,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

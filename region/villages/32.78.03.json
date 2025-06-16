@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.78.03.1001",
+      "name": "TAWANGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.03",
+      "districtName": "TAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61362,
+      "coordinate": {
+        "longitude": 112.3820918,
+        "latitude": -7.5133009,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.03.1002",
+      "name": "EMPANGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.03",
+      "districtName": "TAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46113,
+      "coordinate": {
+        "longitude": 108.2248392,
+        "latitude": -7.3303218,
+        "elevation": 350
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.03.1003",
+      "name": "LENGKONGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.03",
+      "districtName": "TAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46111,
+      "coordinate": {
+        "longitude": 108.2340966,
+        "latitude": -7.3252766,
+        "elevation": 348
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.03.1004",
+      "name": "CIKALANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.03",
+      "districtName": "TAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46114,
+      "coordinate": {
+        "longitude": 108.231769,
+        "latitude": -7.3351414,
+        "elevation": 346
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.03.1005",
+      "name": "KAHURIPAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.03",
+      "districtName": "TAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46115,
+      "coordinate": {
+        "longitude": 108.2260721,
+        "latitude": -7.3473267,
+        "elevation": 353
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

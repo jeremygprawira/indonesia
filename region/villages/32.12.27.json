@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.12.27.2001",
+      "name": "CIBEBER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.27",
+      "districtName": "SUKAGUMIWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42423,
+      "coordinate": {
+        "longitude": 106.0709569,
+        "latitude": -6.0306453,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.27.2002",
+      "name": "BONDAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.27",
+      "districtName": "SUKAGUMIWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45275,
+      "coordinate": {
+        "longitude": 108.3178221,
+        "latitude": -6.6059777,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.27.2003",
+      "name": "GUNUNGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.27",
+      "districtName": "SUKAGUMIWANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94480,
+      "coordinate": {
+        "longitude": 121.0110708,
+        "latitude": 0.6432046,
+        "elevation": 444
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.27.2004",
+      "name": "SUKAGUMIWANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.27",
+      "districtName": "SUKAGUMIWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45275,
+      "coordinate": {
+        "longitude": 108.328396,
+        "latitude": -6.5722731,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.27.2005",
+      "name": "TERSANA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.27",
+      "districtName": "SUKAGUMIWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45275,
+      "coordinate": {
+        "longitude": 108.3383978,
+        "latitude": -6.5582151,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.27.2006",
+      "name": "CADANG PINGGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.27",
+      "districtName": "SUKAGUMIWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45275,
+      "coordinate": {
+        "longitude": 108.3498715,
+        "latitude": -6.5610844,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.27.2007",
+      "name": "GEDANGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.27",
+      "districtName": "SUKAGUMIWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61153,
+      "coordinate": {
+        "longitude": 112.5002053,
+        "latitude": -6.9656346,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

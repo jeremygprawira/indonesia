@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.27.2001",
+      "name": "LUTUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.27",
+      "districtName": "MANE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24189,
+      "coordinate": {
+        "longitude": 96.104223,
+        "latitude": 4.9761803,
+        "elevation": 1288
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.27.2002",
+      "name": "BLANG DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.27",
+      "districtName": "MANE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3067826,
+        "latitude": 5.2072247,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.27.2003",
+      "name": "MANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.27",
+      "districtName": "MANE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24189,
+      "coordinate": {
+        "longitude": 96.0497792,
+        "latitude": 4.9266995,
+        "elevation": 816
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.27.2004",
+      "name": "TURUE CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.27",
+      "districtName": "MANE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24189,
+      "coordinate": {
+        "longitude": 96.0616267,
+        "latitude": 4.8150728,
+        "elevation": 323
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

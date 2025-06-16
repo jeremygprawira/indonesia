@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.08.2001",
+      "name": "MUARO PANEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.08",
+      "districtName": "BUKIT SUNDI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27381,
+      "coordinate": {
+        "longitude": 100.6701784,
+        "latitude": -0.867668,
+        "elevation": 462
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.08.2002",
+      "name": "KINARI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.08",
+      "districtName": "BUKIT SUNDI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27381,
+      "coordinate": {
+        "longitude": 100.7160267,
+        "latitude": -0.8640343,
+        "elevation": 561
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.08.2003",
+      "name": "BUKIT TANDANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.08",
+      "districtName": "BUKIT SUNDI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27381,
+      "coordinate": {
+        "longitude": 100.7209667,
+        "latitude": -0.8493421,
+        "elevation": 580
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.08.2004",
+      "name": "PARAMBAHAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.08",
+      "districtName": "BUKIT SUNDI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.6047873,
+        "latitude": -0.2034279,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.08.2005",
+      "name": "DILAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.08",
+      "districtName": "BUKIT SUNDI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27381,
+      "coordinate": {
+        "longitude": 100.7320133,
+        "latitude": -0.9227486,
+        "elevation": 934
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

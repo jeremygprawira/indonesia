@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.03.32.2001",
+      "name": "KONA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.32",
+      "districtName": "KONA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99721,
+      "coordinate": {
+        "longitude": 139.7417258,
+        "latitude": -4.2834325,
+        "elevation": 2076
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.32.2002",
+      "name": "KALPOK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.32",
+      "districtName": "KONA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99721,
+      "coordinate": {
+        "longitude": 139.7927312,
+        "latitude": -4.2705035,
+        "elevation": 2210
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.32.2003",
+      "name": "SEKLAK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.32",
+      "districtName": "KONA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99721,
+      "coordinate": {
+        "longitude": 139.789038,
+        "latitude": -4.2422928,
+        "elevation": 2672
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.32.2004",
+      "name": "WETMUK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.32",
+      "districtName": "KONA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99721,
+      "coordinate": {
+        "longitude": 139.7632727,
+        "latitude": -4.2990213,
+        "elevation": 2041
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.32.2005",
+      "name": "KUGUN",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.32",
+      "districtName": "KONA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99721,
+      "coordinate": {
+        "longitude": 139.7683123,
+        "latitude": -4.2739104,
+        "elevation": 2320
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

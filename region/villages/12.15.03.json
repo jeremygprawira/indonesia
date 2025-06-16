@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.15.03.2001",
+      "name": "SALAK I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.03",
+      "districtName": "SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22272,
+      "coordinate": {
+        "longitude": 98.3209927,
+        "latitude": 2.5490154,
+        "elevation": 902
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.03.2002",
+      "name": "SALAK II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.03",
+      "districtName": "SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22272,
+      "coordinate": {
+        "longitude": 98.3243974,
+        "latitude": 2.5571249,
+        "elevation": 882
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.03.2003",
+      "name": "BOANGMANALU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.03",
+      "districtName": "SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22272,
+      "coordinate": {
+        "longitude": 98.3315394,
+        "latitude": 2.5631815,
+        "elevation": 860
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.03.2009",
+      "name": "SIBONGKARAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.03",
+      "districtName": "SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22272,
+      "coordinate": {
+        "longitude": 98.2725997,
+        "latitude": 2.420968,
+        "elevation": 395
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.03.2013",
+      "name": "KUTA TINGGI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.03",
+      "districtName": "SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22272,
+      "coordinate": {
+        "longitude": 98.3079533,
+        "latitude": 2.480468,
+        "elevation": 1093
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.15.03.2014",
+      "name": "PENANGGALAN BINANGA BOANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.15",
+      "cityName": "KAB. PAKPAK BHARAT",
+      "districtCode": "12.15.03",
+      "districtName": "SALAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22272,
+      "coordinate": {
+        "longitude": 98.3344912,
+        "latitude": 2.524991,
+        "elevation": 925
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

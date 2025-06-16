@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.02.09.2001",
+      "name": "PAGALEME",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.09",
+      "districtName": "PAGALEME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98916,
+      "coordinate": {
+        "longitude": 137.985873,
+        "latitude": -3.7101007,
+        "elevation": 2056
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.09.2002",
+      "name": "MULIAMBUT",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.09",
+      "districtName": "PAGALEME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98916,
+      "coordinate": {
+        "longitude": 137.9829114,
+        "latitude": -3.7126373,
+        "elevation": 2077
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.09.2003",
+      "name": "LUNGGINERI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.09",
+      "districtName": "PAGALEME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98916,
+      "coordinate": {
+        "longitude": 137.9808947,
+        "latitude": -3.7170676,
+        "elevation": 2117
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.09.2004",
+      "name": "IGIMBUT",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.09",
+      "districtName": "PAGALEME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98916,
+      "coordinate": {
+        "longitude": 137.9856952,
+        "latitude": -3.7174176,
+        "elevation": 2140
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.02.09.2005",
+      "name": "KULOK ENGGAME",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.02",
+      "cityName": "KAB. PUNCAK JAYA",
+      "districtCode": "94.02.09",
+      "districtName": "PAGALEME",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98916,
+      "coordinate": {
+        "longitude": 137.974393,
+        "latitude": -3.7045733,
+        "elevation": 1939
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

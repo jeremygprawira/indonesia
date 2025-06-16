@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.21.1001",
+      "name": "ASAM KUMBANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.21",
+      "districtName": "MEDAN SELAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20133,
+      "coordinate": {
+        "longitude": 98.6189013,
+        "latitude": 3.5600257,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.21.1002",
+      "name": "TANJUNGSARI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.21",
+      "districtName": "MEDAN SELAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.0707831,
+        "latitude": -6.2208802,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.21.1003",
+      "name": "P BULAN SELAYANG II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.21",
+      "districtName": "MEDAN SELAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20131,
+      "coordinate": {
+        "longitude": 98.6373114,
+        "latitude": 3.5482818,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.21.1004",
+      "name": "BERINGIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.21",
+      "districtName": "MEDAN SELAYANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93958,
+      "coordinate": {
+        "longitude": 121.0002842,
+        "latitude": -3.2999473,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.21.1005",
+      "name": "P BULAN SELAYANG I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.21",
+      "districtName": "MEDAN SELAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20131,
+      "coordinate": {
+        "longitude": 98.6467266,
+        "latitude": 3.5664987,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.21.1006",
+      "name": "SEMPAKATA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.21",
+      "districtName": "MEDAN SELAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20132,
+      "coordinate": {
+        "longitude": 98.6350998,
+        "latitude": 3.5387452,
+        "elevation": 37
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.04.1001",
+      "name": "KOPO",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.04",
+      "districtName": "BOJONGLOA KALER",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98712,
+      "coordinate": {
+        "longitude": 136.4342372,
+        "latitude": -3.9282754,
+        "elevation": 1765
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.04.1002",
+      "name": "BABAKAN TAROGONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.04",
+      "districtName": "BOJONGLOA KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40232,
+      "coordinate": {
+        "longitude": 107.5910192,
+        "latitude": -6.9256221,
+        "elevation": 705
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.04.1003",
+      "name": "JAMIKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.04",
+      "districtName": "BOJONGLOA KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40231,
+      "coordinate": {
+        "longitude": 107.5901368,
+        "latitude": -6.9224351,
+        "elevation": 711
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.04.1004",
+      "name": "BABAKAN ASIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.04",
+      "districtName": "BOJONGLOA KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40232,
+      "coordinate": {
+        "longitude": 107.5946429,
+        "latitude": -6.9313609,
+        "elevation": 700
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.04.1005",
+      "name": "SUKA ASIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.04",
+      "districtName": "BOJONGLOA KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15560,
+      "coordinate": {
+        "longitude": 106.5336146,
+        "latitude": -6.1838931,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.01.19.1001",
+      "name": "LUMUT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.19",
+      "districtName": "LUMUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78572,
+      "coordinate": {
+        "longitude": 110.0827791,
+        "latitude": -0.1881266,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.19.2002",
+      "name": "AEK GAMBIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.19",
+      "districtName": "LUMUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22754,
+      "coordinate": {
+        "longitude": 99.5959739,
+        "latitude": 1.6690372,
+        "elevation": 720
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.19.2003",
+      "name": "MASUNDUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.19",
+      "districtName": "LUMUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22652,
+      "coordinate": {
+        "longitude": 98.9545283,
+        "latitude": 1.5998803,
+        "elevation": 355
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.19.2005",
+      "name": "LUMUT NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.19",
+      "districtName": "LUMUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22652,
+      "coordinate": {
+        "longitude": 98.8517621,
+        "latitude": 1.4475529,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.19.2006",
+      "name": "LUMUT MAJU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.19",
+      "districtName": "LUMUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22652,
+      "coordinate": {
+        "longitude": 98.8222827,
+        "latitude": 1.4494703,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.19.2007",
+      "name": "SIALOGO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.19",
+      "districtName": "LUMUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22735,
+      "coordinate": {
+        "longitude": 99.2216273,
+        "latitude": 1.414127,
+        "elevation": 510
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.02.09.2003",
+      "name": "BARIAT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.09",
+      "districtName": "KONDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98211,
+      "coordinate": {
+        "longitude": 132.0538255,
+        "latitude": -1.5733316,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.09.2002",
+      "name": "WAMARGEGE",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.09",
+      "districtName": "KONDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98211,
+      "coordinate": {
+        "longitude": 131.9450817,
+        "latitude": -1.6555456,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.09.2004",
+      "name": "MANELEK",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.09",
+      "districtName": "KONDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98211,
+      "coordinate": {
+        "longitude": 132.0486034,
+        "latitude": -1.5317168,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.09.2001",
+      "name": "KONDA",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.09",
+      "districtName": "KONDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99028,
+      "coordinate": {
+        "longitude": 138.4931585,
+        "latitude": -3.6813885,
+        "elevation": 1688
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.09.2005",
+      "name": "NAGNA",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.09",
+      "districtName": "KONDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98211,
+      "coordinate": {
+        "longitude": 132.038583,
+        "latitude": -1.6004666,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

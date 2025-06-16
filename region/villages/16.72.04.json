@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.72.04.1002",
+      "name": "LUBUK BUNTAK",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.04",
+      "districtName": "DEMPO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31521,
+      "coordinate": {
+        "longitude": 103.3482333,
+        "latitude": -4.0697476,
+        "elevation": 785
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.04.1018",
+      "name": "PRAHU DIPO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.04",
+      "districtName": "DEMPO SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.04.1020",
+      "name": "KANCE DIWE",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.04",
+      "districtName": "DEMPO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31521,
+      "coordinate": {
+        "longitude": 103.3461431,
+        "latitude": -4.1392375,
+        "elevation": 1163
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.04.1021",
+      "name": "ATUNG BUNGSU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.04",
+      "districtName": "DEMPO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31521,
+      "coordinate": {
+        "longitude": 103.38269,
+        "latitude": -4.0290169,
+        "elevation": 616
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.72.04.1022",
+      "name": "PENJALANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.72",
+      "cityName": "KOTA PAGAR ALAM",
+      "districtCode": "16.72.04",
+      "districtName": "DEMPO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31521,
+      "coordinate": {
+        "longitude": 103.298904,
+        "latitude": -4.1298999,
+        "elevation": 1132
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

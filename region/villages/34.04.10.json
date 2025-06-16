@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.10.2001",
+      "name": "PURWOMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.10",
+      "districtName": "KALASAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55571,
+      "coordinate": {
+        "longitude": 110.4524633,
+        "latitude": -7.7531216,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.10.2002",
+      "name": "TIRTOMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.10",
+      "districtName": "KALASAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55571,
+      "coordinate": {
+        "longitude": 110.4682082,
+        "latitude": -7.7553753,
+        "elevation": 147
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.10.2003",
+      "name": "TAMANMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.10",
+      "districtName": "KALASAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55571,
+      "coordinate": {
+        "longitude": 110.4796161,
+        "latitude": -7.7404508,
+        "elevation": 171
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.10.2004",
+      "name": "SELOMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.10",
+      "districtName": "KALASAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55571,
+      "coordinate": {
+        "longitude": 110.4605914,
+        "latitude": -7.7226087,
+        "elevation": 215
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

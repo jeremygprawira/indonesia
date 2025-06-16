@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.01.13.2001",
+      "name": "MANTANG BARU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.13",
+      "districtName": "MANTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29156,
+      "coordinate": {
+        "longitude": 104.5134846,
+        "latitude": 0.7577454,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.13.2002",
+      "name": "MANTANG BESAR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.13",
+      "districtName": "MANTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29156,
+      "coordinate": {
+        "longitude": 104.6046977,
+        "latitude": 0.7768675,
+        "elevation": -3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.13.2003",
+      "name": "MANTANG LAMA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.13",
+      "districtName": "MANTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29156,
+      "coordinate": {
+        "longitude": 104.5618849,
+        "latitude": 0.7847944,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.13.2004",
+      "name": "DENDUN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.13",
+      "districtName": "MANTANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29156,
+      "coordinate": {
+        "longitude": 104.5138224,
+        "latitude": 0.7812465,
+        "elevation": -2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

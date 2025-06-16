@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.06.06.2001",
+      "name": "MANUSA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.06",
+      "districtName": "INAMOSOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97565,
+      "coordinate": {
+        "longitude": 128.5173504,
+        "latitude": -3.0941769,
+        "elevation": 951
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.06.2002",
+      "name": "RAMBATU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.06",
+      "districtName": "INAMOSOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97565,
+      "coordinate": {
+        "longitude": 128.4887765,
+        "latitude": -3.1589353,
+        "elevation": 576
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.06.2003",
+      "name": "RUMBERU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.06",
+      "districtName": "INAMOSOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97565,
+      "coordinate": {
+        "longitude": 128.3938811,
+        "latitude": -3.1992377,
+        "elevation": 241
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.06.2004",
+      "name": "HONITETU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.06",
+      "districtName": "INAMOSOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97565,
+      "coordinate": {
+        "longitude": 128.4761614,
+        "latitude": -3.3311697,
+        "elevation": 684
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.06.06.2005",
+      "name": "HUKUANAKOTA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.06",
+      "cityName": "KAB. SERAM BAGIAN BARAT",
+      "districtCode": "81.06.06",
+      "districtName": "INAMOSOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97565,
+      "coordinate": {
+        "longitude": 128.5332638,
+        "latitude": -3.2023913,
+        "elevation": 563
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

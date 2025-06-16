@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.16.2001",
+      "name": "BANGUNJIWO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.16",
+      "districtName": "KASIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55184,
+      "coordinate": {
+        "longitude": 110.3079205,
+        "latitude": -7.8381131,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.16.2002",
+      "name": "TIRTONIRMOLO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.16",
+      "districtName": "KASIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55181,
+      "coordinate": {
+        "longitude": 110.3424326,
+        "latitude": -7.8310333,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.16.2003",
+      "name": "TAMANTIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.16",
+      "districtName": "KASIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55183,
+      "coordinate": {
+        "longitude": 110.3238944,
+        "latitude": -7.8151462,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.16.2004",
+      "name": "NGESTIHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.16",
+      "districtName": "KASIHAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55182,
+      "coordinate": {
+        "longitude": 110.3439553,
+        "latitude": -7.793351,
+        "elevation": 109
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

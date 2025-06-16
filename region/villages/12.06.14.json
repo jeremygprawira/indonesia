@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.06.14.2001",
+      "name": "KUBU COLIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.06",
+      "cityName": "KAB. KARO",
+      "districtCode": "12.06.14",
+      "districtName": "DOLAT RAYAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.06.14.2002",
+      "name": "UJUNG SAMPUN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.06",
+      "cityName": "KAB. KARO",
+      "districtCode": "12.06.14",
+      "districtName": "DOLAT RAYAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22171,
+      "coordinate": {
+        "longitude": 98.5415268,
+        "latitude": 3.1783806,
+        "elevation": 1379
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.06.14.2003",
+      "name": "BUKIT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.06",
+      "cityName": "KAB. KARO",
+      "districtCode": "12.06.14",
+      "districtName": "DOLAT RAYAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99671,
+      "coordinate": {
+        "longitude": 140.5950905,
+        "latitude": -5.575857,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.06.14.2004",
+      "name": "MELAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.06",
+      "cityName": "KAB. KARO",
+      "districtCode": "12.06.14",
+      "districtName": "DOLAT RAYAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22171,
+      "coordinate": {
+        "longitude": 98.5276858,
+        "latitude": 3.1767898,
+        "elevation": 1355
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.06.14.2005",
+      "name": "SAMPUN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.06",
+      "cityName": "KAB. KARO",
+      "districtCode": "12.06.14",
+      "districtName": "DOLAT RAYAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22171,
+      "coordinate": {
+        "longitude": 98.5536781,
+        "latitude": 3.1456381,
+        "elevation": 1292
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.06.14.2006",
+      "name": "SUGIHEN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.06",
+      "cityName": "KAB. KARO",
+      "districtCode": "12.06.14",
+      "districtName": "DOLAT RAYAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22171,
+      "coordinate": {
+        "longitude": 98.5341118,
+        "latitude": 3.1599806,
+        "elevation": 1310
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.06.14.2007",
+      "name": "DOLAT RAYAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.06",
+      "cityName": "KAB. KARO",
+      "districtCode": "12.06.14",
+      "districtName": "DOLAT RAYAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22171,
+      "coordinate": {
+        "longitude": 98.5382566,
+        "latitude": 3.1982524,
+        "elevation": 1415
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

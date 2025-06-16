@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.05.1003",
+      "name": "HELEDULAA UTARA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.05",
+      "districtName": "KOTA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96119,
+      "coordinate": {
+        "longitude": 123.0677192,
+        "latitude": 0.5483708,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.05.1004",
+      "name": "HELEDULAA SELATAN",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.05",
+      "districtName": "KOTA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96114,
+      "coordinate": {
+        "longitude": 123.0664234,
+        "latitude": 0.53949,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.05.1005",
+      "name": "IPILO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.05",
+      "districtName": "KOTA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96112,
+      "coordinate": {
+        "longitude": 123.0647403,
+        "latitude": 0.5323607,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.05.1008",
+      "name": "MOODU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.05",
+      "districtName": "KOTA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96113,
+      "coordinate": {
+        "longitude": 123.0705612,
+        "latitude": 0.5457823,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.05.1009",
+      "name": "PADEBUOLO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.05",
+      "districtName": "KOTA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96113,
+      "coordinate": {
+        "longitude": 123.0716307,
+        "latitude": 0.5345803,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.05.1011",
+      "name": "TAMALATE",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.05",
+      "districtName": "KOTA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96113,
+      "coordinate": {
+        "longitude": 123.07893,
+        "latitude": 0.5366201,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.08.1001",
+      "name": "SAWANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.08",
+      "districtName": "KUNDUR BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95867,
+      "coordinate": {
+        "longitude": 125.3897331,
+        "latitude": 2.689336,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.08.2002",
+      "name": "SAWANG SELATAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.08",
+      "districtName": "KUNDUR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29662,
+      "coordinate": {
+        "longitude": 103.3663886,
+        "latitude": 0.7055555,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.08.2003",
+      "name": "SAWANG LAUT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.08",
+      "districtName": "KUNDUR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29662,
+      "coordinate": {
+        "longitude": 103.3581827,
+        "latitude": 0.7782015,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.08.2004",
+      "name": "KUNDUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.08",
+      "districtName": "KUNDUR BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29662,
+      "coordinate": {
+        "longitude": 103.3589905,
+        "latitude": 0.8289215,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.08.2005",
+      "name": "GEMURUH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.08",
+      "districtName": "KUNDUR BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75765,
+      "coordinate": {
+        "longitude": 115.8672487,
+        "latitude": -0.2380979,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

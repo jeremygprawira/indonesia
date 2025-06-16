@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.12.2001",
+      "name": "KULER",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.12",
+      "districtName": "NAUKENJERAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99621,
+      "coordinate": {
+        "longitude": 140.5845864,
+        "latitude": -8.6328601,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.12.2002",
+      "name": "ONGGAYA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.12",
+      "districtName": "NAUKENJERAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99621,
+      "coordinate": {
+        "longitude": 140.6076023,
+        "latitude": -8.71475,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.12.2003",
+      "name": "TOMER",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.12",
+      "districtName": "NAUKENJERAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99621,
+      "coordinate": {
+        "longitude": 140.6667888,
+        "latitude": -8.7911415,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.12.2004",
+      "name": "TOMERAU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.12",
+      "districtName": "NAUKENJERAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99621,
+      "coordinate": {
+        "longitude": 140.7433651,
+        "latitude": -8.8796492,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.12.2005",
+      "name": "KONDO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.12",
+      "districtName": "NAUKENJERAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99621,
+      "coordinate": {
+        "longitude": 140.8790557,
+        "latitude": -9.0205256,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

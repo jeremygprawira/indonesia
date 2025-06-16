@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.02.21.2001",
+      "name": "TANJUNG REJO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.21",
+      "districtName": "MARGO TABIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34887,
+      "coordinate": {
+        "longitude": 104.3107374,
+        "latitude": -5.5904782,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.21.2002",
+      "name": "SUMBER AGUNG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.21",
+      "districtName": "MARGO TABIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 127.8898438,
+        "latitude": 1.3047166,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.21.2003",
+      "name": "SUKO REJO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.21",
+      "districtName": "MARGO TABIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30771,
+      "coordinate": {
+        "longitude": 102.9292555,
+        "latitude": -3.1526531,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.21.2004",
+      "name": "SIDO RUKUN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.21",
+      "districtName": "MARGO TABIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37553,
+      "coordinate": {
+        "longitude": 101.9727224,
+        "latitude": -1.2619043,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.21.2005",
+      "name": "LUBUK BUMBUN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.21",
+      "districtName": "MARGO TABIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37359,
+      "coordinate": {
+        "longitude": 102.4053375,
+        "latitude": -1.823606,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.21.2006",
+      "name": "TEGAL REJO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.21",
+      "districtName": "MARGO TABIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72161,
+      "coordinate": {
+        "longitude": 115.9725854,
+        "latitude": -3.1911107,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.07.2001",
+      "name": "PANTI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.07",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68153,
+      "coordinate": {
+        "longitude": 113.6122902,
+        "latitude": -8.1403062,
+        "elevation": 206
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.07.2003",
+      "name": "PANTI TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.07",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26351,
+      "coordinate": {
+        "longitude": 100.0973819,
+        "latitude": 0.4148787,
+        "elevation": 223
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.07.2004",
+      "name": "PANTI SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.07",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26351,
+      "coordinate": {
+        "longitude": 100.0987497,
+        "latitude": 0.293793,
+        "elevation": 247
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.07.2005",
+      "name": "PANTI UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.07",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26351,
+      "coordinate": {
+        "longitude": 107.6285955,
+        "latitude": -6.8911374,
+        "elevation": 738
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

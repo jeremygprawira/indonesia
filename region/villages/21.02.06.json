@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.06.1001",
+      "name": "BURU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.06",
+      "districtName": "BURU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29664,
+      "coordinate": {
+        "longitude": 103.4952445,
+        "latitude": 0.89081,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.06.1002",
+      "name": "LUBUK PUDING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.06",
+      "districtName": "BURU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29664,
+      "coordinate": {
+        "longitude": 103.5170614,
+        "latitude": 0.8896229,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.06.2003",
+      "name": "TANJUNG HUTAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.06",
+      "districtName": "BURU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29664,
+      "coordinate": {
+        "longitude": 103.4604838,
+        "latitude": 0.8677213,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.06.2004",
+      "name": "TANJUNG BATU KECIL",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.06",
+      "districtName": "BURU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29664,
+      "coordinate": {
+        "longitude": 103.4490116,
+        "latitude": 0.9050385,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

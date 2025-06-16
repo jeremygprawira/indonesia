@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.04.33.2001",
+      "name": "GUNUNGSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.33",
+      "districtName": "GUNUNGSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94480,
+      "coordinate": {
+        "longitude": 121.0110708,
+        "latitude": 0.6432046,
+        "elevation": 444
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.33.2002",
+      "name": "CIHERANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.33",
+      "districtName": "GUNUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42160,
+      "coordinate": {
+        "longitude": 106.0562453,
+        "latitude": -6.1791434,
+        "elevation": 167
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.33.2003",
+      "name": "TAMIANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.33",
+      "districtName": "GUNUNGSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72169,
+      "coordinate": {
+        "longitude": 116.304368,
+        "latitude": -2.4272491,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.33.2004",
+      "name": "SUKALABA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.33",
+      "districtName": "GUNUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42160,
+      "coordinate": {
+        "longitude": 106.0484186,
+        "latitude": -6.1468821,
+        "elevation": 227
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.33.2005",
+      "name": "KADU AGUNG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.33",
+      "districtName": "GUNUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42160,
+      "coordinate": {
+        "longitude": 106.0223797,
+        "latitude": -6.1430383,
+        "elevation": 305
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.33.2006",
+      "name": "LUWUK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.33",
+      "districtName": "GUNUNGSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94711,
+      "coordinate": {
+        "longitude": 122.7908371,
+        "latitude": -0.950417,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.04.33.2007",
+      "name": "CURUG SULANJANA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.04",
+      "cityName": "KAB. SERANG",
+      "districtCode": "36.04.33",
+      "districtName": "GUNUNGSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42160,
+      "coordinate": {
+        "longitude": 106.0554499,
+        "latitude": -6.1377375,
+        "elevation": 216
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

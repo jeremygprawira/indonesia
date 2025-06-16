@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.04.06.2001",
+      "name": "TALUK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.06",
+      "districtName": "LINTAU BUO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25538,
+      "coordinate": {
+        "longitude": 100.1402849,
+        "latitude": -0.6485802,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.06.2002",
+      "name": "BUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.06",
+      "districtName": "LINTAU BUO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97755,
+      "coordinate": {
+        "longitude": 127.5771964,
+        "latitude": 1.7387517,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.06.2003",
+      "name": "TIGO JANGKO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.06",
+      "districtName": "LINTAU BUO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27292,
+      "coordinate": {
+        "longitude": 100.8039128,
+        "latitude": -0.4825699,
+        "elevation": 363
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.06.2004",
+      "name": "PANGIAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.06",
+      "districtName": "LINTAU BUO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95750,
+      "coordinate": {
+        "longitude": 124.3582977,
+        "latitude": 0.8235668,
+        "elevation": 1112
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

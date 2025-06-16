@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.01.04.2001",
+      "name": "HAJIMENA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2270443,
+        "latitude": -5.3513266,
+        "elevation": 119
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2002",
+      "name": "SIDOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51162,
+      "coordinate": {
+        "longitude": 109.5187452,
+        "latitude": -6.9846497,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2003",
+      "name": "PEMANGGILAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2178739,
+        "latitude": -5.3403204,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2004",
+      "name": "NATAR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2068433,
+        "latitude": -5.3238383,
+        "elevation": 119
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2005",
+      "name": "MUARA PUTIH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.23845,
+        "latitude": -5.2703591,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2006",
+      "name": "NEGARA RATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34762,
+      "coordinate": {
+        "longitude": 104.7880977,
+        "latitude": -4.2579661,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2007",
+      "name": "MERAK BATIN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2110464,
+        "latitude": -5.3112084,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2008",
+      "name": "TANJUNG SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75772,
+      "coordinate": {
+        "longitude": 116.235402,
+        "latitude": -0.7190938,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2009",
+      "name": "BUMI SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43367,
+      "coordinate": {
+        "longitude": 106.6727887,
+        "latitude": -6.9230471,
+        "elevation": 412
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2010",
+      "name": "CANDI MAS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.1998063,
+        "latitude": -5.264361,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2011",
+      "name": "BRANTI RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.193282,
+        "latitude": -5.2386942,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2012",
+      "name": "HADUYANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.1810486,
+        "latitude": -5.2260374,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2013",
+      "name": "BANJAR NEGERI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35367,
+      "coordinate": {
+        "longitude": 105.0448627,
+        "latitude": -5.4185325,
+        "elevation": 130
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2014",
+      "name": "MANDAH",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.196573,
+        "latitude": -5.2118263,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2015",
+      "name": "RULUNG HELOK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2135854,
+        "latitude": -5.2030228,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2016",
+      "name": "BANDAREJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2761766,
+        "latitude": -5.2262629,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2017",
+      "name": "SUKA DAMAI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97789,
+      "coordinate": {
+        "longitude": 127.7464899,
+        "latitude": -0.2245384,
+        "elevation": 634
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2018",
+      "name": "PURWOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92970,
+      "coordinate": {
+        "longitude": 120.8539597,
+        "latitude": -2.5056239,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2019",
+      "name": "PANCASILA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94666,
+      "coordinate": {
+        "longitude": 120.8620432,
+        "latitude": -1.9644707,
+        "elevation": 413
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2020",
+      "name": "REJOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72211,
+      "coordinate": {
+        "longitude": 115.7798503,
+        "latitude": -3.2118721,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2021",
+      "name": "RULUNG RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2421144,
+        "latitude": -5.2253058,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2022",
+      "name": "KRAWANG SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2572875,
+        "latitude": -5.2894183,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2023",
+      "name": "WAI SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2043849,
+        "latitude": -5.2526311,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2024",
+      "name": "KALI SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.224971,
+        "latitude": -5.2956175,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2025",
+      "name": "RULUNG SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2221262,
+        "latitude": -5.2301537,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.04.2026",
+      "name": "RULUNG MULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.04",
+      "districtName": "NATAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35362,
+      "coordinate": {
+        "longitude": 105.2612302,
+        "latitude": -5.1934036,
+        "elevation": 32
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

@@ -1,0 +1,970 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.15.2001",
+      "name": "DUA PAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9699836,
+        "latitude": 5.3069311,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2002",
+      "name": "COT MULU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2003",
+      "name": "DAYAH BUBUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9669924,
+        "latitude": 5.302562,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2004",
+      "name": "TANJONG HAGU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2322984,
+        "latitude": 5.0902143,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2005",
+      "name": "SUMBOE BUGA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9593696,
+        "latitude": 5.2956367,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2006",
+      "name": "RAMBAYAN KUPULA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9632529,
+        "latitude": 5.2959759,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2007",
+      "name": "RAMBAYAN LUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9666005,
+        "latitude": 5.2977574,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2008",
+      "name": "CEMPALA KUNENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9669962,
+        "latitude": 5.3299655,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2009",
+      "name": "PEUNAYONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23122,
+      "coordinate": {
+        "longitude": 95.3196103,
+        "latitude": 5.5596748,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2010",
+      "name": "LEUHOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9632994,
+        "latitude": 5.3270037,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2011",
+      "name": "KUMBANG WAIDO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9811767,
+        "latitude": 5.3123508,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2012",
+      "name": "GAMPONG WAIDO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9800162,
+        "latitude": 5.3164058,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2013",
+      "name": "MEE KRUKON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9794806,
+        "latitude": 5.3204029,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2014",
+      "name": "MEE LAMPOIH SAKA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2015",
+      "name": "LUENG GUCI RUMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9680785,
+        "latitude": 5.3150211,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2016",
+      "name": "DAYAH SEUMIDEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9694254,
+        "latitude": 5.3183573,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2017",
+      "name": "MESJID GUCI RUMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9711649,
+        "latitude": 5.3199659,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2018",
+      "name": "REUBA WAIDO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9767226,
+        "latitude": 5.3223517,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2019",
+      "name": "DAYAH TEUNGKU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2020",
+      "name": "JURONG RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9725651,
+        "latitude": 5.3328984,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2021",
+      "name": "BALEE RASTONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2022",
+      "name": "LUENG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9641367,
+        "latitude": 5.3422107,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2023",
+      "name": "TEUNGOH BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9659043,
+        "latitude": 5.3489073,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2024",
+      "name": "MEE HAGU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9713927,
+        "latitude": 5.3443909,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2025",
+      "name": "DAYAH SUKON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9715047,
+        "latitude": 5.3480026,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2026",
+      "name": "BLANG RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9600384,
+        "latitude": 5.3399169,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2027",
+      "name": "BALEE PINEUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9556392,
+        "latitude": 5.3081349,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2028",
+      "name": "MENJEE MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2029",
+      "name": "MEE TANOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2030",
+      "name": "SIALET-ALET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.954618,
+        "latitude": 5.29509,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2031",
+      "name": "BLUEK ARAB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9468085,
+        "latitude": 5.2970275,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2032",
+      "name": "PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2308449,
+        "latitude": 5.1450867,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2033",
+      "name": "DAYAH MUARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9556831,
+        "latitude": 5.3222337,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2034",
+      "name": "SAWIET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9555443,
+        "latitude": 5.3282057,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2035",
+      "name": "ULEE TUTUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24175,
+      "coordinate": {
+        "longitude": 95.9999505,
+        "latitude": 5.2829537,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2036",
+      "name": "JIM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98352,
+      "coordinate": {
+        "longitude": 133.6840921,
+        "latitude": -1.2141649,
+        "elevation": 1149
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2037",
+      "name": "KEUTAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6128325,
+        "latitude": 4.6324147,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2038",
+      "name": "MEULEUWEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9483741,
+        "latitude": 5.3250922,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2039",
+      "name": "JURONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24377,
+      "coordinate": {
+        "longitude": 96.9139523,
+        "latitude": 5.1140233,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2040",
+      "name": "RAYA KRUENG SEUMIDEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9555196,
+        "latitude": 5.3389962,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2041",
+      "name": "SUKON KRUENG SEUMIDEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9496034,
+        "latitude": 5.3394305,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2042",
+      "name": "MEE KRUENG SEUMIDEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9505832,
+        "latitude": 5.3355163,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2043",
+      "name": "BLANG KRUENG SEUMIDEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9481988,
+        "latitude": 5.336954,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2044",
+      "name": "KEUREUMBOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0172848,
+        "latitude": 5.3179396,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2045",
+      "name": "ULEE COT SEUPENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.9591325,
+        "latitude": 5.3306634,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2046",
+      "name": "KABAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68461,
+      "coordinate": {
+        "longitude": 114.321267,
+        "latitude": -8.2746727,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2049",
+      "name": "BLANG SEUPENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24172,
+      "coordinate": {
+        "longitude": 95.960738,
+        "latitude": 5.3227762,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.15.2050",
+      "name": "GAMPONG KRUENG SEUMIDEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.15",
+      "districtName": "PEUKAN BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 48
+  }
+}

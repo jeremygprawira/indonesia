@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.04.2001",
+      "name": "ARANDAY",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.04",
+      "districtName": "ARANDAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98151,
+      "coordinate": {
+        "longitude": 133.1486374,
+        "latitude": -2.1440554,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.04.2007",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.04",
+      "districtName": "ARANDAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.04.2008",
+      "name": "KECAP",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.04",
+      "districtName": "ARANDAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98151,
+      "coordinate": {
+        "longitude": 133.0283654,
+        "latitude": -2.1853008,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.04.2009",
+      "name": "MANUNGGAL KARYA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.04",
+      "districtName": "ARANDAY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98151,
+      "coordinate": {
+        "longitude": 133.0240175,
+        "latitude": -2.2075316,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

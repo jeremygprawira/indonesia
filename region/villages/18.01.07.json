@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.01.07.2001",
+      "name": "BANDAR DALAM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34887,
+      "coordinate": {
+        "longitude": 104.455649,
+        "latitude": -5.7137469,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2002",
+      "name": "CAMPANG TIGA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35381,
+      "coordinate": {
+        "longitude": 104.6622642,
+        "latitude": -5.4888719,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2003",
+      "name": "TALANG BARU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35352,
+      "coordinate": {
+        "longitude": 105.4745371,
+        "latitude": -5.5829047,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2004",
+      "name": "SUKA BANJAR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34883,
+      "coordinate": {
+        "longitude": 104.2020463,
+        "latitude": -5.4262012,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2005",
+      "name": "KOTA DALAM",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2006",
+      "name": "BUDIDAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35352,
+      "coordinate": {
+        "longitude": 105.4911355,
+        "latitude": -5.6229015,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2007",
+      "name": "SIRING JAHA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35352,
+      "coordinate": {
+        "longitude": 105.4780592,
+        "latitude": -5.6497347,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2008",
+      "name": "SUAK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35352,
+      "coordinate": {
+        "longitude": 105.4501286,
+        "latitude": -5.627273,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2009",
+      "name": "SUKAMAJU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2010",
+      "name": "SUKAMARGA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42371,
+      "coordinate": {
+        "longitude": 106.3188601,
+        "latitude": -6.5392526,
+        "elevation": 141
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2011",
+      "name": "SELORETNO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35352,
+      "coordinate": {
+        "longitude": 105.5150132,
+        "latitude": -5.6019507,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2012",
+      "name": "SIDODADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5389879,
+        "latitude": 1.2234312,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2013",
+      "name": "SIDOREJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2014",
+      "name": "SIDOMULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2015",
+      "name": "SIDOWALUYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35352,
+      "coordinate": {
+        "longitude": 105.55732,
+        "latitude": -5.5954056,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.07.2020",
+      "name": "BANJAR SURI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.07",
+      "districtName": "SIDOMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35352,
+      "coordinate": {
+        "longitude": 105.4675056,
+        "latitude": -5.6110705,
+        "elevation": 102
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.72.04.1001",
+      "name": "SELILI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.04",
+      "districtName": "SAMARINDA ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75114,
+      "coordinate": {
+        "longitude": 117.1612759,
+        "latitude": -0.5201796,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.04.1002",
+      "name": "SUNGAI DAMA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.04",
+      "districtName": "SAMARINDA ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75115,
+      "coordinate": {
+        "longitude": 117.1615952,
+        "latitude": -0.507633,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.04.1003",
+      "name": "SIDOMULYO",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.04",
+      "districtName": "SAMARINDA ILIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.04.1013",
+      "name": "SIDODAMAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.04",
+      "districtName": "SAMARINDA ILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75116,
+      "coordinate": {
+        "longitude": 117.1666051,
+        "latitude": -0.4985507,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.04.1014",
+      "name": "PELITA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.04",
+      "districtName": "SAMARINDA ILIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.3350246,
+        "latitude": -1.8563327,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

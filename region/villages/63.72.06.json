@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.72.06.1001",
+      "name": "LANDASAN ULIN BARAT",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.06",
+      "districtName": "LIANG ANGGANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70722,
+      "coordinate": {
+        "longitude": 114.6931963,
+        "latitude": -3.4361099,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.06.1002",
+      "name": "LANDASAN ULIN TENGAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.06",
+      "districtName": "LIANG ANGGANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70723,
+      "coordinate": {
+        "longitude": 114.7236901,
+        "latitude": -3.4759603,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.06.1003",
+      "name": "LANDASAN ULIN UTARA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.06",
+      "districtName": "LIANG ANGGANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70724,
+      "coordinate": {
+        "longitude": 114.7267279,
+        "latitude": -3.406557,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.06.1004",
+      "name": "LANDASAN ULIN SELATAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.06",
+      "districtName": "LIANG ANGGANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70724,
+      "coordinate": {
+        "longitude": 114.7026752,
+        "latitude": -3.4873584,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

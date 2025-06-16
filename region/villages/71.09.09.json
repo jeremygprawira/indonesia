@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.09.09.2001",
+      "name": "SALILI",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.09",
+      "districtName": "SIAU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95860,
+      "coordinate": {
+        "longitude": 125.3899993,
+        "latitude": 2.7512969,
+        "elevation": 396
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.09.09.2002",
+      "name": "BEONG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.09",
+      "districtName": "SIAU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95860,
+      "coordinate": {
+        "longitude": 125.3840017,
+        "latitude": 2.7525369,
+        "elevation": 360
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.09.09.2003",
+      "name": "LAI",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.09",
+      "districtName": "SIAU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95860,
+      "coordinate": {
+        "longitude": 125.3775425,
+        "latitude": 2.7406993,
+        "elevation": 292
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.09.09.2004",
+      "name": "DOMPASE",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.09",
+      "cityName": "KAB. KEP. SIAU TAGULANDANG BIARO",
+      "districtCode": "71.09.09",
+      "districtName": "SIAU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95860,
+      "coordinate": {
+        "longitude": 125.3831429,
+        "latitude": 2.7598849,
+        "elevation": 400
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

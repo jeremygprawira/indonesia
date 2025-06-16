@@ -1,0 +1,770 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.08.11.2001",
+      "name": "BALE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97824,
+      "coordinate": {
+        "longitude": 127.7062185,
+        "latitude": 0.4199839,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2002",
+      "name": "BIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1944595,
+        "latitude": 5.1089259,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2003",
+      "name": "BEURANDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.195686,
+        "latitude": 5.1158905,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2004",
+      "name": "BARO KULAM GAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1973966,
+        "latitude": 5.1126805,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2005",
+      "name": "GLONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1876584,
+        "latitude": 5.1114372,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2006",
+      "name": "NIBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.2009422,
+        "latitude": 5.1126729,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2007",
+      "name": "LANGA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1817587,
+        "latitude": 5.1181982,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2008",
+      "name": "BEUNOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1852125,
+        "latitude": 5.1149628,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2009",
+      "name": "KEUDE BAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1901014,
+        "latitude": 5.1185603,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2010",
+      "name": "BLANG BAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23670,
+      "coordinate": {
+        "longitude": 96.3843251,
+        "latitude": 4.2473021,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2011",
+      "name": "DAYAH TUHA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2224086,
+        "latitude": 5.2226074,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2012",
+      "name": "DAYAH BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.5888526,
+        "latitude": 4.6328149,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2013",
+      "name": "LANCOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2615889,
+        "latitude": 5.2165611,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2014",
+      "name": "PUNTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84163,
+      "coordinate": {
+        "longitude": 118.6814682,
+        "latitude": -8.4176944,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2015",
+      "name": "BUNGONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24384,
+      "coordinate": {
+        "longitude": 97.2995989,
+        "latitude": 5.0201496,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2016",
+      "name": "BAROH BLANG RIMUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1857548,
+        "latitude": 5.1301268,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2017",
+      "name": "ULEE MEURIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1825646,
+        "latitude": 5.0875326,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2018",
+      "name": "KAYEE PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1901293,
+        "latitude": 5.083806,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2019",
+      "name": "RHENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1889092,
+        "latitude": 5.0913607,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2020",
+      "name": "TRIENG MEUDUROU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1888685,
+        "latitude": 5.0973298,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2021",
+      "name": "ULEE GAMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24352,
+      "coordinate": {
+        "longitude": 97.3682559,
+        "latitude": 4.9477298,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2022",
+      "name": "GARUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42178,
+      "coordinate": {
+        "longitude": 106.3714166,
+        "latitude": -6.3041823,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2023",
+      "name": "BLANG AWE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2476924,
+        "latitude": 5.2070885,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2024",
+      "name": "PULO BLANG MANGAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1838239,
+        "latitude": 5.102913,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2025",
+      "name": "CIBREK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24390,
+      "coordinate": {
+        "longitude": 97.2799866,
+        "latitude": 5.1453044,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2026",
+      "name": "PULO BLANG TRIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1831998,
+        "latitude": 5.0927879,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2027",
+      "name": "MEUDANG ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23764,
+      "coordinate": {
+        "longitude": 96.8356171,
+        "latitude": 3.7417827,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2028",
+      "name": "COT NEUHEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1857459,
+        "latitude": 5.0506699,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2029",
+      "name": "TUMPEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1909791,
+        "latitude": 5.0558628,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2030",
+      "name": "ALEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1896112,
+        "latitude": 5.0620461,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2031",
+      "name": "DAYAH BLANG SEUREUKUY",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1910817,
+        "latitude": 5.0691492,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2032",
+      "name": "BLANG PATRA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1855833,
+        "latitude": 5.0687284,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2033",
+      "name": "BLANG MAJRON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.183727,
+        "latitude": 5.078229,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2034",
+      "name": "SEUNEUBOK BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24357,
+      "coordinate": {
+        "longitude": 96.8574509,
+        "latitude": 5.1332253,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2035",
+      "name": "BUKET GLUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1621992,
+        "latitude": 5.0634456,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2037",
+      "name": "ALUE MAJRON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1785321,
+        "latitude": 5.0718578,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2038",
+      "name": "SIREN TUJOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1849166,
+        "latitude": 5.0559026,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.11.2047",
+      "name": "BLANG SEUREUKUY",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.11",
+      "districtName": "SYAMTALIRA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1915577,
+        "latitude": 5.0745218,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 38
+  }
+}

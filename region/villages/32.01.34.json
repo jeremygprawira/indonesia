@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.01.34.2001",
+      "name": "BANTARJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.34",
+      "districtName": "RANCA BUNGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17710,
+      "coordinate": {
+        "longitude": 107.2676602,
+        "latitude": -6.2175439,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.34.2002",
+      "name": "BANTARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.34",
+      "districtName": "RANCA BUNGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53281,
+      "coordinate": {
+        "longitude": 108.8675459,
+        "latitude": -7.5689253,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.34.2003",
+      "name": "PASIRGAOK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.34",
+      "districtName": "RANCA BUNGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16311,
+      "coordinate": {
+        "longitude": 106.7159954,
+        "latitude": -6.5331766,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.34.2004",
+      "name": "RANCABUNGUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.34",
+      "districtName": "RANCA BUNGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16311,
+      "coordinate": {
+        "longitude": 106.7049581,
+        "latitude": -6.5321454,
+        "elevation": 142
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.34.2005",
+      "name": "MEKARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.34",
+      "districtName": "RANCA BUNGUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.34.2006",
+      "name": "CANDALI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.34",
+      "districtName": "RANCA BUNGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16311,
+      "coordinate": {
+        "longitude": 106.696549,
+        "latitude": -6.5048483,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.01.34.2007",
+      "name": "CIMULANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.01",
+      "cityName": "KAB. BOGOR",
+      "districtCode": "32.01.34",
+      "districtName": "RANCA BUNGUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16311,
+      "coordinate": {
+        "longitude": 106.7109703,
+        "latitude": -6.5224751,
+        "elevation": 139
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

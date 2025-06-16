@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.03.01.1001",
+      "name": "TANJUNG KAPUAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.670591,
+        "latitude": 0.1268486,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.1002",
+      "name": "TANJUNG SEKAYAM",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78515,
+      "coordinate": {
+        "longitude": 110.6068996,
+        "latitude": 0.1288094,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.1003",
+      "name": "SUNGAI SENGKUANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78514,
+      "coordinate": {
+        "longitude": 110.6114152,
+        "latitude": 0.1729388,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.1004",
+      "name": "ILIR KOTA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78513,
+      "coordinate": {
+        "longitude": 110.5979685,
+        "latitude": 0.1352959,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.1005",
+      "name": "BERINGIN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93958,
+      "coordinate": {
+        "longitude": 121.0002842,
+        "latitude": -3.2999473,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.1006",
+      "name": "BUNUT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74162,
+      "coordinate": {
+        "longitude": 111.4313402,
+        "latitude": -2.0941086,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2007",
+      "name": "PENYELADI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.6672852,
+        "latitude": 0.1107542,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2008",
+      "name": "NANGA BIANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.6509068,
+        "latitude": -0.0106575,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2009",
+      "name": "RAMBIN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.6589889,
+        "latitude": -0.1123074,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2010",
+      "name": "ENTAKAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.6581899,
+        "latitude": 0.2498683,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2011",
+      "name": "PANA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91369,
+      "coordinate": {
+        "longitude": 119.5609739,
+        "latitude": -3.0641958,
+        "elevation": 1043
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2012",
+      "name": "MENGKIANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.5866535,
+        "latitude": 0.2177963,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2013",
+      "name": "KAMBONG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.6493889,
+        "latitude": 0.2722117,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2014",
+      "name": "SUNGAI MAWANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78769,
+      "coordinate": {
+        "longitude": 111.6433883,
+        "latitude": 0.9565746,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2015",
+      "name": "LAPE",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94652,
+      "coordinate": {
+        "longitude": 120.6390494,
+        "latitude": -1.3649889,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2016",
+      "name": "PENYALIMAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2017",
+      "name": "SUNGAI ALAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.4110542,
+        "latitude": -0.0595962,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2018",
+      "name": "SEMERANGKAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.4399551,
+        "latitude": 0.0139382,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2019",
+      "name": "SUNGAI BATU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.5188574,
+        "latitude": 0.0401647,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2020",
+      "name": "SUNGAI MUNTIK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.5606299,
+        "latitude": -0.0247853,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2021",
+      "name": "LINTANG KAPUAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.5745313,
+        "latitude": 0.0768752,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2022",
+      "name": "LINTANG PELAMAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.6033282,
+        "latitude": -0.0887895,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2023",
+      "name": "BELANGIN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.6325091,
+        "latitude": 0.0042938,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2024",
+      "name": "PENYALIMAU JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2025",
+      "name": "TAPANG DULANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.4813382,
+        "latitude": -0.1658143,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.01.2026",
+      "name": "BOTUH LINTANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.01",
+      "districtName": "KAPUAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78516,
+      "coordinate": {
+        "longitude": 110.7083102,
+        "latitude": -0.0407831,
+        "elevation": 45
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

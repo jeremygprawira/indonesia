@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.09.28.2001",
+      "name": "SILO BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.28",
+      "districtName": "SILAU LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21267,
+      "coordinate": {
+        "longitude": 99.7747524,
+        "latitude": 3.1295533,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.28.2002",
+      "name": "SILO LAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.28",
+      "districtName": "SILAU LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21267,
+      "coordinate": {
+        "longitude": 99.7050399,
+        "latitude": 3.0942428,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.28.2003",
+      "name": "SILO BONTO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.28",
+      "districtName": "SILAU LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21267,
+      "coordinate": {
+        "longitude": 99.7195383,
+        "latitude": 3.1047119,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.28.2004",
+      "name": "LUBUK PALAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.28",
+      "districtName": "SILAU LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21267,
+      "coordinate": {
+        "longitude": 99.7456262,
+        "latitude": 3.0488077,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.09.28.2005",
+      "name": "BANGUN SARI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.09",
+      "cityName": "KAB. ASAHAN",
+      "districtCode": "12.09.28",
+      "districtName": "SILAU LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93621,
+      "coordinate": {
+        "longitude": 122.6871426,
+        "latitude": -4.7653195,
+        "elevation": 55
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

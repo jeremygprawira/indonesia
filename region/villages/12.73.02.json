@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.73.02.1001",
+      "name": "KOTA BARINGIN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.02",
+      "districtName": "SIBOLGA KOTA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.02.1002",
+      "name": "PASAR BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.02",
+      "districtName": "SIBOLGA KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.02.1003",
+      "name": "PASAR BELAKANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.02",
+      "districtName": "SIBOLGA KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22523,
+      "coordinate": {
+        "longitude": 98.7645645,
+        "latitude": 1.7106311,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.02.1004",
+      "name": "PANCURAN GEROBAK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.02",
+      "districtName": "SIBOLGA KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22524,
+      "coordinate": {
+        "longitude": 98.7848913,
+        "latitude": 1.7414816,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

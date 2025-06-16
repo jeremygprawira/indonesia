@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.03.08.2001",
+      "name": "TANJUNG ANOM",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.08",
+      "districtName": "GIRI MULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15531,
+      "coordinate": {
+        "longitude": 106.5408078,
+        "latitude": -6.0199031,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.08.2002",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.08",
+      "districtName": "GIRI MULYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.08.2003",
+      "name": "WONO HARJO",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.08",
+      "districtName": "GIRI MULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34760,
+      "coordinate": {
+        "longitude": 104.5157874,
+        "latitude": -4.3655624,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.08.2004",
+      "name": "GIRI MULYA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.08",
+      "districtName": "GIRI MULYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72272,
+      "coordinate": {
+        "longitude": 115.6943905,
+        "latitude": -3.5080957,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.08.2005",
+      "name": "RENA JAYA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.08",
+      "districtName": "GIRI MULYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38381,
+      "coordinate": {
+        "longitude": 102.3817551,
+        "latitude": -3.5987243,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.08.2006",
+      "name": "SUKA MULYA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.08",
+      "districtName": "GIRI MULYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.4120185,
+        "latitude": 0.7188407,
+        "elevation": 82
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

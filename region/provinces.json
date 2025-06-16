@@ -1,0 +1,273 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "province",
+      "code": "11",
+      "indonesian": "ACEH",
+      "english": "Aceh",
+      "aliases": ["Nanggroe Aceh Darussalam", "NAD", "Serambi Mekkah"]
+    },
+    {
+      "type": "province",
+      "code": "12",
+      "indonesian": "SUMATERA UTARA",
+      "english": "North Sumatra",
+      "aliases": ["Sumut"]
+    },
+    {
+      "type": "province",
+      "code": "13",
+      "indonesian": "SUMATERA BARAT",
+      "english": "West Sumatra",
+      "aliases": ["Sumbar", "Ranah Minang"]
+    },
+    {
+      "type": "province",
+      "code": "14",
+      "indonesian": "RIAU",
+      "english": "Riau",
+      "aliases": ["Bumi Lancang Kuning"]
+    },
+    {
+      "type": "province",
+      "code": "15",
+      "indonesian": "JAMBI",
+      "english": "Jambi",
+      "aliases": ["Bumi Sepucuk Jambi Sembilan Lurah"]
+    },
+    {
+      "type": "province",
+      "code": "16",
+      "indonesian": "SUMATERA SELATAN",
+      "english": "South Sumatra",
+      "aliases": ["Sumsel", "Bumi Sriwijaya"]
+    },
+    {
+      "type": "province",
+      "code": "17",
+      "indonesian": "BENGKULU",
+      "english": "Bengkulu",
+      "aliases": ["Bumi Raflesia"]
+    },
+    {
+      "type": "province",
+      "code": "18",
+      "indonesian": "LAMPUNG",
+      "english": "Lampung",
+      "aliases": ["Bumi Ruwa Jurai", "Sang Bumi Ruwa Jurai"]
+    },
+    {
+      "type": "province",
+      "code": "19",
+      "indonesian": "KEPULAUAN BANGKA BELITUNG",
+      "english": "Bangka Belitung Islands",
+      "aliases": ["Babel", "Negeri Serumpun Sebalai"]
+    },
+    {
+      "type": "province",
+      "code": "21",
+      "indonesian": "KEPULAUAN RIAU",
+      "english": "Riau Islands",
+      "aliases": ["Kepri", "Bumi Segantang Lada"]
+    },
+    {
+      "type": "province",
+      "code": "31",
+      "indonesian": "DKI JAKARTA",
+      "english": "Special Capital Region of Jakarta",
+      "aliases": ["Jakarta", "Jayakarta"]
+    },
+    {
+      "type": "province",
+      "code": "32",
+      "indonesian": "JAWA BARAT",
+      "english": "West Java",
+      "aliases": ["Jabar", "Tatar Sunda"]
+    },
+    {
+      "type": "province",
+      "code": "33",
+      "indonesian": "JAWA TENGAH",
+      "english": "Central Java",
+      "aliases": ["Jateng"]
+    },
+    {
+      "type": "province",
+      "code": "34",
+      "indonesian": "DAERAH ISTIMEWA YOGYAKARTA",
+      "english": "Special Region of Yogyakarta",
+      "aliases": ["DIY", "Jogja", "Yogya"]
+    },
+    {
+      "type": "province",
+      "code": "35",
+      "indonesian": "JAWA TIMUR",
+      "english": "East Java",
+      "aliases": ["Jatim"]
+    },
+    {
+      "type": "province",
+      "code": "36",
+      "indonesian": "BANTEN",
+      "english": "Banten",
+      "aliases": ["Tatar Jawara"]
+    },
+    {
+      "type": "province",
+      "code": "51",
+      "indonesian": "BALI",
+      "english": "Bali",
+      "aliases": ["Pulau Dewata", "Island of the Gods"]
+    },
+    {
+      "type": "province",
+      "code": "52",
+      "indonesian": "NUSA TENGGARA BARAT",
+      "english": "West Nusa Tenggara",
+      "aliases": ["NTB"]
+    },
+    {
+      "type": "province",
+      "code": "53",
+      "indonesian": "NUSA TENGGARA TIMUR",
+      "english": "East Nusa Tenggara",
+      "aliases": ["NTT"]
+    },
+    {
+      "type": "province",
+      "code": "61",
+      "indonesian": "KALIMANTAN BARAT",
+      "english": "West Kalimantan",
+      "aliases": ["Kalbar"]
+    },
+    {
+      "type": "province",
+      "code": "62",
+      "indonesian": "KALIMANTAN TENGAH",
+      "english": "Central Kalimantan",
+      "aliases": ["Kalteng"]
+    },
+    {
+      "type": "province",
+      "code": "63",
+      "indonesian": "KALIMANTAN SELATAN",
+      "english": "South Kalimantan",
+      "aliases": ["Kalsel"]
+    },
+    {
+      "type": "province",
+      "code": "64",
+      "indonesian": "KALIMANTAN TIMUR",
+      "english": "East Kalimantan",
+      "aliases": ["Kaltim"]
+    },
+    {
+      "type": "province",
+      "code": "65",
+      "indonesian": "KALIMANTAN UTARA",
+      "english": "North Kalimantan",
+      "aliases": ["Kaltara"]
+    },
+    {
+      "type": "province",
+      "code": "71",
+      "indonesian": "SULAWESI UTARA",
+      "english": "North Sulawesi",
+      "aliases": ["Sulut"]
+    },
+    {
+      "type": "province",
+      "code": "72",
+      "indonesian": "SULAWESI TENGAH",
+      "english": "Central Sulawesi",
+      "aliases": ["Sulteng"]
+    },
+    {
+      "type": "province",
+      "code": "73",
+      "indonesian": "SULAWESI SELATAN",
+      "english": "South Sulawesi",
+      "aliases": ["Sulsel"]
+    },
+    {
+      "type": "province",
+      "code": "74",
+      "indonesian": "SULAWESI TENGGARA",
+      "english": "Southeast Sulawesi",
+      "aliases": ["Sultra"]
+    },
+    {
+      "type": "province",
+      "code": "75",
+      "indonesian": "GORONTALO",
+      "english": "Gorontalo",
+      "aliases": ["Hulondhalo"]
+    },
+    {
+      "type": "province",
+      "code": "76",
+      "indonesian": "SULAWESI BARAT",
+      "english": "West Sulawesi",
+      "aliases": ["Sulbar"]
+    },
+    {
+      "type": "province",
+      "code": "81",
+      "indonesian": "MALUKU",
+      "english": "Maluku",
+      "aliases": ["Moluccas", "Spice Islands"]
+    },
+    {
+      "type": "province",
+      "code": "82",
+      "indonesian": "MALUKU UTARA",
+      "english": "North Maluku",
+      "aliases": ["North Moluccas"]
+    },
+    {
+      "type": "province",
+      "code": "91",
+      "indonesian": "P A P U A",
+      "english": "Papua",
+      "aliases": []
+    },
+    {
+      "type": "province",
+      "code": "92",
+      "indonesian": "PAPUA BARAT",
+      "english": "West Papua",
+      "aliases": []
+    },
+    {
+      "type": "province",
+      "code": "93",
+      "indonesian": "PAPUA SELATAN",
+      "english": "South Papua",
+      "aliases": []
+    },
+    {
+      "type": "province",
+      "code": "94",
+      "indonesian": "PAPUA TENGAH",
+      "english": "Central Papua",
+      "aliases": []
+    },
+    {
+      "type": "province",
+      "code": "95",
+      "indonesian": "PAPUA PEGUNUNGAN",
+      "english": "Highland Papua",
+      "aliases": []
+    },
+    {
+      "type": "province",
+      "code": "96",
+      "indonesian": "PAPUA BARAT DAYA",
+      "english": "Southwest Papua",
+      "aliases": []
+    }
+  ]
+}

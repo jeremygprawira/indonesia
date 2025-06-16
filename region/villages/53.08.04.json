@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.08.04.1003",
+      "name": "MBONGAWANI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.04",
+      "districtName": "ENDE SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86313,
+      "coordinate": {
+        "longitude": 121.6466935,
+        "latitude": -8.8483909,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.04.1004",
+      "name": "RUKUN LIMA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.04",
+      "districtName": "ENDE SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86314,
+      "coordinate": {
+        "longitude": 121.6490395,
+        "latitude": -8.8554641,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.04.1006",
+      "name": "PAUPANDA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.04",
+      "districtName": "ENDE SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86315,
+      "coordinate": {
+        "longitude": 121.6441435,
+        "latitude": -8.8604415,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.04.1008",
+      "name": "TETANDARA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.04",
+      "districtName": "ENDE SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86316,
+      "coordinate": {
+        "longitude": 121.656213,
+        "latitude": -8.8732074,
+        "elevation": 225
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.04.1014",
+      "name": "TANJUNG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.04",
+      "districtName": "ENDE SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

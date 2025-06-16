@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.73.04.1001",
+      "name": "KECANDRAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.04",
+      "districtName": "SIDOMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50723,
+      "coordinate": {
+        "longitude": 110.4764925,
+        "latitude": -7.328477,
+        "elevation": 514
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.04.1002",
+      "name": "DUKUH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.04",
+      "districtName": "SIDOMUKTI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80853,
+      "coordinate": {
+        "longitude": 115.5388824,
+        "latitude": -8.3085549,
+        "elevation": 868
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.04.1003",
+      "name": "MANGUNSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.04",
+      "districtName": "SIDOMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67381,
+      "coordinate": {
+        "longitude": 113.2809793,
+        "latitude": -8.1871504,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.73.04.1004",
+      "name": "KALICACING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.73",
+      "cityName": "KOTA SALATIGA",
+      "districtCode": "33.73.04",
+      "districtName": "SIDOMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50724,
+      "coordinate": {
+        "longitude": 110.5017158,
+        "latitude": -7.3310709,
+        "elevation": 582
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

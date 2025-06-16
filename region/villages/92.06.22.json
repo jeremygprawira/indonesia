@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.22.2001",
+      "name": "MEYERGA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.22",
+      "districtName": "MOSKONA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98154,
+      "coordinate": {
+        "longitude": 132.9576744,
+        "latitude": -1.6902406,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.22.2002",
+      "name": "MACOK",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.22",
+      "districtName": "MOSKONA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98154,
+      "coordinate": {
+        "longitude": 132.9977115,
+        "latitude": -1.7146916,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.22.2003",
+      "name": "ISTIWKEM",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.22",
+      "districtName": "MOSKONA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98154,
+      "coordinate": {
+        "longitude": 133.0273374,
+        "latitude": -1.5655398,
+        "elevation": 262
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.22.2004",
+      "name": "MAJNIC",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.22",
+      "districtName": "MOSKONA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98154,
+      "coordinate": {
+        "longitude": 133.0017618,
+        "latitude": -1.5869438,
+        "elevation": 306
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

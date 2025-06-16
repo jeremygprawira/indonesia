@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.72.07.1001",
+      "name": "LOWU-LOWU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.07",
+      "districtName": "LEA-LEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93733,
+      "coordinate": {
+        "longitude": 122.6421959,
+        "latitude": -5.405623,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.07.1002",
+      "name": "KALIA-LIA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.07",
+      "districtName": "LEA-LEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93733,
+      "coordinate": {
+        "longitude": 122.6401847,
+        "latitude": -5.3813297,
+        "elevation": 173
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.07.1003",
+      "name": "PALABUSA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.07",
+      "districtName": "LEA-LEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93733,
+      "coordinate": {
+        "longitude": 122.6641485,
+        "latitude": -5.3375468,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.07.1004",
+      "name": "KOLESE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.07",
+      "districtName": "LEA-LEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93733,
+      "coordinate": {
+        "longitude": 122.6235538,
+        "latitude": -5.4012003,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.07.1005",
+      "name": "KANTALAI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.07",
+      "districtName": "LEA-LEA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93733,
+      "coordinate": {
+        "longitude": 122.6522414,
+        "latitude": -5.386212,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

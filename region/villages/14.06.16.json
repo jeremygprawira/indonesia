@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.06.16.2001",
+      "name": "PENDALIAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.16",
+      "districtName": "PENDALIAN IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28555,
+      "coordinate": {
+        "longitude": 100.4746808,
+        "latitude": 0.4666408,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.16.2002",
+      "name": "BENGKOLAN SALAK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.16",
+      "districtName": "PENDALIAN IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28555,
+      "coordinate": {
+        "longitude": 100.5176458,
+        "latitude": 0.4821796,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.16.2003",
+      "name": "SULIGI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.16",
+      "districtName": "PENDALIAN IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28555,
+      "coordinate": {
+        "longitude": 100.5103228,
+        "latitude": 0.5239733,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.16.2004",
+      "name": "AIR PANAS",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.16",
+      "districtName": "PENDALIAN IV KOTO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5351833,
+        "latitude": 1.2418628,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.06.16.2005",
+      "name": "SEI KANDIS",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.06",
+      "cityName": "KAB.  ROKAN HULU",
+      "districtCode": "14.06.16",
+      "districtName": "PENDALIAN IV KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28555,
+      "coordinate": {
+        "longitude": 100.5037219,
+        "latitude": 0.479491,
+        "elevation": 110
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

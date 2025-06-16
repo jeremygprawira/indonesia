@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.71.03.1002",
+      "name": "KLAWASI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.03",
+      "districtName": "SORONG BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98412,
+      "coordinate": {
+        "longitude": 131.2574641,
+        "latitude": -0.8448929,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.03.1003",
+      "name": "PUNCAK CENDRAWASIH",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.03",
+      "districtName": "SORONG BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98412,
+      "coordinate": {
+        "longitude": 131.2650728,
+        "latitude": -0.8634581,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.03.1004",
+      "name": "PAL PUTIH",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.03",
+      "districtName": "SORONG BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98412,
+      "coordinate": {
+        "longitude": 131.2627363,
+        "latitude": -0.8548959,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.03.1001",
+      "name": "RUFEI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.03",
+      "districtName": "SORONG BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98412,
+      "coordinate": {
+        "longitude": 131.2475319,
+        "latitude": -0.8574211,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

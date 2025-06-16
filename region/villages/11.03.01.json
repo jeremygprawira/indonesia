@@ -1,0 +1,910 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.03.01.2001",
+      "name": "ALUE LUDDIN SA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7155505,
+        "latitude": 4.9759002,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2002",
+      "name": "ALUE LUDDIN DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7153827,
+        "latitude": 4.9619924,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2003",
+      "name": "ALUE DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7109514,
+        "latitude": 4.9497665,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2004",
+      "name": "DAMA PULO SA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7250112,
+        "latitude": 4.9705025,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2005",
+      "name": "DAMA PULO DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7195621,
+        "latitude": 4.963177,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2006",
+      "name": "BUKET KULAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7127679,
+        "latitude": 4.9770202,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2007",
+      "name": "SEUNEUBOK TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23652,
+      "coordinate": {
+        "longitude": 95.926351,
+        "latitude": 4.3637595,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2008",
+      "name": "JUNGKA GAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7098513,
+        "latitude": 4.9623979,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2009",
+      "name": "SEUNEUBOK SIMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24458,
+      "coordinate": {
+        "longitude": 97.6881823,
+        "latitude": 4.9208734,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2010",
+      "name": "MATANG PINEUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24392,
+      "coordinate": {
+        "longitude": 97.388892,
+        "latitude": 5.0863922,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2011",
+      "name": "LHOK GEULUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23655,
+      "coordinate": {
+        "longitude": 95.5509967,
+        "latitude": 4.7229818,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2012",
+      "name": "BLANG BUKET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24469,
+      "coordinate": {
+        "longitude": 97.8137118,
+        "latitude": 4.8895718,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2013",
+      "name": "MEUNASAH KEUTAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24263,
+      "coordinate": {
+        "longitude": 96.4852369,
+        "latitude": 5.1739218,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2014",
+      "name": "BUKET RUMIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.702382,
+        "latitude": 4.9574154,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2015",
+      "name": "ALUE GADENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24452,
+      "coordinate": {
+        "longitude": 97.8884708,
+        "latitude": 4.5963184,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2016",
+      "name": "KAPAI BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.688247,
+        "latitude": 4.9793296,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2017",
+      "name": "SEUNEUBOK TUHA SA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6940125,
+        "latitude": 4.976,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2018",
+      "name": "SEUNEUBOK TUHA DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7006555,
+        "latitude": 4.9792637,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2019",
+      "name": "SEUNEUBOK BULOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24443,
+      "coordinate": {
+        "longitude": 97.7214529,
+        "latitude": 4.9300186,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2020",
+      "name": "GASEH SAYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6833786,
+        "latitude": 4.9612546,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2021",
+      "name": "ALUE LHOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24476,
+      "coordinate": {
+        "longitude": 98.0199566,
+        "latitude": 4.3719729,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2022",
+      "name": "TRIENG GADENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7040775,
+        "latitude": 4.9680324,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2023",
+      "name": "GRONG-GRONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2231965,
+        "latitude": 5.2323148,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2024",
+      "name": "MATANG GEUTO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7077328,
+        "latitude": 4.9981043,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2025",
+      "name": "ALUE MERBO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6946127,
+        "latitude": 4.9456324,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2026",
+      "name": "BUKET RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6911106,
+        "latitude": 4.9578752,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2027",
+      "name": "GAMPONG KEUDE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24469,
+      "coordinate": {
+        "longitude": 97.8284967,
+        "latitude": 4.8980999,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2028",
+      "name": "PEUKAN IDI CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7209288,
+        "latitude": 4.9872824,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2029",
+      "name": "GAMPONG BEUNOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7359926,
+        "latitude": 4.9764905,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2030",
+      "name": "SEUNEUBOK BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7278881,
+        "latitude": 4.9895549,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2031",
+      "name": "TEUPIN DRUM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7394687,
+        "latitude": 4.9827038,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2032",
+      "name": "KUALA IDI CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7391589,
+        "latitude": 4.9911923,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2034",
+      "name": "SEUNEUBOK ACEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24470,
+      "coordinate": {
+        "longitude": 98.1481572,
+        "latitude": 4.4189084,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2035",
+      "name": "GAMPONG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23234,
+      "coordinate": {
+        "longitude": 95.2999961,
+        "latitude": 5.5474683,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2036",
+      "name": "BAGOK PANAH SA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7023234,
+        "latitude": 5.014004,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2037",
+      "name": "BAGOK PANAH DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6906485,
+        "latitude": 5.0076182,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2038",
+      "name": "BAGOK PANAH LHEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6856105,
+        "latitude": 5.0013159,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2039",
+      "name": "BAGOK PANAH PEUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6811872,
+        "latitude": 4.9987712,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2040",
+      "name": "BUKET TUALANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6840494,
+        "latitude": 4.9868566,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2041",
+      "name": "KEUMUNENG SA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6974776,
+        "latitude": 4.9856484,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2042",
+      "name": "KEUMUNENG DUA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6998875,
+        "latitude": 4.9895462,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2043",
+      "name": "KEUMUNENG  LHEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2044",
+      "name": "KEUMUNENG PEUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.7028746,
+        "latitude": 4.9968844,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2045",
+      "name": "KEUMUNENG LIMONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24455,
+      "coordinate": {
+        "longitude": 97.6891061,
+        "latitude": 4.9912746,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.03.01.2046",
+      "name": "MEUNASAH BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.03",
+      "cityName": "KAB. ACEH TIMUR",
+      "districtCode": "11.03.01",
+      "districtName": "DARUL AMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1279202,
+        "latitude": 5.1573143,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 45
+  }
+}

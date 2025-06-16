@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.15.2001",
+      "name": "TANJUNG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.15",
+      "districtName": "BUNGURAN TIMUR LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.15.2002",
+      "name": "CERUK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.15",
+      "districtName": "BUNGURAN TIMUR LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29776,
+      "coordinate": {
+        "longitude": 108.2902129,
+        "latitude": 3.9995167,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.15.2003",
+      "name": "KELANGA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.15",
+      "districtName": "BUNGURAN TIMUR LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29776,
+      "coordinate": {
+        "longitude": 108.28956,
+        "latitude": 4.0495157,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.15.2004",
+      "name": "PENGADAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.15",
+      "districtName": "BUNGURAN TIMUR LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29776,
+      "coordinate": {
+        "longitude": 108.2410132,
+        "latitude": 4.1376898,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.15.2005",
+      "name": "SEBADAI ULU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.15",
+      "districtName": "BUNGURAN TIMUR LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29776,
+      "coordinate": {
+        "longitude": 108.2529831,
+        "latitude": 4.0245633,
+        "elevation": 123
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.15.2006",
+      "name": "LIMAU MANIS",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.15",
+      "districtName": "BUNGURAN TIMUR LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29776,
+      "coordinate": {
+        "longitude": 108.3432359,
+        "latitude": 3.9978479,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.15.2007",
+      "name": "SELEMAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.15",
+      "districtName": "BUNGURAN TIMUR LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29776,
+      "coordinate": {
+        "longitude": 108.2661822,
+        "latitude": 3.9629725,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

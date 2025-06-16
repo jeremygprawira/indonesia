@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.10.23.2001",
+      "name": "JIMBUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.23",
+      "districtName": "KALIKOTES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 58381,
+      "coordinate": {
+        "longitude": 111.5200139,
+        "latitude": -7.2243734,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.23.2002",
+      "name": "NGEMPLAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.23",
+      "districtName": "KALIKOTES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62192,
+      "coordinate": {
+        "longitude": 112.0662242,
+        "latitude": -7.1544829,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.23.2003",
+      "name": "KALIKOTES",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.23",
+      "districtName": "KALIKOTES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57451,
+      "coordinate": {
+        "longitude": 110.6264884,
+        "latitude": -7.7234864,
+        "elevation": 136
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.23.2004",
+      "name": "KRAJAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.23",
+      "districtName": "KALIKOTES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63371,
+      "coordinate": {
+        "longitude": 111.3572582,
+        "latitude": -7.709216,
+        "elevation": 237
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.23.2005",
+      "name": "TAMBONGWETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.23",
+      "districtName": "KALIKOTES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57451,
+      "coordinate": {
+        "longitude": 110.6281987,
+        "latitude": -7.7122387,
+        "elevation": 147
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.23.2006",
+      "name": "JOGOSETRAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.23",
+      "districtName": "KALIKOTES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57451,
+      "coordinate": {
+        "longitude": 110.6392561,
+        "latitude": -7.7029184,
+        "elevation": 144
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.23.2007",
+      "name": "GEMBLEGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.23",
+      "districtName": "KALIKOTES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57451,
+      "coordinate": {
+        "longitude": 110.6285324,
+        "latitude": -7.7031538,
+        "elevation": 155
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

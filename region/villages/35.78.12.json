@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.12.1001",
+      "name": "BONGKARAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.12",
+      "districtName": "PABEAN CANTIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60161,
+      "coordinate": {
+        "longitude": 112.7430923,
+        "latitude": -7.2426689,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.12.1002",
+      "name": "NYAMPLUNGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.12",
+      "districtName": "PABEAN CANTIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60162,
+      "coordinate": {
+        "longitude": 112.7412955,
+        "latitude": -7.2328409,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.12.1003",
+      "name": "KREMBANGAN UTARA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.12",
+      "districtName": "PABEAN CANTIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60163,
+      "coordinate": {
+        "longitude": 112.7343417,
+        "latitude": -7.2299582,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.12.1006",
+      "name": "TANJUNG PERAK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.12",
+      "districtName": "PABEAN CANTIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60164,
+      "coordinate": {
+        "longitude": 112.7134305,
+        "latitude": -7.2146692,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

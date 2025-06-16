@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.12.22.2001",
+      "name": "CIPEDANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42396,
+      "coordinate": {
+        "longitude": 105.8836856,
+        "latitude": -6.7992514,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.22.2002",
+      "name": "SIDAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52252,
+      "coordinate": {
+        "longitude": 109.0182461,
+        "latitude": -6.9022228,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.22.2003",
+      "name": "MARGAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42353,
+      "coordinate": {
+        "longitude": 106.0904598,
+        "latitude": -6.4725458,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.22.2004",
+      "name": "KERTAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5870764,
+        "latitude": -6.6716319,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.22.2005",
+      "name": "BONGAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52357,
+      "coordinate": {
+        "longitude": 109.5003975,
+        "latitude": -7.2010359,
+        "elevation": 620
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.22.2006",
+      "name": "CIPAAT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45255,
+      "coordinate": {
+        "longitude": 107.9864972,
+        "latitude": -6.3808754,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.22.2007",
+      "name": "KERTAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40553,
+      "coordinate": {
+        "longitude": 107.4873848,
+        "latitude": -6.8467082,
+        "elevation": 680
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.12.22.2008",
+      "name": "PLAWANGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.12",
+      "cityName": "KAB. INDRAMAYU",
+      "districtCode": "32.12.22",
+      "districtName": "BONGAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59273,
+      "coordinate": {
+        "longitude": 111.5937038,
+        "latitude": -6.6779313,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

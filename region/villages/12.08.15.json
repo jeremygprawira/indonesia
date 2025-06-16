@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.08.15.1005",
+      "name": "HARANGGAOL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.08",
+      "cityName": "KAB. SIMALUNGUN",
+      "districtCode": "12.08.15",
+      "districtName": "HARANGGAOL HORISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21177,
+      "coordinate": {
+        "longitude": 98.6766051,
+        "latitude": 2.8767805,
+        "elevation": 900
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.08.15.2001",
+      "name": "NAGORI PURBA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.08",
+      "cityName": "KAB. SIMALUNGUN",
+      "districtCode": "12.08.15",
+      "districtName": "HARANGGAOL HORISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21177,
+      "coordinate": {
+        "longitude": 98.6058184,
+        "latitude": 2.8770325,
+        "elevation": 1039
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.08.15.2002",
+      "name": "NAGORI SIHALPE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.08",
+      "cityName": "KAB. SIMALUNGUN",
+      "districtCode": "12.08.15",
+      "districtName": "HARANGGAOL HORISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21177,
+      "coordinate": {
+        "longitude": 98.64587,
+        "latitude": 2.8753897,
+        "elevation": 1105
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.08.15.2003",
+      "name": "PURBA HORISAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.08",
+      "cityName": "KAB. SIMALUNGUN",
+      "districtCode": "12.08.15",
+      "districtName": "HARANGGAOL HORISAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.08.15.2004",
+      "name": "PURBA PASIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.08",
+      "cityName": "KAB. SIMALUNGUN",
+      "districtCode": "12.08.15",
+      "districtName": "HARANGGAOL HORISAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

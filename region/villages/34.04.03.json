@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.03.2001",
+      "name": "SUMBERRAHAYU",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.03",
+      "districtName": "MOYUDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55563,
+      "coordinate": {
+        "longitude": 110.2424525,
+        "latitude": -7.7969845,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.03.2002",
+      "name": "SUMBERSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.03",
+      "districtName": "MOYUDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94461,
+      "coordinate": {
+        "longitude": 120.2286547,
+        "latitude": -0.9319602,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.03.2003",
+      "name": "SUMBERAGUNG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.03",
+      "districtName": "MOYUDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62253,
+      "coordinate": {
+        "longitude": 112.3308397,
+        "latitude": -7.1492576,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.03.2004",
+      "name": "SUMBERARUM",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.03",
+      "districtName": "MOYUDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62356,
+      "coordinate": {
+        "longitude": 111.9046176,
+        "latitude": -6.8753142,
+        "elevation": 78
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

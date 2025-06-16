@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.13.05.2001",
+      "name": "PARURA JAYA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.13",
+      "cityName": "KAB. MUNA BARAT",
+      "districtCode": "74.13.05",
+      "districtName": "TIWORO SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93644,
+      "coordinate": {
+        "longitude": 122.3928548,
+        "latitude": -4.8543074,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.13.05.2002",
+      "name": "KATANGANA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.13",
+      "cityName": "KAB. MUNA BARAT",
+      "districtCode": "74.13.05",
+      "districtName": "TIWORO SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93644,
+      "coordinate": {
+        "longitude": 122.4139381,
+        "latitude": -4.8613525,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.13.05.2003",
+      "name": "KASIMPA JAYA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.13",
+      "cityName": "KAB. MUNA BARAT",
+      "districtCode": "74.13.05",
+      "districtName": "TIWORO SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93644,
+      "coordinate": {
+        "longitude": 122.3773509,
+        "latitude": -4.8728105,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.13.05.2004",
+      "name": "SANGIA TIWORO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.13",
+      "cityName": "KAB. MUNA BARAT",
+      "districtCode": "74.13.05",
+      "districtName": "TIWORO SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93644,
+      "coordinate": {
+        "longitude": 122.3981344,
+        "latitude": -4.9004207,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.13.05.2005",
+      "name": "BARAKKAH",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.13",
+      "cityName": "KAB. MUNA BARAT",
+      "districtCode": "74.13.05",
+      "districtName": "TIWORO SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93644,
+      "coordinate": {
+        "longitude": 122.3588466,
+        "latitude": -4.9038804,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.10.12.2001",
+      "name": "AMSIRA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.10",
+      "cityName": "KAB. SARMI",
+      "districtCode": "91.10.12",
+      "districtName": "SARMI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99376,
+      "coordinate": {
+        "longitude": 138.6332729,
+        "latitude": -1.8923938,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.10.12.2002",
+      "name": "SIARATESA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.10",
+      "cityName": "KAB. SARMI",
+      "districtCode": "91.10.12",
+      "districtName": "SARMI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99376,
+      "coordinate": {
+        "longitude": 138.6839321,
+        "latitude": -1.9193343,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.10.12.2003",
+      "name": "MUNUKANIA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.10",
+      "cityName": "KAB. SARMI",
+      "districtCode": "91.10.12",
+      "districtName": "SARMI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99376,
+      "coordinate": {
+        "longitude": 138.6014179,
+        "latitude": -2.0982854,
+        "elevation": 125
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.10.12.2004",
+      "name": "KASUKWE",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.10",
+      "cityName": "KAB. SARMI",
+      "districtCode": "91.10.12",
+      "districtName": "SARMI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99376,
+      "coordinate": {
+        "longitude": 138.728029,
+        "latitude": -1.9668191,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.10.12.2005",
+      "name": "WAPO",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.10",
+      "cityName": "KAB. SARMI",
+      "districtCode": "91.10.12",
+      "districtName": "SARMI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99376,
+      "coordinate": {
+        "longitude": 138.6742886,
+        "latitude": -2.0090937,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.10.12.2008",
+      "name": "ANGKASA DUA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.10",
+      "cityName": "KAB. SARMI",
+      "districtCode": "91.10.12",
+      "districtName": "SARMI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99376,
+      "coordinate": {
+        "longitude": 138.6076565,
+        "latitude": -1.9889271,
+        "elevation": 160
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

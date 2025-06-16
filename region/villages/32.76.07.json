@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.07.1001",
+      "name": "CIPAYUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.07",
+      "districtName": "CIPAYUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15411,
+      "coordinate": {
+        "longitude": 106.7523056,
+        "latitude": -6.3301821,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.07.1002",
+      "name": "CIPAYUNG JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.07",
+      "districtName": "CIPAYUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16437,
+      "coordinate": {
+        "longitude": 106.7918691,
+        "latitude": -6.436159,
+        "elevation": 107
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.07.1003",
+      "name": "RATU JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.07",
+      "districtName": "CIPAYUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16439,
+      "coordinate": {
+        "longitude": 106.8125866,
+        "latitude": -6.4198427,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.07.1004",
+      "name": "BOJONG PONDOK TERONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.07",
+      "districtName": "CIPAYUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16436,
+      "coordinate": {
+        "longitude": 106.8017529,
+        "latitude": -6.4395944,
+        "elevation": 111
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.07.1005",
+      "name": "PONDOK JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.07",
+      "districtName": "CIPAYUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15220,
+      "coordinate": {
+        "longitude": 106.7216537,
+        "latitude": -6.2764617,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

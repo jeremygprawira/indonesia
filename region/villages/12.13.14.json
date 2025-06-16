@@ -1,0 +1,390 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.13.14.1024",
+      "name": "SIMPANG GAMBIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.292653,
+        "latitude": 0.6227851,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.1028",
+      "name": "TAPUS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72270,
+      "coordinate": {
+        "longitude": 115.6791371,
+        "latitude": -3.432436,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2001",
+      "name": "AEK GARINGGING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2764711,
+        "latitude": 0.60866,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2002",
+      "name": "AEK MANYURUK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.3054276,
+        "latitude": 0.5608179,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2003",
+      "name": "BANDAR LIMABUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2838168,
+        "latitude": 0.5335688,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2006",
+      "name": "LANCAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2572989,
+        "latitude": 0.5738184,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2010",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2011",
+      "name": "LOBUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2770146,
+        "latitude": 0.6320397,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2014",
+      "name": "PANGKALAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15510,
+      "coordinate": {
+        "longitude": 106.646675,
+        "latitude": -6.0555857,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2015",
+      "name": "PERK. SIMPANG GAMBIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.3364782,
+        "latitude": 0.5749351,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2019",
+      "name": "SIKUMBU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2638599,
+        "latitude": 0.5993447,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2021",
+      "name": "SIMPANG BAJOLE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.308721,
+        "latitude": 0.5322082,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2022",
+      "name": "SIMPANG DUKU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2965038,
+        "latitude": 0.6003792,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2023",
+      "name": "SIMPANG DURIAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2677559,
+        "latitude": 0.5490649,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2025",
+      "name": "SIMPANG KOJE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.1967861,
+        "latitude": 0.6748518,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2029",
+      "name": "DALAN LIDANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.3208178,
+        "latitude": 0.5984917,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2031",
+      "name": "BONCA BAYUON",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.3212055,
+        "latitude": 0.5759861,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2034",
+      "name": "PERBATASAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.2146322,
+        "latitude": 0.5697679,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.13.14.2035",
+      "name": "TANGSI ATAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.13",
+      "cityName": "KAB. MANDAILING NATAL",
+      "districtCode": "12.13.14",
+      "districtName": "LINGGA BAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22982,
+      "coordinate": {
+        "longitude": 99.3036956,
+        "latitude": 0.5755726,
+        "elevation": 155
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 19
+  }
+}

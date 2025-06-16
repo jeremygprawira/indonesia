@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.03.15.1003",
+      "name": "SIDODADI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.15",
+      "districtName": "BATALAIWORU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5389879,
+        "latitude": 1.2234312,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.15.1004",
+      "name": "LAIWORU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.15",
+      "districtName": "BATALAIWORU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93614,
+      "coordinate": {
+        "longitude": 122.709959,
+        "latitude": -4.8221111,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.15.2001",
+      "name": "WAWESA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.15",
+      "districtName": "BATALAIWORU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93614,
+      "coordinate": {
+        "longitude": 122.704459,
+        "latitude": -4.8008467,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.03.15.2002",
+      "name": "WAKORAMBU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.03",
+      "cityName": "KAB. MUNA",
+      "districtCode": "74.03.15",
+      "districtName": "BATALAIWORU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93614,
+      "coordinate": {
+        "longitude": 122.7108507,
+        "latitude": -4.8087785,
+        "elevation": 29
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.71.04.1001",
+      "name": "SIANTAN HULU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.04",
+      "districtName": "PONTIANAK UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78241,
+      "coordinate": {
+        "longitude": 109.3672469,
+        "latitude": -0.0093734,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.04.1002",
+      "name": "SIANTAN TENGAH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.04",
+      "districtName": "PONTIANAK UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78242,
+      "coordinate": {
+        "longitude": 109.3472083,
+        "latitude": -0.0104613,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.04.1003",
+      "name": "SIANTAN HILIR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.04",
+      "districtName": "PONTIANAK UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78243,
+      "coordinate": {
+        "longitude": 109.3295532,
+        "latitude": 0.0013068,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.04.1004",
+      "name": "BATULAYANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.04",
+      "districtName": "PONTIANAK UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78244,
+      "coordinate": {
+        "longitude": 109.3163995,
+        "latitude": 0.0050815,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

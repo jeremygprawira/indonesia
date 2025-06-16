@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.06.09.2001",
+      "name": "PIONG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.09",
+      "districtName": "SANGGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84191,
+      "coordinate": {
+        "longitude": 118.1650056,
+        "latitude": -8.3397481,
+        "elevation": 263
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.09.2002",
+      "name": "BORO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.09",
+      "districtName": "SANGGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84191,
+      "coordinate": {
+        "longitude": 118.2562272,
+        "latitude": -8.3815405,
+        "elevation": 187
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.09.2003",
+      "name": "KORE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.09",
+      "districtName": "SANGGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84191,
+      "coordinate": {
+        "longitude": 118.2500573,
+        "latitude": -8.4099557,
+        "elevation": 321
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.09.2004",
+      "name": "TALOKO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.09",
+      "districtName": "SANGGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84191,
+      "coordinate": {
+        "longitude": 118.2831216,
+        "latitude": -8.4174317,
+        "elevation": 107
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.09.2005",
+      "name": "OI SARO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.09",
+      "districtName": "SANGGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84191,
+      "coordinate": {
+        "longitude": 118.2356264,
+        "latitude": -8.3405285,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.09.2006",
+      "name": "SANDUE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.09",
+      "districtName": "SANGGAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84191,
+      "coordinate": {
+        "longitude": 118.2798757,
+        "latitude": -8.4065684,
+        "elevation": 136
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

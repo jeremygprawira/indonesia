@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.12.1001",
+      "name": "JATIRAHAYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.12",
+      "districtName": "PONDOKMELATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17414,
+      "coordinate": {
+        "longitude": 106.9169249,
+        "latitude": -6.2932011,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.12.1002",
+      "name": "JATIWARNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.12",
+      "districtName": "PONDOKMELATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17415,
+      "coordinate": {
+        "longitude": 106.9254006,
+        "latitude": -6.3046629,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.12.1003",
+      "name": "JATIMELATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.12",
+      "districtName": "PONDOKMELATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17414,
+      "coordinate": {
+        "longitude": 106.9297457,
+        "latitude": -6.3171359,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.12.1004",
+      "name": "JATIMURNI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.12",
+      "districtName": "PONDOKMELATI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17431,
+      "coordinate": {
+        "longitude": 106.9280113,
+        "latitude": -6.3283115,
+        "elevation": 49
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

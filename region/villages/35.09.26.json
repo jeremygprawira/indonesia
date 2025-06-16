@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.26.2001",
+      "name": "MRAWAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.26",
+      "districtName": "MAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68283,
+      "coordinate": {
+        "longitude": 113.9373032,
+        "latitude": -7.8686548,
+        "elevation": 224
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.26.2002",
+      "name": "MAYANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.26",
+      "districtName": "MAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68182,
+      "coordinate": {
+        "longitude": 113.7826143,
+        "latitude": -8.1891506,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.26.2003",
+      "name": "SEPUTIH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.26",
+      "districtName": "MAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68182,
+      "coordinate": {
+        "longitude": 113.8071158,
+        "latitude": -8.220705,
+        "elevation": 304
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.26.2004",
+      "name": "TEGALWARU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.26",
+      "districtName": "MAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68182,
+      "coordinate": {
+        "longitude": 113.8123565,
+        "latitude": -8.1896113,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.26.2005",
+      "name": "TEGALREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.26",
+      "districtName": "MAYANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94615,
+      "coordinate": {
+        "longitude": 120.7810818,
+        "latitude": -1.373442,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.26.2006",
+      "name": "SUMBERKEJAYAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.26",
+      "districtName": "MAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68182,
+      "coordinate": {
+        "longitude": 113.8364746,
+        "latitude": -8.1820235,
+        "elevation": 257
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.26.2007",
+      "name": "SIDOMUKTI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.26",
+      "districtName": "MAYANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96157,
+      "coordinate": {
+        "longitude": 122.6533617,
+        "latitude": 0.6760994,
+        "elevation": 57
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

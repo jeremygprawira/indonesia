@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.72.01.1001",
+      "name": "PASIR PANJANG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.72",
+      "cityName": "KOTA BITUNG",
+      "districtCode": "71.72.01",
+      "districtName": "LEMBEH SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95553,
+      "coordinate": {
+        "longitude": 125.1781887,
+        "latitude": 1.3969501,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.72.01.1002",
+      "name": "PAUDEAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.72",
+      "cityName": "KOTA BITUNG",
+      "districtCode": "71.72.01",
+      "districtName": "LEMBEH SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95551,
+      "coordinate": {
+        "longitude": 125.1761643,
+        "latitude": 1.4105519,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.72.01.1003",
+      "name": "BATULUBANG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.72",
+      "cityName": "KOTA BITUNG",
+      "districtCode": "71.72.01",
+      "districtName": "LEMBEH SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95552,
+      "coordinate": {
+        "longitude": 125.1931206,
+        "latitude": 1.4293729,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.72.01.1004",
+      "name": "PAPUSUNGAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.72",
+      "cityName": "KOTA BITUNG",
+      "districtCode": "71.72.01",
+      "districtName": "LEMBEH SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95554,
+      "coordinate": {
+        "longitude": 125.2111306,
+        "latitude": 1.4325295,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.72.01.1006",
+      "name": "PANCURAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.72",
+      "cityName": "KOTA BITUNG",
+      "districtCode": "71.72.01",
+      "districtName": "LEMBEH SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96563,
+      "coordinate": {
+        "longitude": 123.1482096,
+        "latitude": 0.5200657,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.72.01.1011",
+      "name": "DORBOLAANG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.72",
+      "cityName": "KOTA BITUNG",
+      "districtCode": "71.72.01",
+      "districtName": "LEMBEH SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95551,
+      "coordinate": {
+        "longitude": 125.2104751,
+        "latitude": 1.4031109,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.72.01.1016",
+      "name": "KELAPA DUA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.72",
+      "cityName": "KOTA BITUNG",
+      "districtCode": "71.72.01",
+      "districtName": "LEMBEH SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99909,
+      "coordinate": {
+        "longitude": 138.2362207,
+        "latitude": -4.3080806,
+        "elevation": 1146
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

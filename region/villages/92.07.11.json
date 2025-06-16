@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.07.11.2001",
+      "name": "WAPRAK",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.11",
+      "districtName": "ROSWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98332,
+      "coordinate": {
+        "longitude": 134.3511575,
+        "latitude": -2.0443395,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.11.2002",
+      "name": "YOMBER",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.11",
+      "districtName": "ROSWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98332,
+      "coordinate": {
+        "longitude": 134.3822001,
+        "latitude": -2.0987052,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.11.2003",
+      "name": "SYEIWAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.11",
+      "districtName": "ROSWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98332,
+      "coordinate": {
+        "longitude": 134.3923897,
+        "latitude": -2.031027,
+        "elevation": 128
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

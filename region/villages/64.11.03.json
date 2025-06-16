@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.11.03.2001",
+      "name": "LAHAM",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU",
+      "districtCode": "64.11.03",
+      "districtName": "LAHAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75779,
+      "coordinate": {
+        "longitude": 115.2133987,
+        "latitude": 0.3079787,
+        "elevation": 575
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.11.03.2002",
+      "name": "LONG GELAWANG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU",
+      "districtCode": "64.11.03",
+      "districtName": "LAHAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75779,
+      "coordinate": {
+        "longitude": 115.1512635,
+        "latitude": -0.0461279,
+        "elevation": 149
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.11.03.2003",
+      "name": "MUARA RATAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU",
+      "districtCode": "64.11.03",
+      "districtName": "LAHAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75779,
+      "coordinate": {
+        "longitude": 115.074343,
+        "latitude": 0.194432,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.11.03.2004",
+      "name": "DANUM PAROY",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU",
+      "districtCode": "64.11.03",
+      "districtName": "LAHAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75779,
+      "coordinate": {
+        "longitude": 115.2647002,
+        "latitude": 0.1922237,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.11.03.2005",
+      "name": "NYARIBUNGAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.11",
+      "cityName": "KAB. MAHAKAM ULU",
+      "districtCode": "64.11.03",
+      "districtName": "LAHAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75779,
+      "coordinate": {
+        "longitude": 114.9856426,
+        "latitude": 0.0181196,
+        "elevation": 155
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

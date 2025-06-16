@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.02.25.2001",
+      "name": "WATUTAU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.25",
+      "districtName": "LORE PIORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94653,
+      "coordinate": {
+        "longitude": 120.3695141,
+        "latitude": -1.571544,
+        "elevation": 1162
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.25.2002",
+      "name": "BETUE",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.25",
+      "districtName": "LORE PIORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94653,
+      "coordinate": {
+        "longitude": 120.3251958,
+        "latitude": -1.5921496,
+        "elevation": 1126
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.25.2003",
+      "name": "TALABOSA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.25",
+      "districtName": "LORE PIORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94653,
+      "coordinate": {
+        "longitude": 120.4063823,
+        "latitude": -1.6369194,
+        "elevation": 1896
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.25.2004",
+      "name": "WANGA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.25",
+      "districtName": "LORE PIORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94653,
+      "coordinate": {
+        "longitude": 120.2997545,
+        "latitude": -1.4958713,
+        "elevation": 1335
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.02.25.2005",
+      "name": "SILIWANGA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.02",
+      "cityName": "KAB. POSO",
+      "districtCode": "72.02.25",
+      "districtName": "LORE PIORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94653,
+      "coordinate": {
+        "longitude": 120.3192036,
+        "latitude": -1.5273762,
+        "elevation": 1161
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

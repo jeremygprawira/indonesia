@@ -1,0 +1,990 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.07.2001",
+      "name": "TAMPIENG TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9532163,
+        "latitude": 5.3169838,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2002",
+      "name": "TAMPIENG BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9563467,
+        "latitude": 5.3163365,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2003",
+      "name": "DAYAH CALEUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9601296,
+        "latitude": 5.3156148,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2004",
+      "name": "JURONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24377,
+      "coordinate": {
+        "longitude": 96.9139523,
+        "latitude": 5.1140233,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2005",
+      "name": "KEUTAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6128325,
+        "latitude": 4.6324147,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2006",
+      "name": "DAYAH KEURAKO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.940091,
+        "latitude": 5.3364098,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2007",
+      "name": "MESJID LAM UJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9456665,
+        "latitude": 5.3340804,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2008",
+      "name": "BARO JRUEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9466754,
+        "latitude": 5.3273464,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2009",
+      "name": "YUB MEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.945456,
+        "latitude": 5.3423195,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2010",
+      "name": "RAYA LHOK KAJU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2011",
+      "name": "PULO GAMPONG U",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.933992,
+        "latitude": 5.3401562,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2012",
+      "name": "PANTE LHOK KAJU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9317248,
+        "latitude": 5.3466515,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2014",
+      "name": "SUKON TUNGKOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9269547,
+        "latitude": 5.3194457,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2015",
+      "name": "RAWA TUNGKOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9318276,
+        "latitude": 5.3242454,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2016",
+      "name": "MESJID TUNGKOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9315085,
+        "latitude": 5.3224967,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2017",
+      "name": "DAYAH MUARA GAROT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2018",
+      "name": "PANTE GAROT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9268966,
+        "latitude": 5.3439582,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2019",
+      "name": "GAROT CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.926502,
+        "latitude": 5.3288813,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2020",
+      "name": "KEUBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.922116,
+        "latitude": 5.3274158,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2021",
+      "name": "BLANG GAROT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9262982,
+        "latitude": 5.339024,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2022",
+      "name": "MEULAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.920326,
+        "latitude": 5.3189296,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2023",
+      "name": "TUNGKOP CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9357717,
+        "latitude": 5.3273744,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2024",
+      "name": "GUCI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74162,
+      "coordinate": {
+        "longitude": 111.4189449,
+        "latitude": -2.275839,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2025",
+      "name": "TEUNGOH BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9321987,
+        "latitude": 5.3098903,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2026",
+      "name": "MESJID DIJIEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9321314,
+        "latitude": 5.3076283,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2027",
+      "name": "SUKON ULEE GAMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9430515,
+        "latitude": 5.298471,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2028",
+      "name": "LAMKABU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2029",
+      "name": "ULEE BIRAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9445684,
+        "latitude": 5.3186507,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2030",
+      "name": "MESJID BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3497681,
+        "latitude": 5.181166,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2031",
+      "name": "LAMREUNEUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2032",
+      "name": "COT SEUKEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2033",
+      "name": "DRIEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9476979,
+        "latitude": 5.3106461,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2034",
+      "name": "RUMIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9465735,
+        "latitude": 5.3091071,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2035",
+      "name": "WAKHEUH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9424767,
+        "latitude": 5.3085536,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2036",
+      "name": "BARO BLUEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9450752,
+        "latitude": 5.3064329,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2037",
+      "name": "MESJID ULEE GAMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9440201,
+        "latitude": 5.3020228,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2038",
+      "name": "DAYAH BIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9448696,
+        "latitude": 5.3040625,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2039",
+      "name": "BALEE BAROH BLUEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2040",
+      "name": "PEUTOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2041",
+      "name": "BLANG RAPAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9402769,
+        "latitude": 5.2947688,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2042",
+      "name": "NEULOP II",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9345092,
+        "latitude": 5.3016785,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2043",
+      "name": "BARO GAPUI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9271438,
+        "latitude": 5.3033517,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2044",
+      "name": "BALEE BAROH GAPUI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2045",
+      "name": "GLEE GAPUI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.920603,
+        "latitude": 5.2988775,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2046",
+      "name": "TEUNGOH SUWIEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9243609,
+        "latitude": 5.2811917,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2047",
+      "name": "MESJID SUWIEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9265274,
+        "latitude": 5.2781873,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2048",
+      "name": "TUHA SUWIEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.927431,
+        "latitude": 5.2755416,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2049",
+      "name": "BEUREUDEP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9323782,
+        "latitude": 5.2871559,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.07.2050",
+      "name": "BLANG LHOK KAJU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.07",
+      "districtName": "INDRAJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24171,
+      "coordinate": {
+        "longitude": 95.9405634,
+        "latitude": 5.3247204,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 49
+  }
+}

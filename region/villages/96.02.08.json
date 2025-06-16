@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.02.08.2003",
+      "name": "YAHADIAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.08",
+      "districtName": "KAIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98222,
+      "coordinate": {
+        "longitude": 131.9670905,
+        "latitude": -1.8525314,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.08.2002",
+      "name": "TAPURI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.08",
+      "districtName": "KAIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98222,
+      "coordinate": {
+        "longitude": 132.1828699,
+        "latitude": -1.7931287,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.08.2005",
+      "name": "SUMANO",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.08",
+      "districtName": "KAIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98222,
+      "coordinate": {
+        "longitude": 132.3807506,
+        "latitude": -1.8363505,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.08.2001",
+      "name": "KAIS",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.08",
+      "districtName": "KAIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98222,
+      "coordinate": {
+        "longitude": 132.2634291,
+        "latitude": -1.8500772,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.02.08.2004",
+      "name": "BENAWA I",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.02",
+      "cityName": "KAB. SORONG SELATAN",
+      "districtCode": "96.02.08",
+      "districtName": "KAIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98222,
+      "coordinate": {
+        "longitude": 132.3940474,
+        "latitude": -1.860207,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

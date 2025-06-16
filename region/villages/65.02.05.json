@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.02.05.2001",
+      "name": "LONG NAWANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.05",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77456,
+      "coordinate": {
+        "longitude": 115.6893573,
+        "latitude": 3.9115017,
+        "elevation": 951
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.05.2002",
+      "name": "NAWANG BARU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.05",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77572,
+      "coordinate": {
+        "longitude": 114.8917153,
+        "latitude": 1.4872904,
+        "elevation": 856
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.05.2003",
+      "name": "LONG TEMUYAT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.05",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77572,
+      "coordinate": {
+        "longitude": 114.8942623,
+        "latitude": 1.7596913,
+        "elevation": 765
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.05.2004",
+      "name": "LONG BETAOH",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.05",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77572,
+      "coordinate": {
+        "longitude": 114.7709708,
+        "latitude": 1.8073564,
+        "elevation": 794
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.05.2005",
+      "name": "LONG PAYAU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.05",
+      "districtName": "KAYAN HULU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77572,
+      "coordinate": {
+        "longitude": 114.9735167,
+        "latitude": 1.8584064,
+        "elevation": 757
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

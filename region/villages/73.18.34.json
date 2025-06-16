@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.18.34.1001",
+      "name": "LEATUNG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.34",
+      "districtName": "SANGALLA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91883,
+      "coordinate": {
+        "longitude": 119.9267821,
+        "latitude": -3.0725109,
+        "elevation": 811
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.34.1006",
+      "name": "BEBO-",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.34",
+      "districtName": "SANGALLA UTARA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.34.2002",
+      "name": "RANTELA-BI KAMBISA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.34",
+      "districtName": "SANGALLA UTARA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.34.2003",
+      "name": "LEATUNG MATALLO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.34",
+      "districtName": "SANGALLA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91883,
+      "coordinate": {
+        "longitude": 119.9372543,
+        "latitude": -3.0719211,
+        "elevation": 793
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.34.2004",
+      "name": "SALUALLO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.34",
+      "districtName": "SANGALLA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91883,
+      "coordinate": {
+        "longitude": 119.9074237,
+        "latitude": -3.0714237,
+        "elevation": 782
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.34.2005",
+      "name": "TUMBANG DATU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.34",
+      "districtName": "SANGALLA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91883,
+      "coordinate": {
+        "longitude": 119.9049989,
+        "latitude": -3.0547484,
+        "elevation": 884
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

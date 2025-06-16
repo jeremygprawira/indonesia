@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.03.1001",
+      "name": "PASIR PUTIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.03",
+      "districtName": "SAWANGAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.03.1002",
+      "name": "BEDAHAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.03",
+      "districtName": "SAWANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62271,
+      "coordinate": {
+        "longitude": 112.180172,
+        "latitude": -7.0937598,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.03.1003",
+      "name": "PENGASINAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.03",
+      "districtName": "SAWANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16518,
+      "coordinate": {
+        "longitude": 106.7550223,
+        "latitude": -6.4243899,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.03.1009",
+      "name": "CINANGKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.03",
+      "districtName": "SAWANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42167,
+      "coordinate": {
+        "longitude": 105.8728743,
+        "latitude": -6.1614199,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.03.1010",
+      "name": "SAWANGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.03",
+      "districtName": "SAWANGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95371,
+      "coordinate": {
+        "longitude": 124.9540624,
+        "latitude": 1.3868707,
+        "elevation": 289
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.03.1011",
+      "name": "SAWANGAN BARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.03",
+      "districtName": "SAWANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16511,
+      "coordinate": {
+        "longitude": 106.7704801,
+        "latitude": -6.3962826,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.03.1012",
+      "name": "KEDAUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.03",
+      "districtName": "SAWANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15415,
+      "coordinate": {
+        "longitude": 106.7413699,
+        "latitude": -6.3165005,
+        "elevation": 47
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

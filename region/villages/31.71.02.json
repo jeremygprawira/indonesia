@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.71.02.1001",
+      "name": "PASAR BARU",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.02",
+      "districtName": "SAWAH BESAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.02.1002",
+      "name": "KARANG ANYAR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.02",
+      "districtName": "SAWAH BESAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90134,
+      "coordinate": {
+        "longitude": 119.411647,
+        "latitude": -5.1766095,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.02.1003",
+      "name": "KARTINI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.02",
+      "districtName": "SAWAH BESAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99645,
+      "coordinate": {
+        "longitude": 140.7224801,
+        "latitude": -8.0540282,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.02.1004",
+      "name": "GUNUNG SAHARI UTARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.02",
+      "districtName": "SAWAH BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10720,
+      "coordinate": {
+        "longitude": 106.8363188,
+        "latitude": -6.1489992,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.02.1005",
+      "name": "MANGGA DUA SELATAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.02",
+      "districtName": "SAWAH BESAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10730,
+      "coordinate": {
+        "longitude": 106.8287366,
+        "latitude": -6.1441785,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

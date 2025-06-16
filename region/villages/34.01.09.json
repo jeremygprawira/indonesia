@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.01.09.2001",
+      "name": "JATIMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.09",
+      "districtName": "GIRIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65141,
+      "coordinate": {
+        "longitude": 112.6184438,
+        "latitude": -7.9427529,
+        "elevation": 506
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.09.2002",
+      "name": "GIRIPURWO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.09",
+      "districtName": "GIRIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55873,
+      "coordinate": {
+        "longitude": 110.3926301,
+        "latitude": -8.047698,
+        "elevation": 243
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.09.2003",
+      "name": "PENDOWOREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.09",
+      "districtName": "GIRIMULYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55674,
+      "coordinate": {
+        "longitude": 110.1846317,
+        "latitude": -7.7416605,
+        "elevation": 238
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.09.2004",
+      "name": "PURWOSARI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.09",
+      "districtName": "GIRIMULYO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92970,
+      "coordinate": {
+        "longitude": 120.8539597,
+        "latitude": -2.5056239,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

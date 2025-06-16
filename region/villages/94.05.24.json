@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.05.24.2001",
+      "name": "MUNDIDOK",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.24",
+      "districtName": "GOME UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98964,
+      "coordinate": {
+        "longitude": 137.7387219,
+        "latitude": -3.9796589,
+        "elevation": 3078
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.24.2002",
+      "name": "YAIKI MAIKI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.24",
+      "districtName": "GOME UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98964,
+      "coordinate": {
+        "longitude": 137.7227896,
+        "latitude": -4.0051835,
+        "elevation": 3120
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.24.2003",
+      "name": "TOBENGGI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.24",
+      "districtName": "GOME UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98964,
+      "coordinate": {
+        "longitude": 137.8101508,
+        "latitude": -3.9796371,
+        "elevation": 3329
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.24.2004",
+      "name": "TOWENGGI II",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.24",
+      "districtName": "GOME UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98964,
+      "coordinate": {
+        "longitude": 137.1982959,
+        "latitude": -3.5565968,
+        "elevation": 1474
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.05.24.2005",
+      "name": "WELENGGARU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.05",
+      "cityName": "KAB. PUNCAK",
+      "districtCode": "94.05.24",
+      "districtName": "GOME UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98964,
+      "coordinate": {
+        "longitude": 137.8127164,
+        "latitude": -4.0190205,
+        "elevation": 3510
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

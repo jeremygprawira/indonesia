@@ -1,0 +1,59 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "21.01",
+      "name": "KAB. BINTAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU"
+    },
+    {
+      "type": "city",
+      "code": "21.02",
+      "name": "KAB. KARIMUN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU"
+    },
+    {
+      "type": "city",
+      "code": "21.03",
+      "name": "KAB. NATUNA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU"
+    },
+    {
+      "type": "city",
+      "code": "21.04",
+      "name": "KAB. LINGGA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU"
+    },
+    {
+      "type": "city",
+      "code": "21.05",
+      "name": "KAB. KEPULAUAN ANAMBAS",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU"
+    },
+    {
+      "type": "city",
+      "code": "21.71",
+      "name": "KOTA BATAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU"
+    },
+    {
+      "type": "city",
+      "code": "21.72",
+      "name": "KOTA TANJUNG PINANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU"
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

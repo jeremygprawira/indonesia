@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.04.1001",
+      "name": "BUMI EMAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.04",
+      "districtName": "BENGKAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79212,
+      "coordinate": {
+        "longitude": 109.4786799,
+        "latitude": 0.8169791,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.04.1010",
+      "name": "SEBALO",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.04",
+      "districtName": "BENGKAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79211,
+      "coordinate": {
+        "longitude": 109.516785,
+        "latitude": 0.8537079,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.04.2003",
+      "name": "TIRTA KENCANA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.04",
+      "districtName": "BENGKAYANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94764,
+      "coordinate": {
+        "longitude": 122.3310892,
+        "latitude": -1.4676413,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.04.2004",
+      "name": "BHAKTI MULYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.04",
+      "districtName": "BENGKAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79213,
+      "coordinate": {
+        "longitude": 109.4720597,
+        "latitude": 0.781007,
+        "elevation": 354
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.04.2006",
+      "name": "BANI AMAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.04",
+      "districtName": "BENGKAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79211,
+      "coordinate": {
+        "longitude": 109.5014499,
+        "latitude": 0.8352805,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.04.2009",
+      "name": "SETIA BUDI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.04",
+      "districtName": "BENGKAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79211,
+      "coordinate": {
+        "longitude": 109.5321552,
+        "latitude": 0.8626404,
+        "elevation": 73
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

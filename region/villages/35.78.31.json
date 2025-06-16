@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.31.1001",
+      "name": "SAMBIKEREP",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.31",
+      "districtName": "SAMBIKEREP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60217,
+      "coordinate": {
+        "longitude": 112.6492352,
+        "latitude": -7.2756154,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.31.1002",
+      "name": "MADE",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.31",
+      "districtName": "SAMBIKEREP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60219,
+      "coordinate": {
+        "longitude": 112.6392851,
+        "latitude": -7.2761498,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.31.1003",
+      "name": "BERINGIN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.31",
+      "districtName": "SAMBIKEREP",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93958,
+      "coordinate": {
+        "longitude": 121.0002842,
+        "latitude": -3.2999473,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.31.1004",
+      "name": "LONTAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.31",
+      "districtName": "SAMBIKEREP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42193,
+      "coordinate": {
+        "longitude": 106.3038831,
+        "latitude": -5.9760787,
+        "elevation": 1
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

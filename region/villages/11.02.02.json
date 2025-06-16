@@ -1,0 +1,710 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.02.02.2001",
+      "name": "BUKIT MERDEKA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75271,
+      "coordinate": {
+        "longitude": 116.96037,
+        "latitude": -0.9120188,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2002",
+      "name": "DARUL AMAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28781,
+      "coordinate": {
+        "longitude": 101.4080411,
+        "latitude": 1.8866203,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2003",
+      "name": "LAWE KESUMPAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9064041,
+        "latitude": 3.3775038,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2004",
+      "name": "LAWE TUA GABUNGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9058956,
+        "latitude": 3.3608946,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2005",
+      "name": "LAWE SIGALA II",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9111427,
+        "latitude": 3.3588814,
+        "elevation": 146
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2006",
+      "name": "LAWE SIGALA TIMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9210158,
+        "latitude": 3.3546248,
+        "elevation": 211
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2007",
+      "name": "LAWE SIGALA BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9184444,
+        "latitude": 3.351139,
+        "elevation": 175
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2008",
+      "name": "SUKA DAMAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97789,
+      "coordinate": {
+        "longitude": 127.7464899,
+        "latitude": -0.2245384,
+        "elevation": 634
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2009",
+      "name": "KUTE TENGAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9305517,
+        "latitude": 3.3376526,
+        "elevation": 181
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2010",
+      "name": "TANAH BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97595,
+      "coordinate": {
+        "longitude": 131.6678769,
+        "latitude": -4.4938154,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2011",
+      "name": "KEDATARAN GABUNGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9140565,
+        "latitude": 3.3134647,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2012",
+      "name": "GABUNGAN PARSAROAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9234969,
+        "latitude": 3.3044837,
+        "elevation": 111
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2013",
+      "name": "LAWE LONING GABUNGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9420348,
+        "latitude": 3.323825,
+        "elevation": 157
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2014",
+      "name": "LAWE LONING AMAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9442611,
+        "latitude": 3.3276685,
+        "elevation": 183
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2015",
+      "name": "SUKA MAJU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2016",
+      "name": "LAWE TUA MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9085052,
+        "latitude": 3.3682688,
+        "elevation": 135
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2017",
+      "name": "LAWE TUA PERSATUAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9131038,
+        "latitude": 3.3641901,
+        "elevation": 158
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2018",
+      "name": "LAWE SERKE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.8946662,
+        "latitude": 3.3672893,
+        "elevation": 119
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2019",
+      "name": "LAWE RAKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9415472,
+        "latitude": 3.3391608,
+        "elevation": 198
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2020",
+      "name": "SUKA JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74280,
+      "coordinate": {
+        "longitude": 112.1039347,
+        "latitude": -2.1721553,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2021",
+      "name": "ENMIYA BATU DUA RATUS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9071492,
+        "latitude": 3.3805913,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2022",
+      "name": "SEBUNGKE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.905427,
+        "latitude": 3.3833435,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2023",
+      "name": "BUKIT SEPAKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9079854,
+        "latitude": 3.37165,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2024",
+      "name": "LAWE LONING SEPAKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9315537,
+        "latitude": 3.32167,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2025",
+      "name": "LAWE LONING I",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.942233,
+        "latitude": 3.3337328,
+        "elevation": 194
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2026",
+      "name": "GAYA JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9161026,
+        "latitude": 3.3241964,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2027",
+      "name": "GELAH MUSARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9050447,
+        "latitude": 3.3445408,
+        "elevation": 119
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2028",
+      "name": "MULIE DAME",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9068532,
+        "latitude": 3.338687,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2029",
+      "name": "LAWE LONING HAKHAPEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9476298,
+        "latitude": 3.3265561,
+        "elevation": 199
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2030",
+      "name": "KARYA INDAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96363,
+      "coordinate": {
+        "longitude": 121.9416637,
+        "latitude": 0.5200749,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2031",
+      "name": "KAYU MBELIN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9097494,
+        "latitude": 3.3555131,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2032",
+      "name": "LAWE SIGALA BARAT JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9167785,
+        "latitude": 3.3520029,
+        "elevation": 175
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2033",
+      "name": "LAWE PEKHIDINEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9212693,
+        "latitude": 3.3507881,
+        "elevation": 195
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2034",
+      "name": "KERTIMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9197299,
+        "latitude": 3.3091588,
+        "elevation": 107
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.02.02.2035",
+      "name": "NDAUH NITENGGO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.02",
+      "cityName": "KAB. ACEH TENGGARA",
+      "districtCode": "11.02.02",
+      "districtName": "LAWE SIGALA-GALA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24676,
+      "coordinate": {
+        "longitude": 97.9185329,
+        "latitude": 3.3024409,
+        "elevation": 103
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 35
+  }
+}

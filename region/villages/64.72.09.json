@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.72.09.1001",
+      "name": "KARANG MUMUS",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.09",
+      "districtName": "SAMARINDA KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75113,
+      "coordinate": {
+        "longitude": 117.1569421,
+        "latitude": -0.5030968,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.09.1002",
+      "name": "PELABUHAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.09",
+      "districtName": "SAMARINDA KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75112,
+      "coordinate": {
+        "longitude": 117.1525749,
+        "latitude": -0.5003452,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.09.1003",
+      "name": "PASAR PAGI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.09",
+      "districtName": "SAMARINDA KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75111,
+      "coordinate": {
+        "longitude": 117.1474935,
+        "latitude": -0.499271,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.09.1004",
+      "name": "BUGIS",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.09",
+      "districtName": "SAMARINDA KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96112,
+      "coordinate": {
+        "longitude": 123.0623826,
+        "latitude": 0.5281714,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.09.1005",
+      "name": "SUNGAI PINANG LUAR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.09",
+      "districtName": "SAMARINDA KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75117,
+      "coordinate": {
+        "longitude": 117.154238,
+        "latitude": -0.4937951,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.05.32.2001",
+      "name": "MEKARMUKTI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.32",
+      "districtName": "MEKARMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40562,
+      "coordinate": {
+        "longitude": 107.4701886,
+        "latitude": -6.9306492,
+        "elevation": 657
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.32.2002",
+      "name": "KARANGWANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.32",
+      "districtName": "MEKARMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41253,
+      "coordinate": {
+        "longitude": 107.7778083,
+        "latitude": -6.3938108,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.32.2003",
+      "name": "JAYABAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.32",
+      "districtName": "MEKARMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44155,
+      "coordinate": {
+        "longitude": 107.5766923,
+        "latitude": -7.5529871,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.32.2004",
+      "name": "CIJAYANA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.32",
+      "districtName": "MEKARMUKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44155,
+      "coordinate": {
+        "longitude": 107.5611846,
+        "latitude": -7.5472605,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.32.2005",
+      "name": "MEKARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.32",
+      "districtName": "MEKARMUKTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

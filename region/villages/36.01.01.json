@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.01.01.2001",
+      "name": "SUMBERJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.01",
+      "districtName": "SUMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5964325,
+        "latitude": -6.6587128,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.01.2002",
+      "name": "KERTAJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.01",
+      "districtName": "SUMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5870764,
+        "latitude": -6.6716319,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.01.2003",
+      "name": "KERTAMUKTI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.01",
+      "districtName": "SUMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5588946,
+        "latitude": -6.6999228,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.01.2004",
+      "name": "TUNGGALJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.01",
+      "districtName": "SUMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5336941,
+        "latitude": -6.7241605,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.01.2005",
+      "name": "CIGORONDONG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.01",
+      "districtName": "SUMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5198979,
+        "latitude": -6.7373627,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.01.2006",
+      "name": "TAMANJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.01",
+      "districtName": "SUMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42356,
+      "coordinate": {
+        "longitude": 106.1392618,
+        "latitude": -6.402046,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.01.2007",
+      "name": "UJUNGJAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.01",
+      "districtName": "SUMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.4978698,
+        "latitude": -6.8056869,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

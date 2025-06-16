@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.29.1001",
+      "name": "KEDUNG COWEK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.29",
+      "districtName": "BULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60125,
+      "coordinate": {
+        "longitude": 112.7844011,
+        "latitude": -7.2188372,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.29.1003",
+      "name": "KENJERAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.29",
+      "districtName": "BULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60123,
+      "coordinate": {
+        "longitude": 112.7944014,
+        "latitude": -7.2357927,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.29.1004",
+      "name": "BULAK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.29",
+      "districtName": "BULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60124,
+      "coordinate": {
+        "longitude": 112.7826402,
+        "latitude": -7.2306926,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.29.1005",
+      "name": "SUKOLILO BARU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.29",
+      "districtName": "BULAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60122,
+      "coordinate": {
+        "longitude": 112.7867407,
+        "latitude": -7.2367241,
+        "elevation": 1
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

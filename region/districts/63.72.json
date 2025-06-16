@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "63.72.02",
+      "name": "LANDASAN ULIN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU"
+    },
+    {
+      "type": "district",
+      "code": "63.72.03",
+      "name": "CEMPAKA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU"
+    },
+    {
+      "type": "district",
+      "code": "63.72.04",
+      "name": "BANJARBARU UTARA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU"
+    },
+    {
+      "type": "district",
+      "code": "63.72.05",
+      "name": "BANJARBARU SELATAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU"
+    },
+    {
+      "type": "district",
+      "code": "63.72.06",
+      "name": "LIANG ANGGANG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

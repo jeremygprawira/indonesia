@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.08.20.1001",
+      "name": "MAUTAPAGA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.20",
+      "districtName": "ENDE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86317,
+      "coordinate": {
+        "longitude": 121.6679901,
+        "latitude": -8.8419587,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.20.1002",
+      "name": "REWARANGGA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.20",
+      "districtName": "ENDE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86319,
+      "coordinate": {
+        "longitude": 121.6667577,
+        "latitude": -8.7876315,
+        "elevation": 201
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.20.1006",
+      "name": "REWARANGGA SELATAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.20",
+      "districtName": "ENDE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86361,
+      "coordinate": {
+        "longitude": 121.6754855,
+        "latitude": -8.8303457,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.20.2003",
+      "name": "KEDEBODU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.20",
+      "districtName": "ENDE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86361,
+      "coordinate": {
+        "longitude": 121.657102,
+        "latitude": -8.8046525,
+        "elevation": 310
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.20.2004",
+      "name": "NDUNGGA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.20",
+      "districtName": "ENDE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86361,
+      "coordinate": {
+        "longitude": 121.6755708,
+        "latitude": -8.7851153,
+        "elevation": 339
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.08.20.2005",
+      "name": "TIWUTEWA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.08",
+      "cityName": "KAB. ENDE",
+      "districtCode": "53.08.20",
+      "districtName": "ENDE TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86361,
+      "coordinate": {
+        "longitude": 121.6811454,
+        "latitude": -8.7736329,
+        "elevation": 392
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

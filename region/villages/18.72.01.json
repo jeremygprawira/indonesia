@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.72.01.1001",
+      "name": "METRO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.01",
+      "districtName": "METRO PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34111,
+      "coordinate": {
+        "longitude": 105.3029384,
+        "latitude": -5.1234444,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.01.1002",
+      "name": "HADIMULYO TIMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.01",
+      "districtName": "METRO PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34113,
+      "coordinate": {
+        "longitude": 105.3099356,
+        "latitude": -5.0949721,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.01.1003",
+      "name": "IMOPURO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.01",
+      "districtName": "METRO PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34111,
+      "coordinate": {
+        "longitude": 105.3045747,
+        "latitude": -5.111136,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.01.1004",
+      "name": "HADIMULYO BARAT",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.01",
+      "districtName": "METRO PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34113,
+      "coordinate": {
+        "longitude": 105.2956391,
+        "latitude": -5.1065062,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.01.1005",
+      "name": "YOSOMULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.01",
+      "districtName": "METRO PUSAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68486,
+      "coordinate": {
+        "longitude": 114.1693112,
+        "latitude": -8.4006661,
+        "elevation": 131
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.04.08.2001",
+      "name": "SELAYAR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.08",
+      "districtName": "SELAYAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97623,
+      "coordinate": {
+        "longitude": 132.6531077,
+        "latitude": -5.7029312,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.08.2002",
+      "name": "PENUBA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.08",
+      "districtName": "SELAYAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29877,
+      "coordinate": {
+        "longitude": 104.4562096,
+        "latitude": -0.3233404,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.08.2003",
+      "name": "PENUBA TIMUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.08",
+      "districtName": "SELAYAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29877,
+      "coordinate": {
+        "longitude": 104.4744991,
+        "latitude": -0.3026015,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.04.08.2004",
+      "name": "PANTAI HARAPAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.04",
+      "cityName": "KAB. LINGGA",
+      "districtCode": "21.04.08",
+      "districtName": "SELAYAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77373,
+      "coordinate": {
+        "longitude": 118.5883665,
+        "latitude": 1.3306686,
+        "elevation": 30
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

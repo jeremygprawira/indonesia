@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.05.07.2001",
+      "name": "AIR ASUK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.07",
+      "districtName": "SIANTAN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29795,
+      "coordinate": {
+        "longitude": 106.2976897,
+        "latitude": 3.2568181,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.07.2002",
+      "name": "AIR SENA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.07",
+      "districtName": "SIANTAN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29795,
+      "coordinate": {
+        "longitude": 106.2815057,
+        "latitude": 3.2393779,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.07.2003",
+      "name": "TELUK SIANTAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.07",
+      "districtName": "SIANTAN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29795,
+      "coordinate": {
+        "longitude": 106.2663593,
+        "latitude": 3.2621717,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.07.2004",
+      "name": "LIDI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.07",
+      "districtName": "SIANTAN TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86570,
+      "coordinate": {
+        "longitude": 120.5192831,
+        "latitude": -8.7796855,
+        "elevation": 395
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.07.2005",
+      "name": "LIUK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.07",
+      "districtName": "SIANTAN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29795,
+      "coordinate": {
+        "longitude": 106.3031237,
+        "latitude": 3.2555291,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.07.2006",
+      "name": "TELUK SUNTING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.07",
+      "districtName": "SIANTAN TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29795,
+      "coordinate": {
+        "longitude": 106.2628235,
+        "latitude": 3.2790225,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

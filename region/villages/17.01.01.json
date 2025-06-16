@@ -1,0 +1,390 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.01.01.2001",
+      "name": "BATU AMPAR",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76136,
+      "coordinate": {
+        "longitude": 116.8478645,
+        "latitude": -1.2145731,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2002",
+      "name": "RANTAU SIALANG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.124321,
+        "latitude": -4.4173297,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2003",
+      "name": "BUMI AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74162,
+      "coordinate": {
+        "longitude": 111.4182222,
+        "latitude": -2.1430874,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2004",
+      "name": "PALAK SIRING",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.1090018,
+        "latitude": -4.4309134,
+        "elevation": 195
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2005",
+      "name": "KEBAN AGUNG I",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.1038129,
+        "latitude": -4.4364183,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2006",
+      "name": "KEBAN AGUNG II",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.1033372,
+        "latitude": -4.461566,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2007",
+      "name": "TANJUNG ALAM",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39370,
+      "coordinate": {
+        "longitude": 102.486817,
+        "latitude": -3.5344894,
+        "elevation": 608
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2008",
+      "name": "TANJUNG NEGARA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.1016788,
+        "latitude": -4.4712192,
+        "elevation": 169
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2009",
+      "name": "KEBAN AGUNG III",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.0873651,
+        "latitude": -4.4389884,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2010",
+      "name": "SUKA NANTI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.0920825,
+        "latitude": -4.4624221,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2011",
+      "name": "MUARA TIGA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78385,
+      "coordinate": {
+        "longitude": 109.8998546,
+        "latitude": -0.7786731,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2012",
+      "name": "TANJUNG BESAR",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38963,
+      "coordinate": {
+        "longitude": 103.3810603,
+        "latitude": -4.7941675,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2013",
+      "name": "PAJAR BULAN",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34898,
+      "coordinate": {
+        "longitude": 103.9517281,
+        "latitude": -5.1711441,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2014",
+      "name": "DURIAN SEBATANG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78857,
+      "coordinate": {
+        "longitude": 110.0145577,
+        "latitude": -0.7742268,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2015",
+      "name": "LAWANG AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38881,
+      "coordinate": {
+        "longitude": 102.3834675,
+        "latitude": -4.0122667,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2027",
+      "name": "NANTI AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39373,
+      "coordinate": {
+        "longitude": 102.625133,
+        "latitude": -3.6335917,
+        "elevation": 694
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2028",
+      "name": "KARANG AGUNG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77218,
+      "coordinate": {
+        "longitude": 117.2114145,
+        "latitude": 3.0291981,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2029",
+      "name": "LUBUK RESAM",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38884,
+      "coordinate": {
+        "longitude": 102.657441,
+        "latitude": -3.964947,
+        "elevation": 287
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.01.01.2030",
+      "name": "MUARA TIGA ILIR",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.01",
+      "cityName": "KAB. BENGKULU SELATAN",
+      "districtCode": "17.01.01",
+      "districtName": "KEDURANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38553,
+      "coordinate": {
+        "longitude": 103.0820074,
+        "latitude": -4.4438565,
+        "elevation": 83
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 19
+  }
+}

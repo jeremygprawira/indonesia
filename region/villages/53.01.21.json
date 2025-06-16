@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.21.2001",
+      "name": "MANUBELON",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.21",
+      "districtName": "AMFOANG BARAT DAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85364,
+      "coordinate": {
+        "longitude": 123.7387591,
+        "latitude": -9.6885717,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.21.2002",
+      "name": "LETKOLE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.21",
+      "districtName": "AMFOANG BARAT DAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85364,
+      "coordinate": {
+        "longitude": 123.7846546,
+        "latitude": -9.6702372,
+        "elevation": 494
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.21.2003",
+      "name": "NEFONEUT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.21",
+      "districtName": "AMFOANG BARAT DAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85364,
+      "coordinate": {
+        "longitude": 123.7894384,
+        "latitude": -9.7393088,
+        "elevation": 278
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.21.2004",
+      "name": "BIOBA BARU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.21",
+      "districtName": "AMFOANG BARAT DAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85364,
+      "coordinate": {
+        "longitude": 123.7066491,
+        "latitude": -9.6325087,
+        "elevation": 135
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

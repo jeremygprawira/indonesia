@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.72.04.1001",
+      "name": "TOBA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.04",
+      "districtName": "SIANTAR SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34385,
+      "coordinate": {
+        "longitude": 105.5231306,
+        "latitude": -5.2755841,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.04.1002",
+      "name": "KARO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.04",
+      "districtName": "SIANTAR SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21122,
+      "coordinate": {
+        "longitude": 99.0671934,
+        "latitude": 2.9515041,
+        "elevation": 394
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.04.1003",
+      "name": "SIMALUNGUN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.04",
+      "districtName": "SIANTAR SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21121,
+      "coordinate": {
+        "longitude": 99.06676,
+        "latitude": 2.9545916,
+        "elevation": 387
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.04.1004",
+      "name": "MARTIMBANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.04",
+      "districtName": "SIANTAR SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21125,
+      "coordinate": {
+        "longitude": 99.0579664,
+        "latitude": 2.9456766,
+        "elevation": 418
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.04.1005",
+      "name": "KRISTEN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.04",
+      "districtName": "SIANTAR SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21124,
+      "coordinate": {
+        "longitude": 99.0622756,
+        "latitude": 2.9473704,
+        "elevation": 404
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.72.04.1006",
+      "name": "AEK NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.72",
+      "cityName": "KOTA PEMATANGSIANTAR",
+      "districtCode": "12.72.04",
+      "districtName": "SIANTAR SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21126,
+      "coordinate": {
+        "longitude": 99.0498883,
+        "latitude": 2.9437406,
+        "elevation": 414
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.01.2001",
+      "name": "PULAU BALAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.01",
+      "districtName": "PULAU BANYAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 97.4132323,
+        "latitude": 2.3183309,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.01.2002",
+      "name": "PULAU BAGUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.01",
+      "districtName": "PULAU BANYAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 97.4368405,
+        "latitude": 2.1750225,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.01.2004",
+      "name": "TELUK NIBUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.01",
+      "districtName": "PULAU BANYAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78385,
+      "coordinate": {
+        "longitude": 109.4779259,
+        "latitude": -0.7627237,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

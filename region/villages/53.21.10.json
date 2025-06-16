@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.21.10.2001",
+      "name": "ALAS UTARA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.10",
+      "districtName": "KOBALIMA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85767,
+      "coordinate": {
+        "longitude": 125.0250783,
+        "latitude": -9.350507,
+        "elevation": 475
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.21.10.2002",
+      "name": "KOTABIRU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.10",
+      "districtName": "KOBALIMA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85767,
+      "coordinate": {
+        "longitude": 125.0244166,
+        "latitude": -9.3753618,
+        "elevation": 324
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.21.10.2003",
+      "name": "ALAS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.10",
+      "districtName": "KOBALIMA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85767,
+      "coordinate": {
+        "longitude": 125.0401339,
+        "latitude": -9.3924013,
+        "elevation": 483
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.21.10.2004",
+      "name": "ALAS SELATAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.21",
+      "cityName": "KAB. MALAKA",
+      "districtCode": "53.21.10",
+      "districtName": "KOBALIMA TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85767,
+      "coordinate": {
+        "longitude": 125.0669047,
+        "latitude": -9.4356826,
+        "elevation": 128
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

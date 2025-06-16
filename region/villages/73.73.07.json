@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.73.07.1001",
+      "name": "MAWA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.07",
+      "districtName": "SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93398,
+      "coordinate": {
+        "longitude": 123.1743589,
+        "latitude": -4.0178732,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.07.1002",
+      "name": "PURANGI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.07",
+      "districtName": "SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91959,
+      "coordinate": {
+        "longitude": 120.2018641,
+        "latitude": -3.0430973,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.07.1003",
+      "name": "PETA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.07",
+      "districtName": "SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91959,
+      "coordinate": {
+        "longitude": 120.13949,
+        "latitude": -3.037877,
+        "elevation": 393
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.07.1004",
+      "name": "SENDANA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.07",
+      "districtName": "SENDANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91452,
+      "coordinate": {
+        "longitude": 118.8576763,
+        "latitude": -3.3147576,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

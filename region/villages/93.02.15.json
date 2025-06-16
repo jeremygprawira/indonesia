@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.15.2001",
+      "name": "SUBUR",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.15",
+      "districtName": "SUBUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99653,
+      "coordinate": {
+        "longitude": 140.2101863,
+        "latitude": -6.8497435,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.15.2002",
+      "name": "KAISA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.15",
+      "districtName": "SUBUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99653,
+      "coordinate": {
+        "longitude": 140.1142633,
+        "latitude": -7.0320784,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.15.2003",
+      "name": "WAGHAI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.15",
+      "districtName": "SUBUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99653,
+      "coordinate": {
+        "longitude": 140.102753,
+        "latitude": -6.9963085,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.15.2004",
+      "name": "AIWAT",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.15",
+      "districtName": "SUBUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99653,
+      "coordinate": {
+        "longitude": 140.3237463,
+        "latitude": -6.7193448,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.07.25.2001",
+      "name": "HELVETIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.25",
+      "districtName": "LABUHAN DELI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20124,
+      "coordinate": {
+        "longitude": 98.6302369,
+        "latitude": 3.6077017,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.25.2002",
+      "name": "MANUNGGAL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.25",
+      "districtName": "LABUHAN DELI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99404,
+      "coordinate": {
+        "longitude": 140.5829233,
+        "latitude": -4.6807066,
+        "elevation": 2180
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.25.2003",
+      "name": "PEMATANG JOHAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.25",
+      "districtName": "LABUHAN DELI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20373,
+      "coordinate": {
+        "longitude": 98.7097556,
+        "latitude": 3.6938532,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.25.2004",
+      "name": "KARANG GADING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.25",
+      "districtName": "LABUHAN DELI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20373,
+      "coordinate": {
+        "longitude": 98.6333017,
+        "latitude": 3.8688679,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.25.2005",
+      "name": "TELAGA TUJUH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.25",
+      "districtName": "LABUHAN DELI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29665,
+      "coordinate": {
+        "longitude": 103.6168001,
+        "latitude": 0.5051605,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

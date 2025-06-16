@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.11.04.2001",
+      "name": "LUBUK MALAKO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.04",
+      "districtName": "SANGIR JUJUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27773,
+      "coordinate": {
+        "longitude": 101.4052303,
+        "latitude": -1.4963407,
+        "elevation": 319
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.04.2002",
+      "name": "BIDAR ALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.04",
+      "districtName": "SANGIR JUJUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27773,
+      "coordinate": {
+        "longitude": 101.3734021,
+        "latitude": -1.4099312,
+        "elevation": 264
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.04.2004",
+      "name": "PADANG AIR DINGIN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.04",
+      "districtName": "SANGIR JUJUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27773,
+      "coordinate": {
+        "longitude": 101.3119996,
+        "latitude": -1.4821524,
+        "elevation": 333
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.04.2005",
+      "name": "PADANG LIMAU SUNDAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.04",
+      "districtName": "SANGIR JUJUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27773,
+      "coordinate": {
+        "longitude": 101.2899841,
+        "latitude": -1.3813848,
+        "elevation": 401
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.04.2006",
+      "name": "PADANG GANTIANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.04",
+      "districtName": "SANGIR JUJUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27773,
+      "coordinate": {
+        "longitude": 101.2859574,
+        "latitude": -1.4178608,
+        "elevation": 459
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.07.02.2001",
+      "name": "SUMBERMANJINGKULON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.02.2002",
+      "name": "PANDANREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65332,
+      "coordinate": {
+        "longitude": 112.5488803,
+        "latitude": -7.8605846,
+        "elevation": 841
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.02.2003",
+      "name": "SUMBERKERTO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65168,
+      "coordinate": {
+        "longitude": 112.5452494,
+        "latitude": -8.2911167,
+        "elevation": 376
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.02.2004",
+      "name": "SEMPOL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63392,
+      "coordinate": {
+        "longitude": 111.440755,
+        "latitude": -7.5791934,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.02.2005",
+      "name": "PAGAK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67154,
+      "coordinate": {
+        "longitude": 112.7654508,
+        "latitude": -7.5835099,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.02.2006",
+      "name": "TLOGOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62253,
+      "coordinate": {
+        "longitude": 112.3545318,
+        "latitude": -7.1102147,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.02.2007",
+      "name": "GAMPINGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65168,
+      "coordinate": {
+        "longitude": 112.5369514,
+        "latitude": -8.1934188,
+        "elevation": 320
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.02.2008",
+      "name": "SUMBEREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.02",
+      "districtName": "PAGAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.227504,
+        "latitude": -3.3871872,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

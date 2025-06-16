@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.11.14.2001",
+      "name": "SILALAHI II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.14",
+      "districtName": "SILAHISABUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22280,
+      "coordinate": {
+        "longitude": 98.5545506,
+        "latitude": 2.7628762,
+        "elevation": 1424
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.11.14.2002",
+      "name": "SILALAHI I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.14",
+      "districtName": "SILAHISABUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22280,
+      "coordinate": {
+        "longitude": 98.5167357,
+        "latitude": 2.8044967,
+        "elevation": 1018
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.11.14.2003",
+      "name": "PAROPO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.14",
+      "districtName": "SILAHISABUNGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90233,
+      "coordinate": {
+        "longitude": 119.456914,
+        "latitude": -5.1520862,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.11.14.2004",
+      "name": "SILALAHI III",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.14",
+      "districtName": "SILAHISABUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22280,
+      "coordinate": {
+        "longitude": 98.5192852,
+        "latitude": 2.8092867,
+        "elevation": 984
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.11.14.2005",
+      "name": "PAROPO I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.14",
+      "districtName": "SILAHISABUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22280,
+      "coordinate": {
+        "longitude": 98.5030738,
+        "latitude": 2.8596021,
+        "elevation": 1216
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

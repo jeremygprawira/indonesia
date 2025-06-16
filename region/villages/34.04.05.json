@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.05.2001",
+      "name": "MARGOLUWIH",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.05",
+      "districtName": "SEYEGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55561,
+      "coordinate": {
+        "longitude": 110.3005415,
+        "latitude": -7.7502449,
+        "elevation": 136
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.05.2002",
+      "name": "MARGODADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.05",
+      "districtName": "SEYEGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55561,
+      "coordinate": {
+        "longitude": 110.2943233,
+        "latitude": -7.7372855,
+        "elevation": 154
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.05.2003",
+      "name": "MARGOKATON",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.05",
+      "districtName": "SEYEGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55561,
+      "coordinate": {
+        "longitude": 110.2872827,
+        "latitude": -7.7190973,
+        "elevation": 149
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.05.2004",
+      "name": "MARGOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.05",
+      "districtName": "SEYEGAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1810289,
+        "latitude": -1.3600825,
+        "elevation": 471
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.05.2005",
+      "name": "MARGOAGUNG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.05",
+      "districtName": "SEYEGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0358145,
+        "latitude": -7.1798813,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

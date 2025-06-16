@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.06.05.2001",
+      "name": "AIR KELIK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.05",
+      "districtName": "DAMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33571,
+      "coordinate": {
+        "longitude": 108.2080709,
+        "latitude": -2.6222315,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.06.05.2002",
+      "name": "MEMPAYA",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.05",
+      "districtName": "DAMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33515,
+      "coordinate": {
+        "longitude": 108.1886574,
+        "latitude": -2.7719078,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.06.05.2003",
+      "name": "BURONG MANDI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.05",
+      "districtName": "DAMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33571,
+      "coordinate": {
+        "longitude": 108.2539123,
+        "latitude": -2.7487739,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.06.05.2004",
+      "name": "MENGKUBANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.05",
+      "districtName": "DAMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33514,
+      "coordinate": {
+        "longitude": 108.2306144,
+        "latitude": -2.7971782,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.06.05.2005",
+      "name": "SUKAMANDI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.05",
+      "districtName": "DAMAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41282,
+      "coordinate": {
+        "longitude": 107.6271554,
+        "latitude": -6.6994525,
+        "elevation": 758
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.71.04.1001",
+      "name": "BERINGIN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.04",
+      "districtName": "PASAR JAMBI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93958,
+      "coordinate": {
+        "longitude": 121.0002842,
+        "latitude": -3.2999473,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.04.1002",
+      "name": "ORANG KAYO HITAM",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.04",
+      "districtName": "PASAR JAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36111,
+      "coordinate": {
+        "longitude": 103.6179483,
+        "latitude": -1.5931079,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.04.1003",
+      "name": "PASAR JAMBI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.04",
+      "districtName": "PASAR JAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36133,
+      "coordinate": {
+        "longitude": 103.6165485,
+        "latitude": -1.5904046,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.04.1004",
+      "name": "SUNGAI ASAM",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.04",
+      "districtName": "PASAR JAMBI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70661,
+      "coordinate": {
+        "longitude": 114.9710339,
+        "latitude": -3.4418696,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

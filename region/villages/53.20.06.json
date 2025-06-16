@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.20.06.1001",
+      "name": "LEDEKE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.20",
+      "cityName": "KAB. SABU RAIJUA",
+      "districtCode": "53.20.06",
+      "districtName": "RAIJUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85393,
+      "coordinate": {
+        "longitude": 121.607849,
+        "latitude": -10.6223581,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.20.06.1002",
+      "name": "LEDEUNU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.20",
+      "cityName": "KAB. SABU RAIJUA",
+      "districtCode": "53.20.06",
+      "districtName": "RAIJUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85393,
+      "coordinate": {
+        "longitude": 121.5948412,
+        "latitude": -10.6068309,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.20.06.2003",
+      "name": "BOLUA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.20",
+      "cityName": "KAB. SABU RAIJUA",
+      "districtCode": "53.20.06",
+      "districtName": "RAIJUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85393,
+      "coordinate": {
+        "longitude": 121.5763484,
+        "latitude": -10.6253957,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.20.06.2004",
+      "name": "KOLORAE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.20",
+      "cityName": "KAB. SABU RAIJUA",
+      "districtCode": "53.20.06",
+      "districtName": "RAIJUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85393,
+      "coordinate": {
+        "longitude": 121.5508704,
+        "latitude": -10.6223538,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.20.06.2005",
+      "name": "BALLU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.20",
+      "cityName": "KAB. SABU RAIJUA",
+      "districtCode": "53.20.06",
+      "districtName": "RAIJUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85393,
+      "coordinate": {
+        "longitude": 121.5683033,
+        "latitude": -10.6111448,
+        "elevation": 100
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

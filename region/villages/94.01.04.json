@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.04.2001",
+      "name": "TOPO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.04",
+      "districtName": "UWAPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.5881803,
+        "latitude": -3.4123308,
+        "elevation": 286
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.04.2002",
+      "name": "URUMUSU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.04",
+      "districtName": "UWAPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.7388114,
+        "latitude": -3.4579669,
+        "elevation": 716
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.04.2003",
+      "name": "MARGA JAYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.04",
+      "districtName": "UWAPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.533069,
+        "latitude": -3.4722242,
+        "elevation": 255
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.04.2004",
+      "name": "ARGO MULYO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.04",
+      "districtName": "UWAPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.5988668,
+        "latitude": -3.5037065,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.04.2005",
+      "name": "TOPO JAYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.04",
+      "districtName": "UWAPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.6163067,
+        "latitude": -3.5081007,
+        "elevation": 141
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.04.2006",
+      "name": "GAMEI JAYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.04",
+      "districtName": "UWAPA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.4641321,
+        "latitude": -3.5453516,
+        "elevation": 156
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

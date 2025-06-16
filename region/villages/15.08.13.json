@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.08.13.1001",
+      "name": "PASIR PUTIH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.13",
+      "districtName": "RIMBO TENGAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99927,
+      "coordinate": {
+        "longitude": 138.7887395,
+        "latitude": -4.7126561,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.13.1002",
+      "name": "CADIKA",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.13",
+      "districtName": "RIMBO TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37215,
+      "coordinate": {
+        "longitude": 102.1218849,
+        "latitude": -1.5094038,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.13.2003",
+      "name": "SUNGAI MENGKUANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.13",
+      "districtName": "RIMBO TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37215,
+      "coordinate": {
+        "longitude": 102.1092352,
+        "latitude": -1.536332,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.08.13.2004",
+      "name": "SUNGAI BULUH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.08",
+      "cityName": "KAB. BUNGO",
+      "districtCode": "15.08.13",
+      "districtName": "RIMBO TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71552,
+      "coordinate": {
+        "longitude": 115.3141771,
+        "latitude": -2.2499243,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

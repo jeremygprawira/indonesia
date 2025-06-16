@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.08.2004",
+      "name": "YENSNER",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.08",
+      "districtName": "WAIGEO TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98476,
+      "coordinate": {
+        "longitude": 131.0841121,
+        "latitude": -0.3170781,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.08.2002",
+      "name": "YENBEKAKI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.08",
+      "districtName": "WAIGEO TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98476,
+      "coordinate": {
+        "longitude": 131.2713404,
+        "latitude": -0.23337,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.08.2003",
+      "name": "URBINASOPEN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.08",
+      "districtName": "WAIGEO TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98476,
+      "coordinate": {
+        "longitude": 131.2360874,
+        "latitude": -0.3235037,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.08.2001",
+      "name": "PUPER",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.08",
+      "districtName": "WAIGEO TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98476,
+      "coordinate": {
+        "longitude": 131.2777275,
+        "latitude": -0.1673448,
+        "elevation": 214
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

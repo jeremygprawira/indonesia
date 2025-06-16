@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.72.03.2001",
+      "name": "TAM NGURHIR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.03",
+      "districtName": "TAYANDO TAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97613,
+      "coordinate": {
+        "longitude": 132.327037,
+        "latitude": -5.5692393,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.03.2002",
+      "name": "TAYANDO LANGGIAR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.03",
+      "districtName": "TAYANDO TAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97613,
+      "coordinate": {
+        "longitude": 132.368472,
+        "latitude": -5.5531674,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.03.2003",
+      "name": "TAYANDO YAMTEL",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.03",
+      "districtName": "TAYANDO TAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97613,
+      "coordinate": {
+        "longitude": 132.1803941,
+        "latitude": -5.742782,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.03.2004",
+      "name": "TAYANDO OHOIEL",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.03",
+      "districtName": "TAYANDO TAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97613,
+      "coordinate": {
+        "longitude": 132.282619,
+        "latitude": -5.6040277,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.72.03.2005",
+      "name": "TAYANDO YAMRU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.72",
+      "cityName": "KOTA TUAL",
+      "districtCode": "81.72.03",
+      "districtName": "TAYANDO TAM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97613,
+      "coordinate": {
+        "longitude": 132.3170451,
+        "latitude": -5.5315781,
+        "elevation": 43
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

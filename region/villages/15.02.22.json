@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.02.22.2001",
+      "name": "TAMBANG BARU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.22",
+      "districtName": "TABIR LINTAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37357,
+      "coordinate": {
+        "longitude": 102.3265631,
+        "latitude": -1.9746084,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.22.2002",
+      "name": "SIDO LEGO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.22",
+      "districtName": "TABIR LINTAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37357,
+      "coordinate": {
+        "longitude": 102.2973614,
+        "latitude": -1.882942,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.22.2003",
+      "name": "MENSANGO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.22",
+      "districtName": "TABIR LINTAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37357,
+      "coordinate": {
+        "longitude": 102.2921069,
+        "latitude": -1.9062023,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.22.2004",
+      "name": "KOTO BARU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.22",
+      "districtName": "TABIR LINTAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37152,
+      "coordinate": {
+        "longitude": 101.3966914,
+        "latitude": -2.0353944,
+        "elevation": 797
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.22.2005",
+      "name": "SIDO HARJO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.22",
+      "districtName": "TABIR LINTAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34177,
+      "coordinate": {
+        "longitude": 104.8432152,
+        "latitude": -5.0546415,
+        "elevation": 96
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

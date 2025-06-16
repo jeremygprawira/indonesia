@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.04.01.1003",
+      "name": "RANTAU KUJANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.04",
+      "cityName": "KAB. BARITO SELATAN",
+      "districtCode": "62.04.01",
+      "districtName": "JENAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73763,
+      "coordinate": {
+        "longitude": 114.9309086,
+        "latitude": -2.3459267,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.04.01.2001",
+      "name": "TAMPULANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.04",
+      "cityName": "KAB. BARITO SELATAN",
+      "districtCode": "62.04.01",
+      "districtName": "JENAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73763,
+      "coordinate": {
+        "longitude": 114.8516561,
+        "latitude": -2.4696585,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.04.01.2002",
+      "name": "RANTAU BAHUANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.04",
+      "cityName": "KAB. BARITO SELATAN",
+      "districtCode": "62.04.01",
+      "districtName": "JENAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73763,
+      "coordinate": {
+        "longitude": 114.8846128,
+        "latitude": -2.4799897,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.04.01.2004",
+      "name": "RANGGA ILUNG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.04",
+      "cityName": "KAB. BARITO SELATAN",
+      "districtCode": "62.04.01",
+      "districtName": "JENAMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73763,
+      "coordinate": {
+        "longitude": 114.8888352,
+        "latitude": -2.3459418,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.04.01.2005",
+      "name": "TABATAN",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.04",
+      "cityName": "KAB. BARITO SELATAN",
+      "districtCode": "62.04.01",
+      "districtName": "JENAMAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70552,
+      "coordinate": {
+        "longitude": 114.8292246,
+        "latitude": -2.5886568,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

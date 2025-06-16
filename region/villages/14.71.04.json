@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.04.1001",
+      "name": "RINTIS",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.04",
+      "districtName": "LIMA PULUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28141,
+      "coordinate": {
+        "longitude": 101.4536358,
+        "latitude": 0.5311562,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.04.1002",
+      "name": "TANJUNG RHU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.04",
+      "districtName": "LIMA PULUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28143,
+      "coordinate": {
+        "longitude": 101.4618559,
+        "latitude": 0.5424348,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.04.1003",
+      "name": "PESISIR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.04",
+      "districtName": "LIMA PULUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67251,
+      "coordinate": {
+        "longitude": 113.1744712,
+        "latitude": -7.7387001,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.04.1004",
+      "name": "SEKIP",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.04",
+      "districtName": "LIMA PULUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28142,
+      "coordinate": {
+        "longitude": 101.4648957,
+        "latitude": 0.5310301,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

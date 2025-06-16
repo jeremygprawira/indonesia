@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.04.20.1001",
+      "name": "BENTENG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97117,
+      "coordinate": {
+        "longitude": 128.1628113,
+        "latitude": -3.7101868,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.04.20.2002",
+      "name": "BENTENG UTARA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92812,
+      "coordinate": {
+        "longitude": 120.4673053,
+        "latitude": -6.1025134,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.04.20.2003",
+      "name": "PASENGGERAHAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29270,
+      "coordinate": {
+        "longitude": 103.2816183,
+        "latitude": -0.6296166,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.04.20.2004",
+      "name": "KUALA SUNGAI BATANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29270,
+      "coordinate": {
+        "longitude": 103.3144567,
+        "latitude": -0.6496296,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.04.20.2005",
+      "name": "KUALA PATAH PARANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29270,
+      "coordinate": {
+        "longitude": 103.4183474,
+        "latitude": -0.5977763,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.04.20.2006",
+      "name": "BENTENG BARAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29270,
+      "coordinate": {
+        "longitude": 103.1128985,
+        "latitude": -0.6185973,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.04.20.2007",
+      "name": "PANDAN SARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77361,
+      "coordinate": {
+        "longitude": 117.2332735,
+        "latitude": 2.0639448,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.04.20.2008",
+      "name": "MUGO MULYO",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.04",
+      "cityName": "KAB. INDRAGIRI HILIR",
+      "districtCode": "14.04.20",
+      "districtName": "SUNGAI BATANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29270,
+      "coordinate": {
+        "longitude": 103.1733498,
+        "latitude": -0.6265816,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

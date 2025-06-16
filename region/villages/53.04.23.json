@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.04.23.2001",
+      "name": "DUBESI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.23",
+      "districtName": "NANAET DUABESI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85751,
+      "coordinate": {
+        "longitude": 124.9676605,
+        "latitude": -9.3073129,
+        "elevation": 537
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.04.23.2002",
+      "name": "NANAET",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.23",
+      "districtName": "NANAET DUABESI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85751,
+      "coordinate": {
+        "longitude": 124.9627398,
+        "latitude": -9.2743904,
+        "elevation": 765
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.04.23.2003",
+      "name": "FOHOEKA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.23",
+      "districtName": "NANAET DUABESI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85751,
+      "coordinate": {
+        "longitude": 124.970993,
+        "latitude": -9.274184,
+        "elevation": 889
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.04.23.2004",
+      "name": "NANAENOE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.04",
+      "cityName": "KAB. BELU",
+      "districtCode": "53.04.23",
+      "districtName": "NANAET DUABESI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85751,
+      "coordinate": {
+        "longitude": 124.9823735,
+        "latitude": -9.3024925,
+        "elevation": 651
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

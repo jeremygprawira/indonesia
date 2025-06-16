@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.27.2001",
+      "name": "TATEBAL",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.27",
+      "districtName": "LENANGGUAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84370,
+      "coordinate": {
+        "longitude": 117.4016676,
+        "latitude": -8.8202132,
+        "elevation": 342
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.27.2002",
+      "name": "LENANGGUAR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.27",
+      "districtName": "LENANGGUAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84370,
+      "coordinate": {
+        "longitude": 117.3499037,
+        "latitude": -8.7277471,
+        "elevation": 460
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.27.2003",
+      "name": "LEDANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.27",
+      "districtName": "LENANGGUAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84370,
+      "coordinate": {
+        "longitude": 117.3309508,
+        "latitude": -8.8116771,
+        "elevation": 158
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.27.2004",
+      "name": "TELAGA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.27",
+      "districtName": "LENANGGUAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96466,
+      "coordinate": {
+        "longitude": 121.4434191,
+        "latitude": 0.5100751,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

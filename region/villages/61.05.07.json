@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.05.07.2001",
+      "name": "NANGA JETAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.6415242,
+        "latitude": 0.0002636,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2002",
+      "name": "NANGA DEDAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.649416,
+        "latitude": -0.0605711,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2003",
+      "name": "GANDIS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74152,
+      "coordinate": {
+        "longitude": 112.0172795,
+        "latitude": -2.1529955,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2004",
+      "name": "SUNGAI MALI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.6581037,
+        "latitude": -0.144666,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2005",
+      "name": "RIGUK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7349952,
+        "latitude": -0.0007535,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2006",
+      "name": "PENGKADAN BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.670621,
+        "latitude": 0.019943,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2007",
+      "name": "TAUK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2008",
+      "name": "EMPACI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7439749,
+        "latitude": 0.0538002,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2009",
+      "name": "BARAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91572,
+      "coordinate": {
+        "longitude": 119.3359906,
+        "latitude": -1.5808529,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2010",
+      "name": "PANGKADAN SUNGAI RUPA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7462492,
+        "latitude": -0.0606765,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2011",
+      "name": "KUMPANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7663635,
+        "latitude": -0.0455663,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2012",
+      "name": "MANGAT BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7862259,
+        "latitude": 0.0660615,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2013",
+      "name": "MENAONG BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2014",
+      "name": "EMPARU BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.8325904,
+        "latitude": 0.0953313,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2015",
+      "name": "LUNDANG BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.5748913,
+        "latitude": -0.0779444,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2016",
+      "name": "PENYAK LALANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.6983476,
+        "latitude": -0.0716159,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2017",
+      "name": "UMIN JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.8207155,
+        "latitude": 0.0337336,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2018",
+      "name": "MEREMPIT BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.8658781,
+        "latitude": 0.0828031,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2019",
+      "name": "DEDAI KANAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.6212905,
+        "latitude": -0.0668769,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2020",
+      "name": "SUNGAI TAPANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.6219876,
+        "latitude": -0.031835,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2021",
+      "name": "GANDIS HULU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.6378863,
+        "latitude": -0.0966235,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2022",
+      "name": "HULU DEDAI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7911818,
+        "latitude": -0.0441288,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2023",
+      "name": "APIN BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7594455,
+        "latitude": -0.0188833,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2024",
+      "name": "JANGKANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73557,
+      "coordinate": {
+        "longitude": 114.2544172,
+        "latitude": -0.9175681,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2025",
+      "name": "BELINYUK SIBAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7552532,
+        "latitude": 0.0200279,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2026",
+      "name": "MENGKIRAI JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.66831,
+        "latitude": -0.141616,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2027",
+      "name": "TERUSAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.7130734,
+        "latitude": 0.0544505,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2028",
+      "name": "TANJUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2029",
+      "name": "BATU LANDUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.638746,
+        "latitude": 0.0083356,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2030",
+      "name": "SAMAK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.6724847,
+        "latitude": 0.0547887,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.05.07.2031",
+      "name": "MANYAM",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.05",
+      "cityName": "KAB. SINTANG",
+      "districtCode": "61.05.07",
+      "districtName": "DEDAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78691,
+      "coordinate": {
+        "longitude": 111.641176,
+        "latitude": -0.0318004,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 31
+  }
+}

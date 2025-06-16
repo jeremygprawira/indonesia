@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.08.2001",
+      "name": "TIKKE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.08",
+      "districtName": "TIKKE RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91579,
+      "coordinate": {
+        "longitude": 119.35043,
+        "latitude": -1.3338403,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.08.2002",
+      "name": "MAKMUR JAYA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.08",
+      "districtName": "TIKKE RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91579,
+      "coordinate": {
+        "longitude": 119.409388,
+        "latitude": -1.3443041,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.08.2003",
+      "name": "LARIANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.08",
+      "districtName": "TIKKE RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91579,
+      "coordinate": {
+        "longitude": 119.3470301,
+        "latitude": -1.403184,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.08.2004",
+      "name": "PAJALELE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.08",
+      "districtName": "TIKKE RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91579,
+      "coordinate": {
+        "longitude": 119.4448813,
+        "latitude": -1.3179255,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.08.2005",
+      "name": "JENGENG RAYA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.08",
+      "districtName": "TIKKE RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91579,
+      "coordinate": {
+        "longitude": 119.3288685,
+        "latitude": -1.3679448,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.72.02.1001",
+      "name": "BAGENDUNG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.02",
+      "districtName": "CILEGON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42419,
+      "coordinate": {
+        "longitude": 106.0293117,
+        "latitude": -6.0578708,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.02.1002",
+      "name": "CIWEDUS",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.02",
+      "districtName": "CILEGON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42418,
+      "coordinate": {
+        "longitude": 106.0392844,
+        "latitude": -6.0353205,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.02.1003",
+      "name": "BENDUNGAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.02",
+      "districtName": "CILEGON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96265,
+      "coordinate": {
+        "longitude": 122.1497879,
+        "latitude": 0.6770698,
+        "elevation": 425
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.02.1004",
+      "name": "KETILENG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.02",
+      "districtName": "CILEGON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42416,
+      "coordinate": {
+        "longitude": 106.0624975,
+        "latitude": -6.0262063,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.02.1005",
+      "name": "CIWADUK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.02",
+      "districtName": "CILEGON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42415,
+      "coordinate": {
+        "longitude": 106.0459174,
+        "latitude": -6.025582,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.29.2001",
+      "name": "LANTUNG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.29",
+      "districtName": "LANTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95376,
+      "coordinate": {
+        "longitude": 124.932944,
+        "latitude": 1.6771408,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.29.2002",
+      "name": "SEPUKUR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.29",
+      "districtName": "LANTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84372,
+      "coordinate": {
+        "longitude": 117.5219543,
+        "latitude": -8.7981903,
+        "elevation": 797
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.29.2003",
+      "name": "AI MUAL",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.29",
+      "districtName": "LANTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84372,
+      "coordinate": {
+        "longitude": 117.5203517,
+        "latitude": -8.7367836,
+        "elevation": 574
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.29.2004",
+      "name": "PADESA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.29",
+      "districtName": "LANTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84372,
+      "coordinate": {
+        "longitude": 117.4879457,
+        "latitude": -8.7530806,
+        "elevation": 642
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

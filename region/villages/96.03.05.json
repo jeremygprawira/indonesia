@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.05.2002",
+      "name": "YENKAWIR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.05",
+      "districtName": "AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98462,
+      "coordinate": {
+        "longitude": 131.0385181,
+        "latitude": 0.3877343,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.05.2001",
+      "name": "DOREHKAR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.05",
+      "districtName": "AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98462,
+      "coordinate": {
+        "longitude": 131.0504263,
+        "latitude": 0.3685311,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.05.2003",
+      "name": "BOISERAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.05",
+      "districtName": "AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98462,
+      "coordinate": {
+        "longitude": 131.0595164,
+        "latitude": 0.3657996,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.05.2005",
+      "name": "YENKANFAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.05",
+      "districtName": "AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98462,
+      "coordinate": {
+        "longitude": 131.0448681,
+        "latitude": 0.3779301,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.05.2004",
+      "name": "RUNI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.05",
+      "districtName": "AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98462,
+      "coordinate": {
+        "longitude": 131.0477047,
+        "latitude": 0.3640761,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

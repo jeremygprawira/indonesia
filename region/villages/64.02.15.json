@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.02.15.1001",
+      "name": "JAWA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.02",
+      "cityName": "KAB. KUTAI KARTANEGARA",
+      "districtCode": "64.02.15",
+      "districtName": "SANGA SANGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99960,
+      "coordinate": {
+        "longitude": 137.4562998,
+        "latitude": -4.2809573,
+        "elevation": 2498
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.02.15.1002",
+      "name": "PENDINGIN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.02",
+      "cityName": "KAB. KUTAI KARTANEGARA",
+      "districtCode": "64.02.15",
+      "districtName": "SANGA SANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75256,
+      "coordinate": {
+        "longitude": 117.3003121,
+        "latitude": -0.6561116,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.02.15.1003",
+      "name": "SANGA-SANGA DALAM",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.02",
+      "cityName": "KAB. KUTAI KARTANEGARA",
+      "districtCode": "64.02.15",
+      "districtName": "SANGA SANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75254,
+      "coordinate": {
+        "longitude": 117.2340748,
+        "latitude": -0.6524169,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.02.15.1004",
+      "name": "SARI JAYA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.02",
+      "cityName": "KAB. KUTAI KARTANEGARA",
+      "districtCode": "64.02.15",
+      "districtName": "SANGA SANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75251,
+      "coordinate": {
+        "longitude": 117.2472313,
+        "latitude": -0.6298968,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.02.15.1005",
+      "name": "SANGA-SANGA MUARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.02",
+      "cityName": "KAB. KUTAI KARTANEGARA",
+      "districtCode": "64.02.15",
+      "districtName": "SANGA SANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75251,
+      "coordinate": {
+        "longitude": 117.289498,
+        "latitude": -0.613547,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

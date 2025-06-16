@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.14.2001",
+      "name": "KUALA BARU LAUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.14",
+      "districtName": "KUALA BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24789,
+      "coordinate": {
+        "longitude": 97.716859,
+        "latitude": 2.3367433,
+        "elevation": -5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.14.2002",
+      "name": "KUALA BARU SUNGAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.14",
+      "districtName": "KUALA BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24789,
+      "coordinate": {
+        "longitude": 97.7395139,
+        "latitude": 2.368706,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.14.2003",
+      "name": "SUKA JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.14",
+      "districtName": "KUALA BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74280,
+      "coordinate": {
+        "longitude": 112.1039347,
+        "latitude": -2.1721553,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.14.2004",
+      "name": "KAYU MENANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.14",
+      "districtName": "KUALA BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24789,
+      "coordinate": {
+        "longitude": 97.7475598,
+        "latitude": 2.3036061,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.10.22.2001",
+      "name": "BULUAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.22",
+      "districtName": "SILIRAGUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68489,
+      "coordinate": {
+        "longitude": 114.1359469,
+        "latitude": -8.6004576,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.22.2002",
+      "name": "SILIRAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.22",
+      "districtName": "SILIRAGUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68489,
+      "coordinate": {
+        "longitude": 114.1203676,
+        "latitude": -8.5599091,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.22.2003",
+      "name": "KESILIR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.22",
+      "districtName": "SILIRAGUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68489,
+      "coordinate": {
+        "longitude": 114.1286084,
+        "latitude": -8.5378613,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.22.2004",
+      "name": "SENEPOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.22",
+      "districtName": "SILIRAGUNG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.22.2005",
+      "name": "BARUREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.22",
+      "districtName": "SILIRAGUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62284,
+      "coordinate": {
+        "longitude": 112.3155086,
+        "latitude": -7.3147709,
+        "elevation": 76
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

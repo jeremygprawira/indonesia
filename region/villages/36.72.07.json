@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.72.07.1001",
+      "name": "RAMANUJU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.07",
+      "districtName": "PURWAKARTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42431,
+      "coordinate": {
+        "longitude": 106.0383946,
+        "latitude": -6.0091003,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.07.1002",
+      "name": "KOTABUMI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.07",
+      "districtName": "PURWAKARTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42434,
+      "coordinate": {
+        "longitude": 106.0425919,
+        "latitude": -5.9897587,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.07.1003",
+      "name": "KEBON DALEM",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.07",
+      "districtName": "PURWAKARTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42433,
+      "coordinate": {
+        "longitude": 106.0499038,
+        "latitude": -6.0028216,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.07.1004",
+      "name": "PURWAKARTA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.07",
+      "districtName": "PURWAKARTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42437,
+      "coordinate": {
+        "longitude": 106.0579649,
+        "latitude": -5.9882993,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.07.1005",
+      "name": "TEGAL BUNDER",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.07",
+      "districtName": "PURWAKARTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42437,
+      "coordinate": {
+        "longitude": 106.0546874,
+        "latitude": -5.9737282,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.07.1006",
+      "name": "PABEAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.07",
+      "districtName": "PURWAKARTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42437,
+      "coordinate": {
+        "longitude": 106.0505656,
+        "latitude": -5.9664416,
+        "elevation": 36
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

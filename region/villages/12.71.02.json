@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.02.1001",
+      "name": "LALANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.02",
+      "districtName": "MEDAN SUNGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74161,
+      "coordinate": {
+        "longitude": 111.4518101,
+        "latitude": -2.4194015,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.02.1002",
+      "name": "SEI SIKAMBING B",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.02",
+      "districtName": "MEDAN SUNGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20122,
+      "coordinate": {
+        "longitude": 98.6292245,
+        "latitude": 3.5861668,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.02.1003",
+      "name": "SUNGGAL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.02",
+      "districtName": "MEDAN SUNGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20128,
+      "coordinate": {
+        "longitude": 98.6154855,
+        "latitude": 3.5786142,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.02.1004",
+      "name": "BABURA SUNGGAL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.02",
+      "districtName": "MEDAN SUNGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20121,
+      "coordinate": {
+        "longitude": 98.6463092,
+        "latitude": 3.582129,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.02.1005",
+      "name": "TANJUNG REJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.02",
+      "districtName": "MEDAN SUNGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34887,
+      "coordinate": {
+        "longitude": 104.3107374,
+        "latitude": -5.5904782,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.02.1006",
+      "name": "SIMPANG TANJUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.02",
+      "districtName": "MEDAN SUNGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31352,
+      "coordinate": {
+        "longitude": 103.9856226,
+        "latitude": -3.4266345,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

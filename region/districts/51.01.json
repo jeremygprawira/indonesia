@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "51.01.01",
+      "name": "NEGARA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.01",
+      "cityName": "KAB. JEMBRANA"
+    },
+    {
+      "type": "district",
+      "code": "51.01.02",
+      "name": "MENDOYO",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.01",
+      "cityName": "KAB. JEMBRANA"
+    },
+    {
+      "type": "district",
+      "code": "51.01.03",
+      "name": "PEKUTATAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.01",
+      "cityName": "KAB. JEMBRANA"
+    },
+    {
+      "type": "district",
+      "code": "51.01.04",
+      "name": "MELAYA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.01",
+      "cityName": "KAB. JEMBRANA"
+    },
+    {
+      "type": "district",
+      "code": "51.01.05",
+      "name": "JEMBRANA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.01",
+      "cityName": "KAB. JEMBRANA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

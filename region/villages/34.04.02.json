@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.02.2001",
+      "name": "SIDOREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.02",
+      "districtName": "GODEAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.02.2002",
+      "name": "SIDOLUHUR",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.02",
+      "districtName": "GODEAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65216,
+      "coordinate": {
+        "longitude": 112.7294335,
+        "latitude": -7.8832813,
+        "elevation": 586
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.02.2003",
+      "name": "SIDOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.02",
+      "districtName": "GODEAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.02.2004",
+      "name": "SIDOAGUNG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.02",
+      "districtName": "GODEAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55264,
+      "coordinate": {
+        "longitude": 110.2982376,
+        "latitude": -7.7644595,
+        "elevation": 130
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.02.2005",
+      "name": "SIDOKARTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.02",
+      "districtName": "GODEAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55264,
+      "coordinate": {
+        "longitude": 110.3068686,
+        "latitude": -7.7767682,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.02.2006",
+      "name": "SIDOARUM",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.02",
+      "districtName": "GODEAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55264,
+      "coordinate": {
+        "longitude": 110.3188529,
+        "latitude": -7.7781161,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.02.2007",
+      "name": "SIDOMOYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.02",
+      "districtName": "GODEAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55264,
+      "coordinate": {
+        "longitude": 110.3182918,
+        "latitude": -7.7565255,
+        "elevation": 137
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

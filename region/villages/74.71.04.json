@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.71.04.1003",
+      "name": "ANDONOHU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.04",
+      "districtName": "POASIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93231,
+      "coordinate": {
+        "longitude": 122.5510275,
+        "latitude": -4.0229486,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.04.1004",
+      "name": "RAHANDOUNA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.04",
+      "districtName": "POASIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93232,
+      "coordinate": {
+        "longitude": 122.5562601,
+        "latitude": -4.0273561,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.04.1005",
+      "name": "ANGGOEYA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.04",
+      "districtName": "POASIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93231,
+      "coordinate": {
+        "longitude": 122.5734977,
+        "latitude": -4.0324557,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.04.1006",
+      "name": "MATABUBU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.04",
+      "districtName": "POASIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93233,
+      "coordinate": {
+        "longitude": 122.5700488,
+        "latitude": -4.0064735,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.04.1021",
+      "name": "WUNDUMBATU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.04",
+      "districtName": "POASIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93232,
+      "coordinate": {
+        "longitude": 122.5471657,
+        "latitude": -4.0021466,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

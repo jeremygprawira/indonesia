@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.72.03.1001",
+      "name": "MULYOJATI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.03",
+      "districtName": "METRO BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34125,
+      "coordinate": {
+        "longitude": 105.2964042,
+        "latitude": -5.1365695,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.03.1002",
+      "name": "GANJAR AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.03",
+      "districtName": "METRO BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34114,
+      "coordinate": {
+        "longitude": 105.2807404,
+        "latitude": -5.1342504,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.03.1003",
+      "name": "MULYOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.03",
+      "districtName": "METRO BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66262,
+      "coordinate": {
+        "longitude": 111.8062883,
+        "latitude": -8.0040354,
+        "elevation": 279
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.03.1004",
+      "name": "GANJAR ASRI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.03",
+      "districtName": "METRO BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34125,
+      "coordinate": {
+        "longitude": 105.2934131,
+        "latitude": -5.1218648,
+        "elevation": 57
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

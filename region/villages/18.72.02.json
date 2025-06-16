@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.72.02.1001",
+      "name": "BANJARSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.02",
+      "districtName": "METRO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.02.1002",
+      "name": "PURWOSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.02",
+      "districtName": "METRO UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92970,
+      "coordinate": {
+        "longitude": 120.8539597,
+        "latitude": -2.5056239,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.02.1003",
+      "name": "KARANGREJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.02",
+      "districtName": "METRO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5878894,
+        "latitude": -7.0705063,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.02.1004",
+      "name": "PURWOASRI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.02",
+      "districtName": "METRO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62185,
+      "coordinate": {
+        "longitude": 111.9720819,
+        "latitude": -7.2617956,
+        "elevation": 41
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

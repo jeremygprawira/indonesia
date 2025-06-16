@@ -1,0 +1,610 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.08.12.2001",
+      "name": "TANJUNG MAS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 50174,
+      "coordinate": {
+        "longitude": 110.4342368,
+        "latitude": -6.947658,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2002",
+      "name": "TANJUNGSARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.0707831,
+        "latitude": -6.2208802,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2003",
+      "name": "TEKO REJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2004",
+      "name": "SUMBER ASRI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.572816,
+        "latitude": -4.1839113,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2005",
+      "name": "SUKA MAJU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2006",
+      "name": "SRIKATON",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64176,
+      "coordinate": {
+        "longitude": 112.0118045,
+        "latitude": -7.9858668,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2007",
+      "name": "LIMAN SARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.5562286,
+        "latitude": -4.2453231,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2008",
+      "name": "SUMBER HARJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94765,
+      "coordinate": {
+        "longitude": 122.4017462,
+        "latitude": -1.4347773,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2009",
+      "name": "SUMBER MULYO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35374,
+      "coordinate": {
+        "longitude": 104.7336478,
+        "latitude": -5.3777569,
+        "elevation": 432
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2010",
+      "name": "KARANG TENGAH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15157,
+      "coordinate": {
+        "longitude": 106.7101342,
+        "latitude": -6.2167092,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2011",
+      "name": "BANGUN HARJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73516,
+      "coordinate": {
+        "longitude": 114.4047697,
+        "latitude": -3.161839,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2012",
+      "name": "TAMBAK BOYO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.6095863,
+        "latitude": -4.1469212,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2013",
+      "name": "PENGANDONAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32272,
+      "coordinate": {
+        "longitude": 103.7714797,
+        "latitude": -4.4728384,
+        "elevation": 538
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2014",
+      "name": "REJO DADI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.5967542,
+        "latitude": -4.1296174,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2015",
+      "name": "SUKOHARJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67215,
+      "coordinate": {
+        "longitude": 113.2294791,
+        "latitude": -7.7666696,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2016",
+      "name": "SUMEDANG SARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.5763163,
+        "latitude": -4.2436543,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2017",
+      "name": "ROWODADI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54264,
+      "coordinate": {
+        "longitude": 109.8550536,
+        "latitude": -7.7659575,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2018",
+      "name": "SUKODADI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62253,
+      "coordinate": {
+        "longitude": 112.3222069,
+        "latitude": -7.0954258,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2019",
+      "name": "KUMPUL REJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.5725022,
+        "latitude": -4.1947581,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2020",
+      "name": "METRO REJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.6170096,
+        "latitude": -4.2142003,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2021",
+      "name": "KEDU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56252,
+      "coordinate": {
+        "longitude": 110.1579968,
+        "latitude": -7.2795673,
+        "elevation": 631
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2022",
+      "name": "KEDUNG REJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.5530085,
+        "latitude": -4.160909,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2023",
+      "name": "BANYUMAS ASRI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.5682692,
+        "latitude": -4.1871129,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2024",
+      "name": "GUMUK REJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.6156593,
+        "latitude": -4.1357283,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2025",
+      "name": "TANJUNG MULYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38755,
+      "coordinate": {
+        "longitude": 101.0928823,
+        "latitude": -2.4546604,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2026",
+      "name": "RAMAN AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.5506314,
+        "latitude": -4.2335701,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2027",
+      "name": "BUKIT MAS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85881,
+      "coordinate": {
+        "longitude": 124.2295421,
+        "latitude": -8.2437581,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2028",
+      "name": "TANJUNG AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77215,
+      "coordinate": {
+        "longitude": 117.5155877,
+        "latitude": 2.7306148,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2029",
+      "name": "BERASAN MULYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32360,
+      "coordinate": {
+        "longitude": 104.6075907,
+        "latitude": -4.2229399,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.08.12.2030",
+      "name": "SUMBER TANI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.08",
+      "cityName": "KAB. OGAN KOMERING ULU TIMUR",
+      "districtCode": "16.08.12",
+      "districtName": "BUAY MADANG TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94464,
+      "coordinate": {
+        "longitude": 119.9850624,
+        "latitude": -0.0471126,
+        "elevation": 149
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 30
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "36.74.01",
+      "name": "SERPONG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "36.74.02",
+      "name": "SERPONG UTARA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "36.74.03",
+      "name": "PONDOK AREN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "36.74.04",
+      "name": "CIPUTAT",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "36.74.05",
+      "name": "CIPUTAT TIMUR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "36.74.06",
+      "name": "PAMULANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN"
+    },
+    {
+      "type": "district",
+      "code": "36.74.07",
+      "name": "SETU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

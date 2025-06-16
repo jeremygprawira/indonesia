@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.02.13.2001",
+      "name": "DABOLDING",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.13",
+      "districtName": "KALOMDOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99412,
+      "coordinate": {
+        "longitude": 140.6106615,
+        "latitude": -4.9048932,
+        "elevation": 1351
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.13.2002",
+      "name": "KALOMDOL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.13",
+      "districtName": "KALOMDOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99412,
+      "coordinate": {
+        "longitude": 140.6174018,
+        "latitude": -4.9696384,
+        "elevation": 1626
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.13.2003",
+      "name": "TULO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.13",
+      "districtName": "KALOMDOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99412,
+      "coordinate": {
+        "longitude": 140.587572,
+        "latitude": -4.9966351,
+        "elevation": 1795
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.13.2004",
+      "name": "ARINKOP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.13",
+      "districtName": "KALOMDOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99412,
+      "coordinate": {
+        "longitude": 140.6609455,
+        "latitude": -4.9558325,
+        "elevation": 1163
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.13.2005",
+      "name": "IMIK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.13",
+      "districtName": "KALOMDOL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99412,
+      "coordinate": {
+        "longitude": 140.5798585,
+        "latitude": -4.966339,
+        "elevation": 1906
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

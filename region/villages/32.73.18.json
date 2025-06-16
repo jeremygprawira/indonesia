@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.18.1001",
+      "name": "CIHAUR GEULIS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.18",
+      "districtName": "CIBEUNYING KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40122,
+      "coordinate": {
+        "longitude": 107.6293513,
+        "latitude": -6.9011688,
+        "elevation": 712
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.18.1002",
+      "name": "SUKALUYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.18",
+      "districtName": "CIBEUNYING KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40123,
+      "coordinate": {
+        "longitude": 107.6291287,
+        "latitude": -6.8955698,
+        "elevation": 723
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.18.1003",
+      "name": "NEGLASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.18",
+      "districtName": "CIBEUNYING KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15129,
+      "coordinate": {
+        "longitude": 106.6249531,
+        "latitude": -6.1467797,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.18.1004",
+      "name": "CIGADUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.18",
+      "districtName": "CIBEUNYING KALER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42213,
+      "coordinate": {
+        "longitude": 106.1131496,
+        "latitude": -6.2788395,
+        "elevation": 291
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

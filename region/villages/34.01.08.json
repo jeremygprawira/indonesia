@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.01.08.2001",
+      "name": "HARGOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.08",
+      "districtName": "KOKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62160,
+      "coordinate": {
+        "longitude": 111.643816,
+        "latitude": -7.0660602,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.08.2002",
+      "name": "HARGOREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.08",
+      "districtName": "KOKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55653,
+      "coordinate": {
+        "longitude": 110.1080072,
+        "latitude": -7.8498092,
+        "elevation": 254
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.08.2003",
+      "name": "HARGOWILIS",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.08",
+      "districtName": "KOKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55653,
+      "coordinate": {
+        "longitude": 110.1188225,
+        "latitude": -7.8152359,
+        "elevation": 163
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.08.2004",
+      "name": "KALIREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.08",
+      "districtName": "KOKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61155,
+      "coordinate": {
+        "longitude": 112.4980455,
+        "latitude": -7.0090794,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.01.08.2005",
+      "name": "HARGOTIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.01",
+      "cityName": "KAB. KULON PROGO",
+      "districtCode": "34.01.08",
+      "districtName": "KOKAP",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55653,
+      "coordinate": {
+        "longitude": 110.1014899,
+        "latitude": -7.7918673,
+        "elevation": 430
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

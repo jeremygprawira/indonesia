@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.05.2001",
+      "name": "SIDOMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.05",
+      "districtName": "BAMBANGLIPURO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.05.2002",
+      "name": "MULYODADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.05",
+      "districtName": "BAMBANGLIPURO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72168,
+      "coordinate": {
+        "longitude": 116.3707969,
+        "latitude": -2.6226071,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.05.2003",
+      "name": "SUMBERMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.05",
+      "districtName": "BAMBANGLIPURO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61485,
+      "coordinate": {
+        "longitude": 112.2541118,
+        "latitude": -7.559444,
+        "elevation": 42
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

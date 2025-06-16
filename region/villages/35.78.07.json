@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.07.1001",
+      "name": "EMBONG KALIASIN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.07",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60271,
+      "coordinate": {
+        "longitude": 112.7424851,
+        "latitude": -7.2697476,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.07.1002",
+      "name": "GENTENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.07",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60275,
+      "coordinate": {
+        "longitude": 112.7394608,
+        "latitude": -7.2572575,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.07.1003",
+      "name": "KAPASARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.07",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60273,
+      "coordinate": {
+        "longitude": 112.7499648,
+        "latitude": -7.2469352,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.07.1004",
+      "name": "KETABANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.07",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60272,
+      "coordinate": {
+        "longitude": 112.7462908,
+        "latitude": -7.2571742,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.07.1005",
+      "name": "PENELEH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.07",
+      "districtName": "GENTENG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60274,
+      "coordinate": {
+        "longitude": 112.7420301,
+        "latitude": -7.2522316,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

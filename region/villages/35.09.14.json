@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.14.2001",
+      "name": "PAKIS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.14",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60256,
+      "coordinate": {
+        "longitude": 112.7266342,
+        "latitude": -7.2872466,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.14.2002",
+      "name": "KEMUNING SARI LOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.14",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68153,
+      "coordinate": {
+        "longitude": 113.6001438,
+        "latitude": -8.1659018,
+        "elevation": 122
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.14.2003",
+      "name": "PANTI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.14",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68153,
+      "coordinate": {
+        "longitude": 113.6122902,
+        "latitude": -8.1403062,
+        "elevation": 206
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.14.2004",
+      "name": "GLAGAHWERO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.14",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68193,
+      "coordinate": {
+        "longitude": 113.8042869,
+        "latitude": -8.1427091,
+        "elevation": 257
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.14.2005",
+      "name": "SUCI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.14",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5997638,
+        "latitude": -7.1488081,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.14.2006",
+      "name": "KEMIRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.14",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99565,
+      "coordinate": {
+        "longitude": 138.648302,
+        "latitude": -3.9863651,
+        "elevation": 2771
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.14.2007",
+      "name": "SERUT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.14",
+      "districtName": "PANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68153,
+      "coordinate": {
+        "longitude": 113.643642,
+        "latitude": -8.1531314,
+        "elevation": 142
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

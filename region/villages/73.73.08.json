@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.73.08.1001",
+      "name": "MUNGKAJANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.08",
+      "districtName": "MUNGKAJANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1783751,
+        "latitude": -3.0088065,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.08.1002",
+      "name": "MURANTE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.08",
+      "districtName": "MUNGKAJANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91924,
+      "coordinate": {
+        "longitude": 120.1691561,
+        "latitude": -3.0218147,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.08.1003",
+      "name": "LATUPPA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.08",
+      "districtName": "MUNGKAJANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91921,
+      "coordinate": {
+        "longitude": 120.1149422,
+        "latitude": -3.031849,
+        "elevation": 421
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.08.1004",
+      "name": "KAMBO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.08",
+      "districtName": "MUNGKAJANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99072,
+      "coordinate": {
+        "longitude": 138.7339694,
+        "latitude": -3.75525,
+        "elevation": 1688
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

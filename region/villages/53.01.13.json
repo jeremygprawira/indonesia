@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.13.1002",
+      "name": "NAIKLIU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.13",
+      "districtName": "AMFOANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85365,
+      "coordinate": {
+        "longitude": 123.8481408,
+        "latitude": -9.5144534,
+        "elevation": 89
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.13.2001",
+      "name": "AFOAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.13",
+      "districtName": "AMFOANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85365,
+      "coordinate": {
+        "longitude": 123.805799,
+        "latitude": -9.5337863,
+        "elevation": 263
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.13.2003",
+      "name": "FATUNAUS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.13",
+      "districtName": "AMFOANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85365,
+      "coordinate": {
+        "longitude": 123.8685537,
+        "latitude": -9.5105318,
+        "elevation": 298
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.13.2004",
+      "name": "KOLABE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.13",
+      "districtName": "AMFOANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85365,
+      "coordinate": {
+        "longitude": 123.9010917,
+        "latitude": -9.4918768,
+        "elevation": 685
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.13.2005",
+      "name": "BAKUIN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.13",
+      "districtName": "AMFOANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85365,
+      "coordinate": {
+        "longitude": 123.9260964,
+        "latitude": -9.4969113,
+        "elevation": 353
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.13.2010",
+      "name": "LILMUS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.13",
+      "districtName": "AMFOANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85365,
+      "coordinate": {
+        "longitude": 123.9138152,
+        "latitude": -9.4745854,
+        "elevation": 456
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

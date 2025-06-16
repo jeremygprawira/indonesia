@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.03.1001",
+      "name": "HELVETIA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.03",
+      "districtName": "MEDAN HELVETIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20124,
+      "coordinate": {
+        "longitude": 98.6302369,
+        "latitude": 3.6077017,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.03.1002",
+      "name": "HELVETIA TENGAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.03",
+      "districtName": "MEDAN HELVETIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20124,
+      "coordinate": {
+        "longitude": 98.6389014,
+        "latitude": 3.6074588,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.03.1003",
+      "name": "HELVETIA TIMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.03",
+      "districtName": "MEDAN HELVETIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20124,
+      "coordinate": {
+        "longitude": 98.6554989,
+        "latitude": 3.6088441,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.03.1004",
+      "name": "TANJUNG GUSTA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.03",
+      "districtName": "MEDAN HELVETIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20125,
+      "coordinate": {
+        "longitude": 98.6275649,
+        "latitude": 3.6035862,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.03.1005",
+      "name": "CINTA DAMAI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.03",
+      "districtName": "MEDAN HELVETIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30750,
+      "coordinate": {
+        "longitude": 103.9811678,
+        "latitude": -2.4899101,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.03.1006",
+      "name": "DWI KORA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.03",
+      "districtName": "MEDAN HELVETIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20123,
+      "coordinate": {
+        "longitude": 98.6385543,
+        "latitude": 3.5985481,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.03.1007",
+      "name": "SEI SIKAMBING C II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.03",
+      "districtName": "MEDAN HELVETIA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20123,
+      "coordinate": {
+        "longitude": 98.638067,
+        "latitude": 3.593835,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

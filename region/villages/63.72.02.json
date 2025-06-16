@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.72.02.1003",
+      "name": "LANDASAN ULIN TIMUR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.02",
+      "districtName": "LANDASAN ULIN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70724,
+      "coordinate": {
+        "longitude": 114.7481239,
+        "latitude": -3.4560234,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.02.1004",
+      "name": "GUNTUNG PAYUNG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.02",
+      "districtName": "LANDASAN ULIN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70721,
+      "coordinate": {
+        "longitude": 114.7837634,
+        "latitude": -3.4316607,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.02.1005",
+      "name": "GUNTUNG MANGGIS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.02",
+      "districtName": "LANDASAN ULIN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70724,
+      "coordinate": {
+        "longitude": 114.7877859,
+        "latitude": -3.4757795,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.72.02.1006",
+      "name": "SYAMSUDIN NOOR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.72",
+      "cityName": "KOTA BANJARBARU",
+      "districtCode": "63.72.02",
+      "districtName": "LANDASAN ULIN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70724,
+      "coordinate": {
+        "longitude": 114.7555803,
+        "latitude": -3.4256547,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "64.71.01",
+      "name": "BALIKPAPAN TIMUR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN"
+    },
+    {
+      "type": "district",
+      "code": "64.71.02",
+      "name": "BALIKPAPAN BARAT",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN"
+    },
+    {
+      "type": "district",
+      "code": "64.71.03",
+      "name": "BALIKPAPAN UTARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN"
+    },
+    {
+      "type": "district",
+      "code": "64.71.04",
+      "name": "BALIKPAPAN TENGAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN"
+    },
+    {
+      "type": "district",
+      "code": "64.71.05",
+      "name": "BALIKPAPAN SELATAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN"
+    },
+    {
+      "type": "district",
+      "code": "64.71.06",
+      "name": "BALIKPAPAN KOTA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

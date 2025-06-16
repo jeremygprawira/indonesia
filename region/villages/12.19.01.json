@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.19.01.1001",
+      "name": "PANGKALAN DODEK",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3166808,
+        "latitude": 3.4243769,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.1002",
+      "name": "PANGKALAN DODEK BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3220476,
+        "latitude": 3.4185348,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.1021",
+      "name": "PAGURAWAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3166058,
+        "latitude": 3.4122494,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2003",
+      "name": "AEK NAULI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21126,
+      "coordinate": {
+        "longitude": 99.0498883,
+        "latitude": 2.9437406,
+        "elevation": 414
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2004",
+      "name": "DURIAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96513,
+      "coordinate": {
+        "longitude": 123.0236369,
+        "latitude": 0.8345443,
+        "elevation": 366
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2005",
+      "name": "LALANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74161,
+      "coordinate": {
+        "longitude": 111.4518101,
+        "latitude": -2.4194015,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2006",
+      "name": "MEDANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15334,
+      "coordinate": {
+        "longitude": 106.6157053,
+        "latitude": -6.2664083,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2007",
+      "name": "PAKAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.39501,
+        "latitude": 3.3585749,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2008",
+      "name": "PAKAM RAYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3818853,
+        "latitude": 3.3481545,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2009",
+      "name": "PEMATANG CENGKERING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3775665,
+        "latitude": 3.3627462,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2010",
+      "name": "SEI BUAH KERAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3395488,
+        "latitude": 3.3947905,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2011",
+      "name": "SEI RAKYAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3482427,
+        "latitude": 3.3610766,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2012",
+      "name": "SIDOMULYO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2013",
+      "name": "TANJUNG SIGONI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3547534,
+        "latitude": 3.3524001,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2014",
+      "name": "NENAS SIAM",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3356085,
+        "latitude": 3.4074706,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2015",
+      "name": "PAKAM RAYA SELATAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3729665,
+        "latitude": 3.3312768,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2016",
+      "name": "MANDARSAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.4047747,
+        "latitude": 3.3521462,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2017",
+      "name": "MEDANG BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3766039,
+        "latitude": 3.3756656,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2018",
+      "name": "PEMATANG NIBUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3721193,
+        "latitude": 3.3924938,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2019",
+      "name": "CENGKERING PEKAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21258,
+      "coordinate": {
+        "longitude": 99.3727538,
+        "latitude": 3.3484265,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.01.2020",
+      "name": "SEI RAJA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.01",
+      "districtName": "MEDANG DERAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21345,
+      "coordinate": {
+        "longitude": 99.7850074,
+        "latitude": 2.9944682,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

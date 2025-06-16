@@ -1,0 +1,570 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.06.02.2001",
+      "name": "MON IKEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2934201,
+        "latitude": 5.4202753,
+        "elevation": 532
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2002",
+      "name": "NUSA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98225,
+      "coordinate": {
+        "longitude": 132.1469463,
+        "latitude": -2.0308653,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2003",
+      "name": "WEU RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2427678,
+        "latitude": 5.4802951,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2004",
+      "name": "LAMKRUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2501263,
+        "latitude": 5.4639344,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2005",
+      "name": "LAMGABOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2581133,
+        "latitude": 5.4914067,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2006",
+      "name": "LAMBARO KUEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2881096,
+        "latitude": 5.4765607,
+        "elevation": 471
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2007",
+      "name": "LAM ATEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2653752,
+        "latitude": 5.4862791,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2008",
+      "name": "KUEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2643425,
+        "latitude": 5.4892209,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2009",
+      "name": "TANJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91993,
+      "coordinate": {
+        "longitude": 120.2494031,
+        "latitude": -3.2236347,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2010",
+      "name": "ANEUK PAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2588126,
+        "latitude": 5.4813807,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2011",
+      "name": "SEUBUN KEUTAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2636969,
+        "latitude": 5.5019946,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2012",
+      "name": "SEUBUN AYON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2613811,
+        "latitude": 5.5066852,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2013",
+      "name": "LAMBARO SEUBUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2588012,
+        "latitude": 5.5131223,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2014",
+      "name": "NAGA UMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2838907,
+        "latitude": 5.4562458,
+        "elevation": 530
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2015",
+      "name": "LAMPAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2512385,
+        "latitude": 5.4790034,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2016",
+      "name": "MEUNASAH MESJID LAMLHOM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2515828,
+        "latitude": 5.503712,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2017",
+      "name": "MEUNASAH MON CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2440519,
+        "latitude": 5.4952247,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2018",
+      "name": "MEUNASAH MANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1311953,
+        "latitude": 5.1364333,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2019",
+      "name": "MEUNASAH LAM GIREK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2387127,
+        "latitude": 5.5154209,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2020",
+      "name": "MEUNASAH LAMBARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2335909,
+        "latitude": 5.4874272,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2021",
+      "name": "MEUNASAH BARO  LAMLHOM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2022",
+      "name": "MEUNASAH BEUTONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2505869,
+        "latitude": 5.5129803,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2023",
+      "name": "MNS. MESJID LAMPUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2322121,
+        "latitude": 5.4926818,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2024",
+      "name": "MEUNASAH BALEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2025",
+      "name": "MEUNASAH KARIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.252206,
+        "latitude": 5.5016706,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2026",
+      "name": "LAMCOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23355,
+      "coordinate": {
+        "longitude": 95.2612692,
+        "latitude": 5.4930481,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2027",
+      "name": "MEUNASAH CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24262,
+      "coordinate": {
+        "longitude": 96.6032257,
+        "latitude": 5.1970419,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.02.2028",
+      "name": "MEUNASAH BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.02",
+      "districtName": "LHOKNGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1279202,
+        "latitude": 5.1573143,
+        "elevation": 28
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 28
+  }
+}

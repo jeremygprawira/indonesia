@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.71.08.1001",
+      "name": "SUKAMAJU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.08",
+      "districtName": "SAKO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.08.1002",
+      "name": "SAKO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.08",
+      "districtName": "SAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30163,
+      "coordinate": {
+        "longitude": 104.7956788,
+        "latitude": -2.9209385,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.08.1006",
+      "name": "SIALANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.08",
+      "districtName": "SAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30161,
+      "coordinate": {
+        "longitude": 104.7810954,
+        "latitude": -2.930752,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.08.1007",
+      "name": "SAKO BARU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.08",
+      "districtName": "SAKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30165,
+      "coordinate": {
+        "longitude": 104.7859088,
+        "latitude": -2.9115585,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

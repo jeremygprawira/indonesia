@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.03.09.2001",
+      "name": "NANEDAKELE",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.09",
+      "districtName": "NUSA TABUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95842,
+      "coordinate": {
+        "longitude": 125.5612906,
+        "latitude": 3.7565322,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.09.2002",
+      "name": "NUSA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.09",
+      "districtName": "NUSA TABUKAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98225,
+      "coordinate": {
+        "longitude": 132.1469463,
+        "latitude": -2.0308653,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.09.2003",
+      "name": "BUKIDE",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.09",
+      "districtName": "NUSA TABUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95861,
+      "coordinate": {
+        "longitude": 125.4286533,
+        "latitude": 2.7900554,
+        "elevation": 477
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.09.2004",
+      "name": "BUKIDE TIMUR",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.09",
+      "districtName": "NUSA TABUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95842,
+      "coordinate": {
+        "longitude": 125.6092847,
+        "latitude": 3.7867315,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.09.2005",
+      "name": "NANUSA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.09",
+      "districtName": "NUSA TABUKAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95842,
+      "coordinate": {
+        "longitude": 125.5750609,
+        "latitude": 3.7663264,
+        "elevation": 155
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.03.01.2001",
+      "name": "TANJUNGKARANG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.01",
+      "districtName": "SEBATIK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77483,
+      "coordinate": {
+        "longitude": 117.8940558,
+        "latitude": 4.0646626,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.01.2002",
+      "name": "BALANSIKU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.01",
+      "districtName": "SEBATIK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77483,
+      "coordinate": {
+        "longitude": 117.8726118,
+        "latitude": 4.0538899,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.01.2003",
+      "name": "SUNGAI MANURUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.01",
+      "districtName": "SEBATIK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77483,
+      "coordinate": {
+        "longitude": 117.8961344,
+        "latitude": 4.0711168,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.03.01.2004",
+      "name": "PADAIDI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.03",
+      "cityName": "KAB. NUNUKAN",
+      "districtCode": "65.03.01",
+      "districtName": "SEBATIK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91271,
+      "coordinate": {
+        "longitude": 119.6410772,
+        "latitude": -3.8689475,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

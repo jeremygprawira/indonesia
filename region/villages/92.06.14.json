@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.14.2001",
+      "name": "TOFOI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.14",
+      "districtName": "SUMURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1830904,
+        "latitude": -2.5407307,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.14.2002",
+      "name": "TANAH MERAH",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.14",
+      "districtName": "SUMURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1740163,
+        "latitude": -2.4587745,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.14.2003",
+      "name": "SAENGGA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.14",
+      "districtName": "SUMURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.125618,
+        "latitude": -2.5840946,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.14.2004",
+      "name": "FORADA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.14",
+      "districtName": "SUMURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1940948,
+        "latitude": -2.6152979,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.14.2005",
+      "name": "MATERABU JAYA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.14",
+      "districtName": "SUMURI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1905105,
+        "latitude": -2.5797641,
+        "elevation": 32
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

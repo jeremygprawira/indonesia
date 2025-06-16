@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.11.15.1004",
+      "name": "PANJI DABUTAR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.15",
+      "districtName": "SITINJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22219,
+      "coordinate": {
+        "longitude": 98.3442526,
+        "latitude": 2.7089324,
+        "elevation": 1162
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.11.15.2001",
+      "name": "SITINJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.15",
+      "districtName": "SITINJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22219,
+      "coordinate": {
+        "longitude": 98.3660491,
+        "latitude": 2.7179339,
+        "elevation": 1172
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.11.15.2002",
+      "name": "SITINJO I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.15",
+      "districtName": "SITINJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22219,
+      "coordinate": {
+        "longitude": 98.3810797,
+        "latitude": 2.6976512,
+        "elevation": 1228
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.11.15.2003",
+      "name": "SITINJO II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.11",
+      "cityName": "KAB. DAIRI",
+      "districtCode": "12.11.15",
+      "districtName": "SITINJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22219,
+      "coordinate": {
+        "longitude": 98.3520297,
+        "latitude": 2.7306924,
+        "elevation": 1143
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

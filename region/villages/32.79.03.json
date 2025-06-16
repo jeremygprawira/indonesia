@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.79.03.1001",
+      "name": "PURWAHARJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.03",
+      "districtName": "PURWAHARJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46331,
+      "coordinate": {
+        "longitude": 108.5485882,
+        "latitude": -7.347746,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.03.2002",
+      "name": "RAHARJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.03",
+      "districtName": "PURWAHARJA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96262,
+      "coordinate": {
+        "longitude": 122.451615,
+        "latitude": 0.7409911,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.03.2003",
+      "name": "MEKARHARJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.03",
+      "districtName": "PURWAHARJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46334,
+      "coordinate": {
+        "longitude": 108.5697096,
+        "latitude": -7.3448835,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.03.1004",
+      "name": "KARANGPANIMBAL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.03",
+      "districtName": "PURWAHARJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46332,
+      "coordinate": {
+        "longitude": 108.5524511,
+        "latitude": -7.3584667,
+        "elevation": 214
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

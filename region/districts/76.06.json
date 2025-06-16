@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "76.06.01",
+      "name": "TOBADAK",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.06",
+      "cityName": "KAB. MAMUJU TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "76.06.02",
+      "name": "PANGALE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.06",
+      "cityName": "KAB. MAMUJU TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "76.06.03",
+      "name": "BUDONG-BUDONG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.06",
+      "cityName": "KAB. MAMUJU TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "76.06.04",
+      "name": "TOPOYO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.06",
+      "cityName": "KAB. MAMUJU TENGAH"
+    },
+    {
+      "type": "district",
+      "code": "76.06.05",
+      "name": "KAROSSA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.06",
+      "cityName": "KAB. MAMUJU TENGAH"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

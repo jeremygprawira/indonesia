@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.06.10.2001",
+      "name": "NIPA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.10",
+      "districtName": "AMBALAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94771,
+      "coordinate": {
+        "longitude": 123.2259288,
+        "latitude": -0.921011,
+        "elevation": 471
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.10.2002",
+      "name": "TOLOWATA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.10",
+      "districtName": "AMBALAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84153,
+      "coordinate": {
+        "longitude": 118.7719141,
+        "latitude": -8.3616013,
+        "elevation": 215
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.10.2003",
+      "name": "RITE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.10",
+      "districtName": "AMBALAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84119,
+      "coordinate": {
+        "longitude": 118.7604964,
+        "latitude": -8.4557283,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.10.2004",
+      "name": "MAWU",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.10",
+      "districtName": "AMBALAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84153,
+      "coordinate": {
+        "longitude": 118.8228144,
+        "latitude": -8.3030912,
+        "elevation": 215
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.10.2005",
+      "name": "TALAPITI",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.10",
+      "districtName": "AMBALAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84153,
+      "coordinate": {
+        "longitude": 118.8335238,
+        "latitude": -8.3793419,
+        "elevation": 245
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.10.2006",
+      "name": "KOLE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.10",
+      "districtName": "AMBALAWI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86562,
+      "coordinate": {
+        "longitude": 120.3536684,
+        "latitude": -8.6910256,
+        "elevation": 867
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.07.06.2001",
+      "name": "MANGGILANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.06",
+      "districtName": "PANGKALAN KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26272,
+      "coordinate": {
+        "longitude": 100.8018438,
+        "latitude": 0.0202673,
+        "elevation": 176
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.06.2002",
+      "name": "TANJUANG BALIK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.06",
+      "districtName": "PANGKALAN KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26272,
+      "coordinate": {
+        "longitude": 100.7944359,
+        "latitude": 0.1602199,
+        "elevation": 157
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.06.2003",
+      "name": "GUNUANG MALINTANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.06",
+      "districtName": "PANGKALAN KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26272,
+      "coordinate": {
+        "longitude": 100.6336742,
+        "latitude": 0.148608,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.06.2004",
+      "name": "PANGKALAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.06",
+      "districtName": "PANGKALAN KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15510,
+      "coordinate": {
+        "longitude": 106.646675,
+        "latitude": -6.0555857,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.06.2005",
+      "name": "KOTO ALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.06",
+      "districtName": "PANGKALAN KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26272,
+      "coordinate": {
+        "longitude": 100.6817874,
+        "latitude": -0.0005394,
+        "elevation": 826
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.06.2006",
+      "name": "TANJUNG PAUH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.06",
+      "districtName": "PANGKALAN KOTO BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26272,
+      "coordinate": {
+        "longitude": 100.8099138,
+        "latitude": 0.2135255,
+        "elevation": 95
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

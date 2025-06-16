@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.06.16.2001",
+      "name": "PARADO WANE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.16",
+      "districtName": "PARADO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84170,
+      "coordinate": {
+        "longitude": 118.5915799,
+        "latitude": -8.783776,
+        "elevation": 424
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.16.2002",
+      "name": "PARADO RATO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.16",
+      "districtName": "PARADO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84170,
+      "coordinate": {
+        "longitude": 118.5693124,
+        "latitude": -8.7680126,
+        "elevation": 243
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.16.2003",
+      "name": "KUTA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.16",
+      "districtName": "PARADO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87154,
+      "coordinate": {
+        "longitude": 120.1826546,
+        "latitude": -9.6228704,
+        "elevation": 371
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.16.2004",
+      "name": "KANCA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.16",
+      "districtName": "PARADO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84170,
+      "coordinate": {
+        "longitude": 118.5525991,
+        "latitude": -8.7432871,
+        "elevation": 372
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.06.16.2005",
+      "name": "LERE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.06",
+      "cityName": "KAB. BIMA",
+      "districtCode": "52.06.16",
+      "districtName": "PARADO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93876,
+      "coordinate": {
+        "longitude": 122.045207,
+        "latitude": -4.3514517,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

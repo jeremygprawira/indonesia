@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.05.1009",
+      "name": "TEOMOKOLE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.05",
+      "districtName": "KABAENA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93781,
+      "coordinate": {
+        "longitude": 121.8427737,
+        "latitude": -5.2642112,
+        "elevation": 255
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.05.1016",
+      "name": "RAHAMPUU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.05",
+      "districtName": "KABAENA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93781,
+      "coordinate": {
+        "longitude": 121.8218641,
+        "latitude": -5.2667156,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.05.2010",
+      "name": "RAHADOPI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.05",
+      "districtName": "KABAENA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93781,
+      "coordinate": {
+        "longitude": 121.8985279,
+        "latitude": -5.2978842,
+        "elevation": 335
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.05.2011",
+      "name": "TIRONGKOTUA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.05",
+      "districtName": "KABAENA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93781,
+      "coordinate": {
+        "longitude": 121.9208223,
+        "latitude": -5.2786021,
+        "elevation": 549
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

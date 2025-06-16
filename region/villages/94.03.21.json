@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.03.21.2001",
+      "name": "DOGOMO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.21",
+      "districtName": "DOGOMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98742,
+      "coordinate": {
+        "longitude": 136.7483938,
+        "latitude": -4.0827642,
+        "elevation": 2101
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.21.2002",
+      "name": "BOMONG BUGOPA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.21",
+      "districtName": "DOGOMO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.21.2003",
+      "name": "DANGIPA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.21",
+      "districtName": "DOGOMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98742,
+      "coordinate": {
+        "longitude": 136.9187413,
+        "latitude": -3.9894194,
+        "elevation": 3574
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.21.2004",
+      "name": "ONDEGAPA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.21",
+      "districtName": "DOGOMO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.21.2005",
+      "name": "SOGOMO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.21",
+      "districtName": "DOGOMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98742,
+      "coordinate": {
+        "longitude": 136.8551333,
+        "latitude": -4.0995556,
+        "elevation": 2635
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

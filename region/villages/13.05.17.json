@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.17.2001",
+      "name": "PAKANDANGAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.17",
+      "districtName": "ENAM LINGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25583,
+      "coordinate": {
+        "longitude": 100.2604627,
+        "latitude": -0.6214202,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.17.2002",
+      "name": "KOTO TINGGI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.17",
+      "districtName": "ENAM LINGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3914819,
+        "latitude": -2.0605989,
+        "elevation": 860
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.17.2003",
+      "name": "TOBOH KETEK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.17",
+      "districtName": "ENAM LINGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25583,
+      "coordinate": {
+        "longitude": 100.256809,
+        "latitude": -0.6143268,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.17.2004",
+      "name": "PARIT MALINTANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.17",
+      "districtName": "ENAM LINGKUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25583,
+      "coordinate": {
+        "longitude": 100.2834933,
+        "latitude": -0.6318902,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.17.2005",
+      "name": "GADUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.17",
+      "districtName": "ENAM LINGKUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75765,
+      "coordinate": {
+        "longitude": 115.9052341,
+        "latitude": -0.2528252,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

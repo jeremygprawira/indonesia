@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.12.07.1002",
+      "name": "PATOKAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.07",
+      "districtName": "SITUBONDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67282,
+      "coordinate": {
+        "longitude": 113.4147965,
+        "latitude": -7.7550087,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.07.1003",
+      "name": "DAWUHAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.07",
+      "districtName": "SITUBONDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63154,
+      "coordinate": {
+        "longitude": 111.6949161,
+        "latitude": -7.471062,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.07.2001",
+      "name": "KALIBAGOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.07",
+      "districtName": "SITUBONDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68314,
+      "coordinate": {
+        "longitude": 113.9779251,
+        "latitude": -7.7675136,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.07.2004",
+      "name": "KOTAKAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.07",
+      "districtName": "SITUBONDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68313,
+      "coordinate": {
+        "longitude": 114.0008811,
+        "latitude": -7.7411247,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.07.2005",
+      "name": "TALKANDANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.07",
+      "districtName": "SITUBONDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67293,
+      "coordinate": {
+        "longitude": 113.5274863,
+        "latitude": -7.7525201,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.07.2006",
+      "name": "OLEAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.07",
+      "districtName": "SITUBONDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68316,
+      "coordinate": {
+        "longitude": 114.0085833,
+        "latitude": -7.6705887,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

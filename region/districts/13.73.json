@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "13.73.01",
+      "name": "LEMBAH SEGAR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO"
+    },
+    {
+      "type": "district",
+      "code": "13.73.02",
+      "name": "BARANGIN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO"
+    },
+    {
+      "type": "district",
+      "code": "13.73.03",
+      "name": "SILUNGKANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO"
+    },
+    {
+      "type": "district",
+      "code": "13.73.04",
+      "name": "TALAWI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.73",
+      "cityName": "KOTA SAWAHLUNTO"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

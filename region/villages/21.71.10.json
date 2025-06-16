@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.71.10.1001",
+      "name": "BALOI PERMAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.10",
+      "districtName": "BATAM KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29431,
+      "coordinate": {
+        "longitude": 104.0586959,
+        "latitude": 1.1084444,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.10.1002",
+      "name": "TAMAN BALOI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.10",
+      "districtName": "BATAM KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29432,
+      "coordinate": {
+        "longitude": 104.0314129,
+        "latitude": 1.117277,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.10.1003",
+      "name": "TELUK TERING",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.10",
+      "districtName": "BATAM KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29461,
+      "coordinate": {
+        "longitude": 104.0477917,
+        "latitude": 1.1304032,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.10.1004",
+      "name": "BELIAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.10",
+      "districtName": "BATAM KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29464,
+      "coordinate": {
+        "longitude": 104.0740846,
+        "latitude": 1.1317969,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.10.1005",
+      "name": "SUKAJADI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.10",
+      "districtName": "BATAM KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6262424,
+        "latitude": -6.1809115,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.10.1006",
+      "name": "SUNGAI PANAS",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.10",
+      "districtName": "BATAM KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29433,
+      "coordinate": {
+        "longitude": 104.0291872,
+        "latitude": 1.1356325,
+        "elevation": 19
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

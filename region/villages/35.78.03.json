@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.03.1001",
+      "name": "KALIRUNGKUT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.03",
+      "districtName": "RUNGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60293,
+      "coordinate": {
+        "longitude": 112.7728544,
+        "latitude": -7.3227838,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.03.1002",
+      "name": "RUNGKUT KIDUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.03",
+      "districtName": "RUNGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60293,
+      "coordinate": {
+        "longitude": 112.7710584,
+        "latitude": -7.3292158,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.03.1003",
+      "name": "KEDUNG BARUK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.03",
+      "districtName": "RUNGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60298,
+      "coordinate": {
+        "longitude": 112.7797486,
+        "latitude": -7.3172461,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.03.1004",
+      "name": "PENJARINGANSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.03",
+      "districtName": "RUNGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60297,
+      "coordinate": {
+        "longitude": 112.7843452,
+        "latitude": -7.3168059,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.03.1005",
+      "name": "WONOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.03",
+      "districtName": "RUNGKUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98813,
+      "coordinate": {
+        "longitude": 135.4938422,
+        "latitude": -3.3900543,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.03.1006",
+      "name": "MEDOKAN AYU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.03",
+      "districtName": "RUNGKUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60295,
+      "coordinate": {
+        "longitude": 112.8220524,
+        "latitude": -7.3221633,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

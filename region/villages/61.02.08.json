@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.02.08.2001",
+      "name": "WAJOK HILIR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.08",
+      "districtName": "JONGKAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78352,
+      "coordinate": {
+        "longitude": 109.2744658,
+        "latitude": 0.1226973,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.08.2002",
+      "name": "SUNGAI NIPAH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.08",
+      "districtName": "JONGKAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72160,
+      "coordinate": {
+        "longitude": 116.1592716,
+        "latitude": -3.0845615,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.08.2006",
+      "name": "PENITI LUAR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.08",
+      "districtName": "JONGKAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78352,
+      "coordinate": {
+        "longitude": 109.1618173,
+        "latitude": 0.1222096,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.08.2009",
+      "name": "WAJOK HULU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.08",
+      "districtName": "JONGKAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78352,
+      "coordinate": {
+        "longitude": 109.3517677,
+        "latitude": 0.064768,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.02.08.2010",
+      "name": "JUNGKAT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.02",
+      "cityName": "KAB. MEMPAWAH",
+      "districtCode": "61.02.08",
+      "districtName": "JONGKAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78352,
+      "coordinate": {
+        "longitude": 109.2225083,
+        "latitude": 0.112891,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

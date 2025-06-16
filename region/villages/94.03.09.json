@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.03.09.2001",
+      "name": "WOTAI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.09",
+      "districtName": "YATAMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98726,
+      "coordinate": {
+        "longitude": 136.3387848,
+        "latitude": -3.9383754,
+        "elevation": 1934
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.09.2002",
+      "name": "KENIAPA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.09",
+      "districtName": "YATAMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98726,
+      "coordinate": {
+        "longitude": 136.3569822,
+        "latitude": -3.9617309,
+        "elevation": 1984
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.09.2003",
+      "name": "MEMIYAIBUTU",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.09",
+      "districtName": "YATAMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98726,
+      "coordinate": {
+        "longitude": 136.31026,
+        "latitude": -3.9562639,
+        "elevation": 1772
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.09.2004",
+      "name": "DIMIYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.09",
+      "districtName": "YATAMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98726,
+      "coordinate": {
+        "longitude": 136.3790358,
+        "latitude": -3.9792403,
+        "elevation": 1812
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.09.2005",
+      "name": "UDAUGI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.09",
+      "districtName": "YATAMO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98726,
+      "coordinate": {
+        "longitude": 136.3618633,
+        "latitude": -3.9829828,
+        "elevation": 1793
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

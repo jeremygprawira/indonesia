@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.25.1001",
+      "name": "PALASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.25",
+      "districtName": "CIBIRU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15820,
+      "coordinate": {
+        "longitude": 106.5614656,
+        "latitude": -6.3058528,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.25.1002",
+      "name": "CIPADUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.25",
+      "districtName": "CIBIRU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40614,
+      "coordinate": {
+        "longitude": 107.7190774,
+        "latitude": -6.9244165,
+        "elevation": 731
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.25.1003",
+      "name": "PASIR BIRU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.25",
+      "districtName": "CIBIRU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40615,
+      "coordinate": {
+        "longitude": 107.725296,
+        "latitude": -6.9225584,
+        "elevation": 755
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.25.1004",
+      "name": "CISURUPAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.25",
+      "districtName": "CIBIRU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40614,
+      "coordinate": {
+        "longitude": 107.7224185,
+        "latitude": -6.9076616,
+        "elevation": 804
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

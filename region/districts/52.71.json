@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "52.71.01",
+      "name": "AMPENAN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM"
+    },
+    {
+      "type": "district",
+      "code": "52.71.02",
+      "name": "MATARAM",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM"
+    },
+    {
+      "type": "district",
+      "code": "52.71.03",
+      "name": "CAKRANEGARA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM"
+    },
+    {
+      "type": "district",
+      "code": "52.71.04",
+      "name": "SEKARBELA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM"
+    },
+    {
+      "type": "district",
+      "code": "52.71.05",
+      "name": "SELAPRANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM"
+    },
+    {
+      "type": "district",
+      "code": "52.71.06",
+      "name": "SANDUBAYA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.71",
+      "cityName": "KOTA MATARAM"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.07.2001",
+      "name": "KURANJI HULU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.07",
+      "districtName": "SUNGAI GARINGGING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25562,
+      "coordinate": {
+        "longitude": 100.0908444,
+        "latitude": -0.4423474,
+        "elevation": 187
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.07.2002",
+      "name": "MALAI III KOTO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.07",
+      "districtName": "SUNGAI GARINGGING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25562,
+      "coordinate": {
+        "longitude": 100.0869191,
+        "latitude": -0.4089601,
+        "elevation": 250
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.07.2003",
+      "name": "BATU GADANG KURANJI HULU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.07",
+      "districtName": "SUNGAI GARINGGING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25562,
+      "coordinate": {
+        "longitude": 100.0676525,
+        "latitude": -0.4441629,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.07.2004",
+      "name": "SUNGAI SIRAH KURANJI HULU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.07",
+      "districtName": "SUNGAI GARINGGING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25562,
+      "coordinate": {
+        "longitude": 100.1175958,
+        "latitude": -0.4397905,
+        "elevation": 236
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

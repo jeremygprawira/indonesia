@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.08.04.1010",
+      "name": "TELUK LINGGA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.04",
+      "districtName": "SANGATTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75681,
+      "coordinate": {
+        "longitude": 117.5913378,
+        "latitude": 0.5190491,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.04.2001",
+      "name": "SANGATTA UTARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.04",
+      "districtName": "SANGATTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75681,
+      "coordinate": {
+        "longitude": 117.5693113,
+        "latitude": 0.4799044,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.04.2011",
+      "name": "SINGA GEMBARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.04",
+      "districtName": "SANGATTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75681,
+      "coordinate": {
+        "longitude": 117.6308151,
+        "latitude": 0.5709937,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.08.04.2012",
+      "name": "SWARGA BARA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.08",
+      "cityName": "KAB. KUTAI TIMUR",
+      "districtCode": "64.08.04",
+      "districtName": "SANGATTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75681,
+      "coordinate": {
+        "longitude": 117.5365725,
+        "latitude": 0.577211,
+        "elevation": 246
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

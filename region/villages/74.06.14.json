@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.14.1001",
+      "name": "SIKELI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.14",
+      "districtName": "KABAENA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93780,
+      "coordinate": {
+        "longitude": 121.7953357,
+        "latitude": -5.2691429,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.14.2002",
+      "name": "BALIARA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.14",
+      "districtName": "KABAENA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93780,
+      "coordinate": {
+        "longitude": 121.8254998,
+        "latitude": -5.1961199,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.14.2003",
+      "name": "RAHANTARI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.14",
+      "districtName": "KABAENA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93780,
+      "coordinate": {
+        "longitude": 121.8347659,
+        "latitude": -5.2205555,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.14.2004",
+      "name": "BALIARA KEPULAUAN",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.14",
+      "districtName": "KABAENA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93780,
+      "coordinate": {
+        "longitude": 121.832089,
+        "latitude": -5.1396177,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.14.2005",
+      "name": "BALIARA SELATAN",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.14",
+      "districtName": "KABAENA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93780,
+      "coordinate": {
+        "longitude": 121.8014768,
+        "latitude": -5.2604513,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

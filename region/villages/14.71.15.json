@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.15.1001",
+      "name": "TEBING TINGGI OKURA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.15",
+      "districtName": "RUMBAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28287,
+      "coordinate": {
+        "longitude": 101.4821966,
+        "latitude": 0.6108193,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.15.1002",
+      "name": "SUNGAIUKAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.15",
+      "districtName": "RUMBAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28287,
+      "coordinate": {
+        "longitude": 101.5169828,
+        "latitude": 0.6279665,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.15.1003",
+      "name": "SUNGAIAMBANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.15",
+      "districtName": "RUMBAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28262,
+      "coordinate": {
+        "longitude": 101.4433291,
+        "latitude": 0.5811507,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.15.1004",
+      "name": "LEMBAH SARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.15",
+      "districtName": "RUMBAI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83355,
+      "coordinate": {
+        "longitude": 116.0984396,
+        "latitude": -8.5209467,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.15.1005",
+      "name": "LIMBUNGAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.15",
+      "districtName": "RUMBAI TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72163,
+      "coordinate": {
+        "longitude": 115.831504,
+        "latitude": -2.9863836,
+        "elevation": 65
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

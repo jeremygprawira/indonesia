@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.07.28.2001",
+      "name": "PONDOKAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.28",
+      "districtName": "KASEMBON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65393,
+      "coordinate": {
+        "longitude": 112.3300919,
+        "latitude": -7.8375544,
+        "elevation": 460
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.28.2002",
+      "name": "BAYEM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.28",
+      "districtName": "KASEMBON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65393,
+      "coordinate": {
+        "longitude": 112.3251065,
+        "latitude": -7.8064951,
+        "elevation": 379
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.28.2003",
+      "name": "PAIT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.28",
+      "districtName": "KASEMBON",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76282,
+      "coordinate": {
+        "longitude": 116.1586578,
+        "latitude": -1.5777655,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.28.2004",
+      "name": "WONOAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.28",
+      "districtName": "KASEMBON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65182,
+      "coordinate": {
+        "longitude": 112.7985355,
+        "latitude": -8.1880349,
+        "elevation": 591
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.28.2005",
+      "name": "KASEMBON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.28",
+      "districtName": "KASEMBON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65393,
+      "coordinate": {
+        "longitude": 112.3198466,
+        "latitude": -7.7832965,
+        "elevation": 268
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.07.28.2006",
+      "name": "SUKOSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.07",
+      "cityName": "KAB. MALANG",
+      "districtCode": "35.07.28",
+      "districtName": "KASEMBON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63119,
+      "coordinate": {
+        "longitude": 111.5345052,
+        "latitude": -7.6152266,
+        "elevation": 65
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

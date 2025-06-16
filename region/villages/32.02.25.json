@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.25.2001",
+      "name": "TALAGAMURNI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.25",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43172,
+      "coordinate": {
+        "longitude": 106.600306,
+        "latitude": -7.3122126,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.25.2002",
+      "name": "BANYUMURNI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.25",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43172,
+      "coordinate": {
+        "longitude": 106.6154631,
+        "latitude": -7.3160626,
+        "elevation": 182
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.25.2003",
+      "name": "CIBITUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.25",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42275,
+      "coordinate": {
+        "longitude": 105.8828794,
+        "latitude": -6.617782,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.25.2004",
+      "name": "CIDAHU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.25",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42178,
+      "coordinate": {
+        "longitude": 106.3796073,
+        "latitude": -6.2848537,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.25.2005",
+      "name": "CIBODAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.25",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15138,
+      "coordinate": {
+        "longitude": 106.6077617,
+        "latitude": -6.198842,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.25.2006",
+      "name": "BANYUWANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.25",
+      "districtName": "CIBITUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92963,
+      "coordinate": {
+        "longitude": 120.4392375,
+        "latitude": -2.6635245,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

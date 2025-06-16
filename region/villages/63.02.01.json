@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.02.01.2001",
+      "name": "LABUAN BARAT",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.01",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.7858837,
+        "latitude": -4.8226483,
+        "elevation": 207
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.01.2002",
+      "name": "TELUK SUNGAI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.01",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8370607,
+        "latitude": -4.7784469,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.01.2003",
+      "name": "MARADAPAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.01",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.729163,
+        "latitude": -4.7073526,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.01.2004",
+      "name": "TENGAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.01",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8002787,
+        "latitude": -4.3669841,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.02.01.2005",
+      "name": "TANJUNG NYIUR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.02",
+      "cityName": "KAB. KOTABARU",
+      "districtCode": "63.02.01",
+      "districtName": "PULAU SEMBILAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8104504,
+        "latitude": -4.3678927,
+        "elevation": 52
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

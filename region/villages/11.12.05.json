@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.12.05.2001",
+      "name": "KOTA BAHAGIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2002",
+      "name": "PASAR KOTA BAHAGIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7581093,
+        "latitude": 3.8218358,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2003",
+      "name": "GEULANGGANG GAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4806478,
+        "latitude": 3.9704168,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2004",
+      "name": "KUALA TERUBUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7409109,
+        "latitude": 3.813849,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2005",
+      "name": "BLANG MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7553424,
+        "latitude": 3.8013426,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2006",
+      "name": "PANTO CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7965386,
+        "latitude": 3.8411146,
+        "elevation": 651
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2007",
+      "name": "ALUE PADEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7768516,
+        "latitude": 3.7988119,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2008",
+      "name": "MUKA BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24185,
+      "coordinate": {
+        "longitude": 96.1319673,
+        "latitude": 5.2551621,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2009",
+      "name": "LHUNG GEULUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.774338,
+        "latitude": 3.7912707,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2010",
+      "name": "PADANG SIKABU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.6065902,
+        "latitude": -0.2116436,
+        "elevation": 519
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2011",
+      "name": "KAMPUNG TENGAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74463,
+      "coordinate": {
+        "longitude": 113.2649302,
+        "latitude": -3.1328174,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2012",
+      "name": "BLANG PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24353,
+      "coordinate": {
+        "longitude": 97.1043634,
+        "latitude": 5.2116431,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2013",
+      "name": "KRUENG BATEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7951737,
+        "latitude": 3.7967933,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2014",
+      "name": "ALUE PISANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.8031887,
+        "latitude": 3.7992333,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2015",
+      "name": "LHOK GAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24187,
+      "coordinate": {
+        "longitude": 96.2561588,
+        "latitude": 5.1466145,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2016",
+      "name": "IE MAMEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7887453,
+        "latitude": 3.7629383,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2017",
+      "name": "KEUDE BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7697658,
+        "latitude": 3.7554366,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2018",
+      "name": "LAMA TUHA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7463113,
+        "latitude": 3.7522028,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2019",
+      "name": "DRIEN BERUMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2020",
+      "name": "RUMOH PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7898559,
+        "latitude": 3.784326,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.05.2021",
+      "name": "KRUENG PANTO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.05",
+      "districtName": "KUALA BATEE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23766,
+      "coordinate": {
+        "longitude": 96.7672041,
+        "latitude": 3.8165955,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

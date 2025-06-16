@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.18.2001",
+      "name": "MANAMAS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.18",
+      "districtName": "NAIBENU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85655,
+      "coordinate": {
+        "longitude": 124.4843525,
+        "latitude": -9.2302402,
+        "elevation": 456
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.18.2002",
+      "name": "BENUS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.18",
+      "districtName": "NAIBENU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85655,
+      "coordinate": {
+        "longitude": 124.4966045,
+        "latitude": -9.2861034,
+        "elevation": 598
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.18.2003",
+      "name": "BAKITOLAS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.18",
+      "districtName": "NAIBENU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85655,
+      "coordinate": {
+        "longitude": 124.4809578,
+        "latitude": -9.3081855,
+        "elevation": 579
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.18.2004",
+      "name": "SUNSEA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.18",
+      "districtName": "NAIBENU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85655,
+      "coordinate": {
+        "longitude": 124.4808849,
+        "latitude": -9.3251691,
+        "elevation": 538
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

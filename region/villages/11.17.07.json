@@ -1,0 +1,610 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.17.07.2001",
+      "name": "BANDAR LAMPAHAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7851404,
+        "latitude": 4.7529898,
+        "elevation": 1263
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2002",
+      "name": "BLANG RONGKA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.730438,
+        "latitude": 4.7862141,
+        "elevation": 772
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2003",
+      "name": "CEKAL BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7028352,
+        "latitude": 4.7604296,
+        "elevation": 833
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2004",
+      "name": "GEGUR SEPAKAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7185499,
+        "latitude": 4.7590474,
+        "elevation": 862
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2005",
+      "name": "KARANG JADI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 32385,
+      "coordinate": {
+        "longitude": 104.7269593,
+        "latitude": -4.1594507,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2006",
+      "name": "LAMPAHAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7735858,
+        "latitude": 4.7632565,
+        "elevation": 1153
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2010",
+      "name": "SETIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7462126,
+        "latitude": 4.7923865,
+        "elevation": 886
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2011",
+      "name": "SIMPANG LAYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7432083,
+        "latitude": 4.7706356,
+        "elevation": 962
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2012",
+      "name": "SUKA DAMAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97789,
+      "coordinate": {
+        "longitude": 127.7464899,
+        "latitude": -0.2245384,
+        "elevation": 634
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2014",
+      "name": "TUNYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7299869,
+        "latitude": 4.76776,
+        "elevation": 915
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2016",
+      "name": "DATU BERU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2017",
+      "name": "KENINE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7898418,
+        "latitude": 4.7376209,
+        "elevation": 1192
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2018",
+      "name": "REMBUNE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7990898,
+        "latitude": 4.7622129,
+        "elevation": 1483
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2019",
+      "name": "DAMARAN BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7889051,
+        "latitude": 4.7452849,
+        "elevation": 1190
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2020",
+      "name": "FAJAR HARAPAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74562,
+      "coordinate": {
+        "longitude": 113.3882399,
+        "latitude": -1.5210025,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2021",
+      "name": "MUDE BENARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7730099,
+        "latitude": 4.7486484,
+        "elevation": 1158
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2022",
+      "name": "KAMPUNG BARU 76",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7559802,
+        "latitude": 4.7436287,
+        "elevation": 992
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2023",
+      "name": "PANTAN PEDIANGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7981437,
+        "latitude": 4.771681,
+        "elevation": 1516
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2024",
+      "name": "BUMI AYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35371,
+      "coordinate": {
+        "longitude": 104.9369094,
+        "latitude": -5.3440805,
+        "elevation": 123
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2025",
+      "name": "KULEM PARA KANIS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7254468,
+        "latitude": 4.7494297,
+        "elevation": 897
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2026",
+      "name": "MEKAR AYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7609048,
+        "latitude": 4.7629807,
+        "elevation": 1085
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2027",
+      "name": "LAMPAHAN BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7542838,
+        "latitude": 4.7588937,
+        "elevation": 1050
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2028",
+      "name": "LAMPAHAN TIMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7740278,
+        "latitude": 4.7599893,
+        "elevation": 1146
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2029",
+      "name": "TIMANG RASA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7389721,
+        "latitude": 4.7469617,
+        "elevation": 947
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2030",
+      "name": "GUNUNG TUNYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7387409,
+        "latitude": 4.7642743,
+        "elevation": 945
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2031",
+      "name": "BUKIT TUNYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7230186,
+        "latitude": 4.7644794,
+        "elevation": 880
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2032",
+      "name": "LINUNG BALE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7419758,
+        "latitude": 4.760046,
+        "elevation": 952
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2033",
+      "name": "PANTAN KEMUNING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.7197874,
+        "latitude": 4.7756013,
+        "elevation": 896
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2034",
+      "name": "SUMBER JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93885,
+      "coordinate": {
+        "longitude": 122.0026173,
+        "latitude": -4.3689575,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.17.07.2035",
+      "name": "BUKIT MULIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.17",
+      "cityName": "KAB. BENER MERIAH",
+      "districtCode": "11.17.07",
+      "districtName": "TIMANG GAJAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24555,
+      "coordinate": {
+        "longitude": 96.776383,
+        "latitude": 4.7705076,
+        "elevation": 1244
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 30
+  }
+}

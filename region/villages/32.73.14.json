@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.14.1001",
+      "name": "PADASUKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.14",
+      "districtName": "CIBEUNYING KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42173,
+      "coordinate": {
+        "longitude": 106.1413922,
+        "latitude": -6.2262921,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.14.1002",
+      "name": "CIKUTRA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.14",
+      "districtName": "CIBEUNYING KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40124,
+      "coordinate": {
+        "longitude": 107.6393468,
+        "latitude": -6.9031225,
+        "elevation": 700
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.14.1003",
+      "name": "CICADAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.14",
+      "districtName": "CIBEUNYING KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40121,
+      "coordinate": {
+        "longitude": 107.6374168,
+        "latitude": -6.9059432,
+        "elevation": 700
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.14.1004",
+      "name": "SUKAMAJU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.14",
+      "districtName": "CIBEUNYING KIDUL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.14.1005",
+      "name": "SUKAPADA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.14",
+      "districtName": "CIBEUNYING KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40125,
+      "coordinate": {
+        "longitude": 107.6464373,
+        "latitude": -6.8950428,
+        "elevation": 709
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.14.1006",
+      "name": "PASIRLAYUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.14",
+      "districtName": "CIBEUNYING KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40192,
+      "coordinate": {
+        "longitude": 107.6579563,
+        "latitude": -6.8932348,
+        "elevation": 731
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

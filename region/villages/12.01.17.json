@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.01.17.2001",
+      "name": "HUTAGINJANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.17",
+      "districtName": "BARUS UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22393,
+      "coordinate": {
+        "longitude": 98.7779127,
+        "latitude": 2.5466112,
+        "elevation": 1220
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.17.2002",
+      "name": "SIHORBO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.17",
+      "districtName": "BARUS UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22261,
+      "coordinate": {
+        "longitude": 98.164728,
+        "latitude": 2.8374972,
+        "elevation": 621
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.17.2003",
+      "name": "PARIK SINOMBA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.17",
+      "districtName": "BARUS UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22457,
+      "coordinate": {
+        "longitude": 98.7215608,
+        "latitude": 2.2792198,
+        "elevation": 1405
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.17.2004",
+      "name": "PURBA TUA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.17",
+      "districtName": "BARUS UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22763,
+      "coordinate": {
+        "longitude": 99.7260494,
+        "latitude": 1.0637274,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.17.2005",
+      "name": "PANANGGAHAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.17",
+      "districtName": "BARUS UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22567,
+      "coordinate": {
+        "longitude": 98.4159484,
+        "latitude": 2.034584,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.01.17.2006",
+      "name": "SIHARBANGAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.01",
+      "cityName": "KAB. TAPANULI TENGAH",
+      "districtCode": "12.01.17",
+      "districtName": "BARUS UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22567,
+      "coordinate": {
+        "longitude": 98.4090573,
+        "latitude": 2.0392103,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

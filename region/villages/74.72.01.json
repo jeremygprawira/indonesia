@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.72.01.1007",
+      "name": "KATOBENGKE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.01",
+      "districtName": "BETOAMBARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93724,
+      "coordinate": {
+        "longitude": 122.5758636,
+        "latitude": -5.4790358,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.01.1012",
+      "name": "WABOROBO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.01",
+      "districtName": "BETOAMBARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93721,
+      "coordinate": {
+        "longitude": 122.6032999,
+        "latitude": -5.5018433,
+        "elevation": 231
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.01.1013",
+      "name": "SULAA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.01",
+      "districtName": "BETOAMBARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93721,
+      "coordinate": {
+        "longitude": 122.5688522,
+        "latitude": -5.5129174,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.01.1014",
+      "name": "LIPU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.01",
+      "districtName": "BETOAMBARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93721,
+      "coordinate": {
+        "longitude": 122.581442,
+        "latitude": -5.4890392,
+        "elevation": 148
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.72.01.1016",
+      "name": "LABALAWA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.72",
+      "cityName": "KOTA BAU BAU",
+      "districtCode": "74.72.01",
+      "districtName": "BETOAMBARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93725,
+      "coordinate": {
+        "longitude": 122.5905064,
+        "latitude": -5.5143023,
+        "elevation": 241
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.04.1001",
+      "name": "PEKAYONJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.04",
+      "districtName": "BEKASI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17148,
+      "coordinate": {
+        "longitude": 106.9809869,
+        "latitude": -6.2611539,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.04.1002",
+      "name": "MARGAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.04",
+      "districtName": "BEKASI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42361,
+      "coordinate": {
+        "longitude": 106.2472042,
+        "latitude": -6.4265678,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.04.1003",
+      "name": "JAKAMULYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.04",
+      "districtName": "BEKASI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17146,
+      "coordinate": {
+        "longitude": 106.9634343,
+        "latitude": -6.2690653,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.04.1004",
+      "name": "JAKASETIA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.04",
+      "districtName": "BEKASI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17147,
+      "coordinate": {
+        "longitude": 106.9731193,
+        "latitude": -6.2688816,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.04.1005",
+      "name": "KAYURINGINJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.04",
+      "districtName": "BEKASI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17144,
+      "coordinate": {
+        "longitude": 106.9834907,
+        "latitude": -6.2408448,
+        "elevation": 19
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

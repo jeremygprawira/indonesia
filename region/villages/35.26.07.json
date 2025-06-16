@@ -1,0 +1,450 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.26.07.2001",
+      "name": "KLAMPIS BARAT",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9023338,
+        "latitude": -6.8928262,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2002",
+      "name": "BULUKAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8817909,
+        "latitude": -6.8972703,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2003",
+      "name": "MRANDUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8638685,
+        "latitude": -6.9001122,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2004",
+      "name": "TOBADDUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8539945,
+        "latitude": -6.9117583,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2005",
+      "name": "TOLBUK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.832358,
+        "latitude": -6.9231546,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2006",
+      "name": "MOARAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8501904,
+        "latitude": -6.9334662,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2007",
+      "name": "RA\"AS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2008",
+      "name": "POLONGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8635971,
+        "latitude": -6.9452722,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2009",
+      "name": "KARANG ASEM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80811,
+      "coordinate": {
+        "longitude": 115.6142855,
+        "latitude": -8.441144,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2010",
+      "name": "TROGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8640853,
+        "latitude": -6.9212337,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2011",
+      "name": "BULUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8913863,
+        "latitude": -6.9180334,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2012",
+      "name": "BANTEYAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.8798561,
+        "latitude": -6.9439651,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2013",
+      "name": "BRAGANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9018056,
+        "latitude": -6.940393,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2014",
+      "name": "LERGUNONG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9032435,
+        "latitude": -6.9590485,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2015",
+      "name": "PANYAKSAGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9173674,
+        "latitude": -6.9490469,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2016",
+      "name": "MANONGGAL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9171152,
+        "latitude": -6.9237621,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2017",
+      "name": "BATOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9006374,
+        "latitude": -6.8967218,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2018",
+      "name": "KLAMPIS TIMUR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9104477,
+        "latitude": -6.8933064,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2019",
+      "name": "TENGGUN DAJAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9119347,
+        "latitude": -6.9023934,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2020",
+      "name": "LARANGAN SORJAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9242798,
+        "latitude": -6.9007929,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2021",
+      "name": "LARANGAN GLINTONG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69153,
+      "coordinate": {
+        "longitude": 112.9296973,
+        "latitude": -6.918034,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.26.07.2022",
+      "name": "KO\"OL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.26",
+      "cityName": "KAB. BANGKALAN",
+      "districtCode": "35.26.07",
+      "districtName": "KLAMPIS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 22
+  }
+}

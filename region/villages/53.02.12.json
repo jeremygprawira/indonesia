@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.02.12.2001",
+      "name": "NENAS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.12",
+      "districtName": "FATUMNASI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85561,
+      "coordinate": {
+        "longitude": 124.1693815,
+        "latitude": -9.5874954,
+        "elevation": 930
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.12.2004",
+      "name": "FATUMNASI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.12",
+      "districtName": "FATUMNASI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85585,
+      "coordinate": {
+        "longitude": 124.6469991,
+        "latitude": -9.7527905,
+        "elevation": 327
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.12.2005",
+      "name": "NUAPIN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.12",
+      "districtName": "FATUMNASI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85561,
+      "coordinate": {
+        "longitude": 124.1735887,
+        "latitude": -9.5106299,
+        "elevation": 1090
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.12.2009",
+      "name": "KUANOEL",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.12",
+      "districtName": "FATUMNASI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85561,
+      "coordinate": {
+        "longitude": 124.1934463,
+        "latitude": -9.6570145,
+        "elevation": 1543
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.12.2010",
+      "name": "MUTIS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.12",
+      "districtName": "FATUMNASI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85561,
+      "coordinate": {
+        "longitude": 124.1823847,
+        "latitude": -9.559113,
+        "elevation": 1136
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

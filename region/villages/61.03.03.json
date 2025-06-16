@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.03.03.2001",
+      "name": "NOYAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.03",
+      "districtName": "NOYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78554,
+      "coordinate": {
+        "longitude": 110.5985668,
+        "latitude": 0.7898811,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.03.2002",
+      "name": "EMPOTO",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.03",
+      "districtName": "NOYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78554,
+      "coordinate": {
+        "longitude": 110.4933109,
+        "latitude": 0.6890099,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.03.2003",
+      "name": "SEMONGAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.03",
+      "districtName": "NOYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78554,
+      "coordinate": {
+        "longitude": 110.6726058,
+        "latitude": 0.709802,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.03.2004",
+      "name": "SUNGAI DANGIN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.03",
+      "districtName": "NOYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78554,
+      "coordinate": {
+        "longitude": 110.577641,
+        "latitude": 0.6732133,
+        "elevation": 130
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.03.03.2005",
+      "name": "IDAS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.03",
+      "cityName": "KAB. SANGGAU",
+      "districtCode": "61.03.03",
+      "districtName": "NOYAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78554,
+      "coordinate": {
+        "longitude": 110.5350911,
+        "latitude": 0.5990558,
+        "elevation": 119
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.06.2001",
+      "name": "LEMBANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.06",
+      "districtName": "SANGGAU LEDO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91413,
+      "coordinate": {
+        "longitude": 118.9821379,
+        "latitude": -3.5499966,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.06.2002",
+      "name": "GUA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.06",
+      "districtName": "SANGGAU LEDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79284,
+      "coordinate": {
+        "longitude": 109.6854094,
+        "latitude": 1.1420626,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.06.2003",
+      "name": "BANGE",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.06",
+      "districtName": "SANGGAU LEDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79284,
+      "coordinate": {
+        "longitude": 109.6813527,
+        "latitude": 1.1056116,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.06.2004",
+      "name": "DANTI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.06",
+      "districtName": "SANGGAU LEDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79284,
+      "coordinate": {
+        "longitude": 109.5971864,
+        "latitude": 1.1935911,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.06.2005",
+      "name": "SANGO",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.06",
+      "districtName": "SANGGAU LEDO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97729,
+      "coordinate": {
+        "longitude": 127.3729468,
+        "latitude": 0.8352998,
+        "elevation": 55
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

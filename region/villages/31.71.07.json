@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.71.07.1001",
+      "name": "GELORA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.07",
+      "districtName": "TANAH ABANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99072,
+      "coordinate": {
+        "longitude": 138.7300609,
+        "latitude": -3.7095136,
+        "elevation": 1353
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.07.1002",
+      "name": "BENDUNGAN HILIR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.07",
+      "districtName": "TANAH ABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10210,
+      "coordinate": {
+        "longitude": 106.8087116,
+        "latitude": -6.2079797,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.07.1003",
+      "name": "KARET TENGSIN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.07",
+      "districtName": "TANAH ABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10220,
+      "coordinate": {
+        "longitude": 106.8174976,
+        "latitude": -6.208106,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.07.1004",
+      "name": "PETAMBURAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.07",
+      "districtName": "TANAH ABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10260,
+      "coordinate": {
+        "longitude": 106.8059309,
+        "latitude": -6.1959873,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.07.1005",
+      "name": "KEBON MELATI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.07",
+      "districtName": "TANAH ABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10230,
+      "coordinate": {
+        "longitude": 106.8157077,
+        "latitude": -6.1967272,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.07.1006",
+      "name": "KEBON KACANG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.07",
+      "districtName": "TANAH ABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10240,
+      "coordinate": {
+        "longitude": 106.8173005,
+        "latitude": -6.1900543,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.71.07.1007",
+      "name": "KAMPUNG BALI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.71",
+      "cityName": "KOTA ADM. JAKARTA PUSAT",
+      "districtCode": "31.71.07",
+      "districtName": "TANAH ABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 10250,
+      "coordinate": {
+        "longitude": 106.8162037,
+        "latitude": -6.1847435,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

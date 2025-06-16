@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.02.21.2001",
+      "name": "BARENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.21",
+      "districtName": "PUDAK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86692,
+      "coordinate": {
+        "longitude": 123.7768762,
+        "latitude": -8.1790014,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.21.2002",
+      "name": "TAMBANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.21",
+      "districtName": "PUDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63418,
+      "coordinate": {
+        "longitude": 111.7010223,
+        "latitude": -7.8628753,
+        "elevation": 1012
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.21.2003",
+      "name": "KRISIK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.21",
+      "districtName": "PUDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66187,
+      "coordinate": {
+        "longitude": 112.3687363,
+        "latitude": -7.9520564,
+        "elevation": 711
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.21.2004",
+      "name": "PUDAK WETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.21",
+      "districtName": "PUDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63418,
+      "coordinate": {
+        "longitude": 111.7394366,
+        "latitude": -7.8777115,
+        "elevation": 1044
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.21.2005",
+      "name": "BANJAREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.21",
+      "districtName": "PUDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63137,
+      "coordinate": {
+        "longitude": 111.5391242,
+        "latitude": -7.6533845,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.21.2006",
+      "name": "PUDAK KULON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.21",
+      "districtName": "PUDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63418,
+      "coordinate": {
+        "longitude": 111.7474697,
+        "latitude": -7.8482949,
+        "elevation": 1645
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

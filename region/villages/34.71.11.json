@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.11.1001",
+      "name": "PURWOKINANTI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.11",
+      "districtName": "PAKUALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55112,
+      "coordinate": {
+        "longitude": 110.3730977,
+        "latitude": -7.799102,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.11.1002",
+      "name": "GUNUNGKETUR",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.11",
+      "districtName": "PAKUALAMAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55111,
+      "coordinate": {
+        "longitude": 110.3778761,
+        "latitude": -7.8008413,
+        "elevation": 111
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

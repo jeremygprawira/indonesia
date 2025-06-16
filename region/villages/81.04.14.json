@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.04.14.2001",
+      "name": "KAIELY",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.14",
+      "districtName": "TELUK KAIELY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97577,
+      "coordinate": {
+        "longitude": 127.0929124,
+        "latitude": -3.4568081,
+        "elevation": 479
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.14.2002",
+      "name": "MASARETE",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.14",
+      "districtName": "TELUK KAIELY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97577,
+      "coordinate": {
+        "longitude": 127.1422924,
+        "latitude": -3.4147083,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.14.2003",
+      "name": "WAELAPIA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.14",
+      "districtName": "TELUK KAIELY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97577,
+      "coordinate": {
+        "longitude": 127.1488922,
+        "latitude": -3.3594597,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.14.2004",
+      "name": "KAKI AIR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.14",
+      "districtName": "TELUK KAIELY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97577,
+      "coordinate": {
+        "longitude": 127.0553945,
+        "latitude": -3.335433,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.04.14.2005",
+      "name": "SEITH",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.04",
+      "cityName": "KAB. BURU",
+      "districtCode": "81.04.14",
+      "districtName": "TELUK KAIELY",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97577,
+      "coordinate": {
+        "longitude": 127.1811825,
+        "latitude": -3.3640064,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

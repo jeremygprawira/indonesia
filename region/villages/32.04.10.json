@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.10.2001",
+      "name": "MARGAASIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.10",
+      "districtName": "MARGAASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40395,
+      "coordinate": {
+        "longitude": 107.8468995,
+        "latitude": -7.0112117,
+        "elevation": 769
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.10.2002",
+      "name": "LAGADAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.10",
+      "districtName": "MARGAASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40216,
+      "coordinate": {
+        "longitude": 107.534171,
+        "latitude": -6.9263595,
+        "elevation": 698
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.10.2003",
+      "name": "NANJUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.10",
+      "districtName": "MARGAASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40217,
+      "coordinate": {
+        "longitude": 107.5395366,
+        "latitude": -6.9537373,
+        "elevation": 669
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.10.2004",
+      "name": "MEKARRAHAYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.10",
+      "districtName": "MARGAASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40218,
+      "coordinate": {
+        "longitude": 107.5537181,
+        "latitude": -6.971063,
+        "elevation": 668
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.10.2005",
+      "name": "RAHAYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.10",
+      "districtName": "MARGAASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78561,
+      "coordinate": {
+        "longitude": 110.3888344,
+        "latitude": 0.3665334,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.10.2006",
+      "name": "CIGONDEWAH HILIR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.10",
+      "districtName": "MARGAASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40214,
+      "coordinate": {
+        "longitude": 107.5511503,
+        "latitude": -6.9537589,
+        "elevation": 677
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

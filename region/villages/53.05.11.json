@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.05.11.1001",
+      "name": "PURA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.11",
+      "districtName": "PULAU PURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85850,
+      "coordinate": {
+        "longitude": 124.3477171,
+        "latitude": -8.2806039,
+        "elevation": 110
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.11.2002",
+      "name": "MARU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.11",
+      "districtName": "PULAU PURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85850,
+      "coordinate": {
+        "longitude": 124.3638023,
+        "latitude": -8.3091696,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.11.2003",
+      "name": "PURA UTARA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.11",
+      "districtName": "PULAU PURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85850,
+      "coordinate": {
+        "longitude": 124.3286677,
+        "latitude": -8.2870349,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.11.2004",
+      "name": "PURA SELATAN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.11",
+      "districtName": "PULAU PURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85850,
+      "coordinate": {
+        "longitude": 124.3495169,
+        "latitude": -8.3153335,
+        "elevation": 438
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.11.2005",
+      "name": "PURA TIMUR",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.11",
+      "districtName": "PULAU PURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85850,
+      "coordinate": {
+        "longitude": 124.3667889,
+        "latitude": -8.2899738,
+        "elevation": 199
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.05.11.2006",
+      "name": "PURA BARAT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.05",
+      "cityName": "KAB. ALOR",
+      "districtCode": "53.05.11",
+      "districtName": "PULAU PURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85850,
+      "coordinate": {
+        "longitude": 124.324682,
+        "latitude": -8.3076894,
+        "elevation": 111
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

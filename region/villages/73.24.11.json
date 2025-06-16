@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.24.11.2001",
+      "name": "LEDU LEDU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.11",
+      "districtName": "WASUPONDA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92984,
+      "coordinate": {
+        "longitude": 121.2837219,
+        "latitude": -2.5745988,
+        "elevation": 321
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.11.2002",
+      "name": "KAWATA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.11",
+      "districtName": "WASUPONDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.1839145,
+        "latitude": -1.8311309,
+        "elevation": 646
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.11.2003",
+      "name": "TABARANO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.11",
+      "districtName": "WASUPONDA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92984,
+      "coordinate": {
+        "longitude": 121.2932283,
+        "latitude": -2.6033584,
+        "elevation": 450
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.11.2004",
+      "name": "WASUPONDA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.11",
+      "districtName": "WASUPONDA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92984,
+      "coordinate": {
+        "longitude": 121.2683618,
+        "latitude": -2.5858412,
+        "elevation": 301
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.11.2005",
+      "name": "PARUMPANAI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.11",
+      "districtName": "WASUPONDA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92984,
+      "coordinate": {
+        "longitude": 120.9692099,
+        "latitude": -2.355733,
+        "elevation": 1188
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.24.11.2006",
+      "name": "BALAMBANO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.24",
+      "cityName": "KAB. LUWU TIMUR",
+      "districtCode": "73.24.11",
+      "districtName": "WASUPONDA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92984,
+      "coordinate": {
+        "longitude": 121.2583599,
+        "latitude": -2.6784372,
+        "elevation": 301
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

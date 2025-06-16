@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.14.2001",
+      "name": "SITIMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.14",
+      "districtName": "PIYUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55792,
+      "coordinate": {
+        "longitude": 110.4375014,
+        "latitude": -7.8474449,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.14.2002",
+      "name": "SRIMULYO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.14",
+      "districtName": "PIYUNGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75764,
+      "coordinate": {
+        "longitude": 115.7613609,
+        "latitude": -0.2807999,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.14.2003",
+      "name": "SRIMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.14",
+      "districtName": "PIYUNGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55792,
+      "coordinate": {
+        "longitude": 110.4944253,
+        "latitude": -7.8312702,
+        "elevation": 94
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

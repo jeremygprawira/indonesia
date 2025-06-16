@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "51.03.06.1001",
+      "name": "KEROBOKAN KELOD",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.06",
+      "districtName": "KUTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80363,
+      "coordinate": {
+        "longitude": 115.1608117,
+        "latitude": -8.6711595,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.06.1002",
+      "name": "KEROBOKAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.06",
+      "districtName": "KUTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81171,
+      "coordinate": {
+        "longitude": 115.1247516,
+        "latitude": -8.0966584,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.06.1003",
+      "name": "KEROBOKAN KAJA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.06",
+      "districtName": "KUTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80363,
+      "coordinate": {
+        "longitude": 115.173047,
+        "latitude": -8.6419745,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.06.2004",
+      "name": "TIBUBENENG",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.06",
+      "districtName": "KUTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80363,
+      "coordinate": {
+        "longitude": 115.1526727,
+        "latitude": -8.6460053,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.06.2005",
+      "name": "CANGGU",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.06",
+      "districtName": "KUTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80363,
+      "coordinate": {
+        "longitude": 115.143363,
+        "latitude": -8.6391968,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.06.2006",
+      "name": "DALUNG",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.06",
+      "districtName": "KUTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80363,
+      "coordinate": {
+        "longitude": 115.1723201,
+        "latitude": -8.6180816,
+        "elevation": 69
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

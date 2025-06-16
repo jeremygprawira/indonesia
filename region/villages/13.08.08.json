@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.08.2001",
+      "name": "MUARA TAIS",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.08",
+      "districtName": "MAPAT TUNGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26353,
+      "coordinate": {
+        "longitude": 100.1861421,
+        "latitude": 0.6881537,
+        "elevation": 211
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.08.2002",
+      "name": "LUBUAK GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.08",
+      "districtName": "MAPAT TUNGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26353,
+      "coordinate": {
+        "longitude": 100.1673853,
+        "latitude": 0.5636206,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.08.2005",
+      "name": "PINTU PADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.08",
+      "districtName": "MAPAT TUNGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26353,
+      "coordinate": {
+        "longitude": 100.1538808,
+        "latitude": 0.6189558,
+        "elevation": 567
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.08.2006",
+      "name": "MUARO TAIS KOTO GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.08",
+      "districtName": "MAPAT TUNGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26353,
+      "coordinate": {
+        "longitude": 100.1068946,
+        "latitude": 0.7161119,
+        "elevation": 293
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

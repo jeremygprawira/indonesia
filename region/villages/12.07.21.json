@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.07.21.2001",
+      "name": "LANTASAN BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20361,
+      "coordinate": {
+        "longitude": 98.7054255,
+        "latitude": 3.4544071,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.21.2002",
+      "name": "PATUMBAK  I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.21.2003",
+      "name": "PATUMBAK II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20361,
+      "coordinate": {
+        "longitude": 98.7325923,
+        "latitude": 3.4792516,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.21.2004",
+      "name": "LANTASAN LAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20361,
+      "coordinate": {
+        "longitude": 98.6978899,
+        "latitude": 3.4777035,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.21.2005",
+      "name": "SIGARA-GARA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20361,
+      "coordinate": {
+        "longitude": 98.7206084,
+        "latitude": 3.4973584,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.21.2006",
+      "name": "MARINDAL  I",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.21.2007",
+      "name": "MARINDAL  II",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.07.21.2008",
+      "name": "PATUMBAK KAMPUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.07",
+      "cityName": "KAB. DELI SERDANG",
+      "districtCode": "12.07.21",
+      "districtName": "PATUMBAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20361,
+      "coordinate": {
+        "longitude": 98.7188399,
+        "latitude": 3.5164238,
+        "elevation": 38
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.08.1005",
+      "name": "BAKUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.08",
+      "districtName": "TELUKBETUNG BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90242,
+      "coordinate": {
+        "longitude": 119.534968,
+        "latitude": -5.0929452,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.08.1006",
+      "name": "KURIPAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.08",
+      "districtName": "TELUKBETUNG BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70236,
+      "coordinate": {
+        "longitude": 114.6139532,
+        "latitude": -3.3253677,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.08.1007",
+      "name": "NEGERI OLOK GADING",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.08",
+      "districtName": "TELUKBETUNG BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35233,
+      "coordinate": {
+        "longitude": 105.2486203,
+        "latitude": -5.4467797,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.08.1008",
+      "name": "SUKARAME II",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.08",
+      "districtName": "TELUKBETUNG BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35234,
+      "coordinate": {
+        "longitude": 105.2321237,
+        "latitude": -5.4402307,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.08.1009",
+      "name": "BATU PUTUK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.08",
+      "districtName": "TELUKBETUNG BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35239,
+      "coordinate": {
+        "longitude": 105.2140186,
+        "latitude": -5.430586,
+        "elevation": 224
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

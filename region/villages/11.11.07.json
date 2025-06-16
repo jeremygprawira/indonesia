@@ -1,0 +1,810 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.11.07.2001",
+      "name": "KEUDE LAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8936238,
+        "latitude": 5.2339375,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2002",
+      "name": "LAPANG BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8864474,
+        "latitude": 5.2454726,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2003",
+      "name": "LINGKA KUTA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8948448,
+        "latitude": 5.242448,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2004",
+      "name": "LAPANG TIMU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8997057,
+        "latitude": 5.2341501,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2005",
+      "name": "TEUPIN SIRON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.905703,
+        "latitude": 5.2388869,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2006",
+      "name": "IE RHOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9069071,
+        "latitude": 5.2482277,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2007",
+      "name": "CEUBO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9101591,
+        "latitude": 5.2276998,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2008",
+      "name": "PALOH ME",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8909234,
+        "latitude": 5.2180226,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2009",
+      "name": "LHOK MAMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8796675,
+        "latitude": 5.2376373,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2010",
+      "name": "SAMUTI KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8704463,
+        "latitude": 5.2373503,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2011",
+      "name": "COT MANE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23769,
+      "coordinate": {
+        "longitude": 96.8508761,
+        "latitude": 3.7858932,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2012",
+      "name": "SAMUTI MAKMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8620614,
+        "latitude": 5.2415188,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2013",
+      "name": "SAMUTI RAYEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8499029,
+        "latitude": 5.234898,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2014",
+      "name": "COT PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8773579,
+        "latitude": 5.2233882,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2015",
+      "name": "SAMUTI AMAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.851365,
+        "latitude": 5.2426032,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2016",
+      "name": "ALUE MANGKI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9018567,
+        "latitude": 5.2452307,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2017",
+      "name": "MON KEULAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8664919,
+        "latitude": 5.2545369,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2018",
+      "name": "GEURUGOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8880367,
+        "latitude": 5.2266385,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2019",
+      "name": "BLANG KEUDE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2020",
+      "name": "COT TUFAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8585735,
+        "latitude": 5.2262421,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2021",
+      "name": "COT TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8600938,
+        "latitude": 5.2149852,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2022",
+      "name": "PAYA BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23653,
+      "coordinate": {
+        "longitude": 95.8225625,
+        "latitude": 4.4269999,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2023",
+      "name": "PALOH KAYE KUNYET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8592668,
+        "latitude": 5.1890054,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2024",
+      "name": "COT JABET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.901298,
+        "latitude": 5.2251209,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2025",
+      "name": "COT TUBE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9025256,
+        "latitude": 5.2140874,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2026",
+      "name": "PANTE SIKUMBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9105595,
+        "latitude": 5.2166475,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2027",
+      "name": "BLANG GURON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9156811,
+        "latitude": 5.2118889,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2028",
+      "name": "DAMA KAWAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9109548,
+        "latitude": 5.2025254,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2029",
+      "name": "PAYA SEUPAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9030185,
+        "latitude": 5.1871758,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2030",
+      "name": "COT RAMBAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9063406,
+        "latitude": 5.2083626,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2031",
+      "name": "PAYA KAREUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.9035479,
+        "latitude": 5.1986025,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2032",
+      "name": "MON JEURUJAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8999024,
+        "latitude": 5.2009614,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2033",
+      "name": "TANJONG RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8952824,
+        "latitude": 5.1978554,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2034",
+      "name": "TANJONG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8865699,
+        "latitude": 5.2045724,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2035",
+      "name": "BLANG KUBU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8893059,
+        "latitude": 5.1961702,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2036",
+      "name": "TANJONG BUNGONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8977617,
+        "latitude": 5.210343,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2037",
+      "name": "PULO GISA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8901861,
+        "latitude": 5.2099482,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2038",
+      "name": "UJONG BAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8810534,
+        "latitude": 5.2152263,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2078",
+      "name": "MON JAMBE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8627536,
+        "latitude": 5.2622227,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.11.07.2079",
+      "name": "BLANG RHEUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.11",
+      "cityName": "KAB. BIREUEN",
+      "districtCode": "11.11.07",
+      "districtName": "GANDAPURA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24187,
+      "coordinate": {
+        "longitude": 96.2513967,
+        "latitude": 5.1679158,
+        "elevation": 66
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 40
+  }
+}

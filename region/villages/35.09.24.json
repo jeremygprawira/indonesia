@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.24.2001",
+      "name": "PATEMON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.24",
+      "districtName": "PAKUSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81153,
+      "coordinate": {
+        "longitude": 114.9306299,
+        "latitude": -8.2063862,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.24.2002",
+      "name": "BEDADUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.24",
+      "districtName": "PAKUSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68181,
+      "coordinate": {
+        "longitude": 113.7629567,
+        "latitude": -8.1313165,
+        "elevation": 152
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.24.2003",
+      "name": "SUMBERPINANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.24",
+      "districtName": "PAKUSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68181,
+      "coordinate": {
+        "longitude": 113.7646665,
+        "latitude": -8.1549244,
+        "elevation": 177
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.24.2004",
+      "name": "SUBO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.24",
+      "districtName": "PAKUSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85871,
+      "coordinate": {
+        "longitude": 124.712201,
+        "latitude": -8.2993571,
+        "elevation": 1047
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.24.2005",
+      "name": "KERTOSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.24",
+      "districtName": "PAKUSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63171,
+      "coordinate": {
+        "longitude": 111.5401427,
+        "latitude": -7.6776042,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.24.2006",
+      "name": "JATIAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.24",
+      "districtName": "PAKUSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68181,
+      "coordinate": {
+        "longitude": 113.7884087,
+        "latitude": -8.155806,
+        "elevation": 204
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.24.2007",
+      "name": "PAKUSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.24",
+      "districtName": "PAKUSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68181,
+      "coordinate": {
+        "longitude": 113.7840939,
+        "latitude": -8.172499,
+        "elevation": 170
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

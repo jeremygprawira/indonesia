@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.02.06.2001",
+      "name": "NGADIROJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.06",
+      "districtName": "SOOKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63482,
+      "coordinate": {
+        "longitude": 111.6260721,
+        "latitude": -7.9292568,
+        "elevation": 333
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.06.2002",
+      "name": "KLEPU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.06",
+      "districtName": "SOOKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65176,
+      "coordinate": {
+        "longitude": 112.721514,
+        "latitude": -8.251404,
+        "elevation": 527
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.06.2003",
+      "name": "SURU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.06",
+      "districtName": "SOOKO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97598,
+      "coordinate": {
+        "longitude": 130.8063577,
+        "latitude": -3.7761976,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.06.2004",
+      "name": "SOOKO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.06",
+      "districtName": "SOOKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61176,
+      "coordinate": {
+        "longitude": 112.5208233,
+        "latitude": -7.3536495,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.06.2005",
+      "name": "BEDOHO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.06",
+      "districtName": "SOOKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63161,
+      "coordinate": {
+        "longitude": 111.4812243,
+        "latitude": -7.5814316,
+        "elevation": 60
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.02.06.2006",
+      "name": "JURUG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.02",
+      "cityName": "KAB. PONOROGO",
+      "districtCode": "35.02.06",
+      "districtName": "SOOKO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63482,
+      "coordinate": {
+        "longitude": 111.6718261,
+        "latitude": -7.897028,
+        "elevation": 502
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

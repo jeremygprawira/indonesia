@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.71.02.1001",
+      "name": "BARU ILIR",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.02",
+      "districtName": "BALIKPAPAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76131,
+      "coordinate": {
+        "longitude": 116.8269287,
+        "latitude": -1.2344983,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.02.1002",
+      "name": "BARU TENGAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.02",
+      "districtName": "BALIKPAPAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76132,
+      "coordinate": {
+        "longitude": 116.8160487,
+        "latitude": -1.2301411,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.02.1003",
+      "name": "BARU ULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.02",
+      "districtName": "BALIKPAPAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76133,
+      "coordinate": {
+        "longitude": 116.8132451,
+        "latitude": -1.2254983,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.02.1004",
+      "name": "KARIANGAU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.02",
+      "districtName": "BALIKPAPAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76134,
+      "coordinate": {
+        "longitude": 116.8094407,
+        "latitude": -1.122609,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.02.1005",
+      "name": "MARGO MULYO",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.02",
+      "districtName": "BALIKPAPAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76131,
+      "coordinate": {
+        "longitude": 116.8260819,
+        "latitude": -1.2263644,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.71.02.1006",
+      "name": "MARGA SARI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.71",
+      "cityName": "KOTA BALIKPAPAN",
+      "districtCode": "64.71.02",
+      "districtName": "BALIKPAPAN BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76131,
+      "coordinate": {
+        "longitude": 116.8204868,
+        "latitude": -1.2386266,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

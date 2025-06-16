@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.03.07.1001",
+      "name": "TANJUNG ENIM",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.03",
+      "cityName": "KAB. MUARA ENIM",
+      "districtCode": "16.03.07",
+      "districtName": "LAWANG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31711,
+      "coordinate": {
+        "longitude": 103.7690833,
+        "latitude": -3.7631512,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.03.07.1002",
+      "name": "PASAR TANJUNG ENIM",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.03",
+      "cityName": "KAB. MUARA ENIM",
+      "districtCode": "16.03.07",
+      "districtName": "LAWANG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31712,
+      "coordinate": {
+        "longitude": 103.7969627,
+        "latitude": -3.7535253,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.03.07.1003",
+      "name": "TANJUNG ENIM SELATAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.03",
+      "cityName": "KAB. MUARA ENIM",
+      "districtCode": "16.03.07",
+      "districtName": "LAWANG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31711,
+      "coordinate": {
+        "longitude": 103.816778,
+        "latitude": -3.7690561,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.03.07.2004",
+      "name": "TEGAL REJO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.03",
+      "cityName": "KAB. MUARA ENIM",
+      "districtCode": "16.03.07",
+      "districtName": "LAWANG KIDUL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72161,
+      "coordinate": {
+        "longitude": 115.9725854,
+        "latitude": -3.1911107,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.03.07.2005",
+      "name": "LINGGA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.03",
+      "cityName": "KAB. MUARA ENIM",
+      "districtCode": "16.03.07",
+      "districtName": "LAWANG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78393,
+      "coordinate": {
+        "longitude": 109.6091397,
+        "latitude": -0.0805011,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.03.07.2006",
+      "name": "KEBAN AGUNG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.03",
+      "cityName": "KAB. MUARA ENIM",
+      "districtCode": "16.03.07",
+      "districtName": "LAWANG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39374,
+      "coordinate": {
+        "longitude": 102.6925756,
+        "latitude": -3.6878434,
+        "elevation": 414
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.03.07.2007",
+      "name": "DARMO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.03",
+      "cityName": "KAB. MUARA ENIM",
+      "districtCode": "16.03.07",
+      "districtName": "LAWANG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60241,
+      "coordinate": {
+        "longitude": 112.7325884,
+        "latitude": -7.2869899,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

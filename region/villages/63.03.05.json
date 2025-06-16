@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.03.05.1001",
+      "name": "KERATON",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70611,
+      "coordinate": {
+        "longitude": 114.8448176,
+        "latitude": -3.4148085,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.1002",
+      "name": "JAWA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99960,
+      "coordinate": {
+        "longitude": 137.4562998,
+        "latitude": -4.2809573,
+        "elevation": 2498
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.1003",
+      "name": "PASAYANGAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8353726,
+        "latitude": -3.3984441,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.1004",
+      "name": "MURUNG KERATON",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70616,
+      "coordinate": {
+        "longitude": 114.8500785,
+        "latitude": -3.4060765,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.1005",
+      "name": "SUNGAI PARING",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71213,
+      "coordinate": {
+        "longitude": 115.236304,
+        "latitude": -2.7800852,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.1055",
+      "name": "TANJUNG REMA DARAT",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70613,
+      "coordinate": {
+        "longitude": 114.8599906,
+        "latitude": -3.4241704,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.1059",
+      "name": "SEKUMPUL",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8609757,
+        "latitude": -3.4347328,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2009",
+      "name": "SUNGAI SIPAI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70612,
+      "coordinate": {
+        "longitude": 114.8264671,
+        "latitude": -3.4209981,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2010",
+      "name": "PASAYANGAN SELATAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8451767,
+        "latitude": -3.4049099,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2011",
+      "name": "TANJUNG REMA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70613,
+      "coordinate": {
+        "longitude": 114.8542295,
+        "latitude": -3.4162159,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2012",
+      "name": "BINCAU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8805331,
+        "latitude": -3.4235099,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2013",
+      "name": "MURUNG KENANGA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70617,
+      "coordinate": {
+        "longitude": 114.8559225,
+        "latitude": -3.4045074,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2015",
+      "name": "TUNGGUL IRANG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70615,
+      "coordinate": {
+        "longitude": 114.8617142,
+        "latitude": -3.4084244,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2016",
+      "name": "TAMBAK BARU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8711225,
+        "latitude": -3.4029376,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2034",
+      "name": "CINDAI ALUS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70612,
+      "coordinate": {
+        "longitude": 114.7995889,
+        "latitude": -3.4134397,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2036",
+      "name": "TUNGKARAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8119254,
+        "latitude": -3.4048761,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2037",
+      "name": "TAMBAK BARU ULU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8834283,
+        "latitude": -3.3946722,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2040",
+      "name": "BINCAU MUARA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8700151,
+        "latitude": -3.4073025,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2042",
+      "name": "TUNGGUL IRANG ILIR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70615,
+      "coordinate": {
+        "longitude": 114.8524962,
+        "latitude": -3.4069219,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2043",
+      "name": "TUNGGUL IRANG ULU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70615,
+      "coordinate": {
+        "longitude": 114.8583274,
+        "latitude": -3.412279,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2051",
+      "name": "LABUAN TABU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8883226,
+        "latitude": -3.4270314,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2052",
+      "name": "INDRASARI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2054",
+      "name": "JAWA LAUT",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70615,
+      "coordinate": {
+        "longitude": 114.8541352,
+        "latitude": -3.4116581,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2056",
+      "name": "PASAYANGAN UTARA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8463355,
+        "latitude": -3.4050388,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2057",
+      "name": "PASAYANGAN BARAT",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.8395933,
+        "latitude": -3.4059508,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.05.2058",
+      "name": "TAMBAK BARU ILIR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.05",
+      "districtName": "MARTAPURA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70619,
+      "coordinate": {
+        "longitude": 114.876711,
+        "latitude": -3.3990188,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.10.14.2001",
+      "name": "TRASAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57472,
+      "coordinate": {
+        "longitude": 110.705888,
+        "latitude": -7.6559786,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2002",
+      "name": "SAWAHAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70571,
+      "coordinate": {
+        "longitude": 114.8048108,
+        "latitude": -3.0383602,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2003",
+      "name": "JUWIRAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57472,
+      "coordinate": {
+        "longitude": 110.7265229,
+        "latitude": -7.6665972,
+        "elevation": 114
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2004",
+      "name": "JETIS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62211,
+      "coordinate": {
+        "longitude": 112.4234219,
+        "latitude": -7.1240941,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2005",
+      "name": "KETITANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56256,
+      "coordinate": {
+        "longitude": 110.0749022,
+        "latitude": -7.2134839,
+        "elevation": 776
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2006",
+      "name": "GONDANGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57691,
+      "coordinate": {
+        "longitude": 111.1353072,
+        "latitude": -7.8504861,
+        "elevation": 345
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2007",
+      "name": "SERENAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57472,
+      "coordinate": {
+        "longitude": 110.7718973,
+        "latitude": -7.6702499,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2008",
+      "name": "TLOGORANDU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57472,
+      "coordinate": {
+        "longitude": 110.7644802,
+        "latitude": -7.6661838,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2009",
+      "name": "BOLOPLERET",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57472,
+      "coordinate": {
+        "longitude": 110.7567912,
+        "latitude": -7.6620459,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2010",
+      "name": "TANJUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2011",
+      "name": "KENAIBAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57472,
+      "coordinate": {
+        "longitude": 110.7403823,
+        "latitude": -7.6620477,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2012",
+      "name": "BULUREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61172,
+      "coordinate": {
+        "longitude": 112.5031145,
+        "latitude": -7.2623919,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2013",
+      "name": "JATEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63262,
+      "coordinate": {
+        "longitude": 111.2395259,
+        "latitude": -7.5511726,
+        "elevation": 548
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2014",
+      "name": "MRISEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59571,
+      "coordinate": {
+        "longitude": 110.6814733,
+        "latitude": -6.8936566,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2015",
+      "name": "PUNDUNGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57472,
+      "coordinate": {
+        "longitude": 110.713857,
+        "latitude": -7.6351459,
+        "elevation": 125
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2016",
+      "name": "JUWIRING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51352,
+      "coordinate": {
+        "longitude": 110.151597,
+        "latitude": -6.8934282,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2017",
+      "name": "KWARASAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57552,
+      "coordinate": {
+        "longitude": 110.8117519,
+        "latitude": -7.5933512,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2018",
+      "name": "CARIKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63384,
+      "coordinate": {
+        "longitude": 111.4377826,
+        "latitude": -7.6448853,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.10.14.2019",
+      "name": "TAJI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.10",
+      "cityName": "KAB. KLATEN",
+      "districtCode": "33.10.14",
+      "districtName": "JUWIRING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62261,
+      "coordinate": {
+        "longitude": 112.2361751,
+        "latitude": -7.0246595,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 19
+  }
+}

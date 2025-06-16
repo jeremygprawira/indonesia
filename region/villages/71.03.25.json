@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.03.25.2001",
+      "name": "MARORE",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.25",
+      "districtName": "KEPULAUAN MARORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95841,
+      "coordinate": {
+        "longitude": 125.491344,
+        "latitude": 4.746364,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.25.2002",
+      "name": "KAWIO",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.25",
+      "districtName": "KEPULAUAN MARORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95841,
+      "coordinate": {
+        "longitude": 125.4389556,
+        "latitude": 4.6748254,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.03.25.2003",
+      "name": "MATUTUANG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.03",
+      "cityName": "KAB. KEPULAUAN SANGIHE",
+      "districtCode": "71.03.25",
+      "districtName": "KEPULAUAN MARORE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95841,
+      "coordinate": {
+        "longitude": 125.6920942,
+        "latitude": 4.4347422,
+        "elevation": 46
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

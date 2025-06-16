@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.11.04.1010",
+      "name": "KUPANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71661,
+      "coordinate": {
+        "longitude": 115.3935228,
+        "latitude": -2.32253,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.1013",
+      "name": "TANJUNGKUPANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.1192305,
+        "latitude": -3.6020906,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.1014",
+      "name": "TANJUNG MAKMUR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0852369,
+        "latitude": -3.5805727,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.1017",
+      "name": "PS. TEBING TINGGI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0852848,
+        "latitude": -3.5883916,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.1033",
+      "name": "JAYA LOKA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.061216,
+        "latitude": -3.575371,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.1036",
+      "name": "KELUMPANG JAYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31667,
+      "coordinate": {
+        "longitude": 102.9112855,
+        "latitude": -2.4239364,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2001",
+      "name": "UJUNG ALIH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0231614,
+        "latitude": -3.7170642,
+        "elevation": 316
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2002",
+      "name": "LB. GELANGGANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 102.9967288,
+        "latitude": -3.6703633,
+        "elevation": 341
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2003",
+      "name": "ULAK MENGKUDU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0180342,
+        "latitude": -3.6669321,
+        "elevation": 253
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2004",
+      "name": "BATU PANCE",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0334121,
+        "latitude": -3.6554872,
+        "elevation": 135
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2005",
+      "name": "AUR GADING",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78877,
+      "coordinate": {
+        "longitude": 110.6003888,
+        "latitude": -1.801124,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2006",
+      "name": "TERUSAN LAMA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0819999,
+        "latitude": -3.692776,
+        "elevation": 138
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2007",
+      "name": "TERUSAN BARU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0439112,
+        "latitude": -3.624455,
+        "elevation": 139
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2008",
+      "name": "RANTAU TENANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0644036,
+        "latitude": -3.621439,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2009",
+      "name": "SEGURING KECIL",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0557292,
+        "latitude": -3.6266852,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2011",
+      "name": "KEMANG MANIS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38873,
+      "coordinate": {
+        "longitude": 102.8354489,
+        "latitude": -4.1721019,
+        "elevation": 132
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2012",
+      "name": "LAMPAR BARU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31596,
+      "coordinate": {
+        "longitude": 102.9486956,
+        "latitude": -3.7009833,
+        "elevation": 313
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2021",
+      "name": "KOTA GADING",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2022",
+      "name": "BATU RAJA BARU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0889052,
+        "latitude": -3.4975579,
+        "elevation": 144
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2023",
+      "name": "BATU RAJA LAMA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.1026513,
+        "latitude": -3.5324552,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2024",
+      "name": "SUGI WARAS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.1648217,
+        "latitude": -3.4855207,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2027",
+      "name": "MEKAR JAYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96364,
+      "coordinate": {
+        "longitude": 121.8908388,
+        "latitude": 0.50174,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2030",
+      "name": "FAJAR BAKTI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.1253566,
+        "latitude": -3.5650484,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2032",
+      "name": "PANCUR MAS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34879,
+      "coordinate": {
+        "longitude": 103.8440869,
+        "latitude": -4.9214613,
+        "elevation": 1258
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2034",
+      "name": "MAKARTI JAYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99645,
+      "coordinate": {
+        "longitude": 140.7433314,
+        "latitude": -8.0236546,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.11.04.2035",
+      "name": "TANJUNG KUPANG BARU",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.11",
+      "cityName": "KAB. EMPAT LAWANG",
+      "districtCode": "16.11.04",
+      "districtName": "TEBING TINGGI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.1606584,
+        "latitude": -3.5121423,
+        "elevation": 95
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

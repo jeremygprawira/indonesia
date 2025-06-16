@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "64.09.01",
+      "name": "PENAJAM",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA"
+    },
+    {
+      "type": "district",
+      "code": "64.09.02",
+      "name": "WARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA"
+    },
+    {
+      "type": "district",
+      "code": "64.09.03",
+      "name": "BABULU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA"
+    },
+    {
+      "type": "district",
+      "code": "64.09.04",
+      "name": "SEPAKU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.09",
+      "cityName": "KAB. PENAJAM PASER UTARA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

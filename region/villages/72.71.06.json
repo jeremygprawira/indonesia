@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.71.06.1001",
+      "name": "NUNU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.06",
+      "districtName": "TATANGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.5234595,
+        "latitude": -1.6507119,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.06.1002",
+      "name": "PALUPI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.06",
+      "districtName": "TATANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94238,
+      "coordinate": {
+        "longitude": 119.8570365,
+        "latitude": -0.926469,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.06.1003",
+      "name": "TAWANJUKA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.06",
+      "districtName": "TATANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94237,
+      "coordinate": {
+        "longitude": 119.8649827,
+        "latitude": -0.9208537,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.06.1004",
+      "name": "PENGAWU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.06",
+      "districtName": "TATANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94239,
+      "coordinate": {
+        "longitude": 119.8478428,
+        "latitude": -0.9293342,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.06.1005",
+      "name": "DUYU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.06",
+      "districtName": "TATANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94225,
+      "coordinate": {
+        "longitude": 119.8399765,
+        "latitude": -0.9208539,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.06.1006",
+      "name": "BOYAOGE",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.06",
+      "districtName": "TATANGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94221,
+      "coordinate": {
+        "longitude": 119.8546161,
+        "latitude": -0.9110622,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

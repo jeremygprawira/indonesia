@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.03.09.2006",
+      "name": "FATUMTASA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.09",
+      "districtName": "INSANA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85674,
+      "coordinate": {
+        "longitude": 124.5385146,
+        "latitude": -9.2855148,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.09.2007",
+      "name": "OESOKO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.09",
+      "districtName": "INSANA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85674,
+      "coordinate": {
+        "longitude": 124.5689694,
+        "latitude": -9.1899884,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.09.2008",
+      "name": "HUMUSU SAINIUP",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.09",
+      "districtName": "INSANA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85674,
+      "coordinate": {
+        "longitude": 124.5610719,
+        "latitude": -9.299254,
+        "elevation": 360
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.09.2009",
+      "name": "HUMUSU OEKOLO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.09",
+      "districtName": "INSANA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85674,
+      "coordinate": {
+        "longitude": 124.5723783,
+        "latitude": -9.2345088,
+        "elevation": 187
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.03.09.2010",
+      "name": "HUMUSU WINI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.03",
+      "cityName": "KAB. TIMOR TENGAH UTARA",
+      "districtCode": "53.03.09",
+      "districtName": "INSANA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85674,
+      "coordinate": {
+        "longitude": 124.4733984,
+        "latitude": -9.2227586,
+        "elevation": 485
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

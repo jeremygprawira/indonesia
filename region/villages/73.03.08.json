@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.03.08.2001",
+      "name": "BONTO TIRO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.08",
+      "districtName": "SINOA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92450,
+      "coordinate": {
+        "longitude": 119.9432224,
+        "latitude": -5.5151211,
+        "elevation": 209
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.08.2002",
+      "name": "BONTO KARAENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.08",
+      "districtName": "SINOA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92450,
+      "coordinate": {
+        "longitude": 119.925268,
+        "latitude": -5.4804618,
+        "elevation": 646
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.08.2003",
+      "name": "BONTO MACCINI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.08",
+      "districtName": "SINOA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92450,
+      "coordinate": {
+        "longitude": 119.923731,
+        "latitude": -5.5023754,
+        "elevation": 475
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.08.2004",
+      "name": "BONTO MATE-NE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.08",
+      "districtName": "SINOA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.08.2005",
+      "name": "BONTO MAJANNANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.08",
+      "districtName": "SINOA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92450,
+      "coordinate": {
+        "longitude": 119.9099006,
+        "latitude": -5.4966393,
+        "elevation": 564
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.03.08.2006",
+      "name": "BONTO BULAENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.03",
+      "cityName": "KAB. BANTAENG",
+      "districtCode": "73.03.08",
+      "districtName": "SINOA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92450,
+      "coordinate": {
+        "longitude": 119.949138,
+        "latitude": -5.4838209,
+        "elevation": 375
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

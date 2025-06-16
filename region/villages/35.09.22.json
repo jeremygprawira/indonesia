@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.22.2001",
+      "name": "KEMUNINGLOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.22",
+      "districtName": "ARJASA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68191,
+      "coordinate": {
+        "longitude": 113.7118692,
+        "latitude": -8.1052464,
+        "elevation": 264
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.22.2002",
+      "name": "DARSONO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.22",
+      "districtName": "ARJASA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68191,
+      "coordinate": {
+        "longitude": 113.719463,
+        "latitude": -8.104412,
+        "elevation": 233
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.22.2003",
+      "name": "ARJASA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.22",
+      "districtName": "ARJASA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69491,
+      "coordinate": {
+        "longitude": 115.2879917,
+        "latitude": -6.865385,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.22.2004",
+      "name": "CANDIJATI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.22",
+      "districtName": "ARJASA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68191,
+      "coordinate": {
+        "longitude": 113.761313,
+        "latitude": -8.0990139,
+        "elevation": 229
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.22.2005",
+      "name": "BITING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.22",
+      "districtName": "ARJASA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86581,
+      "coordinate": {
+        "longitude": 120.7669148,
+        "latitude": -8.5015464,
+        "elevation": 587
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.22.2006",
+      "name": "KAMAL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.22",
+      "districtName": "ARJASA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97568,
+      "coordinate": {
+        "longitude": 128.2961031,
+        "latitude": -3.2002417,
+        "elevation": 209
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

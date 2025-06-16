@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.27.2001",
+      "name": "POTO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.27",
+      "districtName": "FATULEU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85223,
+      "coordinate": {
+        "longitude": 123.7262749,
+        "latitude": -9.8900516,
+        "elevation": 153
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.27.2002",
+      "name": "NUATAUS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.27",
+      "districtName": "FATULEU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85223,
+      "coordinate": {
+        "longitude": 123.7714117,
+        "latitude": -9.8199288,
+        "elevation": 185
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.27.2003",
+      "name": "KALALI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.27",
+      "districtName": "FATULEU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85223,
+      "coordinate": {
+        "longitude": 123.673202,
+        "latitude": -9.9321124,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.27.2004",
+      "name": "TUAKAU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.27",
+      "districtName": "FATULEU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85223,
+      "coordinate": {
+        "longitude": 123.6982123,
+        "latitude": -9.7881613,
+        "elevation": 176
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.27.2005",
+      "name": "NAITAE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.27",
+      "districtName": "FATULEU BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85223,
+      "coordinate": {
+        "longitude": 123.7065374,
+        "latitude": -9.8602683,
+        "elevation": 64
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

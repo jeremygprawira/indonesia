@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.11.1001",
+      "name": "SIMOKERTO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.11",
+      "districtName": "SIMOKERTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60143,
+      "coordinate": {
+        "longitude": 112.7571153,
+        "latitude": -7.2364766,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.11.1002",
+      "name": "KAPASAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.11",
+      "districtName": "SIMOKERTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60141,
+      "coordinate": {
+        "longitude": 112.7515001,
+        "latitude": -7.2430252,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.11.1003",
+      "name": "SIDODADI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.11",
+      "districtName": "SIMOKERTO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5389879,
+        "latitude": 1.2234312,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.11.1004",
+      "name": "SIMOLAWANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.11",
+      "districtName": "SIMOKERTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60144,
+      "coordinate": {
+        "longitude": 112.7483958,
+        "latitude": -7.2341069,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.11.1005",
+      "name": "TAMBAKREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.11",
+      "districtName": "SIMOKERTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60142,
+      "coordinate": {
+        "longitude": 112.75574,
+        "latitude": -7.2452736,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

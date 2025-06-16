@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.03.30.2001",
+      "name": "OGOAMAS I",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.30",
+      "districtName": "SOJOL UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94358,
+      "coordinate": {
+        "longitude": 120.1503683,
+        "latitude": 0.7179,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.30.2002",
+      "name": "OGOAMAS II",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.30",
+      "districtName": "SOJOL UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94358,
+      "coordinate": {
+        "longitude": 120.1168584,
+        "latitude": 0.7155026,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.30.2003",
+      "name": "LENJU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.30",
+      "districtName": "SOJOL UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94358,
+      "coordinate": {
+        "longitude": 120.095186,
+        "latitude": 0.7227797,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.30.2004",
+      "name": "PESIK",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.30",
+      "districtName": "SOJOL UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94358,
+      "coordinate": {
+        "longitude": 120.0559357,
+        "latitude": 0.7368991,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.30.2005",
+      "name": "BENGKOLI",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.30",
+      "districtName": "SOJOL UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94358,
+      "coordinate": {
+        "longitude": 120.1859559,
+        "latitude": 0.6756582,
+        "elevation": 1156
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

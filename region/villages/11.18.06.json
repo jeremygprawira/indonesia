@@ -1,0 +1,870 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.18.06.2001",
+      "name": "CUT NYONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0675172,
+        "latitude": 5.2881251,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2002",
+      "name": "MEUNASAH GAMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0582287,
+        "latitude": 5.2758981,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2003",
+      "name": "BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24416,
+      "coordinate": {
+        "longitude": 97.9795347,
+        "latitude": 4.4614344,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2004",
+      "name": "PULO RHENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0502309,
+        "latitude": 5.2754541,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2005",
+      "name": "DAYAH NYONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0544851,
+        "latitude": 5.2729796,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2006",
+      "name": "DABOIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0493308,
+        "latitude": 5.2704281,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2007",
+      "name": "BEURANDEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0495922,
+        "latitude": 5.267018,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2008",
+      "name": "KAYE RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0543163,
+        "latitude": 5.265779,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2009",
+      "name": "BLANG GLONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0754519,
+        "latitude": 5.2565507,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2010",
+      "name": "TUTONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0678633,
+        "latitude": 5.2613859,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2011",
+      "name": "SIREN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0622186,
+        "latitude": 5.260974,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2012",
+      "name": "KEUDE LUENG PUTU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0629155,
+        "latitude": 5.2547276,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2013",
+      "name": "PEUB LUENG NIBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0582029,
+        "latitude": 5.2574203,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2014",
+      "name": "BAROH MUSA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0967016,
+        "latitude": 5.2657519,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2015",
+      "name": "TEUNGOH MUSA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2016",
+      "name": "BALEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0816934,
+        "latitude": 5.2537716,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2017",
+      "name": "UDEUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0939964,
+        "latitude": 5.2754545,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2018",
+      "name": "ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92571,
+      "coordinate": {
+        "longitude": 120.4404067,
+        "latitude": -5.53585,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2019",
+      "name": "BAROH LANCOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0858507,
+        "latitude": 5.2792841,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2020",
+      "name": "MANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0752024,
+        "latitude": 5.2703023,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2021",
+      "name": "MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75133,
+      "coordinate": {
+        "longitude": 117.1503547,
+        "latitude": -0.5190314,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2022",
+      "name": "PULO PUEB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.066076,
+        "latitude": 5.2759711,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2023",
+      "name": "SAWANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95867,
+      "coordinate": {
+        "longitude": 125.3897331,
+        "latitude": 2.689336,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2024",
+      "name": "TUALADA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2025",
+      "name": "CUT LANGIEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2026",
+      "name": "SAGOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24185,
+      "coordinate": {
+        "longitude": 96.1767766,
+        "latitude": 5.2566662,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2027",
+      "name": "DAYAH LANGIEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2028",
+      "name": "BAROH COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0767376,
+        "latitude": 5.2444389,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2029",
+      "name": "MEUNASAH BLANG IBOIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2030",
+      "name": "BLANG SUKON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1082213,
+        "latitude": 5.2112691,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2031",
+      "name": "KAYEE JATOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1234237,
+        "latitude": 5.2308093,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2032",
+      "name": "BLANG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1075178,
+        "latitude": 5.245225,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2033",
+      "name": "LANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1154536,
+        "latitude": 5.276798,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2034",
+      "name": "PARU KEUDE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2035",
+      "name": "BLANG KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0704795,
+        "latitude": 5.2167589,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2036",
+      "name": "JIJIEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0707934,
+        "latitude": 5.1981524,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2037",
+      "name": "SARAH PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0915705,
+        "latitude": 5.194215,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2038",
+      "name": "ABAH LUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1202635,
+        "latitude": 5.1528047,
+        "elevation": 243
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2039",
+      "name": "AKI NEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0532976,
+        "latitude": 5.1962051,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2040",
+      "name": "UJONG LEUBAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2041",
+      "name": "ALUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0500105,
+        "latitude": 5.2376133,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2042",
+      "name": "TANOH MIRAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0463324,
+        "latitude": 5.2440435,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.18.06.2043",
+      "name": "PARU COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.18",
+      "cityName": "KAB. PIDIE JAYA",
+      "districtCode": "11.18.06",
+      "districtName": "BANDAR BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1261918,
+        "latitude": 5.2661077,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 43
+  }
+}

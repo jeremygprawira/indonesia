@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.12.2001",
+      "name": "FAFANLAP",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.12",
+      "districtName": "MISOOL SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98485,
+      "coordinate": {
+        "longitude": 130.3317195,
+        "latitude": -1.9618171,
+        "elevation": 201
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.12.2004",
+      "name": "KAREYEPOP",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.12",
+      "districtName": "MISOOL SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.12.2003",
+      "name": "HARAPAN JAYA",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.12",
+      "districtName": "MISOOL SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98485,
+      "coordinate": {
+        "longitude": 130.4048604,
+        "latitude": -2.0424253,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.12.2005",
+      "name": "DABATAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.12",
+      "districtName": "MISOOL SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98485,
+      "coordinate": {
+        "longitude": 130.4364117,
+        "latitude": -2.0730418,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.12.2002",
+      "name": "YELLU",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.12",
+      "districtName": "MISOOL SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98485,
+      "coordinate": {
+        "longitude": 130.5973541,
+        "latitude": -2.2507262,
+        "elevation": 87
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.04.04.2001",
+      "name": "BARINGIN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.04",
+      "districtName": "LIMA KAUM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91760,
+      "coordinate": {
+        "longitude": 119.9478974,
+        "latitude": -3.6551761,
+        "elevation": 247
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.04.2002",
+      "name": "LIMO KAUM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.04",
+      "districtName": "LIMA KAUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27211,
+      "coordinate": {
+        "longitude": 100.5768971,
+        "latitude": -0.4804094,
+        "elevation": 543
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.04.2003",
+      "name": "PARAMBAHAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.04",
+      "districtName": "LIMA KAUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.6047873,
+        "latitude": -0.2034279,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.04.2004",
+      "name": "CUBADAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.04",
+      "districtName": "LIMA KAUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26311,
+      "coordinate": {
+        "longitude": 99.999604,
+        "latitude": 0.3619767,
+        "elevation": 956
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.04.2005",
+      "name": "LABUH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.04",
+      "districtName": "LIMA KAUM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27211,
+      "coordinate": {
+        "longitude": 100.5376733,
+        "latitude": -0.4384228,
+        "elevation": 767
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

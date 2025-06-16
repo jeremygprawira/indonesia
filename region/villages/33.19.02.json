@@ -1,0 +1,510 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.19.02.1001",
+      "name": "PURWOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92970,
+      "coordinate": {
+        "longitude": 120.8539597,
+        "latitude": -2.5056239,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1004",
+      "name": "SUNGGINGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59317,
+      "coordinate": {
+        "longitude": 110.8333516,
+        "latitude": -6.8120963,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1005",
+      "name": "PANJUNAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61162,
+      "coordinate": {
+        "longitude": 112.4787756,
+        "latitude": -7.1554364,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1006",
+      "name": "WERGU WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59318,
+      "coordinate": {
+        "longitude": 110.8479782,
+        "latitude": -6.8161073,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1007",
+      "name": "WERGU KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59318,
+      "coordinate": {
+        "longitude": 110.8429784,
+        "latitude": -6.8136442,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1008",
+      "name": "MLATI KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59319,
+      "coordinate": {
+        "longitude": 110.8550348,
+        "latitude": -6.8146806,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1009",
+      "name": "MLATI NOROWITO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59319,
+      "coordinate": {
+        "longitude": 110.8586978,
+        "latitude": -6.8098925,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1017",
+      "name": "KERJASAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59315,
+      "coordinate": {
+        "longitude": 110.8320681,
+        "latitude": -6.8020134,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.1018",
+      "name": "KAJEKSAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61273,
+      "coordinate": {
+        "longitude": 112.6314285,
+        "latitude": -7.4678077,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2002",
+      "name": "JANGGALAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59316,
+      "coordinate": {
+        "longitude": 110.8288992,
+        "latitude": -6.8058458,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2003",
+      "name": "DEMANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63136,
+      "coordinate": {
+        "longitude": 111.5250648,
+        "latitude": -7.6615104,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2010",
+      "name": "MLATI LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59319,
+      "coordinate": {
+        "longitude": 110.8511386,
+        "latitude": -6.8088777,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2011",
+      "name": "NGANGUK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59311,
+      "coordinate": {
+        "longitude": 110.8501698,
+        "latitude": -6.8065908,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2012",
+      "name": "KRAMAT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3617033,
+        "latitude": -1.8856916,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2013",
+      "name": "DEMAAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59419,
+      "coordinate": {
+        "longitude": 110.6567252,
+        "latitude": -6.5990846,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2014",
+      "name": "LANGGARDALEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59315,
+      "coordinate": {
+        "longitude": 110.8351079,
+        "latitude": -6.8035462,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2015",
+      "name": "KAUMAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78821,
+      "coordinate": {
+        "longitude": 109.9655047,
+        "latitude": -1.8577583,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2016",
+      "name": "DAMARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59316,
+      "coordinate": {
+        "longitude": 110.8305883,
+        "latitude": -6.8022396,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2019",
+      "name": "KRANDON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52146,
+      "coordinate": {
+        "longitude": 109.0889039,
+        "latitude": -6.8747516,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2020",
+      "name": "SINGOCANDI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59314,
+      "coordinate": {
+        "longitude": 110.842617,
+        "latitude": -6.7936748,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2021",
+      "name": "GLANTENGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59313,
+      "coordinate": {
+        "longitude": 110.8434025,
+        "latitude": -6.8023289,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2022",
+      "name": "KALIPUTU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59312,
+      "coordinate": {
+        "longitude": 110.8491074,
+        "latitude": -6.7943462,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2023",
+      "name": "BARONGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59312,
+      "coordinate": {
+        "longitude": 110.8457799,
+        "latitude": -6.8028832,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2024",
+      "name": "BURIKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59311,
+      "coordinate": {
+        "longitude": 110.8515534,
+        "latitude": -6.7998071,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.19.02.2025",
+      "name": "RENDENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.19",
+      "cityName": "KAB. KUDUS",
+      "districtCode": "33.19.02",
+      "districtName": "KOTA KUDUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62153,
+      "coordinate": {
+        "longitude": 111.7230328,
+        "latitude": -7.1112614,
+        "elevation": 24
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 25
+  }
+}

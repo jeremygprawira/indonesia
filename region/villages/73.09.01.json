@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.09.01.1001",
+      "name": "HASANUDDIN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.01",
+      "districtName": "MANDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90552,
+      "coordinate": {
+        "longitude": 119.5437687,
+        "latitude": -5.0562902,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.01.1002",
+      "name": "BONTOA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.01",
+      "districtName": "MANDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90615,
+      "coordinate": {
+        "longitude": 119.614382,
+        "latitude": -4.800202,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.01.2003",
+      "name": "TENRIGANGKAE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.01",
+      "districtName": "MANDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90552,
+      "coordinate": {
+        "longitude": 119.5659967,
+        "latitude": -5.0779251,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.01.2004",
+      "name": "PATTONTONGANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.01",
+      "districtName": "MANDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90552,
+      "coordinate": {
+        "longitude": 119.5616449,
+        "latitude": -5.1102753,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.01.2005",
+      "name": "BONTO MATE-NE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.01",
+      "districtName": "MANDAI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.01.2006",
+      "name": "BAJI MANGNGAI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.01",
+      "districtName": "MANDAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90552,
+      "coordinate": {
+        "longitude": 119.5443254,
+        "latitude": -5.07425,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

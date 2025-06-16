@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.14.2001",
+      "name": "YANIRUMA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.14",
+      "districtName": "YANIRUMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99685,
+      "coordinate": {
+        "longitude": 139.7663855,
+        "latitude": -5.4155852,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.14.2002",
+      "name": "MANGGEMAHE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.14",
+      "districtName": "YANIRUMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99685,
+      "coordinate": {
+        "longitude": 139.9207526,
+        "latitude": -5.4380143,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.14.2003",
+      "name": "FEFERO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.14",
+      "districtName": "YANIRUMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99685,
+      "coordinate": {
+        "longitude": 139.8294458,
+        "latitude": -5.5829256,
+        "elevation": 60
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

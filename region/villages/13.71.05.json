@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.71.05.1001",
+      "name": "BUNGUS TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.71",
+      "cityName": "KOTA PADANG",
+      "districtCode": "13.71.05",
+      "districtName": "BUNGUS TELUK KABUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25237,
+      "coordinate": {
+        "longitude": 100.4308934,
+        "latitude": -1.0098365,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.71.05.1002",
+      "name": "BUNGUS BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.71",
+      "cityName": "KOTA PADANG",
+      "districtCode": "13.71.05",
+      "districtName": "BUNGUS TELUK KABUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25237,
+      "coordinate": {
+        "longitude": 100.4027237,
+        "latitude": -1.0252263,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.71.05.1003",
+      "name": "BUNGUS SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.71",
+      "cityName": "KOTA PADANG",
+      "districtCode": "13.71.05",
+      "districtName": "BUNGUS TELUK KABUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25237,
+      "coordinate": {
+        "longitude": 100.4175143,
+        "latitude": -1.035581,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.71.05.1004",
+      "name": "TELUK KABUNG UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.71",
+      "cityName": "KOTA PADANG",
+      "districtCode": "13.71.05",
+      "districtName": "BUNGUS TELUK KABUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25237,
+      "coordinate": {
+        "longitude": 100.4205304,
+        "latitude": -1.0555084,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.71.05.1005",
+      "name": "TELUK KABUNG TENGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.71",
+      "cityName": "KOTA PADANG",
+      "districtCode": "13.71.05",
+      "districtName": "BUNGUS TELUK KABUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25237,
+      "coordinate": {
+        "longitude": 100.3922433,
+        "latitude": -1.072675,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.71.05.1006",
+      "name": "TELUK KABUNG SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.71",
+      "cityName": "KOTA PADANG",
+      "districtCode": "13.71.05",
+      "districtName": "BUNGUS TELUK KABUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25237,
+      "coordinate": {
+        "longitude": 100.3778431,
+        "latitude": -1.1198271,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.19.2004",
+      "name": "AREFI SELATAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.19",
+      "districtName": "BATANTA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98492,
+      "coordinate": {
+        "longitude": 130.7078161,
+        "latitude": -0.7921404,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.19.2001",
+      "name": "YENSAWAI TIMUR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.19",
+      "districtName": "BATANTA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98492,
+      "coordinate": {
+        "longitude": 130.7352793,
+        "latitude": -0.8214116,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.19.2003",
+      "name": "AREFI TIMUR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.19",
+      "districtName": "BATANTA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98492,
+      "coordinate": {
+        "longitude": 130.77837,
+        "latitude": -0.7697375,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.19.2002",
+      "name": "YENSAWAI BARAT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.19",
+      "districtName": "BATANTA UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98492,
+      "coordinate": {
+        "longitude": 130.5728869,
+        "latitude": -0.8330577,
+        "elevation": 256
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

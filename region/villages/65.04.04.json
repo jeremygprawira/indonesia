@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.04.04.2001",
+      "name": "BUONG BARU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.04",
+      "districtName": "BETAYAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77152,
+      "coordinate": {
+        "longitude": 117.0624813,
+        "latitude": 3.4713573,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.04.2002",
+      "name": "BEBAKUNG",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.04",
+      "districtName": "BETAYAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77152,
+      "coordinate": {
+        "longitude": 116.9347657,
+        "latitude": 3.4787168,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.04.2003",
+      "name": "KUJAU",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.04",
+      "districtName": "BETAYAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77152,
+      "coordinate": {
+        "longitude": 117.0022847,
+        "latitude": 3.460371,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.04.2004",
+      "name": "MENDUPO",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.04",
+      "districtName": "BETAYAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77152,
+      "coordinate": {
+        "longitude": 116.9037465,
+        "latitude": 3.4339497,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.04.2005",
+      "name": "MANING",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.04",
+      "districtName": "BETAYAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77152,
+      "coordinate": {
+        "longitude": 117.0085146,
+        "latitude": 3.4720283,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.04.2006",
+      "name": "PERIUK",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.04",
+      "districtName": "BETAYAU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77152,
+      "coordinate": {
+        "longitude": 116.9048509,
+        "latitude": 3.4316354,
+        "elevation": 75
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

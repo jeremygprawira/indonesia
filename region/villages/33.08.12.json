@@ -1,0 +1,590 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.08.12.2001",
+      "name": "WONOGIRI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52364,
+      "coordinate": {
+        "longitude": 109.4844503,
+        "latitude": -6.9455013,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2002",
+      "name": "KWADERAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0661159,
+        "latitude": -7.5369551,
+        "elevation": 489
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2003",
+      "name": "MADUKORO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0789098,
+        "latitude": -7.5332125,
+        "elevation": 464
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2004",
+      "name": "BUMIAYU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2136453,
+        "latitude": -3.4208024,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2005",
+      "name": "MADUGONDO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0970124,
+        "latitude": -7.5280789,
+        "elevation": 451
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2006",
+      "name": "NGARGOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61124,
+      "coordinate": {
+        "longitude": 112.63955,
+        "latitude": -7.181407,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2007",
+      "name": "NGENDROSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0992869,
+        "latitude": -7.5348225,
+        "elevation": 465
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2008",
+      "name": "LESANPURO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65138,
+      "coordinate": {
+        "longitude": 112.6626012,
+        "latitude": -7.9906185,
+        "elevation": 489
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2009",
+      "name": "BANJARETNO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.1116752,
+        "latitude": -7.5226102,
+        "elevation": 412
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2010",
+      "name": "KRINJING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.1259279,
+        "latitude": -7.509312,
+        "elevation": 529
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2011",
+      "name": "BANGSRI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63351,
+      "coordinate": {
+        "longitude": 111.3044798,
+        "latitude": -7.6747564,
+        "elevation": 483
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2012",
+      "name": "WADAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51362,
+      "coordinate": {
+        "longitude": 109.9978365,
+        "latitude": -7.0527762,
+        "elevation": 461
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2013",
+      "name": "KAJORAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57426,
+      "coordinate": {
+        "longitude": 110.5907419,
+        "latitude": -7.7461173,
+        "elevation": 134
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2014",
+      "name": "MANGUNREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63382,
+      "coordinate": {
+        "longitude": 111.3861309,
+        "latitude": -7.6904145,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2015",
+      "name": "SAMBAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0825389,
+        "latitude": -7.5217559,
+        "elevation": 485
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2016",
+      "name": "BAMBUSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0716299,
+        "latitude": -7.5229699,
+        "elevation": 480
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2017",
+      "name": "WUWUHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0536795,
+        "latitude": -7.5305534,
+        "elevation": 586
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2018",
+      "name": "PANDANSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63264,
+      "coordinate": {
+        "longitude": 111.165061,
+        "latitude": -7.5512486,
+        "elevation": 750
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2019",
+      "name": "PANDANRETNO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0636497,
+        "latitude": -7.4933944,
+        "elevation": 710
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2020",
+      "name": "KRUMPAKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0836645,
+        "latitude": -7.4978318,
+        "elevation": 748
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2021",
+      "name": "BANJARAGUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61173,
+      "coordinate": {
+        "longitude": 112.4596369,
+        "latitude": -7.2977677,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2022",
+      "name": "SANGEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63171,
+      "coordinate": {
+        "longitude": 111.5359331,
+        "latitude": -7.688753,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2023",
+      "name": "PUCUNGROTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.1103095,
+        "latitude": -7.49408,
+        "elevation": 621
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2024",
+      "name": "SIDOREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2025",
+      "name": "SIDOWANGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68453,
+      "coordinate": {
+        "longitude": 114.3267194,
+        "latitude": -7.9842154,
+        "elevation": 343
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2026",
+      "name": "SUKOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75766,
+      "coordinate": {
+        "longitude": 115.6492015,
+        "latitude": -0.0084907,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2027",
+      "name": "SUKOREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74280,
+      "coordinate": {
+        "longitude": 112.0445295,
+        "latitude": -2.263078,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2028",
+      "name": "SUTOPATI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.077602,
+        "latitude": -7.4510551,
+        "elevation": 1134
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.12.2029",
+      "name": "SUKOMAKMUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.12",
+      "districtName": "KAJORAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56163,
+      "coordinate": {
+        "longitude": 110.0691299,
+        "latitude": -7.4227377,
+        "elevation": 1578
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 29
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.01.21.1002",
+      "name": "KADOMAS",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.21",
+      "districtName": "PANDEGLANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42218,
+      "coordinate": {
+        "longitude": 106.1130286,
+        "latitude": -6.331642,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.21.1003",
+      "name": "BABAKAN KALANGANYAR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.21",
+      "districtName": "PANDEGLANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42219,
+      "coordinate": {
+        "longitude": 106.1219289,
+        "latitude": -6.3422738,
+        "elevation": 148
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.21.1004",
+      "name": "KABAYAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.21",
+      "districtName": "PANDEGLANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42212,
+      "coordinate": {
+        "longitude": 106.1161751,
+        "latitude": -6.3189508,
+        "elevation": 180
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.01.21.1009",
+      "name": "PANDEGLANG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.01",
+      "cityName": "KAB. PANDEGLANG",
+      "districtCode": "36.01.21",
+      "districtName": "PANDEGLANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42211,
+      "coordinate": {
+        "longitude": 106.103875,
+        "latitude": -6.3022564,
+        "elevation": 289
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.04.11.2001",
+      "name": "BOKIMIAKE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.11",
+      "districtName": "KAYOA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97781,
+      "coordinate": {
+        "longitude": 127.1020889,
+        "latitude": -0.2207465,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.11.2002",
+      "name": "HATEJAWA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.11",
+      "districtName": "KAYOA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97781,
+      "coordinate": {
+        "longitude": 127.1136457,
+        "latitude": -0.2426327,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.11.2003",
+      "name": "BUSUA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.11",
+      "districtName": "KAYOA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97781,
+      "coordinate": {
+        "longitude": 127.1294989,
+        "latitude": -0.2126505,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.11.2004",
+      "name": "FOFAO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.11",
+      "districtName": "KAYOA BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97781,
+      "coordinate": {
+        "longitude": 127.1378064,
+        "latitude": -0.1838704,
+        "elevation": 98
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

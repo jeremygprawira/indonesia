@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "63.71.01",
+      "name": "BANJARMASIN SELATAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.71",
+      "cityName": "KOTA BANJARMASIN"
+    },
+    {
+      "type": "district",
+      "code": "63.71.02",
+      "name": "BANJARMASIN TIMUR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.71",
+      "cityName": "KOTA BANJARMASIN"
+    },
+    {
+      "type": "district",
+      "code": "63.71.03",
+      "name": "BANJARMASIN BARAT",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.71",
+      "cityName": "KOTA BANJARMASIN"
+    },
+    {
+      "type": "district",
+      "code": "63.71.04",
+      "name": "BANJARMASIN UTARA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.71",
+      "cityName": "KOTA BANJARMASIN"
+    },
+    {
+      "type": "district",
+      "code": "63.71.05",
+      "name": "BANJARMASIN TENGAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.71",
+      "cityName": "KOTA BANJARMASIN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

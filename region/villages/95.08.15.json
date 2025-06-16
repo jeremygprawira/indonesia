@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.15.2001",
+      "name": "ALAMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.15",
+      "districtName": "ALAMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99901,
+      "coordinate": {
+        "longitude": 137.9221425,
+        "latitude": -4.2070047,
+        "elevation": 2688
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.15.2002",
+      "name": "NOLIT",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.15",
+      "districtName": "ALAMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99901,
+      "coordinate": {
+        "longitude": 138.0132765,
+        "latitude": -4.5317813,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.15.2003",
+      "name": "GIN",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.15",
+      "districtName": "ALAMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99901,
+      "coordinate": {
+        "longitude": 137.8877998,
+        "latitude": -4.4473868,
+        "elevation": 495
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.15.2004",
+      "name": "KULESA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.15",
+      "districtName": "ALAMA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99901,
+      "coordinate": {
+        "longitude": 137.7875552,
+        "latitude": -4.1766135,
+        "elevation": 2435
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

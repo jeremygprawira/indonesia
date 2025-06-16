@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.05.02.1007",
+      "name": "PANGKALAN KERINCI BARAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.02",
+      "districtName": "PANGKALAN KERINCI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28381,
+      "coordinate": {
+        "longitude": 101.8275567,
+        "latitude": 0.3864693,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.02.1008",
+      "name": "PANGKALAN KERINCI KOTA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.02",
+      "districtName": "PANGKALAN KERINCI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28381,
+      "coordinate": {
+        "longitude": 101.8530982,
+        "latitude": 0.3937422,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.02.1009",
+      "name": "PANGKALAN KERINCI TIMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.02",
+      "districtName": "PANGKALAN KERINCI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.02.2001",
+      "name": "MEKAR JAYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.02",
+      "districtName": "PANGKALAN KERINCI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96364,
+      "coordinate": {
+        "longitude": 121.8908388,
+        "latitude": 0.50174,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.02.2002",
+      "name": "KUALA TERUSAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.02",
+      "districtName": "PANGKALAN KERINCI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28381,
+      "coordinate": {
+        "longitude": 101.8683776,
+        "latitude": 0.3372878,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.02.2003",
+      "name": "MAKMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.02",
+      "districtName": "PANGKALAN KERINCI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99673,
+      "coordinate": {
+        "longitude": 139.9695452,
+        "latitude": -6.0522513,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.05.02.2005",
+      "name": "RANTAU BARU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.05",
+      "cityName": "KAB.  PELALAWAN",
+      "districtCode": "14.05.02",
+      "districtName": "PANGKALAN KERINCI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28381,
+      "coordinate": {
+        "longitude": 101.8101364,
+        "latitude": 0.3076134,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

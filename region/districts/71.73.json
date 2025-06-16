@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "71.73.01",
+      "name": "TOMOHON SELATAN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON"
+    },
+    {
+      "type": "district",
+      "code": "71.73.02",
+      "name": "TOMOHON TENGAH",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON"
+    },
+    {
+      "type": "district",
+      "code": "71.73.03",
+      "name": "TOMOHON UTARA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON"
+    },
+    {
+      "type": "district",
+      "code": "71.73.04",
+      "name": "TOMOHON BARAT",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON"
+    },
+    {
+      "type": "district",
+      "code": "71.73.05",
+      "name": "TOMOHON TIMUR",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.73",
+      "cityName": "KOTA TOMOHON"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

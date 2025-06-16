@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.05.02.2001",
+      "name": "KEMPO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86757,
+      "coordinate": {
+        "longitude": 120.0547274,
+        "latitude": -8.6255057,
+        "elevation": 400
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.05.02.2002",
+      "name": "TA-A",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.05.02.2003",
+      "name": "SORO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90981,
+      "coordinate": {
+        "longitude": 120.3221206,
+        "latitude": -4.1924311,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.05.02.2004",
+      "name": "KONTE",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84261,
+      "coordinate": {
+        "longitude": 118.2198704,
+        "latitude": -8.5019603,
+        "elevation": 208
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.05.02.2005",
+      "name": "TOLO KALO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84261,
+      "coordinate": {
+        "longitude": 118.1518572,
+        "latitude": -8.4688464,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.05.02.2006",
+      "name": "SONGGAJA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84261,
+      "coordinate": {
+        "longitude": 118.1963405,
+        "latitude": -8.5490982,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.05.02.2007",
+      "name": "DORO KOBO",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84261,
+      "coordinate": {
+        "longitude": 118.2837726,
+        "latitude": -8.5164158,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.05.02.2008",
+      "name": "SORO BARAT",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.05",
+      "cityName": "KAB. DOMPU",
+      "districtCode": "52.05.02",
+      "districtName": "KEMPO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84261,
+      "coordinate": {
+        "longitude": 118.2186164,
+        "latitude": -8.5557568,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

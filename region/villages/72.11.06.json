@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.11.06.2001",
+      "name": "MATANGA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.06",
+      "districtName": "BANGGAI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94890,
+      "coordinate": {
+        "longitude": 123.5951462,
+        "latitude": -1.7023867,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.06.2002",
+      "name": "TOLOKIBIT",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.06",
+      "districtName": "BANGGAI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94890,
+      "coordinate": {
+        "longitude": 123.5265896,
+        "latitude": -1.7117032,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.06.2003",
+      "name": "BENTEAN",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.06",
+      "districtName": "BANGGAI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94890,
+      "coordinate": {
+        "longitude": 123.5055914,
+        "latitude": -1.7116093,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.06.2004",
+      "name": "MALINO PADAS",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.06",
+      "districtName": "BANGGAI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94890,
+      "coordinate": {
+        "longitude": 123.5763684,
+        "latitude": -1.6703407,
+        "elevation": 314
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.06.2005",
+      "name": "KELAPA LIMA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.06",
+      "districtName": "BANGGAI SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99612,
+      "coordinate": {
+        "longitude": 140.414271,
+        "latitude": -8.4810468,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.11.06.2006",
+      "name": "LABUAN KAPELAK",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.11",
+      "cityName": "KAB. BANGGAI LAUT",
+      "districtCode": "72.11.06",
+      "districtName": "BANGGAI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94890,
+      "coordinate": {
+        "longitude": 123.567762,
+        "latitude": -1.7157153,
+        "elevation": 90
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

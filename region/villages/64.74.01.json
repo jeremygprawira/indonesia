@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.74.01.1001",
+      "name": "BONTANG KUALA",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.01",
+      "districtName": "BONTANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75312,
+      "coordinate": {
+        "longitude": 117.5095409,
+        "latitude": 0.1340998,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.01.1002",
+      "name": "BONTANG BARU",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.01",
+      "districtName": "BONTANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75311,
+      "coordinate": {
+        "longitude": 117.4938688,
+        "latitude": 0.1431706,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.01.1003",
+      "name": "LOK TUAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.01",
+      "districtName": "BONTANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75314,
+      "coordinate": {
+        "longitude": 117.4750155,
+        "latitude": 0.15902,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.01.1004",
+      "name": "GUNTUNG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.01",
+      "districtName": "BONTANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75314,
+      "coordinate": {
+        "longitude": 117.4947174,
+        "latitude": 0.1872003,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.01.1005",
+      "name": "GUNUNG ELAI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.01",
+      "districtName": "BONTANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75311,
+      "coordinate": {
+        "longitude": 117.4742449,
+        "latitude": 0.1405814,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.74.01.1006",
+      "name": "API-API",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.74",
+      "cityName": "KOTA BONTANG",
+      "districtCode": "64.74.01",
+      "districtName": "BONTANG UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75311,
+      "coordinate": {
+        "longitude": 117.4866454,
+        "latitude": 0.1297819,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

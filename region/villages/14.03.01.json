@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.03.01.1001",
+      "name": "BENGKALIS KOTA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28712,
+      "coordinate": {
+        "longitude": 102.1098808,
+        "latitude": 1.4686019,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.1002",
+      "name": "DAMON",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28713,
+      "coordinate": {
+        "longitude": 102.1043051,
+        "latitude": 1.4720898,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.1003",
+      "name": "RIMBA SEKAMPUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28822,
+      "coordinate": {
+        "longitude": 101.4353572,
+        "latitude": 1.6722151,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2004",
+      "name": "KELAPAPATI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28716,
+      "coordinate": {
+        "longitude": 102.0909653,
+        "latitude": 1.4802263,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2005",
+      "name": "PEDEKIK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28726,
+      "coordinate": {
+        "longitude": 102.0893199,
+        "latitude": 1.4985862,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2006",
+      "name": "PANGKALAN BATANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28724,
+      "coordinate": {
+        "longitude": 102.0863963,
+        "latitude": 1.5146094,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2007",
+      "name": "SEBAUK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28733,
+      "coordinate": {
+        "longitude": 102.061344,
+        "latitude": 1.5334713,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2008",
+      "name": "TELUK LATAK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28739,
+      "coordinate": {
+        "longitude": 102.0391014,
+        "latitude": 1.5557333,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2009",
+      "name": "MESKOM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28722,
+      "coordinate": {
+        "longitude": 102.0289438,
+        "latitude": 1.5610759,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2010",
+      "name": "SENGGORO",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28714,
+      "coordinate": {
+        "longitude": 102.1269086,
+        "latitude": 1.4714006,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2011",
+      "name": "AIR PUTIH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75124,
+      "coordinate": {
+        "longitude": 117.1220551,
+        "latitude": -0.4789732,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2012",
+      "name": "SUNGAI ALAM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2013",
+      "name": "PENAMPI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28729,
+      "coordinate": {
+        "longitude": 102.1744931,
+        "latitude": 1.4436991,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2014",
+      "name": "TEMERAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28740,
+      "coordinate": {
+        "longitude": 102.2367783,
+        "latitude": 1.4354691,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2015",
+      "name": "PENEBAL",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28730,
+      "coordinate": {
+        "longitude": 102.2660115,
+        "latitude": 1.4371427,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2016",
+      "name": "PEMATANG DUKU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28727,
+      "coordinate": {
+        "longitude": 102.3126071,
+        "latitude": 1.4260454,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2017",
+      "name": "KETAM PUTIH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28720,
+      "coordinate": {
+        "longitude": 102.3204943,
+        "latitude": 1.4201409,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2018",
+      "name": "KELEMANTAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28718,
+      "coordinate": {
+        "longitude": 102.4146918,
+        "latitude": 1.3156528,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2019",
+      "name": "SEKODI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28735,
+      "coordinate": {
+        "longitude": 102.4963799,
+        "latitude": 1.2753748,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2020",
+      "name": "WONOSARI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98441,
+      "coordinate": {
+        "longitude": 131.4382023,
+        "latitude": -1.0860469,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2021",
+      "name": "KUALA ALAM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28721,
+      "coordinate": {
+        "longitude": 102.1586517,
+        "latitude": 1.4522362,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2022",
+      "name": "KELEBUK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28717,
+      "coordinate": {
+        "longitude": 102.1947607,
+        "latitude": 1.4428814,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2023",
+      "name": "PALKUN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28723,
+      "coordinate": {
+        "longitude": 102.4456412,
+        "latitude": 1.2932466,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2024",
+      "name": "SUNGAI BATANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70618,
+      "coordinate": {
+        "longitude": 114.800229,
+        "latitude": -3.3706012,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2025",
+      "name": "PRAPAT TUNGGAL",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28731,
+      "coordinate": {
+        "longitude": 102.0065648,
+        "latitude": 1.5814114,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2026",
+      "name": "SIMPANG AYAM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28737,
+      "coordinate": {
+        "longitude": 102.0402427,
+        "latitude": 1.5874642,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2027",
+      "name": "SENDERAK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28736,
+      "coordinate": {
+        "longitude": 102.0546763,
+        "latitude": 1.5487477,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2028",
+      "name": "KELEMANTAN BARAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28719,
+      "coordinate": {
+        "longitude": 102.3829418,
+        "latitude": 1.3427816,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2029",
+      "name": "DAMAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99951,
+      "coordinate": {
+        "longitude": 136.889099,
+        "latitude": -4.4816991,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2030",
+      "name": "PANGKALAN BATANG BARAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28725,
+      "coordinate": {
+        "longitude": 102.0657063,
+        "latitude": 1.5002748,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.03.01.2031",
+      "name": "PEMATANG DUKU TIMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.03",
+      "cityName": "KAB. BENGKALIS",
+      "districtCode": "14.03.01",
+      "districtName": "BENGKALIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28728,
+      "coordinate": {
+        "longitude": 102.3348519,
+        "latitude": 1.4336702,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 31
+  }
+}

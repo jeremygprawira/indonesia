@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.18.09.2001",
+      "name": "BABAKAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83233,
+      "coordinate": {
+        "longitude": 116.134958,
+        "latitude": -8.6058326,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.09.2002",
+      "name": "SUKAHURIP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46191,
+      "coordinate": {
+        "longitude": 108.2411684,
+        "latitude": -7.3737624,
+        "elevation": 353
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.09.2003",
+      "name": "PURBAHAYU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46396,
+      "coordinate": {
+        "longitude": 108.6515837,
+        "latitude": -7.6412234,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.09.2004",
+      "name": "PANGANDARAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91372,
+      "coordinate": {
+        "longitude": 119.0893864,
+        "latitude": -2.7562481,
+        "elevation": 586
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.09.2005",
+      "name": "WONOHARJO",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57615,
+      "coordinate": {
+        "longitude": 110.9583825,
+        "latitude": -7.7485757,
+        "elevation": 211
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.09.2006",
+      "name": "SIDOMULYO",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.09.2007",
+      "name": "PANANJUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46396,
+      "coordinate": {
+        "longitude": 108.6471507,
+        "latitude": -7.6877987,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.09.2008",
+      "name": "PAGERGUNUNG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.09",
+      "districtName": "PANGANDARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66191,
+      "coordinate": {
+        "longitude": 112.3821252,
+        "latitude": -8.1434137,
+        "elevation": 210
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

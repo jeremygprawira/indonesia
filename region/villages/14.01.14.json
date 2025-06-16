@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.01.14.2001",
+      "name": "PULAU PAYUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.14",
+      "districtName": "RUMBIO JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28458,
+      "coordinate": {
+        "longitude": 101.1424915,
+        "latitude": 0.3676097,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.14.2002",
+      "name": "TERATAK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.14",
+      "districtName": "RUMBIO JAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75553,
+      "coordinate": {
+        "longitude": 116.8772502,
+        "latitude": -0.2301326,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.14.2003",
+      "name": "ALAM PANJANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.14",
+      "districtName": "RUMBIO JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28458,
+      "coordinate": {
+        "longitude": 101.1665359,
+        "latitude": 0.3833867,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.14.2004",
+      "name": "BUKIT KRATAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.14",
+      "districtName": "RUMBIO JAYA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.14.2005",
+      "name": "BATANG BATINDIH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.14",
+      "districtName": "RUMBIO JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28458,
+      "coordinate": {
+        "longitude": 101.1483882,
+        "latitude": 0.4825619,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.14.2006",
+      "name": "TAMBUSAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.14",
+      "districtName": "RUMBIO JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28458,
+      "coordinate": {
+        "longitude": 101.1492872,
+        "latitude": 0.5047288,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.14.2007",
+      "name": "SIMPANG PETAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.14",
+      "districtName": "RUMBIO JAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28458,
+      "coordinate": {
+        "longitude": 101.1225759,
+        "latitude": 0.3852864,
+        "elevation": 37
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

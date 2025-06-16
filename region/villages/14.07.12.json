@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.07.12.1004",
+      "name": "BANTAYAN HILIR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.12",
+      "districtName": "BATU HAMPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28912,
+      "coordinate": {
+        "longitude": 100.9085875,
+        "latitude": 1.9528619,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.12.2001",
+      "name": "BANTAIAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.12",
+      "districtName": "BATU HAMPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28912,
+      "coordinate": {
+        "longitude": 101.0031777,
+        "latitude": 1.9187759,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.12.2002",
+      "name": "SUNGAISIALANG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.12",
+      "districtName": "BATU HAMPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28912,
+      "coordinate": {
+        "longitude": 100.9557749,
+        "latitude": 1.987329,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.12.2003",
+      "name": "BANTAYAN BARU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.12",
+      "districtName": "BATU HAMPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28912,
+      "coordinate": {
+        "longitude": 100.9314102,
+        "latitude": 1.956635,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.12.2005",
+      "name": "SUNGAISIALANG HULU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.12",
+      "districtName": "BATU HAMPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28912,
+      "coordinate": {
+        "longitude": 100.9358222,
+        "latitude": 1.9713127,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

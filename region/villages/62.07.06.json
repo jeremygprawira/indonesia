@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.07.06.2001",
+      "name": "MEKAR INDAH",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.06",
+      "districtName": "SERUYAN HILIR TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92854,
+      "coordinate": {
+        "longitude": 120.4531509,
+        "latitude": -5.9883379,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.06.2002",
+      "name": "HALIMAUNG JAYA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.06",
+      "districtName": "SERUYAN HILIR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74215,
+      "coordinate": {
+        "longitude": 112.5393685,
+        "latitude": -3.2352685,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.06.2003",
+      "name": "BANGUN HARJA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.06",
+      "districtName": "SERUYAN HILIR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74215,
+      "coordinate": {
+        "longitude": 112.537603,
+        "latitude": -3.2946726,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.06.2004",
+      "name": "KARTIKA BHAKTI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.06",
+      "districtName": "SERUYAN HILIR TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74215,
+      "coordinate": {
+        "longitude": 112.5652359,
+        "latitude": -3.3301839,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.06.2005",
+      "name": "PEMATANG PANJANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.06",
+      "districtName": "SERUYAN HILIR TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70653,
+      "coordinate": {
+        "longitude": 114.695039,
+        "latitude": -3.353127,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.07.06.2006",
+      "name": "SUNGAI BAKAU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.07",
+      "cityName": "KAB. SERUYAN",
+      "districtCode": "62.07.06",
+      "districtName": "SERUYAN HILIR TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70851,
+      "coordinate": {
+        "longitude": 114.6240312,
+        "latitude": -3.7039243,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

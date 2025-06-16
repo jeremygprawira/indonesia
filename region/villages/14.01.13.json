@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.01.13.2001",
+      "name": "SALO",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.13",
+      "districtName": "SALO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99085,
+      "coordinate": {
+        "longitude": 139.2479403,
+        "latitude": -3.8122448,
+        "elevation": 1017
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.13.2002",
+      "name": "SIABU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.13",
+      "districtName": "SALO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28451,
+      "coordinate": {
+        "longitude": 101.0467421,
+        "latitude": 0.2076435,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.13.2003",
+      "name": "SALO TIMUR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.13",
+      "districtName": "SALO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28451,
+      "coordinate": {
+        "longitude": 101.0254551,
+        "latitude": 0.2804846,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.13.2004",
+      "name": "SIPUNGGUK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.13",
+      "districtName": "SALO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.13.2005",
+      "name": "GANTING DAMAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.13",
+      "districtName": "SALO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28451,
+      "coordinate": {
+        "longitude": 100.9461674,
+        "latitude": 0.3988201,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.01.13.2006",
+      "name": "GANTING",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.01",
+      "cityName": "KAB. KAMPAR",
+      "districtCode": "14.01.13",
+      "districtName": "SALO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61254,
+      "coordinate": {
+        "longitude": 112.7041228,
+        "latitude": -7.39721,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.05.10.2001",
+      "name": "KAWATA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.10",
+      "districtName": "MANGOLI UTARA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.1839145,
+        "latitude": -1.8311309,
+        "elevation": 646
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.10.2002",
+      "name": "WAISAKAI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.10",
+      "districtName": "MANGOLI UTARA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.2998454,
+        "latitude": -1.8317198,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.10.2003",
+      "name": "PELITA JAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.10",
+      "districtName": "MANGOLI UTARA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.2228945,
+        "latitude": -1.8426249,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.10.2004",
+      "name": "WAISUM",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.10",
+      "districtName": "MANGOLI UTARA TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.4358289,
+        "latitude": -1.8176713,
+        "elevation": 253
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

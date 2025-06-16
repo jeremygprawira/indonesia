@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.06.07.2001",
+      "name": "SIMPANG PESAK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.07",
+      "districtName": "SIMPANG PESAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33560,
+      "coordinate": {
+        "longitude": 107.91558,
+        "latitude": -3.1871521,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.06.07.2002",
+      "name": "TANJUNG BATU ITAM",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.07",
+      "districtName": "SIMPANG PESAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33560,
+      "coordinate": {
+        "longitude": 108.0784498,
+        "latitude": -3.1770861,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.06.07.2003",
+      "name": "TANJUNG KELUMPANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.07",
+      "districtName": "SIMPANG PESAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33560,
+      "coordinate": {
+        "longitude": 108.0620132,
+        "latitude": -3.7889381,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.06.07.2004",
+      "name": "DUKONG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.06",
+      "cityName": "KAB. BELITUNG TIMUR",
+      "districtCode": "19.06.07",
+      "districtName": "SIMPANG PESAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33560,
+      "coordinate": {
+        "longitude": 107.9860645,
+        "latitude": -3.1837921,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

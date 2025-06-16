@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.71.09.1001",
+      "name": "BENGKONG INDAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.09",
+      "districtName": "BENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29458,
+      "coordinate": {
+        "longitude": 104.0290607,
+        "latitude": 1.1500209,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.09.1002",
+      "name": "BENGKONG LAUT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.09",
+      "districtName": "BENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29458,
+      "coordinate": {
+        "longitude": 104.0294348,
+        "latitude": 1.1553081,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.09.1003",
+      "name": "SADAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.09",
+      "districtName": "BENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29432,
+      "coordinate": {
+        "longitude": 104.0451715,
+        "latitude": 1.1519485,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.71.09.1004",
+      "name": "TANJUNG BUNTUNG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.71",
+      "cityName": "KOTA BATAM",
+      "districtCode": "21.71.09",
+      "districtName": "BENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29432,
+      "coordinate": {
+        "longitude": 104.0331049,
+        "latitude": 1.1702823,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

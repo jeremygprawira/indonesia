@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.23.2001",
+      "name": "MEYADO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.23",
+      "districtName": "MEYADO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98153,
+      "coordinate": {
+        "longitude": 133.1529006,
+        "latitude": -1.916913,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.23.2002",
+      "name": "BARMA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.23",
+      "districtName": "MEYADO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98153,
+      "coordinate": {
+        "longitude": 133.060013,
+        "latitude": -1.9115402,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.23.2003",
+      "name": "BARMA BARU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.23",
+      "districtName": "MEYADO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98153,
+      "coordinate": {
+        "longitude": 133.0772703,
+        "latitude": -1.931546,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.23.2004",
+      "name": "VASCO DAMNEEN",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.23",
+      "districtName": "MEYADO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98153,
+      "coordinate": {
+        "longitude": 133.1217123,
+        "latitude": -1.9363132,
+        "elevation": 50
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

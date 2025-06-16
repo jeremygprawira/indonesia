@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.08.1001",
+      "name": "GEDONGKIWO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.08",
+      "districtName": "MANTRIJERON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55142,
+      "coordinate": {
+        "longitude": 110.3532237,
+        "latitude": -7.8181558,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.08.1002",
+      "name": "SURYODININGRATAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.08",
+      "districtName": "MANTRIJERON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55141,
+      "coordinate": {
+        "longitude": 110.3584683,
+        "latitude": -7.8192575,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.08.1003",
+      "name": "MANTRIJERON",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.08",
+      "districtName": "MANTRIJERON",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55143,
+      "coordinate": {
+        "longitude": 110.3646517,
+        "latitude": -7.8207122,
+        "elevation": 94
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

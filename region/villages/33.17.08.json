@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.17.08.2001",
+      "name": "TANJUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2002",
+      "name": "KEMADU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3877221,
+        "latitude": -6.8268035,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2003",
+      "name": "SULANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80761,
+      "coordinate": {
+        "longitude": 115.4243363,
+        "latitude": -8.5328145,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2004",
+      "name": "POMAHAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62192,
+      "coordinate": {
+        "longitude": 112.0732462,
+        "latitude": -7.1145558,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2005",
+      "name": "RUKEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.4097021,
+        "latitude": -6.8018112,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2006",
+      "name": "KOROWELANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.4125654,
+        "latitude": -6.7887206,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2007",
+      "name": "KARANGHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68466,
+      "coordinate": {
+        "longitude": 114.0332535,
+        "latitude": -8.3694142,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2008",
+      "name": "JATIMUDO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3850127,
+        "latitude": -6.7987919,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2009",
+      "name": "KUNIR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66155,
+      "coordinate": {
+        "longitude": 112.0198328,
+        "latitude": -8.0820857,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2010",
+      "name": "GLEBEG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3790493,
+        "latitude": -6.7728125,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2011",
+      "name": "BOGORAME",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3538949,
+        "latitude": -6.7713784,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2012",
+      "name": "KALIOMBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64126,
+      "coordinate": {
+        "longitude": 112.0160912,
+        "latitude": -7.8344819,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2013",
+      "name": "SUDO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3254569,
+        "latitude": -6.8003818,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2014",
+      "name": "KARANGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42277,
+      "coordinate": {
+        "longitude": 105.840127,
+        "latitude": -6.564011,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2015",
+      "name": "PRAGU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3355757,
+        "latitude": -6.7493108,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2016",
+      "name": "KEBONAGUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67116,
+      "coordinate": {
+        "longitude": 112.8937409,
+        "latitude": -7.6568359,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2017",
+      "name": "SEREN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3348484,
+        "latitude": -6.7625596,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2018",
+      "name": "PRANTI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61174,
+      "coordinate": {
+        "longitude": 112.5428586,
+        "latitude": -7.2889183,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2019",
+      "name": "PEDAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3513587,
+        "latitude": -6.7600904,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2020",
+      "name": "LANDOH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59254,
+      "coordinate": {
+        "longitude": 111.3709057,
+        "latitude": -6.7678305,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.08.2021",
+      "name": "KEREP",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.08",
+      "districtName": "SULANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64152,
+      "coordinate": {
+        "longitude": 111.972072,
+        "latitude": -7.7072371,
+        "elevation": 61
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

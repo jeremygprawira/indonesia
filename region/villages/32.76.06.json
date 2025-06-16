@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.06.1001",
+      "name": "BEJI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.06",
+      "districtName": "BEJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65326,
+      "coordinate": {
+        "longitude": 112.5481308,
+        "latitude": -7.8944802,
+        "elevation": 783
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.06.1002",
+      "name": "KUKUSAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.06",
+      "districtName": "BEJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68352,
+      "coordinate": {
+        "longitude": 113.8779515,
+        "latitude": -7.7279155,
+        "elevation": 284
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.06.1003",
+      "name": "TANAH BARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.06",
+      "districtName": "BEJI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97595,
+      "coordinate": {
+        "longitude": 131.6678769,
+        "latitude": -4.4938154,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.06.1004",
+      "name": "KEMIRI MUKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.06",
+      "districtName": "BEJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16423,
+      "coordinate": {
+        "longitude": 106.833354,
+        "latitude": -6.380364,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.06.1005",
+      "name": "PONDOK CINA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.06",
+      "districtName": "BEJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16424,
+      "coordinate": {
+        "longitude": 106.8356665,
+        "latitude": -6.3638182,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.06.1006",
+      "name": "BEJI TIMUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.06",
+      "districtName": "BEJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16422,
+      "coordinate": {
+        "longitude": 106.8223457,
+        "latitude": -6.3813126,
+        "elevation": 85
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

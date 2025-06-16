@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.72.05.1001",
+      "name": "REJOMULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.05",
+      "districtName": "METRO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63111,
+      "coordinate": {
+        "longitude": 111.5429549,
+        "latitude": -7.6153213,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.05.1002",
+      "name": "MARGOREJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.05",
+      "districtName": "METRO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60238,
+      "coordinate": {
+        "longitude": 112.7399234,
+        "latitude": -7.3151725,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.05.1003",
+      "name": "SUMBERSARI BANTUL",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.05",
+      "districtName": "METRO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34122,
+      "coordinate": {
+        "longitude": 105.2943266,
+        "latitude": -5.1701469,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.72.05.1004",
+      "name": "MARGODADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO",
+      "districtCode": "18.72.05",
+      "districtName": "METRO SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55561,
+      "coordinate": {
+        "longitude": 110.2943233,
+        "latitude": -7.7372855,
+        "elevation": 154
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

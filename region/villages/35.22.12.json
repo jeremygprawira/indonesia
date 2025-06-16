@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.22.12.2001",
+      "name": "TLOGOHAJI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0200526,
+        "latitude": -7.2485336,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2002",
+      "name": "NGAMPAL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0093623,
+        "latitude": -7.2256062,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2003",
+      "name": "KEDUNGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62275,
+      "coordinate": {
+        "longitude": 112.1558336,
+        "latitude": -7.1545733,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2004",
+      "name": "MLINJENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0413914,
+        "latitude": -7.2366231,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2005",
+      "name": "BANJAREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63137,
+      "coordinate": {
+        "longitude": 111.5391242,
+        "latitude": -7.6533845,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2006",
+      "name": "SUMBERREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0054348,
+        "latitude": -7.1756548,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2007",
+      "name": "KAYULEMAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0587638,
+        "latitude": -7.2155341,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2008",
+      "name": "TELENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0583688,
+        "latitude": -7.2016438,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2009",
+      "name": "WOTAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61156,
+      "coordinate": {
+        "longitude": 112.4899981,
+        "latitude": -6.9502134,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2010",
+      "name": "SAMBONGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62381,
+      "coordinate": {
+        "longitude": 112.0652812,
+        "latitude": -6.975439,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2011",
+      "name": "SENDANGAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62264,
+      "coordinate": {
+        "longitude": 112.3564777,
+        "latitude": -6.9009723,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2012",
+      "name": "DERU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0002301,
+        "latitude": -7.2074202,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2013",
+      "name": "PEKUWON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62370,
+      "coordinate": {
+        "longitude": 111.973873,
+        "latitude": -7.0691138,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2014",
+      "name": "KARANGDOWO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0109497,
+        "latitude": -7.1950052,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2015",
+      "name": "PEJAMBON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0228072,
+        "latitude": -7.1989439,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2016",
+      "name": "TULUNGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65336,
+      "coordinate": {
+        "longitude": 112.5235126,
+        "latitude": -7.8019048,
+        "elevation": 1295
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2017",
+      "name": "KARANGDINOYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0493471,
+        "latitude": -7.1921403,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2018",
+      "name": "BUTOH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0456785,
+        "latitude": -7.1776807,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2019",
+      "name": "MEJUWET",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.046556,
+        "latitude": -7.1663918,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2020",
+      "name": "PRAYUNGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0320537,
+        "latitude": -7.167939,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2021",
+      "name": "SUMURAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 111.99467,
+        "latitude": -7.17525,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2022",
+      "name": "JATIGEDE",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0215869,
+        "latitude": -7.1821304,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2023",
+      "name": "TALUN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62357,
+      "coordinate": {
+        "longitude": 111.9321788,
+        "latitude": -6.945168,
+        "elevation": 165
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2024",
+      "name": "BOGANGIN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0116609,
+        "latitude": -7.1802847,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2025",
+      "name": "SUMBERHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0571011,
+        "latitude": -7.2411307,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.12.2026",
+      "name": "MARGOAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.12",
+      "districtName": "SUMBEREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62191,
+      "coordinate": {
+        "longitude": 112.0358145,
+        "latitude": -7.1798813,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

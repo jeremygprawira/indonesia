@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.11.03.2001",
+      "name": "PAKAN RABAA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.03",
+      "districtName": "KOTO PARIK GADANG DIATEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27775,
+      "coordinate": {
+        "longitude": 101.0100303,
+        "latitude": -1.4370281,
+        "elevation": 455
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.03.2002",
+      "name": "PAKAN RABAA TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.03",
+      "districtName": "KOTO PARIK GADANG DIATEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27775,
+      "coordinate": {
+        "longitude": 101.0907784,
+        "latitude": -1.2006181,
+        "elevation": 511
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.03.2003",
+      "name": "PAKAN RABAA UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.03",
+      "districtName": "KOTO PARIK GADANG DIATEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27775,
+      "coordinate": {
+        "longitude": 100.9522399,
+        "latitude": -1.3542826,
+        "elevation": 830
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.03.2004",
+      "name": "PAKAN RABAA TENGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.03",
+      "districtName": "KOTO PARIK GADANG DIATEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27775,
+      "coordinate": {
+        "longitude": 101.0014053,
+        "latitude": -1.4133313,
+        "elevation": 469
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

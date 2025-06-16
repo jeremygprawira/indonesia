@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.05.2001",
+      "name": "SILAGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.05",
+      "districtName": "SEMBILAN KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27683,
+      "coordinate": {
+        "longitude": 101.2846978,
+        "latitude": -0.9931066,
+        "elevation": 170
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.05.2002",
+      "name": "LUBUAK KARAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.05",
+      "districtName": "SEMBILAN KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27683,
+      "coordinate": {
+        "longitude": 101.2161902,
+        "latitude": -0.9478868,
+        "elevation": 455
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.05.2003",
+      "name": "KOTO NAN EMPAT DIBAWUH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.05",
+      "districtName": "SEMBILAN KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27683,
+      "coordinate": {
+        "longitude": 101.3900487,
+        "latitude": -0.9973817,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.05.2004",
+      "name": "BANAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.05",
+      "districtName": "SEMBILAN KOTO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27683,
+      "coordinate": {
+        "longitude": 101.2265158,
+        "latitude": -1.0656947,
+        "elevation": 241
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

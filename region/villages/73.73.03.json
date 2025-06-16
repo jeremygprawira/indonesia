@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.73.03.1001",
+      "name": "TAKKALALA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.03",
+      "districtName": "WARA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91926,
+      "coordinate": {
+        "longitude": 120.2158614,
+        "latitude": -3.0255323,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.03.1002",
+      "name": "SONGKA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.03",
+      "districtName": "WARA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91959,
+      "coordinate": {
+        "longitude": 120.218563,
+        "latitude": -3.0360239,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.03.1006",
+      "name": "SAMPODDO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.03",
+      "districtName": "WARA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91959,
+      "coordinate": {
+        "longitude": 120.2169596,
+        "latitude": -3.0483258,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.73.03.1007",
+      "name": "BINTURU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.73",
+      "cityName": "KOTA PALOPO",
+      "districtCode": "73.73.03",
+      "districtName": "WARA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91959,
+      "coordinate": {
+        "longitude": 120.2046424,
+        "latitude": -3.019944,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

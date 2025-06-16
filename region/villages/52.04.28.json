@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.28.2001",
+      "name": "SENAWANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.28",
+      "districtName": "ORONG TELU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84374,
+      "coordinate": {
+        "longitude": 117.2283088,
+        "latitude": -8.7471307,
+        "elevation": 491
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.28.2002",
+      "name": "KELAWIS",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.28",
+      "districtName": "ORONG TELU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84374,
+      "coordinate": {
+        "longitude": 117.1621693,
+        "latitude": -8.7729398,
+        "elevation": 224
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.28.2003",
+      "name": "MUNGKIN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.28",
+      "districtName": "ORONG TELU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84374,
+      "coordinate": {
+        "longitude": 117.1038345,
+        "latitude": -8.7885046,
+        "elevation": 677
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.28.2004",
+      "name": "SEBEOK",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.28",
+      "districtName": "ORONG TELU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84374,
+      "coordinate": {
+        "longitude": 117.1930579,
+        "latitude": -8.7372654,
+        "elevation": 440
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

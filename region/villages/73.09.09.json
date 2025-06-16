@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.09.09.2001",
+      "name": "JENETAESA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.09",
+      "districtName": "SIMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90560,
+      "coordinate": {
+        "longitude": 119.6607553,
+        "latitude": -5.0259547,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.09.2002",
+      "name": "BONTO TALLASA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.09",
+      "districtName": "SIMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90560,
+      "coordinate": {
+        "longitude": 119.5988751,
+        "latitude": -5.0357115,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.09.2003",
+      "name": "SAMBUEJA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.09",
+      "districtName": "SIMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90560,
+      "coordinate": {
+        "longitude": 119.6765553,
+        "latitude": -5.0481645,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.09.2004",
+      "name": "TANETE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.09",
+      "districtName": "SIMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91873,
+      "coordinate": {
+        "longitude": 119.4437433,
+        "latitude": -3.2221683,
+        "elevation": 1151
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.09.2005",
+      "name": "SAMANGKI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.09",
+      "districtName": "SIMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90560,
+      "coordinate": {
+        "longitude": 119.7285203,
+        "latitude": -5.0632252,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.09.09.2006",
+      "name": "SIMBANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.09",
+      "cityName": "KAB. MAROS",
+      "districtCode": "73.09.09",
+      "districtName": "SIMBANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91451,
+      "coordinate": {
+        "longitude": 118.926667,
+        "latitude": -3.4897052,
+        "elevation": 134
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.04.22.2001",
+      "name": "LOMBOK",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94465,
+      "coordinate": {
+        "longitude": 120.2545416,
+        "latitude": 0.4157208,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2002",
+      "name": "HENI  ARONG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2003",
+      "name": "SUKA BANJAR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34883,
+      "coordinate": {
+        "longitude": 104.2020463,
+        "latitude": -5.4262012,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2004",
+      "name": "LOMBOK TIMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34879,
+      "coordinate": {
+        "longitude": 103.961207,
+        "latitude": -4.9737756,
+        "elevation": 1250
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2005",
+      "name": "SUKA BANJAR II UJUNG REMBUN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34879,
+      "coordinate": {
+        "longitude": 103.8417559,
+        "latitude": -4.8917214,
+        "elevation": 876
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2006",
+      "name": "SUKA MAJU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2007",
+      "name": "UJUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99671,
+      "coordinate": {
+        "longitude": 140.4443573,
+        "latitude": -5.6189012,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2008",
+      "name": "KEAGUNGAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11130,
+      "coordinate": {
+        "longitude": 106.8144545,
+        "latitude": -6.151817,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2009",
+      "name": "TAWAN SUKA MULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34879,
+      "coordinate": {
+        "longitude": 103.8544049,
+        "latitude": -4.9346619,
+        "elevation": 935
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2010",
+      "name": "PANCUR MAS",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34879,
+      "coordinate": {
+        "longitude": 103.8440869,
+        "latitude": -4.9214613,
+        "elevation": 1258
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.04.22.2011",
+      "name": "LOMBOK SELATAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.04",
+      "cityName": "KAB. LAMPUNG BARAT",
+      "districtCode": "18.04.22",
+      "districtName": "LUMBOK SEMINUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34879,
+      "coordinate": {
+        "longitude": 103.9612955,
+        "latitude": -4.9255355,
+        "elevation": 1166
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 11
+  }
+}

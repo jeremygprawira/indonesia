@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.72.04.1001",
+      "name": "WARUDOYONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.04",
+      "districtName": "WARUDOYONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43133,
+      "coordinate": {
+        "longitude": 106.9230525,
+        "latitude": -6.9320779,
+        "elevation": 550
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.04.1002",
+      "name": "NYOMPLONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.04",
+      "districtName": "WARUDOYONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43131,
+      "coordinate": {
+        "longitude": 106.9222068,
+        "latitude": -6.9279248,
+        "elevation": 565
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.04.1003",
+      "name": "DAYEUHLUHUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.04",
+      "districtName": "WARUDOYONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53266,
+      "coordinate": {
+        "longitude": 108.6117271,
+        "latitude": -7.2548549,
+        "elevation": 208
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.04.1004",
+      "name": "SUKAKARYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.04",
+      "districtName": "WARUDOYONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43135,
+      "coordinate": {
+        "longitude": 106.9064133,
+        "latitude": -6.9273005,
+        "elevation": 546
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.04.1005",
+      "name": "BENTENG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.04",
+      "districtName": "WARUDOYONG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97117,
+      "coordinate": {
+        "longitude": 128.1628113,
+        "latitude": -3.7101868,
+        "elevation": 40
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

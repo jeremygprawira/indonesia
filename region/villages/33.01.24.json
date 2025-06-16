@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.01.24.2001",
+      "name": "UJUNGGAGAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.24",
+      "districtName": "KAMPUNG LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53253,
+      "coordinate": {
+        "longitude": 108.8225173,
+        "latitude": -7.6518512,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.24.2002",
+      "name": "UJUNGALANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.24",
+      "districtName": "KAMPUNG LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53253,
+      "coordinate": {
+        "longitude": 108.9197329,
+        "latitude": -7.7041366,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.24.2003",
+      "name": "PANIKEL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.24",
+      "districtName": "KAMPUNG LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53253,
+      "coordinate": {
+        "longitude": 108.8596662,
+        "latitude": -7.648938,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.01.24.2004",
+      "name": "KLACES",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.01",
+      "cityName": "KAB. CILACAP",
+      "districtCode": "33.01.24",
+      "districtName": "KAMPUNG LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53253,
+      "coordinate": {
+        "longitude": 108.8352569,
+        "latitude": -7.6869389,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

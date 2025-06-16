@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.03.1003",
+      "name": "DEMBE II",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.03",
+      "districtName": "KOTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96121,
+      "coordinate": {
+        "longitude": 123.0815546,
+        "latitude": 0.5481513,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.03.1004",
+      "name": "WONGKADITI TIMUR",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.03",
+      "districtName": "KOTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96122,
+      "coordinate": {
+        "longitude": 123.0848502,
+        "latitude": 0.5581332,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.03.1005",
+      "name": "WONGKADITI BARAT",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.03",
+      "districtName": "KOTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96122,
+      "coordinate": {
+        "longitude": 123.0723714,
+        "latitude": 0.5624216,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.03.1010",
+      "name": "DULOMO SELATAN",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.03",
+      "districtName": "KOTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96123,
+      "coordinate": {
+        "longitude": 123.0805588,
+        "latitude": 0.5678884,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.03.1014",
+      "name": "DULOMO UTARA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.03",
+      "districtName": "KOTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96123,
+      "coordinate": {
+        "longitude": 123.079834,
+        "latitude": 0.5785963,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.03.1015",
+      "name": "DEMBE JAYA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.03",
+      "districtName": "KOTA UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96121,
+      "coordinate": {
+        "longitude": 123.0758768,
+        "latitude": 0.5537812,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

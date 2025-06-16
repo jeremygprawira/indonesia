@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.18.27.1001",
+      "name": "TAMBUNAN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.27",
+      "districtName": "MAKALE UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91817,
+      "coordinate": {
+        "longitude": 119.8691206,
+        "latitude": -3.0692993,
+        "elevation": 766
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.27.1002",
+      "name": "SARIRA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.27",
+      "districtName": "MAKALE UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91817,
+      "coordinate": {
+        "longitude": 119.878585,
+        "latitude": -3.0344152,
+        "elevation": 902
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.27.1003",
+      "name": "BUNGIN",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.27",
+      "districtName": "MAKALE UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91812,
+      "coordinate": {
+        "longitude": 119.8536719,
+        "latitude": -3.0592623,
+        "elevation": 801
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.27.1004",
+      "name": "LION TONDOK IRING",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.27",
+      "districtName": "MAKALE UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91817,
+      "coordinate": {
+        "longitude": 119.8855847,
+        "latitude": -3.0542164,
+        "elevation": 863
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.18.27.1005",
+      "name": "LEMO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.18",
+      "cityName": "KAB. TANA TORAJA",
+      "districtCode": "73.18.27",
+      "districtName": "MAKALE UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93672,
+      "coordinate": {
+        "longitude": 123.1729516,
+        "latitude": -4.8255045,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

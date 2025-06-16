@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.01.21.2001",
+      "name": "WARAKA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.21",
+      "districtName": "TELUK ELPAPUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97517,
+      "coordinate": {
+        "longitude": 128.9688642,
+        "latitude": -3.1165087,
+        "elevation": 187
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.21.2002",
+      "name": "TANANAHU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.21",
+      "districtName": "TELUK ELPAPUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97517,
+      "coordinate": {
+        "longitude": 128.9060264,
+        "latitude": -3.1867148,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.21.2003",
+      "name": "LIANG",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.21",
+      "districtName": "TELUK ELPAPUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97543,
+      "coordinate": {
+        "longitude": 126.5638967,
+        "latitude": -3.723934,
+        "elevation": 824
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.21.2004",
+      "name": "SAHULAUW",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.21",
+      "districtName": "TELUK ELPAPUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97517,
+      "coordinate": {
+        "longitude": 128.8202997,
+        "latitude": -3.1455328,
+        "elevation": 802
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.76.04.1001",
+      "name": "SUNGAI DURIAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH",
+      "districtCode": "13.76.04",
+      "districtName": "LAMPOSI TIGO NAGORI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72167,
+      "coordinate": {
+        "longitude": 115.2776327,
+        "latitude": -2.3492173,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.76.04.1002",
+      "name": "PARIT MUKO AIE",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH",
+      "districtCode": "13.76.04",
+      "districtName": "LAMPOSI TIGO NAGORI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.6149273,
+        "latitude": -0.2062199,
+        "elevation": 502
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.76.04.1003",
+      "name": "PARAMBAHAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH",
+      "districtCode": "13.76.04",
+      "districtName": "LAMPOSI TIGO NAGORI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.6047873,
+        "latitude": -0.2034279,
+        "elevation": 518
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.76.04.1004",
+      "name": "PADANG SIKABU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH",
+      "districtCode": "13.76.04",
+      "districtName": "LAMPOSI TIGO NAGORI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.6065902,
+        "latitude": -0.2116436,
+        "elevation": 519
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.76.04.1005",
+      "name": "KOTO PANJANG PADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH",
+      "districtCode": "13.76.04",
+      "districtName": "LAMPOSI TIGO NAGORI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.5963732,
+        "latitude": -0.2048935,
+        "elevation": 515
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.76.04.1006",
+      "name": "KOTO PANJANG DALAM",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.76",
+      "cityName": "KOTA PAYAKUMBUH",
+      "districtCode": "13.76.04",
+      "districtName": "LAMPOSI TIGO NAGORI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26219,
+      "coordinate": {
+        "longitude": 100.5955219,
+        "latitude": -0.1999726,
+        "elevation": 519
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.36.2001",
+      "name": "SUKALARANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.36",
+      "districtName": "SUKALARANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43191,
+      "coordinate": {
+        "longitude": 107.0038339,
+        "latitude": -6.8660356,
+        "elevation": 1028
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.36.2002",
+      "name": "SUKAMAJU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.36",
+      "districtName": "SUKALARANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.36.2003",
+      "name": "CIMANGKOK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.36",
+      "districtName": "SUKALARANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43191,
+      "coordinate": {
+        "longitude": 107.0183318,
+        "latitude": -6.8882306,
+        "elevation": 820
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.36.2004",
+      "name": "TITISAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.36",
+      "districtName": "SUKALARANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43191,
+      "coordinate": {
+        "longitude": 107.0232831,
+        "latitude": -6.875552,
+        "elevation": 879
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.36.2005",
+      "name": "SEMPLAK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.36",
+      "districtName": "SUKALARANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16114,
+      "coordinate": {
+        "longitude": 106.7602288,
+        "latitude": -6.5553261,
+        "elevation": 170
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.36.2006",
+      "name": "PRIANGANJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.36",
+      "districtName": "SUKALARANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43191,
+      "coordinate": {
+        "longitude": 107.0142225,
+        "latitude": -6.9014799,
+        "elevation": 755
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

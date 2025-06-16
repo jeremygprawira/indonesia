@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.22.05.2001",
+      "name": "BUBULAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.05",
+      "districtName": "BUBULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62172,
+      "coordinate": {
+        "longitude": 111.7905482,
+        "latitude": -7.3335799,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.05.2002",
+      "name": "CANCUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.05",
+      "districtName": "BUBULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62172,
+      "coordinate": {
+        "longitude": 111.8147684,
+        "latitude": -7.3123893,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.05.2003",
+      "name": "CLEBUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.05",
+      "districtName": "BUBULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62172,
+      "coordinate": {
+        "longitude": 111.8488595,
+        "latitude": -7.3374335,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.05.2004",
+      "name": "SUMBERBENDO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.05",
+      "districtName": "BUBULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62283,
+      "coordinate": {
+        "longitude": 112.3445479,
+        "latitude": -7.2416843,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.05.2005",
+      "name": "NGOROGUNUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.05",
+      "districtName": "BUBULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62172,
+      "coordinate": {
+        "longitude": 111.8723229,
+        "latitude": -7.321729,
+        "elevation": 92
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

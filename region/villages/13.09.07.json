@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.09.07.2001",
+      "name": "SAIBI SAMUKOP",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.07",
+      "districtName": "SIBERUT TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25396,
+      "coordinate": {
+        "longitude": 99.0707283,
+        "latitude": -1.3731869,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.07.2002",
+      "name": "CIMPUNGAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.07",
+      "districtName": "SIBERUT TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25396,
+      "coordinate": {
+        "longitude": 99.0320861,
+        "latitude": -1.2756548,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.09.07.2003",
+      "name": "SALIGUMA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.09",
+      "cityName": "KAB. KEPULAUAN MENTAWAI",
+      "districtCode": "13.09.07",
+      "districtName": "SIBERUT TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25396,
+      "coordinate": {
+        "longitude": 99.1332192,
+        "latitude": -1.4787228,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

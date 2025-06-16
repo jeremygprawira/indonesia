@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.75.04.1002",
+      "name": "BANYURIP",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN",
+      "districtCode": "33.75.04",
+      "districtName": "PEKALONGAN SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51139,
+      "coordinate": {
+        "longitude": 109.6522877,
+        "latitude": -6.9180469,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.75.04.1003",
+      "name": "BUARAN KRADENAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN",
+      "districtCode": "33.75.04",
+      "districtName": "PEKALONGAN SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51132,
+      "coordinate": {
+        "longitude": 109.6574141,
+        "latitude": -6.9146088,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.75.04.1004",
+      "name": "JENGGOT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN",
+      "districtCode": "33.75.04",
+      "districtName": "PEKALONGAN SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15551,
+      "coordinate": {
+        "longitude": 106.3843636,
+        "latitude": -6.0436614,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.75.04.1006",
+      "name": "KURIPAN KERTOHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN",
+      "districtCode": "33.75.04",
+      "districtName": "PEKALONGAN SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51134,
+      "coordinate": {
+        "longitude": 109.6787285,
+        "latitude": -6.9280473,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.75.04.1008",
+      "name": "KURIPAN YOSOREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN",
+      "districtCode": "33.75.04",
+      "districtName": "PEKALONGAN SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51135,
+      "coordinate": {
+        "longitude": 109.6810342,
+        "latitude": -6.9124947,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.75.04.1010",
+      "name": "SOKODUWET",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.75",
+      "cityName": "KOTA PEKALONGAN",
+      "districtCode": "33.75.04",
+      "districtName": "PEKALONGAN SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51138,
+      "coordinate": {
+        "longitude": 109.6865005,
+        "latitude": -6.9238944,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

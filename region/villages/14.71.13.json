@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.13.1001",
+      "name": "SIDOMULYO BARAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.13",
+      "districtName": "TUAHMADANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28294,
+      "coordinate": {
+        "longitude": 101.4008073,
+        "latitude": 0.4425815,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.13.1002",
+      "name": "SIALANGMUNGGU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.13",
+      "districtName": "TUAHMADANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28299,
+      "coordinate": {
+        "longitude": 101.3874051,
+        "latitude": 0.4466601,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.13.1003",
+      "name": "TUAHKARYA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.13",
+      "districtName": "TUAHMADANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28291,
+      "coordinate": {
+        "longitude": 101.3670618,
+        "latitude": 0.4481655,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.13.1004",
+      "name": "TUAHMADANI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.13",
+      "districtName": "TUAHMADANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28298,
+      "coordinate": {
+        "longitude": 101.3670618,
+        "latitude": 0.4481655,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.13.1005",
+      "name": "AIRPUTIH",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.13",
+      "districtName": "TUAHMADANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28296,
+      "coordinate": {
+        "longitude": 101.3491378,
+        "latitude": 0.4823977,
+        "elevation": 30
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

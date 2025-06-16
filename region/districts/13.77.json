@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "13.77.01",
+      "name": "PARIAMAN TENGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.77",
+      "cityName": "KOTA PARIAMAN"
+    },
+    {
+      "type": "district",
+      "code": "13.77.02",
+      "name": "PARIAMAN UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.77",
+      "cityName": "KOTA PARIAMAN"
+    },
+    {
+      "type": "district",
+      "code": "13.77.03",
+      "name": "PARIAMAN SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.77",
+      "cityName": "KOTA PARIAMAN"
+    },
+    {
+      "type": "district",
+      "code": "13.77.04",
+      "name": "PARIAMAN TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.77",
+      "cityName": "KOTA PARIAMAN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

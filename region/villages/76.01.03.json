@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.03.1001",
+      "name": "BARAS",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.03",
+      "districtName": "BARAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91572,
+      "coordinate": {
+        "longitude": 119.3359906,
+        "latitude": -1.5808529,
+        "elevation": 126
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.03.2002",
+      "name": "BALANTI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.03",
+      "districtName": "BARAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91572,
+      "coordinate": {
+        "longitude": 119.4547257,
+        "latitude": -1.5848526,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.03.2003",
+      "name": "MOTU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.03",
+      "districtName": "BARAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91572,
+      "coordinate": {
+        "longitude": 119.470898,
+        "latitude": -1.540972,
+        "elevation": 188
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.03.2012",
+      "name": "BULU PARIGI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.03",
+      "districtName": "BARAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91572,
+      "coordinate": {
+        "longitude": 119.338005,
+        "latitude": -1.6094491,
+        "elevation": 192
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.03.2013",
+      "name": "TOWONI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.03",
+      "districtName": "BARAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91572,
+      "coordinate": {
+        "longitude": 119.3959402,
+        "latitude": -1.611101,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.03.2016",
+      "name": "KASANO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.03",
+      "districtName": "BARAS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91572,
+      "coordinate": {
+        "longitude": 119.3309191,
+        "latitude": -1.5417668,
+        "elevation": 19
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

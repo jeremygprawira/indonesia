@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.72.02.1001",
+      "name": "LABUKKANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.02",
+      "districtName": "UJUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91111,
+      "coordinate": {
+        "longitude": 119.6250998,
+        "latitude": -4.0175516,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.02.1002",
+      "name": "UJUNG SABBANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.02",
+      "districtName": "UJUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91114,
+      "coordinate": {
+        "longitude": 119.622259,
+        "latitude": -4.0061173,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.02.1003",
+      "name": "UJUNG BULU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.02",
+      "districtName": "UJUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91113,
+      "coordinate": {
+        "longitude": 119.6280868,
+        "latitude": -4.0141966,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.02.1004",
+      "name": "LAPADDE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.02",
+      "districtName": "UJUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91112,
+      "coordinate": {
+        "longitude": 119.6537532,
+        "latitude": -3.9950302,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.72.02.1005",
+      "name": "MALLUSETASI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE",
+      "districtCode": "73.72.02",
+      "districtName": "UJUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91111,
+      "coordinate": {
+        "longitude": 119.6216319,
+        "latitude": -4.0133568,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

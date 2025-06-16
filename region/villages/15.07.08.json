@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.07.08.1001",
+      "name": "KAMPUNG LAUT",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.08",
+      "districtName": "KUALA JAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36760,
+      "coordinate": {
+        "longitude": 103.7940591,
+        "latitude": -1.0338656,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.08.1002",
+      "name": "TANJUNG SOLOK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.08",
+      "districtName": "KUALA JAMBI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.08.2003",
+      "name": "TELUK MAJELIS",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.08",
+      "districtName": "KUALA JAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36760,
+      "coordinate": {
+        "longitude": 103.7991227,
+        "latitude": -1.0637405,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.08.2004",
+      "name": "KUALA LAGAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.08",
+      "districtName": "KUALA JAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36760,
+      "coordinate": {
+        "longitude": 103.7633447,
+        "latitude": -1.0140917,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.08.2005",
+      "name": "MAJELIS HIDAYAH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.08",
+      "districtName": "KUALA JAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36760,
+      "coordinate": {
+        "longitude": 103.7927447,
+        "latitude": -1.0467683,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.07.08.2006",
+      "name": "MANUNGGAL MAKMUR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.07",
+      "cityName": "KAB. TANJUNG JABUNG TIMUR",
+      "districtCode": "15.07.08",
+      "districtName": "KUALA JAMBI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31172,
+      "coordinate": {
+        "longitude": 104.0260436,
+        "latitude": -3.5577249,
+        "elevation": 36
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

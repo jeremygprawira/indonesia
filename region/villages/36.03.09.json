@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.03.09.2001",
+      "name": "PATRAMANGGALA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.09",
+      "districtName": "KEMIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15530,
+      "coordinate": {
+        "longitude": 106.4797428,
+        "latitude": -6.0722334,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.09.2002",
+      "name": "KARANG ANYAR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.09",
+      "districtName": "KEMIRI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90134,
+      "coordinate": {
+        "longitude": 119.411647,
+        "latitude": -5.1766095,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.09.2003",
+      "name": "LONTAR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.09",
+      "districtName": "KEMIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42193,
+      "coordinate": {
+        "longitude": 106.3038831,
+        "latitude": -5.9760787,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.09.2004",
+      "name": "KEMIRI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.09",
+      "districtName": "KEMIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99565,
+      "coordinate": {
+        "longitude": 138.648302,
+        "latitude": -3.9863651,
+        "elevation": 2771
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.09.2005",
+      "name": "RANCA LABUH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.09",
+      "districtName": "KEMIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15530,
+      "coordinate": {
+        "longitude": 106.4573339,
+        "latitude": -6.1207968,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.09.2006",
+      "name": "KLEBET",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.09",
+      "districtName": "KEMIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15530,
+      "coordinate": {
+        "longitude": 106.4540826,
+        "latitude": -6.1000243,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.03.09.2007",
+      "name": "LEGOK SUKA MAJU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.03",
+      "cityName": "KAB. TANGERANG",
+      "districtCode": "36.03.09",
+      "districtName": "KEMIRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15530,
+      "coordinate": {
+        "longitude": 106.451643,
+        "latitude": -6.1199793,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.02.19.2001",
+      "name": "KOTA BATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2002",
+      "name": "SANGUN RATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.9192336,
+        "latitude": -5.0929591,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2003",
+      "name": "GUNUNG RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35370,
+      "coordinate": {
+        "longitude": 104.8412634,
+        "latitude": -5.3067442,
+        "elevation": 183
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2004",
+      "name": "GUNUNG HAJI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.9286455,
+        "latitude": -5.0725175,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2005",
+      "name": "NEGERI RATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34876,
+      "coordinate": {
+        "longitude": 103.7697665,
+        "latitude": -5.0251798,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2006",
+      "name": "TANJUNG KEMALA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34887,
+      "coordinate": {
+        "longitude": 104.3745962,
+        "latitude": -5.591838,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2007",
+      "name": "PAYUNG REJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8887707,
+        "latitude": -5.096232,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2008",
+      "name": "PAYUNG BATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8806063,
+        "latitude": -5.0853048,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2009",
+      "name": "NEGERI KEPAYUNGAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8818153,
+        "latitude": -5.0728039,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2010",
+      "name": "SEGALA MIDER",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8631993,
+        "latitude": -5.0586682,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2011",
+      "name": "TIAS BANGUN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8946392,
+        "latitude": -5.0411233,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2012",
+      "name": "RIAU PRIANGAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.9010896,
+        "latitude": -5.0266428,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2013",
+      "name": "PAYUNG DADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8764245,
+        "latitude": -5.121501,
+        "elevation": 172
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2014",
+      "name": "PAYUNG MAKMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8589089,
+        "latitude": -5.0974697,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2015",
+      "name": "TANJUNG REJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34887,
+      "coordinate": {
+        "longitude": 104.3107374,
+        "latitude": -5.5904782,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2016",
+      "name": "TAWANG NEGERI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8118041,
+        "latitude": -5.095238,
+        "elevation": 138
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2017",
+      "name": "SINAR NEGERI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8656849,
+        "latitude": -5.0058428,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2018",
+      "name": "PEKANDANGAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53452,
+      "coordinate": {
+        "longitude": 109.6824087,
+        "latitude": -7.3271148,
+        "elevation": 563
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2019",
+      "name": "PAYUNG MULYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34176,
+      "coordinate": {
+        "longitude": 104.8416543,
+        "latitude": -5.0995899,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.19.2020",
+      "name": "PADANG REJO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.19",
+      "districtName": "PUBIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35375,
+      "coordinate": {
+        "longitude": 104.9089966,
+        "latitude": -5.3806618,
+        "elevation": 135
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

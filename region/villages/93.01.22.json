@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.22.2001",
+      "name": "KAWE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.22",
+      "districtName": "KONTUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99431,
+      "coordinate": {
+        "longitude": 140.4639662,
+        "latitude": -4.9728528,
+        "elevation": 1872
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.22.2002",
+      "name": "WETAU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.22",
+      "districtName": "KONTUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 137.7628253,
+        "latitude": -8.1709716,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.22.2003",
+      "name": "PEMBRI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.22",
+      "districtName": "KONTUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 140.4598747,
+        "latitude": -8.5283994,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.22.2004",
+      "name": "SIBENDA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.22",
+      "districtName": "KONTUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 138.1435762,
+        "latitude": -8.1531102,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.22.2005",
+      "name": "WANTARMA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.22",
+      "districtName": "KONTUAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99643,
+      "coordinate": {
+        "longitude": 140.4598747,
+        "latitude": -8.5283994,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

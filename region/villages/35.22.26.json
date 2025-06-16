@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.22.26.2001",
+      "name": "KRONDONAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.26",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62173,
+      "coordinate": {
+        "longitude": 111.7893186,
+        "latitude": -7.4332254,
+        "elevation": 397
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.26.2002",
+      "name": "JARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.26",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62173,
+      "coordinate": {
+        "longitude": 111.8103099,
+        "latitude": -7.4085876,
+        "elevation": 204
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.26.2003",
+      "name": "SAMBONGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.26",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62381,
+      "coordinate": {
+        "longitude": 112.0652812,
+        "latitude": -6.975439,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.26.2004",
+      "name": "PAJENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.26",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62173,
+      "coordinate": {
+        "longitude": 111.8958754,
+        "latitude": -7.4223407,
+        "elevation": 226
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.26.2005",
+      "name": "GONDANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.26",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83353,
+      "coordinate": {
+        "longitude": 116.2010639,
+        "latitude": -8.3476101,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.26.2006",
+      "name": "SENGANTEN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.26",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62173,
+      "coordinate": {
+        "longitude": 111.8380197,
+        "latitude": -7.3910619,
+        "elevation": 148
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.26.2007",
+      "name": "PRAGELAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.26",
+      "districtName": "GONDANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62173,
+      "coordinate": {
+        "longitude": 111.7783783,
+        "latitude": -7.3681445,
+        "elevation": 164
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

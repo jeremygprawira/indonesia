@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.10.07.2001",
+      "name": "PURWODADI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.07",
+      "districtName": "GAMBIRAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72275,
+      "coordinate": {
+        "longitude": 115.5545311,
+        "latitude": -3.6658913,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.07.2002",
+      "name": "JAJAG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.07",
+      "districtName": "GAMBIRAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68486,
+      "coordinate": {
+        "longitude": 114.187132,
+        "latitude": -8.4403521,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.07.2007",
+      "name": "GAMBIRAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.07",
+      "districtName": "GAMBIRAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61482,
+      "coordinate": {
+        "longitude": 112.3366739,
+        "latitude": -7.5694761,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.07.2008",
+      "name": "YOSOMULYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.07",
+      "districtName": "GAMBIRAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68486,
+      "coordinate": {
+        "longitude": 114.1693112,
+        "latitude": -8.4006661,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.07.2009",
+      "name": "WRINGINREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.07",
+      "districtName": "GAMBIRAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61361,
+      "coordinate": {
+        "longitude": 112.4123822,
+        "latitude": -7.4980306,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.10.07.2010",
+      "name": "WRINGINAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.10",
+      "cityName": "KAB. BANYUWANGI",
+      "districtCode": "35.10.07",
+      "districtName": "GAMBIRAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68486,
+      "coordinate": {
+        "longitude": 114.170141,
+        "latitude": -8.4298758,
+        "elevation": 102
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

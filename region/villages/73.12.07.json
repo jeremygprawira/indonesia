@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.12.07.2001",
+      "name": "BELO",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.07",
+      "districtName": "GANRA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 125.0951802,
+        "latitude": -1.88192,
+        "elevation": 230
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.12.07.2002",
+      "name": "GANRA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.07",
+      "districtName": "GANRA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90860,
+      "coordinate": {
+        "longitude": 119.9427355,
+        "latitude": -4.2998436,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.12.07.2003",
+      "name": "LOMPULLE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.07",
+      "districtName": "GANRA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90860,
+      "coordinate": {
+        "longitude": 119.9687089,
+        "latitude": -4.2914131,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.12.07.2004",
+      "name": "ENREKENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.12",
+      "cityName": "KAB. SOPPENG",
+      "districtCode": "73.12.07",
+      "districtName": "GANRA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

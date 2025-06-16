@@ -1,0 +1,690 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.06.2001",
+      "name": "SIMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61264,
+      "coordinate": {
+        "longitude": 112.5912431,
+        "latitude": -7.4852611,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2002",
+      "name": "KRUENG JANGKO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.035389,
+        "latitude": 5.24372,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2003",
+      "name": "KRUENG NYONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.03314,
+        "latitude": 5.2365794,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2004",
+      "name": "COT BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24358,
+      "coordinate": {
+        "longitude": 96.8489983,
+        "latitude": 5.225281,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2005",
+      "name": "COT TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8600938,
+        "latitude": 5.2149852,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2006",
+      "name": "BILI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0295438,
+        "latitude": 5.2470661,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2007",
+      "name": "PANJOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.028353,
+        "latitude": 5.2405044,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2008",
+      "name": "AMUD MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0224755,
+        "latitude": 5.2110873,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2009",
+      "name": "REUDEUP MEULAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0264222,
+        "latitude": 5.2218808,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2010",
+      "name": "DAYAH TANOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24175,
+      "coordinate": {
+        "longitude": 96.0011285,
+        "latitude": 5.2733833,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2011",
+      "name": "MAMPLAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24385,
+      "coordinate": {
+        "longitude": 97.2358012,
+        "latitude": 5.064175,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2012",
+      "name": "BALEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.0816934,
+        "latitude": 5.2537716,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2013",
+      "name": "KUPULA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24181,
+      "coordinate": {
+        "longitude": 95.99248,
+        "latitude": 5.3616222,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2014",
+      "name": "PULO LUENG TEUGA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0431306,
+        "latitude": 5.26646,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2015",
+      "name": "SUKON MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0356837,
+        "latitude": 5.2527024,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2016",
+      "name": "SUKON BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0531036,
+        "latitude": 5.2557988,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2017",
+      "name": "KRUET TEUMPEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2018",
+      "name": "BLANG DRANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0438917,
+        "latitude": 5.2565783,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2019",
+      "name": "UDE GAMPONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0495177,
+        "latitude": 5.2608726,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2020",
+      "name": "KAYEE JATOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1234237,
+        "latitude": 5.2308093,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2021",
+      "name": "KAMPONG JEUMPA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0187516,
+        "latitude": 5.2459031,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2022",
+      "name": "PULO LON / PULO DAYAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0085806,
+        "latitude": 5.2468467,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2023",
+      "name": "JURONG PANDE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 95.9997038,
+        "latitude": 5.2552414,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2024",
+      "name": "PULO GAJAH MATE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24181,
+      "coordinate": {
+        "longitude": 96.0020628,
+        "latitude": 5.3529032,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2025",
+      "name": "TUFAH JEULATANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0139844,
+        "latitude": 5.2239699,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2026",
+      "name": "KUMBANG KEUPULA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0063935,
+        "latitude": 5.2280377,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2027",
+      "name": "PULO BATEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0197979,
+        "latitude": 5.2537121,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2028",
+      "name": "MEUNJEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.006834,
+        "latitude": 5.2398031,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2029",
+      "name": "KEUTAPANG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0112528,
+        "latitude": 5.2268912,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2030",
+      "name": "DAYAH KP. PISANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0231552,
+        "latitude": 5.263286,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2031",
+      "name": "BLANG TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0224672,
+        "latitude": 5.2557911,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2032",
+      "name": "BLANG PUEB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0172437,
+        "latitude": 5.2595642,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2033",
+      "name": "LAMBARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0098904,
+        "latitude": 5.2597984,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.06.2034",
+      "name": "NEUROK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.06",
+      "districtName": "GLUMPANG TIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0103917,
+        "latitude": 5.2516982,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 34
+  }
+}

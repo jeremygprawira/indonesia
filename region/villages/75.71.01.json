@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.01.1001",
+      "name": "DEMBE I",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.01",
+      "districtName": "KOTA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96131,
+      "coordinate": {
+        "longitude": 123.0034002,
+        "latitude": 0.5509255,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.01.1002",
+      "name": "LEKOBALO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.01",
+      "districtName": "KOTA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96131,
+      "coordinate": {
+        "longitude": 123.0177949,
+        "latitude": 0.5480853,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.01.1003",
+      "name": "PILOLODAA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.01",
+      "districtName": "KOTA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96132,
+      "coordinate": {
+        "longitude": 123.0240015,
+        "latitude": 0.5425443,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.01.1004",
+      "name": "BULIIDE",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.01",
+      "districtName": "KOTA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96133,
+      "coordinate": {
+        "longitude": 123.0283872,
+        "latitude": 0.5384215,
+        "elevation": 125
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.01.1005",
+      "name": "TENILO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.01",
+      "districtName": "KOTA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96133,
+      "coordinate": {
+        "longitude": 123.0376458,
+        "latitude": 0.5352192,
+        "elevation": 125
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.01.1006",
+      "name": "MOLOSIPAT  W",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.01",
+      "districtName": "KOTA BARAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.01.1008",
+      "name": "BULADU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.01",
+      "districtName": "KOTA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96136,
+      "coordinate": {
+        "longitude": 123.0328697,
+        "latitude": 0.5533907,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

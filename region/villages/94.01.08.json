@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.08.2001",
+      "name": "NAPAN YAUR",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.08",
+      "districtName": "TELUK UMAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98851,
+      "coordinate": {
+        "longitude": 134.8239417,
+        "latitude": -2.9256443,
+        "elevation": 338
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.08.2002",
+      "name": "YERETUAR",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.08",
+      "districtName": "TELUK UMAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98851,
+      "coordinate": {
+        "longitude": 134.7451524,
+        "latitude": -2.9933607,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.08.2003",
+      "name": "BAWEI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.08",
+      "districtName": "TELUK UMAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98851,
+      "coordinate": {
+        "longitude": 134.6675161,
+        "latitude": -3.0962291,
+        "elevation": 397
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.08.2004",
+      "name": "GONI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.08",
+      "districtName": "TELUK UMAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98851,
+      "coordinate": {
+        "longitude": 134.6447504,
+        "latitude": -2.8569548,
+        "elevation": 463
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

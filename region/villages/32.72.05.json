@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.72.05.1001",
+      "name": "BAROS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.05",
+      "districtName": "BAROS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42173,
+      "coordinate": {
+        "longitude": 106.1271926,
+        "latitude": -6.2147404,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.05.1002",
+      "name": "JAYARAKSA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.05",
+      "districtName": "BAROS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43166,
+      "coordinate": {
+        "longitude": 106.9315623,
+        "latitude": -6.953938,
+        "elevation": 500
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.05.1003",
+      "name": "JAYAMEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.05",
+      "districtName": "BAROS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42263,
+      "coordinate": {
+        "longitude": 105.8844288,
+        "latitude": -6.3027989,
+        "elevation": 236
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.05.1004",
+      "name": "SUDAJAYA HILIR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.05",
+      "districtName": "BAROS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43161,
+      "coordinate": {
+        "longitude": 106.9211278,
+        "latitude": -6.9560685,
+        "elevation": 479
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

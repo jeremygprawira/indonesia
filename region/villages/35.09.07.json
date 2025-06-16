@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.07.2001",
+      "name": "PONDOKJOYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.07",
+      "districtName": "SEMBORO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68157,
+      "coordinate": {
+        "longitude": 113.4164064,
+        "latitude": -8.1615363,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.07.2002",
+      "name": "PONDOKDALEM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.07",
+      "districtName": "SEMBORO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68157,
+      "coordinate": {
+        "longitude": 113.4365632,
+        "latitude": -8.1254422,
+        "elevation": 85
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.07.2003",
+      "name": "REJOAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.07",
+      "districtName": "SEMBORO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61453,
+      "coordinate": {
+        "longitude": 112.2192,
+        "latitude": -7.4542397,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.07.2004",
+      "name": "SEMBORO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.07",
+      "districtName": "SEMBORO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68157,
+      "coordinate": {
+        "longitude": 113.4406254,
+        "latitude": -8.1978735,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.07.2005",
+      "name": "SIDOMEKAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.07",
+      "districtName": "SEMBORO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68157,
+      "coordinate": {
+        "longitude": 113.4581829,
+        "latitude": -8.2295426,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.07.2006",
+      "name": "SIDOMULYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.07",
+      "districtName": "SEMBORO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

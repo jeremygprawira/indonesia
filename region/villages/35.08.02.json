@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.08.02.2001",
+      "name": "SIDOMULYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.02",
+      "districtName": "PRONOJIWO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.02.2002",
+      "name": "PRONOJIWO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.02",
+      "districtName": "PRONOJIWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67374,
+      "coordinate": {
+        "longitude": 112.9322846,
+        "latitude": -8.1775779,
+        "elevation": 1025
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.02.2003",
+      "name": "TAMANAYU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.02",
+      "districtName": "PRONOJIWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67374,
+      "coordinate": {
+        "longitude": 112.9533389,
+        "latitude": -8.2400698,
+        "elevation": 507
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.02.2004",
+      "name": "SUMBERURIP",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.02",
+      "districtName": "PRONOJIWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64473,
+      "coordinate": {
+        "longitude": 111.8425607,
+        "latitude": -7.6328249,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.02.2005",
+      "name": "ORO-ORO OMBO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.02",
+      "districtName": "PRONOJIWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 65316,
+      "coordinate": {
+        "longitude": 112.5289876,
+        "latitude": -7.8980754,
+        "elevation": 989
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.02.2006",
+      "name": "SUPITURANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.02",
+      "districtName": "PRONOJIWO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67374,
+      "coordinate": {
+        "longitude": 112.9740659,
+        "latitude": -8.1507749,
+        "elevation": 1031
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

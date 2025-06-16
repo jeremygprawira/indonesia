@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.07.07.2001",
+      "name": "JAGOI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.07",
+      "districtName": "JAGOI BABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79286,
+      "coordinate": {
+        "longitude": 109.9655706,
+        "latitude": 1.3387911,
+        "elevation": 261
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.07.2002",
+      "name": "KUMBA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.07",
+      "districtName": "JAGOI BABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79286,
+      "coordinate": {
+        "longitude": 109.8100205,
+        "latitude": 1.3811006,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.07.2006",
+      "name": "SEKIDA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.07",
+      "districtName": "JAGOI BABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79286,
+      "coordinate": {
+        "longitude": 109.9197833,
+        "latitude": 1.407488,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.07.2007",
+      "name": "GERSIK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.07",
+      "districtName": "JAGOI BABANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76145,
+      "coordinate": {
+        "longitude": 116.7241004,
+        "latitude": -1.1781692,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.07.2008",
+      "name": "SEMUNYING JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.07",
+      "districtName": "JAGOI BABANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79286,
+      "coordinate": {
+        "longitude": 109.8016339,
+        "latitude": 1.4617072,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.07.07.2009",
+      "name": "SINAR BARU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.07",
+      "cityName": "KAB. BENGKAYANG",
+      "districtCode": "61.07.07",
+      "districtName": "JAGOI BABANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77459,
+      "coordinate": {
+        "longitude": 115.7624997,
+        "latitude": 3.9709708,
+        "elevation": 958
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

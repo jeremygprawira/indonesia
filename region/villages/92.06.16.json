@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.16.2001",
+      "name": "AROBA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.16",
+      "districtName": "AROBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98131,
+      "coordinate": {
+        "longitude": 133.286445,
+        "latitude": -2.9252986,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.16.2002",
+      "name": "YARU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.16",
+      "districtName": "AROBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98131,
+      "coordinate": {
+        "longitude": 133.4385134,
+        "latitude": -2.6949763,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.16.2003",
+      "name": "SIDO MAKMUR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.16",
+      "districtName": "AROBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98131,
+      "coordinate": {
+        "longitude": 133.2601858,
+        "latitude": -2.4652014,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.16.2004",
+      "name": "WIMBRO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.16",
+      "districtName": "AROBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98131,
+      "coordinate": {
+        "longitude": 133.3017069,
+        "latitude": -2.5807284,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.16.2005",
+      "name": "SANGGUAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.16",
+      "districtName": "AROBA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98131,
+      "coordinate": {
+        "longitude": 133.2066492,
+        "latitude": -2.6828873,
+        "elevation": 64
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.72.06.1001",
+      "name": "CIPANENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.06",
+      "districtName": "LEMBURSITU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43134,
+      "coordinate": {
+        "longitude": 106.9063864,
+        "latitude": -6.9646131,
+        "elevation": 449
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.06.1002",
+      "name": "SITUMEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.06",
+      "districtName": "LEMBURSITU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43169,
+      "coordinate": {
+        "longitude": 106.8989745,
+        "latitude": -6.9662966,
+        "elevation": 436
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.06.1003",
+      "name": "LEMBURSITU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.06",
+      "districtName": "LEMBURSITU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43169,
+      "coordinate": {
+        "longitude": 106.8858505,
+        "latitude": -6.9659496,
+        "elevation": 420
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.06.1004",
+      "name": "CIKUNDUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.06",
+      "districtName": "LEMBURSITU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43168,
+      "coordinate": {
+        "longitude": 106.9130429,
+        "latitude": -6.9696625,
+        "elevation": 478
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.72.06.1005",
+      "name": "SINDANGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.72",
+      "cityName": "KOTA SUKABUMI",
+      "districtCode": "32.72.06",
+      "districtName": "LEMBURSITU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.1305872,
+        "latitude": -6.1903024,
+        "elevation": 110
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

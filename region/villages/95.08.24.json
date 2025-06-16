@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.08.24.2001",
+      "name": "WENDAMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.24",
+      "districtName": "EMBETPEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99920,
+      "coordinate": {
+        "longitude": 138.5292101,
+        "latitude": -4.5685794,
+        "elevation": 273
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.24.2002",
+      "name": "EMBETPEM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.24",
+      "districtName": "EMBETPEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99920,
+      "coordinate": {
+        "longitude": 138.5908654,
+        "latitude": -4.5466178,
+        "elevation": 273
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.24.2003",
+      "name": "YENAI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.24",
+      "districtName": "EMBETPEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99920,
+      "coordinate": {
+        "longitude": 138.5328154,
+        "latitude": -4.6769284,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.24.2004",
+      "name": "DIGILIMU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.24",
+      "districtName": "EMBETPEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99920,
+      "coordinate": {
+        "longitude": 138.6633545,
+        "latitude": -4.599735,
+        "elevation": 203
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.08.24.2005",
+      "name": "BISIKIMU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.08",
+      "cityName": "KAB. NDUGA",
+      "districtCode": "95.08.24",
+      "districtName": "EMBETPEN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99920,
+      "coordinate": {
+        "longitude": 138.6299961,
+        "latitude": -4.4944383,
+        "elevation": 1187
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

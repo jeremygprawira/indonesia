@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "61.11.01",
+      "name": "SUKADANA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA"
+    },
+    {
+      "type": "district",
+      "code": "61.11.02",
+      "name": "SIMPANG HILIR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA"
+    },
+    {
+      "type": "district",
+      "code": "61.11.03",
+      "name": "TELUK BATANG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA"
+    },
+    {
+      "type": "district",
+      "code": "61.11.04",
+      "name": "PULAU MAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA"
+    },
+    {
+      "type": "district",
+      "code": "61.11.05",
+      "name": "SEPONTI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA"
+    },
+    {
+      "type": "district",
+      "code": "61.11.06",
+      "name": "KEPULAUAN KARIMATA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.11",
+      "cityName": "KAB. KAYONG UTARA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

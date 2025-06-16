@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.17.1001",
+      "name": "ENGGAL",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.17",
+      "districtName": "ENGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35118,
+      "coordinate": {
+        "longitude": 105.2605198,
+        "latitude": -5.4189503,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.17.1002",
+      "name": "PELITA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.17",
+      "districtName": "ENGGAL",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.3350246,
+        "latitude": -1.8563327,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.17.1003",
+      "name": "TANJUNGKARANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.17",
+      "districtName": "ENGGAL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77483,
+      "coordinate": {
+        "longitude": 117.8940558,
+        "latitude": 4.0646626,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.17.1004",
+      "name": "GUNUNGSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.17",
+      "districtName": "ENGGAL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94480,
+      "coordinate": {
+        "longitude": 121.0110708,
+        "latitude": 0.6432046,
+        "elevation": 444
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.17.1005",
+      "name": "RAWALAUT",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.17",
+      "districtName": "ENGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35127,
+      "coordinate": {
+        "longitude": 105.2661472,
+        "latitude": -5.4225372,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.17.1006",
+      "name": "PAHOMAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.17",
+      "districtName": "ENGGAL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35213,
+      "coordinate": {
+        "longitude": 105.272464,
+        "latitude": -5.4286971,
+        "elevation": 93
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

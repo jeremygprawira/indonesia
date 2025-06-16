@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.72.04.1001",
+      "name": "TANJUNG PINANG TIMUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.04",
+      "districtName": "BUKIT BESTARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29122,
+      "coordinate": {
+        "longitude": 104.4578737,
+        "latitude": 0.915235,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.04.1002",
+      "name": "DOMPAK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.04",
+      "districtName": "BUKIT BESTARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29124,
+      "coordinate": {
+        "longitude": 104.5002578,
+        "latitude": 0.8622802,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.04.1003",
+      "name": "TANJUNG AYUN SAKTI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.04",
+      "districtName": "BUKIT BESTARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29124,
+      "coordinate": {
+        "longitude": 104.4617984,
+        "latitude": 0.9002539,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.04.1004",
+      "name": "SEI JANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.04",
+      "districtName": "BUKIT BESTARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29124,
+      "coordinate": {
+        "longitude": 104.4757818,
+        "latitude": 0.8965107,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.72.04.1005",
+      "name": "TANJUNG UNGGAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.72",
+      "cityName": "KOTA TANJUNG PINANG",
+      "districtCode": "21.72.04",
+      "districtName": "BUKIT BESTARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29122,
+      "coordinate": {
+        "longitude": 104.4625054,
+        "latitude": 0.9260012,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.08.08.2001",
+      "name": "MERANTI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96545,
+      "coordinate": {
+        "longitude": 123.1123554,
+        "latitude": 0.6331198,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.08.2002",
+      "name": "KELAMPAI SETOLO",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79366,
+      "coordinate": {
+        "longitude": 109.7218829,
+        "latitude": 0.6497817,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.08.2003",
+      "name": "MORO BETUNG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79366,
+      "coordinate": {
+        "longitude": 109.6662067,
+        "latitude": 0.710076,
+        "elevation": 443
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.08.2004",
+      "name": "SELANGE",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79366,
+      "coordinate": {
+        "longitude": 109.7594925,
+        "latitude": 0.8184064,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.08.2005",
+      "name": "AMPADI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79366,
+      "coordinate": {
+        "longitude": 109.8419063,
+        "latitude": 0.7365842,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.08.08.2006",
+      "name": "TAHU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.08",
+      "cityName": "KAB. LANDAK",
+      "districtCode": "61.08.08",
+      "districtName": "MERANTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79366,
+      "coordinate": {
+        "longitude": 109.7043177,
+        "latitude": 0.7992677,
+        "elevation": 93
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

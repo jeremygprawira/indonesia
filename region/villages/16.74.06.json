@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.74.06.1001",
+      "name": "MAJASARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.06",
+      "districtName": "PRABUMULIH SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42177,
+      "coordinate": {
+        "longitude": 106.3449181,
+        "latitude": -6.2673061,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.06.1002",
+      "name": "TANJUNG RAMAN",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.06",
+      "districtName": "PRABUMULIH SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38388,
+      "coordinate": {
+        "longitude": 102.4856916,
+        "latitude": -3.7287163,
+        "elevation": 192
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.06.1003",
+      "name": "SUKARAJA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.06",
+      "districtName": "PRABUMULIH SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.06.2004",
+      "name": "TANJUNG MENANG",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.06",
+      "districtName": "PRABUMULIH SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38552,
+      "coordinate": {
+        "longitude": 102.9941622,
+        "latitude": -4.4284468,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

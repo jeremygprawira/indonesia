@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "33.71.01",
+      "name": "MAGELANG SELATAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.71",
+      "cityName": "KOTA MAGELANG"
+    },
+    {
+      "type": "district",
+      "code": "33.71.02",
+      "name": "MAGELANG UTARA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.71",
+      "cityName": "KOTA MAGELANG"
+    },
+    {
+      "type": "district",
+      "code": "33.71.03",
+      "name": "MAGELANG TENGAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.71",
+      "cityName": "KOTA MAGELANG"
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

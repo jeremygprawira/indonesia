@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.03.12.2001",
+      "name": "TEMBUDAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.12",
+      "districtName": "BATU PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77372,
+      "coordinate": {
+        "longitude": 118.3638839,
+        "latitude": 1.356467,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.12.2002",
+      "name": "KAYU INDAH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.12",
+      "districtName": "BATU PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77372,
+      "coordinate": {
+        "longitude": 118.3137032,
+        "latitude": 1.4351575,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.12.2003",
+      "name": "BATU PUTIH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.12",
+      "districtName": "BATU PUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97472,
+      "coordinate": {
+        "longitude": 131.1532487,
+        "latitude": -7.7628458,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.12.2004",
+      "name": "LOBANG KELATAK",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.12",
+      "districtName": "BATU PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77373,
+      "coordinate": {
+        "longitude": 118.4306185,
+        "latitude": 1.3332844,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.12.2005",
+      "name": "AMPEN MEDANG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.12",
+      "districtName": "BATU PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77373,
+      "coordinate": {
+        "longitude": 118.4721629,
+        "latitude": 1.3454627,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.12.2006",
+      "name": "BALIKUKUP",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.12",
+      "districtName": "BATU PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77373,
+      "coordinate": {
+        "longitude": 118.9471033,
+        "latitude": 1.5602078,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.03.12.2007",
+      "name": "SUMBER AGUNG",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.03",
+      "cityName": "KAB. BERAU",
+      "districtCode": "64.03.12",
+      "districtName": "BATU PUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 127.8898438,
+        "latitude": 1.3047166,
+        "elevation": 65
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

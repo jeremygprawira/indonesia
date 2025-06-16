@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.04.20.2005",
+      "name": "IFATKAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.20",
+      "districtName": "TINGGOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98375,
+      "coordinate": {
+        "longitude": 132.5935607,
+        "latitude": -0.7149401,
+        "elevation": 1137
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.20.2003",
+      "name": "RURIAI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.20",
+      "districtName": "TINGGOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98375,
+      "coordinate": {
+        "longitude": 132.6051462,
+        "latitude": -0.6737689,
+        "elevation": 973
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.20.2001",
+      "name": "TINGGOUW",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.20",
+      "districtName": "TINGGOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98375,
+      "coordinate": {
+        "longitude": 132.6685411,
+        "latitude": -0.7317881,
+        "elevation": 1129
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.20.2004",
+      "name": "SOON",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.20",
+      "districtName": "TINGGOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98375,
+      "coordinate": {
+        "longitude": 132.5877272,
+        "latitude": -0.74409,
+        "elevation": 720
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.20.2002",
+      "name": "HOHAIR",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.20",
+      "districtName": "TINGGOUW",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98375,
+      "coordinate": {
+        "longitude": 132.567882,
+        "latitude": -0.6635621,
+        "elevation": 1282
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

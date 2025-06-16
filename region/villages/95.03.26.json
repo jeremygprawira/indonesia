@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.03.26.2001",
+      "name": "SUBUNDALEK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.26",
+      "districtName": "YAHULIAMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99745,
+      "coordinate": {
+        "longitude": 139.619121,
+        "latitude": -4.0697479,
+        "elevation": 1852
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.26.2002",
+      "name": "TANGGEAM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.26",
+      "districtName": "YAHULIAMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99745,
+      "coordinate": {
+        "longitude": 139.6264925,
+        "latitude": -4.0748675,
+        "elevation": 2082
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.26.2003",
+      "name": "AMFULMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.26",
+      "districtName": "YAHULIAMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99745,
+      "coordinate": {
+        "longitude": 139.6347144,
+        "latitude": -4.05685,
+        "elevation": 2134
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.26.2004",
+      "name": "SUKSALE",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.26",
+      "districtName": "YAHULIAMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99745,
+      "coordinate": {
+        "longitude": 139.6603482,
+        "latitude": -4.0117311,
+        "elevation": 885
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.03.26.2005",
+      "name": "LINGGISEN",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.03",
+      "cityName": "KAB. YAHUKIMO",
+      "districtCode": "95.03.26",
+      "districtName": "YAHULIAMBUT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99745,
+      "coordinate": {
+        "longitude": 139.6393225,
+        "latitude": -4.0584097,
+        "elevation": 2093
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

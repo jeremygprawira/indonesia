@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.26.10.1002",
+      "name": "TAGARI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.10",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91855,
+      "coordinate": {
+        "longitude": 119.9561042,
+        "latitude": -2.9241129,
+        "elevation": 851
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.10.1005",
+      "name": "BALUSU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.10",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91855,
+      "coordinate": {
+        "longitude": 119.9542905,
+        "latitude": -2.9110036,
+        "elevation": 903
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.10.2001",
+      "name": "PALANGI-",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.10",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.10.2003",
+      "name": "LILIKIRA AO-GADING",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.10",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.10.2004",
+      "name": "KARUA",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.10",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91855,
+      "coordinate": {
+        "longitude": 119.9906345,
+        "latitude": -2.9078014,
+        "elevation": 1019
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.10.2006",
+      "name": "AWA- KAWASIK",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.10",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.26.10.2007",
+      "name": "BALUSU BANGUNLIPU",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.26",
+      "cityName": "KAB. TORAJA UTARA",
+      "districtCode": "73.26.10",
+      "districtName": "BALUSU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91855,
+      "coordinate": {
+        "longitude": 119.9605289,
+        "latitude": -2.8912304,
+        "elevation": 948
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.07.12.2001",
+      "name": "WERABUR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.12",
+      "districtName": "NIKIWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98331,
+      "coordinate": {
+        "longitude": 134.1312913,
+        "latitude": -2.3901459,
+        "elevation": 198
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.12.2002",
+      "name": "MAMISI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.12",
+      "districtName": "NIKIWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98331,
+      "coordinate": {
+        "longitude": 134.1517755,
+        "latitude": -2.2991881,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.12.2003",
+      "name": "WERIANGGI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.12",
+      "districtName": "NIKIWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98331,
+      "coordinate": {
+        "longitude": 134.1785002,
+        "latitude": -2.4740696,
+        "elevation": 232
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.12.2004",
+      "name": "KUREI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.12",
+      "districtName": "NIKIWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98331,
+      "coordinate": {
+        "longitude": 134.119262,
+        "latitude": -2.3625061,
+        "elevation": 384
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.12.2005",
+      "name": "TAMOGE",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.12",
+      "districtName": "NIKIWAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98331,
+      "coordinate": {
+        "longitude": 134.1214923,
+        "latitude": -2.4520907,
+        "elevation": 420
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

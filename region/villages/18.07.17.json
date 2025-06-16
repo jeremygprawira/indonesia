@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.07.17.2001",
+      "name": "WANA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.17",
+      "districtName": "MELINTING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34377,
+      "coordinate": {
+        "longitude": 105.7434803,
+        "latitude": -5.3560105,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.17.2002",
+      "name": "TANJUNG AJI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.17",
+      "districtName": "MELINTING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34377,
+      "coordinate": {
+        "longitude": 105.7895759,
+        "latitude": -5.3708369,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.17.2003",
+      "name": "TEBING",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.17",
+      "districtName": "MELINTING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29668,
+      "coordinate": {
+        "longitude": 103.4204218,
+        "latitude": 1.0342893,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.17.2004",
+      "name": "SIDO MAKMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.17",
+      "districtName": "MELINTING",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98131,
+      "coordinate": {
+        "longitude": 133.2601858,
+        "latitude": -2.4652014,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.17.2005",
+      "name": "ITIK RENDAY",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.17",
+      "districtName": "MELINTING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34377,
+      "coordinate": {
+        "longitude": 105.7198374,
+        "latitude": -5.3843498,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.17.2006",
+      "name": "SUMBER HADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.17",
+      "districtName": "MELINTING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34377,
+      "coordinate": {
+        "longitude": 105.7478516,
+        "latitude": -5.3819754,
+        "elevation": 37
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

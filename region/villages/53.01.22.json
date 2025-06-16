@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.22.2001",
+      "name": "SOLIU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.22",
+      "districtName": "AMFOANG BARAT LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85372,
+      "coordinate": {
+        "longitude": 123.7383701,
+        "latitude": -9.5931679,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.22.2002",
+      "name": "SAUKIBE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.22",
+      "districtName": "AMFOANG BARAT LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85372,
+      "coordinate": {
+        "longitude": 123.7852495,
+        "latitude": -9.6320371,
+        "elevation": 244
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.22.2003",
+      "name": "OELFATU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.22",
+      "districtName": "AMFOANG BARAT LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85372,
+      "coordinate": {
+        "longitude": 123.763457,
+        "latitude": -9.5719244,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.22.2004",
+      "name": "TIMAU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.22",
+      "districtName": "AMFOANG BARAT LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85372,
+      "coordinate": {
+        "longitude": 123.7954983,
+        "latitude": -9.5941576,
+        "elevation": 106
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.22.2005",
+      "name": "HONUK",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.22",
+      "districtName": "AMFOANG BARAT LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85372,
+      "coordinate": {
+        "longitude": 123.8871137,
+        "latitude": -9.5919434,
+        "elevation": 478
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.22.2006",
+      "name": "FAUMES",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.22",
+      "districtName": "AMFOANG BARAT LAUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85372,
+      "coordinate": {
+        "longitude": 123.8562503,
+        "latitude": -9.6238532,
+        "elevation": 655
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.01.17.1001",
+      "name": "NAMAELO",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.17",
+      "districtName": "KOTA MASOHI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97511,
+      "coordinate": {
+        "longitude": 128.960732,
+        "latitude": -3.3009826,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.17.1002",
+      "name": "NAMASINA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.17",
+      "districtName": "KOTA MASOHI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97512,
+      "coordinate": {
+        "longitude": 128.9434383,
+        "latitude": -3.3090886,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.17.1003",
+      "name": "AMPERA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.17",
+      "districtName": "KOTA MASOHI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99081,
+      "coordinate": {
+        "longitude": 139.7430473,
+        "latitude": -3.7450401,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.17.1004",
+      "name": "LESANE",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.17",
+      "districtName": "KOTA MASOHI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97514,
+      "coordinate": {
+        "longitude": 128.960761,
+        "latitude": -3.2963148,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.17.1005",
+      "name": "LETWARU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.17",
+      "districtName": "KOTA MASOHI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97515,
+      "coordinate": {
+        "longitude": 128.9694259,
+        "latitude": -3.2994424,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

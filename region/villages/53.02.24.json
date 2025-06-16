@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.02.24.2001",
+      "name": "NOEBANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.24",
+      "districtName": "NOEBANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85585,
+      "coordinate": {
+        "longitude": 124.6332615,
+        "latitude": -9.7636245,
+        "elevation": 449
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.24.2002",
+      "name": "FATUMNASI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.24",
+      "districtName": "NOEBANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85585,
+      "coordinate": {
+        "longitude": 124.6469991,
+        "latitude": -9.7527905,
+        "elevation": 327
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.24.2003",
+      "name": "SUNI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.24",
+      "districtName": "NOEBANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85585,
+      "coordinate": {
+        "longitude": 124.6615604,
+        "latitude": -9.7959455,
+        "elevation": 569
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.24.2004",
+      "name": "MELLA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.24",
+      "districtName": "NOEBANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85585,
+      "coordinate": {
+        "longitude": 124.6428018,
+        "latitude": -9.7995889,
+        "elevation": 605
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.24.2005",
+      "name": "MNELAPETU",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.24",
+      "districtName": "NOEBANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85585,
+      "coordinate": {
+        "longitude": 124.6259863,
+        "latitude": -9.7922957,
+        "elevation": 555
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

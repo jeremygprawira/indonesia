@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.06.2001",
+      "name": "CATURHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.06",
+      "districtName": "PANDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55515,
+      "coordinate": {
+        "longitude": 110.3220353,
+        "latitude": -7.6890757,
+        "elevation": 241
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.06.2002",
+      "name": "TRIHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.06",
+      "districtName": "PANDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55514,
+      "coordinate": {
+        "longitude": 110.3418533,
+        "latitude": -7.6971054,
+        "elevation": 243
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.06.2003",
+      "name": "GILANGHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.06",
+      "districtName": "PANDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55761,
+      "coordinate": {
+        "longitude": 110.3020517,
+        "latitude": -7.9183285,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.06.2004",
+      "name": "WIJIREJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.06",
+      "districtName": "PANDAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55761,
+      "coordinate": {
+        "longitude": 110.2943083,
+        "latitude": -7.904796,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

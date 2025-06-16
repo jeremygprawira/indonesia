@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.06.02.2001",
+      "name": "LUBUK BASUNG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.02",
+      "districtName": "LUBUK BASUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26451,
+      "coordinate": {
+        "longitude": 100.0650521,
+        "latitude": -0.3009566,
+        "elevation": 235
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.02.2002",
+      "name": "GARAGAHAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.02",
+      "districtName": "LUBUK BASUNG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.02.2003",
+      "name": "KAMPUNG PINANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.02",
+      "districtName": "LUBUK BASUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28462,
+      "coordinate": {
+        "longitude": 101.4386523,
+        "latitude": 0.3787877,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.02.2004",
+      "name": "KAMPUNG TANGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.02",
+      "districtName": "LUBUK BASUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25535,
+      "coordinate": {
+        "longitude": 100.1526518,
+        "latitude": -0.6154421,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.06.02.2005",
+      "name": "MANGGOPOH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.06",
+      "cityName": "KAB. AGAM",
+      "districtCode": "13.06.02",
+      "districtName": "LUBUK BASUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26451,
+      "coordinate": {
+        "longitude": 99.935051,
+        "latitude": -0.2738248,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

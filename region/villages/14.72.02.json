@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.72.02.1002",
+      "name": "TELUK BINJAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.02",
+      "districtName": "DUMAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28813,
+      "coordinate": {
+        "longitude": 101.4525109,
+        "latitude": 1.669,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.02.1003",
+      "name": "TANJUNG PALAS",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.02",
+      "districtName": "DUMAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28816,
+      "coordinate": {
+        "longitude": 101.4642717,
+        "latitude": 1.6561348,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.02.1004",
+      "name": "JAYA MUKTI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.02",
+      "districtName": "DUMAI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98853,
+      "coordinate": {
+        "longitude": 135.275183,
+        "latitude": -3.4720649,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.02.1006",
+      "name": "BULUH KASAP",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.02",
+      "districtName": "DUMAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28814,
+      "coordinate": {
+        "longitude": 101.4548577,
+        "latitude": 1.6842671,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.02.1009",
+      "name": "BUKIT BATREM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.02",
+      "districtName": "DUMAI TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28811,
+      "coordinate": {
+        "longitude": 101.4393078,
+        "latitude": 1.6224017,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

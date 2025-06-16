@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.10.2001",
+      "name": "TANJUNG PALA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.10",
+      "districtName": "PULAU LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29789,
+      "coordinate": {
+        "longitude": 107.9999641,
+        "latitude": 4.7653998,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.10.2002",
+      "name": "AIR PAYANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.10",
+      "districtName": "PULAU LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29789,
+      "coordinate": {
+        "longitude": 107.9644409,
+        "latitude": 4.7041547,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.10.2003",
+      "name": "KADUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.10",
+      "districtName": "PULAU LAUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 69355,
+      "coordinate": {
+        "longitude": 113.5644083,
+        "latitude": -7.0796208,
+        "elevation": 240
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

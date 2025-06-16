@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.79.01.1001",
+      "name": "BANJAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.01",
+      "districtName": "BANJAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78822,
+      "coordinate": {
+        "longitude": 109.9679955,
+        "latitude": -1.863089,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.01.1002",
+      "name": "MEKARSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.01",
+      "districtName": "BANJAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.01.2003",
+      "name": "BALOKANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.01",
+      "districtName": "BANJAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46312,
+      "coordinate": {
+        "longitude": 108.5065149,
+        "latitude": -7.3684878,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.01.2004",
+      "name": "CIBEUREUM",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.01",
+      "districtName": "BANJAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42397,
+      "coordinate": {
+        "longitude": 106.1217368,
+        "latitude": -6.6912587,
+        "elevation": 401
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.01.2005",
+      "name": "NEGLASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.01",
+      "districtName": "BANJAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15129,
+      "coordinate": {
+        "longitude": 106.6249531,
+        "latitude": -6.1467797,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.01.1006",
+      "name": "SITUBATU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.01",
+      "districtName": "BANJAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46314,
+      "coordinate": {
+        "longitude": 108.4865858,
+        "latitude": -7.388324,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.79.01.2007",
+      "name": "JAJAWAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.79",
+      "cityName": "KOTA BANJAR",
+      "districtCode": "32.79.01",
+      "districtName": "BANJAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46317,
+      "coordinate": {
+        "longitude": 108.4919777,
+        "latitude": -7.3601747,
+        "elevation": 55
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

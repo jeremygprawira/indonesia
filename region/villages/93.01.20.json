@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.01.20.2001",
+      "name": "WANAM",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.20",
+      "districtName": "ILWAYAB",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99085,
+      "coordinate": {
+        "longitude": 139.170414,
+        "latitude": -3.8564045,
+        "elevation": 1398
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.20.2002",
+      "name": "BIBIKEM",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.20",
+      "districtName": "ILWAYAB",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99640,
+      "coordinate": {
+        "longitude": 139.0401235,
+        "latitude": -7.817449,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.20.2003",
+      "name": "WOGEKEL",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.20",
+      "districtName": "ILWAYAB",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99640,
+      "coordinate": {
+        "longitude": 138.8511627,
+        "latitude": -7.3980385,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.01.20.2004",
+      "name": "ULI ULI",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.01",
+      "cityName": "KAB. MERAUKE",
+      "districtCode": "93.01.20",
+      "districtName": "ILWAYAB",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99640,
+      "coordinate": {
+        "longitude": 138.8689569,
+        "latitude": -7.5566487,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

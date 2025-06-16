@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.11.2001",
+      "name": "KUKEN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.11",
+      "districtName": "AMBATKWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99681,
+      "coordinate": {
+        "longitude": 140.6483786,
+        "latitude": -5.3890891,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.11.2002",
+      "name": "KOLOPKAM",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.11",
+      "districtName": "AMBATKWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99681,
+      "coordinate": {
+        "longitude": 140.5183699,
+        "latitude": -5.3439713,
+        "elevation": 230
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.11.2003",
+      "name": "AWAKEN",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.11",
+      "districtName": "AMBATKWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99681,
+      "coordinate": {
+        "longitude": 140.5435081,
+        "latitude": -5.3821965,
+        "elevation": 143
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.11.2004",
+      "name": "ARIMBIT",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.11",
+      "districtName": "AMBATKWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99681,
+      "coordinate": {
+        "longitude": 140.6385235,
+        "latitude": -5.3345658,
+        "elevation": 397
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.11.2005",
+      "name": "ANYUMKA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.11",
+      "districtName": "AMBATKWI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99681,
+      "coordinate": {
+        "longitude": 140.8030637,
+        "latitude": -5.4175874,
+        "elevation": 329
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

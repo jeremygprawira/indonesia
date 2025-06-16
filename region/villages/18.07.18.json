@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.07.18.2001",
+      "name": "NEGERI AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.18",
+      "districtName": "GUNUNG PELINDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34773,
+      "coordinate": {
+        "longitude": 104.604985,
+        "latitude": -4.5819373,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.18.2002",
+      "name": "PEMPEN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.18",
+      "districtName": "GUNUNG PELINDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34388,
+      "coordinate": {
+        "longitude": 105.7547706,
+        "latitude": -5.4462186,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.18.2003",
+      "name": "WAY MILI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.18",
+      "districtName": "GUNUNG PELINDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34388,
+      "coordinate": {
+        "longitude": 105.770649,
+        "latitude": -5.4367611,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.18.2004",
+      "name": "PELINDUNG JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.18",
+      "districtName": "GUNUNG PELINDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34388,
+      "coordinate": {
+        "longitude": 105.7607449,
+        "latitude": -5.44046,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.18.2005",
+      "name": "NIBUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.18",
+      "districtName": "GUNUNG PELINDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78765,
+      "coordinate": {
+        "longitude": 112.1728324,
+        "latitude": 0.6571146,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

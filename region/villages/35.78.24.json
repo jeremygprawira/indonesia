@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.24.1001",
+      "name": "KUTISARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.24",
+      "districtName": "TENGGILIS MEJOYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60291,
+      "coordinate": {
+        "longitude": 112.7497172,
+        "latitude": -7.3377102,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.24.1002",
+      "name": "KENDANGSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.24",
+      "districtName": "TENGGILIS MEJOYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60292,
+      "coordinate": {
+        "longitude": 112.7510069,
+        "latitude": -7.3231148,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.24.1003",
+      "name": "TENGGILIS MEJOYO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.24",
+      "districtName": "TENGGILIS MEJOYO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.24.1004",
+      "name": "PANJANG JIWO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.24",
+      "districtName": "TENGGILIS MEJOYO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60299,
+      "coordinate": {
+        "longitude": 112.7625742,
+        "latitude": -7.3130635,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

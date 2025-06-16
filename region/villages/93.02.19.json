@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "93.02.19.2001",
+      "name": "METTO",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.19",
+      "districtName": "KI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99652,
+      "coordinate": {
+        "longitude": 140.1569305,
+        "latitude": -6.8383005,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.19.2002",
+      "name": "OBINANGGE",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.19",
+      "districtName": "KI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99652,
+      "coordinate": {
+        "longitude": 139.9692632,
+        "latitude": -6.4579724,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.19.2003",
+      "name": "WATEMU",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.19",
+      "districtName": "KI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99652,
+      "coordinate": {
+        "longitude": 140.1014829,
+        "latitude": -6.5479802,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "93.02.19.2004",
+      "name": "UJUNGKIA",
+      "provinceCode": "93",
+      "provinceName": "PAPUA SELATAN",
+      "cityCode": "93.02",
+      "cityName": "KAB. BOVEN DIGOEL",
+      "districtCode": "93.02.19",
+      "districtName": "KI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99652,
+      "coordinate": {
+        "longitude": 140.2176299,
+        "latitude": -6.6748764,
+        "elevation": 41
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

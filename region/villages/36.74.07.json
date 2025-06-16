@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.74.07.1001",
+      "name": "MUNCUL",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.07",
+      "districtName": "SETU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15314,
+      "coordinate": {
+        "longitude": 106.6642007,
+        "latitude": -6.3484048,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.07.1002",
+      "name": "SETU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.07",
+      "districtName": "SETU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15314,
+      "coordinate": {
+        "longitude": 106.6791947,
+        "latitude": -6.3409646,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.07.1003",
+      "name": "KERANGGAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.07",
+      "districtName": "SETU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15312,
+      "coordinate": {
+        "longitude": 106.6560377,
+        "latitude": -6.340728,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.07.1004",
+      "name": "KADEMANGAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.07",
+      "districtName": "SETU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15313,
+      "coordinate": {
+        "longitude": 106.6685354,
+        "latitude": -6.3358032,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.07.1005",
+      "name": "BABAKAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.07",
+      "districtName": "SETU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83233,
+      "coordinate": {
+        "longitude": 116.134958,
+        "latitude": -8.6058326,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.74.07.1006",
+      "name": "BAKTI JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.74",
+      "cityName": "KOTA TANGERANG SELATAN",
+      "districtCode": "36.74.07",
+      "districtName": "SETU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15315,
+      "coordinate": {
+        "longitude": 106.7134463,
+        "latitude": -6.355867,
+        "elevation": 66
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

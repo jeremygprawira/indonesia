@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.25.08.2001",
+      "name": "BUKIT TINGGI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.25",
+      "cityName": "KAB. NIAS BARAT",
+      "districtCode": "12.25.08",
+      "districtName": "ULU MORO-O",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97766,
+      "coordinate": {
+        "longitude": 127.7149944,
+        "latitude": 1.1348236,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.25.08.2002",
+      "name": "LAWELU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.25",
+      "cityName": "KAB. NIAS BARAT",
+      "districtCode": "12.25.08",
+      "districtName": "ULU MORO-O",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22862,
+      "coordinate": {
+        "longitude": 97.5371464,
+        "latitude": 1.0192006,
+        "elevation": 210
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.25.08.2003",
+      "name": "SALOO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.25",
+      "cityName": "KAB. NIAS BARAT",
+      "districtCode": "12.25.08",
+      "districtName": "ULU MORO-O",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22862,
+      "coordinate": {
+        "longitude": 97.5534866,
+        "latitude": 1.0317045,
+        "elevation": 284
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.25.08.2004",
+      "name": "HILISANGAWOLA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.25",
+      "cityName": "KAB. NIAS BARAT",
+      "districtCode": "12.25.08",
+      "districtName": "ULU MORO-O",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22862,
+      "coordinate": {
+        "longitude": 97.5653876,
+        "latitude": 1.0173117,
+        "elevation": 369
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.25.08.2005",
+      "name": "HILIBADALU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.25",
+      "cityName": "KAB. NIAS BARAT",
+      "districtCode": "12.25.08",
+      "districtName": "ULU MORO-O",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22862,
+      "coordinate": {
+        "longitude": 97.5780835,
+        "latitude": 1.0371087,
+        "elevation": 100
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

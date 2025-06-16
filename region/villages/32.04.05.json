@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.05.2001",
+      "name": "CILEUNYI KULON",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.05",
+      "districtName": "CILEUNYI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40621,
+      "coordinate": {
+        "longitude": 107.7424761,
+        "latitude": -6.9375088,
+        "elevation": 701
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.05.2002",
+      "name": "CILEUNYI WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.05",
+      "districtName": "CILEUNYI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40622,
+      "coordinate": {
+        "longitude": 107.7497234,
+        "latitude": -6.9360689,
+        "elevation": 725
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.05.2003",
+      "name": "CIMEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.05",
+      "districtName": "CILEUNYI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40623,
+      "coordinate": {
+        "longitude": 107.7322597,
+        "latitude": -6.9433101,
+        "elevation": 671
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.05.2004",
+      "name": "CINUNUK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.05",
+      "districtName": "CILEUNYI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44180,
+      "coordinate": {
+        "longitude": 107.9709607,
+        "latitude": -7.1772687,
+        "elevation": 701
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.05.2005",
+      "name": "CIBIRU HILIR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.05",
+      "districtName": "CILEUNYI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40626,
+      "coordinate": {
+        "longitude": 107.7163163,
+        "latitude": -6.9513927,
+        "elevation": 665
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.05.2006",
+      "name": "CIBIRU WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.05",
+      "districtName": "CILEUNYI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40625,
+      "coordinate": {
+        "longitude": 107.7314926,
+        "latitude": -6.918836,
+        "elevation": 787
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

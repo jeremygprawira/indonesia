@@ -1,0 +1,810 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.08.08.2001",
+      "name": "PIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2042438,
+        "latitude": 5.1265361,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2002",
+      "name": "ASAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2100786,
+        "latitude": 5.1217829,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2003",
+      "name": "MURONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2088905,
+        "latitude": 5.1261119,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2004",
+      "name": "BLANG KABU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2172345,
+        "latitude": 5.1234044,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2005",
+      "name": "MANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20762,
+      "coordinate": {
+        "longitude": 98.4263105,
+        "latitude": 3.6460792,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2006",
+      "name": "KEUDE GEUDONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2090834,
+        "latitude": 5.1151129,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2007",
+      "name": "BLANG PEURIA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2065986,
+        "latitude": 5.1150937,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2008",
+      "name": "TEUPIN ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23653,
+      "coordinate": {
+        "longitude": 95.8392861,
+        "latitude": 4.4342466,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2009",
+      "name": "TEUPIN BEULANGAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2194906,
+        "latitude": 5.1115485,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2010",
+      "name": "KRUENG BARO LANGGAHAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2222929,
+        "latitude": 5.1038813,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2011",
+      "name": "PUSONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2267254,
+        "latitude": 5.1178137,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2012",
+      "name": "TANJONG KLENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2142181,
+        "latitude": 5.1088309,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2013",
+      "name": "GAMPONG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23234,
+      "coordinate": {
+        "longitude": 95.2999961,
+        "latitude": 5.5474683,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2014",
+      "name": "BEURINGEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2601825,
+        "latitude": 5.2509503,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2015",
+      "name": "KUTA KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3374497,
+        "latitude": 5.2061839,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2016",
+      "name": "KUTA GLUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2209419,
+        "latitude": 5.1461203,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2017",
+      "name": "MEUCAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24185,
+      "coordinate": {
+        "longitude": 96.227338,
+        "latitude": 5.2436891,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2018",
+      "name": "KRUENG BARO BLANG MEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2155829,
+        "latitude": 5.1331785,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2019",
+      "name": "UJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.215767,
+        "latitude": 5.1277598,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2020",
+      "name": "MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75133,
+      "coordinate": {
+        "longitude": 117.1503547,
+        "latitude": -0.5190314,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2021",
+      "name": "TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24416,
+      "coordinate": {
+        "longitude": 97.9757522,
+        "latitude": 4.4640502,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2022",
+      "name": "KEUDE BLANG MEE PULO KLAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2350753,
+        "latitude": 5.121545,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2023",
+      "name": "PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2308449,
+        "latitude": 5.1450867,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2024",
+      "name": "LANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1154536,
+        "latitude": 5.276798,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2025",
+      "name": "MATANG ULIM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2484352,
+        "latitude": 5.1445512,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2026",
+      "name": "SAWANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95867,
+      "coordinate": {
+        "longitude": 125.3897331,
+        "latitude": 2.689336,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2027",
+      "name": "LAGA BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2324283,
+        "latitude": 5.1306234,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2028",
+      "name": "PULO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42182,
+      "coordinate": {
+        "longitude": 106.2580976,
+        "latitude": -6.1088429,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2029",
+      "name": "MATANG TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24391,
+      "coordinate": {
+        "longitude": 97.3034643,
+        "latitude": 5.1564553,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2030",
+      "name": "MATANG PUNTONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24393,
+      "coordinate": {
+        "longitude": 97.3662938,
+        "latitude": 5.1984048,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2031",
+      "name": "BLANG NIBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2602231,
+        "latitude": 5.1578311,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2032",
+      "name": "TANJONG BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2279358,
+        "latitude": 5.103495,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2033",
+      "name": "TANJONG HAGU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2322984,
+        "latitude": 5.0902143,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2034",
+      "name": "TANJONG REUNGKAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.232759,
+        "latitude": 5.0852882,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2035",
+      "name": "TANJONG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24356,
+      "coordinate": {
+        "longitude": 96.8865699,
+        "latitude": 5.2045724,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2036",
+      "name": "PAYA TERBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24385,
+      "coordinate": {
+        "longitude": 97.2427633,
+        "latitude": 5.06178,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2037",
+      "name": "MADAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2321857,
+        "latitude": 5.097449,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2038",
+      "name": "TANJONG AWE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2345422,
+        "latitude": 5.0794697,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2039",
+      "name": "KITOU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2279907,
+        "latitude": 5.050892,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.08.08.2040",
+      "name": "KRUENG MATEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.08",
+      "cityName": "KAB. ACEH UTARA",
+      "districtCode": "11.08.08",
+      "districtName": "SAMUDERA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.1980246,
+        "latitude": 5.1360414,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 40
+  }
+}

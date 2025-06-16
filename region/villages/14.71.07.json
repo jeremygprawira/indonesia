@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.07.1005",
+      "name": "SIMPANG TIGA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.07",
+      "districtName": "BUKIT RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75131,
+      "coordinate": {
+        "longitude": 117.0976741,
+        "latitude": -0.5757723,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.07.1006",
+      "name": "TANGKERANG SELATAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.07",
+      "districtName": "BUKIT RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28288,
+      "coordinate": {
+        "longitude": 101.4623261,
+        "latitude": 0.4917648,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.07.1008",
+      "name": "TANGKERANG UTARA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.07",
+      "districtName": "BUKIT RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28289,
+      "coordinate": {
+        "longitude": 101.4678018,
+        "latitude": 0.5060677,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.07.1011",
+      "name": "TANGKERANG LABUAI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.07",
+      "districtName": "BUKIT RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28281,
+      "coordinate": {
+        "longitude": 101.4762244,
+        "latitude": 0.4857009,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.07.1012",
+      "name": "AIRDINGIN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.07",
+      "districtName": "BUKIT RAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28284,
+      "coordinate": {
+        "longitude": 101.4554782,
+        "latitude": 0.441495,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.14.19.2001",
+      "name": "KATELAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.19",
+      "districtName": "TANGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57261,
+      "coordinate": {
+        "longitude": 111.0420703,
+        "latitude": -7.3322968,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.19.2002",
+      "name": "DUKUH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.19",
+      "districtName": "TANGEN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80853,
+      "coordinate": {
+        "longitude": 115.5388824,
+        "latitude": -8.3085549,
+        "elevation": 868
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.19.2003",
+      "name": "JEKAWAL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.19",
+      "districtName": "TANGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57261,
+      "coordinate": {
+        "longitude": 111.0915311,
+        "latitude": -7.2865064,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.19.2004",
+      "name": "GALEH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.19",
+      "districtName": "TANGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57261,
+      "coordinate": {
+        "longitude": 111.0915788,
+        "latitude": -7.2652365,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.19.2005",
+      "name": "NGROMBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.19",
+      "districtName": "TANGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57261,
+      "coordinate": {
+        "longitude": 111.0562399,
+        "latitude": -7.28406,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.19.2006",
+      "name": "SIGIT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.19",
+      "districtName": "TANGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57261,
+      "coordinate": {
+        "longitude": 111.0393405,
+        "latitude": -7.2867422,
+        "elevation": 128
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.14.19.2007",
+      "name": "DENANYAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.14",
+      "cityName": "KAB. SRAGEN",
+      "districtCode": "33.14.19",
+      "districtName": "TANGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61416,
+      "coordinate": {
+        "longitude": 112.2164683,
+        "latitude": -7.5334231,
+        "elevation": 39
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

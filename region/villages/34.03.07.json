@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.03.07.2001",
+      "name": "GIRIPANGGUNG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.07",
+      "districtName": "TEPUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55882,
+      "coordinate": {
+        "longitude": 110.6915909,
+        "latitude": -8.1037342,
+        "elevation": 297
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.07.2002",
+      "name": "SUMBERWUNGU",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.07",
+      "districtName": "TEPUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55882,
+      "coordinate": {
+        "longitude": 110.6497917,
+        "latitude": -8.0858492,
+        "elevation": 266
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.07.2003",
+      "name": "SIDOHARJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.07",
+      "districtName": "TEPUS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94765,
+      "coordinate": {
+        "longitude": 122.3768222,
+        "latitude": -1.4449195,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.07.2004",
+      "name": "TEPUS",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.07",
+      "districtName": "TEPUS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55882,
+      "coordinate": {
+        "longitude": 110.6389126,
+        "latitude": -8.138714,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.03.07.2005",
+      "name": "PURWODADI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.03",
+      "cityName": "KAB. GUNUNGKIDUL",
+      "districtCode": "34.03.07",
+      "districtName": "TEPUS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72275,
+      "coordinate": {
+        "longitude": 115.5545311,
+        "latitude": -3.6658913,
+        "elevation": 17
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

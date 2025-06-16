@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.71.05.1001",
+      "name": "SUNGAIBANGKONG",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.05",
+      "districtName": "PONTIANAK KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78116,
+      "coordinate": {
+        "longitude": 109.3126003,
+        "latitude": -0.0478345,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.05.1002",
+      "name": "DARATSEKIP",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.05",
+      "districtName": "PONTIANAK KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78117,
+      "coordinate": {
+        "longitude": 109.3395658,
+        "latitude": -0.0263101,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.05.1003",
+      "name": "TENGAH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.05",
+      "districtName": "PONTIANAK KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8002787,
+        "latitude": -4.3669841,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.05.1004",
+      "name": "MARIANA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.05",
+      "districtName": "PONTIANAK KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78112,
+      "coordinate": {
+        "longitude": 109.3327623,
+        "latitude": -0.0199965,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.05.1005",
+      "name": "SUNGAIJAWI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.05",
+      "districtName": "PONTIANAK KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78113,
+      "coordinate": {
+        "longitude": 109.311249,
+        "latitude": -0.0340069,
+        "elevation": 5
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

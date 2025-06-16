@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "32.77.01",
+      "name": "CIMAHI SELATAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI"
+    },
+    {
+      "type": "district",
+      "code": "32.77.02",
+      "name": "CIMAHI TENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI"
+    },
+    {
+      "type": "district",
+      "code": "32.77.03",
+      "name": "CIMAHI UTARA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI"
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

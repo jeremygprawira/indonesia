@@ -1,0 +1,490 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.11.02.2001",
+      "name": "HAUWAI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6769398,
+        "latitude": -2.2421666,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2002",
+      "name": "BANGKAL",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70732,
+      "coordinate": {
+        "longitude": 114.8012824,
+        "latitude": -3.5238466,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2003",
+      "name": "MANTUYAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6931757,
+        "latitude": -2.3235746,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2004",
+      "name": "TABUAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6763001,
+        "latitude": -2.3015977,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2005",
+      "name": "HALONG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97231,
+      "coordinate": {
+        "longitude": 128.2351705,
+        "latitude": -3.6614245,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2008",
+      "name": "PUYUN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6736887,
+        "latitude": -2.1886094,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2009",
+      "name": "BUNTU PILANDUK",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6957863,
+        "latitude": -2.3178555,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2010",
+      "name": "GUNUNG RIUT",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6454998,
+        "latitude": -2.1576308,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2011",
+      "name": "KAPUL",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6779738,
+        "latitude": -2.2588218,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2012",
+      "name": "MAMANTANG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.7293859,
+        "latitude": -2.2740785,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2013",
+      "name": "BINJAI PUNGGAL",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.642191,
+        "latitude": -2.263236,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2014",
+      "name": "LIYU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6606898,
+        "latitude": -2.1235288,
+        "elevation": 250
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2015",
+      "name": "BINUANG SANTANG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.7149922,
+        "latitude": -2.4072297,
+        "elevation": 157
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2016",
+      "name": "ANIUNGAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.7601339,
+        "latitude": -2.1614488,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2017",
+      "name": "BINJU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6261291,
+        "latitude": -2.2546654,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2018",
+      "name": "KARYA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6534899,
+        "latitude": -2.2060588,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2019",
+      "name": "UREN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.7922443,
+        "latitude": -2.3226503,
+        "elevation": 543
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2020",
+      "name": "MARAJAI",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.7563787,
+        "latitude": -2.3888144,
+        "elevation": 575
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2021",
+      "name": "SURYATAMA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6442166,
+        "latitude": -2.2278651,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2022",
+      "name": "BARUH PANYAMBARAN",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6364666,
+        "latitude": -2.2566526,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2023",
+      "name": "MAUYA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.6780439,
+        "latitude": -2.352764,
+        "elevation": 71
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2024",
+      "name": "PADANG RAYA",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92956,
+      "coordinate": {
+        "longitude": 119.8994408,
+        "latitude": -2.3076459,
+        "elevation": 1123
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2025",
+      "name": "SUMBER AGUNG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 127.8898438,
+        "latitude": 1.3047166,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.11.02.2026",
+      "name": "MAMIGANG",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.11",
+      "cityName": "KAB. BALANGAN",
+      "districtCode": "63.11.02",
+      "districtName": "HALONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71666,
+      "coordinate": {
+        "longitude": 115.7759414,
+        "latitude": -2.3711696,
+        "elevation": 339
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 24
+  }
+}

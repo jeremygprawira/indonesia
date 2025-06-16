@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.10.10.2001",
+      "name": "GOSONG TELAGA UTARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.10",
+      "districtName": "SINGKIL UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 97.9247716,
+        "latitude": 2.2799107,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.10.2002",
+      "name": "GOSONG TELAGA SELATAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.10",
+      "districtName": "SINGKIL UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 97.9162025,
+        "latitude": 2.2639798,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.10.2003",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.10",
+      "districtName": "SINGKIL UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.10.2004",
+      "name": "KETAPANG INDAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.10",
+      "districtName": "SINGKIL UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 97.9305317,
+        "latitude": 2.3024237,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.10.2005",
+      "name": "GOSONG TELAGA TIMUR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.10",
+      "districtName": "SINGKIL UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 97.9372117,
+        "latitude": 2.2781877,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.10.2006",
+      "name": "GOSONG TELAGA BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.10",
+      "districtName": "SINGKIL UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 97.8753994,
+        "latitude": 2.3080029,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.10.10.2007",
+      "name": "TELAGA BAKTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.10",
+      "cityName": "KAB. ACEH SINGKIL",
+      "districtCode": "11.10.10",
+      "districtName": "SINGKIL UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24791,
+      "coordinate": {
+        "longitude": 98.0272952,
+        "latitude": 2.2447509,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

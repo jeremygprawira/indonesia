@@ -1,0 +1,390 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.19.03.1001",
+      "name": "INDRAPURA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30976,
+      "coordinate": {
+        "longitude": 105.2468853,
+        "latitude": -2.5472226,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.1019",
+      "name": "INDRASAKTI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3682155,
+        "latitude": 3.2897407,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2002",
+      "name": "LIMAU SUNDAI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20716,
+      "coordinate": {
+        "longitude": 98.486932,
+        "latitude": 3.6138311,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2003",
+      "name": "PEMATANG PANJANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70653,
+      "coordinate": {
+        "longitude": 114.695039,
+        "latitude": -3.353127,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2004",
+      "name": "SUKARAJA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2005",
+      "name": "TANAH TINGGI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98443,
+      "coordinate": {
+        "longitude": 131.4357968,
+        "latitude": -1.2003898,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2006",
+      "name": "TANJUNGMUDA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3578448,
+        "latitude": 3.2425192,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2007",
+      "name": "TANAH MERAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98136,
+      "coordinate": {
+        "longitude": 133.1740163,
+        "latitude": -2.4587745,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2008",
+      "name": "ARAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.413623,
+        "latitude": 3.3043521,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2009",
+      "name": "PASAR LAPAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3543202,
+        "latitude": 3.2814116,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2010",
+      "name": "SIPARE-PARE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3481439,
+        "latitude": 3.2989063,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2011",
+      "name": "TANJUNGKUBAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3912327,
+        "latitude": 3.2991856,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2012",
+      "name": "TANJUNGHARAPAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34511,
+      "coordinate": {
+        "longitude": 104.8845395,
+        "latitude": -4.8426967,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2013",
+      "name": "SUKA RAMAI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78864,
+      "coordinate": {
+        "longitude": 111.0566961,
+        "latitude": -2.7708238,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2014",
+      "name": "TANAH RENDAH",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3713825,
+        "latitude": 3.2630226,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2015",
+      "name": "TANJUNGMULYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45354,
+      "coordinate": {
+        "longitude": 107.9070925,
+        "latitude": -6.7459469,
+        "elevation": 442
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2016",
+      "name": "TITI PAYUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3617796,
+        "latitude": 3.290999,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2017",
+      "name": "PERKOTAAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.3510056,
+        "latitude": 3.2622837,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.19.03.2018",
+      "name": "KAMPUNG KELAPA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.19",
+      "cityName": "KAB. BATU BARA",
+      "districtCode": "12.19.03",
+      "districtName": "AIR PUTIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21256,
+      "coordinate": {
+        "longitude": 99.4032086,
+        "latitude": 3.2783539,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 19
+  }
+}

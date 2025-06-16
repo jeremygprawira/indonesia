@@ -1,0 +1,990 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.17.2001",
+      "name": "BALUE TANOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.909637,
+        "latitude": 5.2702262,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2002",
+      "name": "BALUE KULU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9174313,
+        "latitude": 5.2751978,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2003",
+      "name": "LHOK EMPEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2004",
+      "name": "COT SUKON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9057238,
+        "latitude": 5.2744694,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2005",
+      "name": "DAYAH TUHA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2224086,
+        "latitude": 5.2226074,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2006",
+      "name": "KAMPONG COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9150729,
+        "latitude": 5.2468331,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2007",
+      "name": "PALOH JEUREULA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9093641,
+        "latitude": 5.2416139,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2008",
+      "name": "BARIEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24175,
+      "coordinate": {
+        "longitude": 95.9712572,
+        "latitude": 5.2295849,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2009",
+      "name": "KANDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68362,
+      "coordinate": {
+        "longitude": 114.0785152,
+        "latitude": -7.7427153,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2010",
+      "name": "RIWEUEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.887508,
+        "latitude": 5.2612743,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2011",
+      "name": "MANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20762,
+      "coordinate": {
+        "longitude": 98.4263105,
+        "latitude": 3.6460792,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2012",
+      "name": "KAMPONG PISANG BUCUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9172579,
+        "latitude": 5.2546967,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2013",
+      "name": "BUCUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9248139,
+        "latitude": 5.2633112,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2014",
+      "name": "LHOK PANAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9310463,
+        "latitude": 5.2106344,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2015",
+      "name": "MURONG COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9409831,
+        "latitude": 5.2301689,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2016",
+      "name": "CUMBOK LIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.940743,
+        "latitude": 5.2364168,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2017",
+      "name": "LAM UJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9542712,
+        "latitude": 5.2302861,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2018",
+      "name": "MURONG LHOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9373933,
+        "latitude": 5.227779,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2019",
+      "name": "BLANG COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2020",
+      "name": "COT CANTEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9315821,
+        "latitude": 5.2239183,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2021",
+      "name": "BLANG KUMOT BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9506484,
+        "latitude": 5.2252119,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2022",
+      "name": "BLANG KUMOT TUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2023",
+      "name": "CUMBOK NIWA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9440283,
+        "latitude": 5.2432883,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2024",
+      "name": "LEUPEUEM MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9327402,
+        "latitude": 5.2539455,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2025",
+      "name": "PULO JEUMPA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9370303,
+        "latitude": 5.2664029,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2026",
+      "name": "BEUTONG POCUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9293638,
+        "latitude": 5.2593243,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2027",
+      "name": "BEUTONG PERLAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9240486,
+        "latitude": 5.2531764,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2028",
+      "name": "KAMPONG JEUMPA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.0187516,
+        "latitude": 5.2459031,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2029",
+      "name": "PANTE KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2030",
+      "name": "JURONG PANTE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9324221,
+        "latitude": 5.2484137,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2032",
+      "name": "MALI LAMKUTA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9569901,
+        "latitude": 5.2614687,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2033",
+      "name": "MALI UKE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9547243,
+        "latitude": 5.2651706,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2034",
+      "name": "MALI MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9569463,
+        "latitude": 5.265041,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2035",
+      "name": "MALI COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9632701,
+        "latitude": 5.2702856,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2036",
+      "name": "TANGKUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.955334,
+        "latitude": 5.2745936,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2037",
+      "name": "LHOK MEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9206272,
+        "latitude": 5.2686873,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2038",
+      "name": "LAMEUE MNS. RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9315487,
+        "latitude": 5.270468,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2039",
+      "name": "LAMEUE MNS. BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9362385,
+        "latitude": 5.2764935,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2040",
+      "name": "LAMEUE MNS. LUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9366881,
+        "latitude": 5.2800457,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2041",
+      "name": "PULO KEUREUMBOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2042",
+      "name": "DAYAH KP PISANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2043",
+      "name": "MNS BLANG SAKTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9456859,
+        "latitude": 5.2512347,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2044",
+      "name": "PERLAK BAROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9606724,
+        "latitude": 5.256732,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2045",
+      "name": "LINGKOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24168,
+      "coordinate": {
+        "longitude": 95.9350725,
+        "latitude": 5.2426451,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2046",
+      "name": "PASAR KOTA BAKTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9411931,
+        "latitude": 5.252542,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2047",
+      "name": "MNS BALEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9474698,
+        "latitude": 5.2557175,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2048",
+      "name": "PERLAK ASAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9550318,
+        "latitude": 5.2505735,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2049",
+      "name": "KAMPONG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9523767,
+        "latitude": 5.2444139,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.17.2050",
+      "name": "MALI GUYUI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.17",
+      "districtName": "SAKTI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24164,
+      "coordinate": {
+        "longitude": 95.9493034,
+        "latitude": 5.2623024,
+        "elevation": 31
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 49
+  }
+}

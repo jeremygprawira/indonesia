@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.11.2001",
+      "name": "SINDUMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.11",
+      "districtName": "NGEMPLAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55584,
+      "coordinate": {
+        "longitude": 110.4734979,
+        "latitude": -7.6943213,
+        "elevation": 281
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.11.2002",
+      "name": "BIMOMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.11",
+      "districtName": "NGEMPLAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55584,
+      "coordinate": {
+        "longitude": 110.4642378,
+        "latitude": -7.7020962,
+        "elevation": 268
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.11.2003",
+      "name": "WIDODOMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.11",
+      "districtName": "NGEMPLAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55584,
+      "coordinate": {
+        "longitude": 110.4477863,
+        "latitude": -7.6993297,
+        "elevation": 293
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.11.2004",
+      "name": "WEDOMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.11",
+      "districtName": "NGEMPLAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55584,
+      "coordinate": {
+        "longitude": 110.4267824,
+        "latitude": -7.7333958,
+        "elevation": 206
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.11.2005",
+      "name": "UMBULMARTANI",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.11",
+      "districtName": "NGEMPLAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55584,
+      "coordinate": {
+        "longitude": 110.4298935,
+        "latitude": -7.6842635,
+        "elevation": 348
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

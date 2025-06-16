@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.75.02.1001",
+      "name": "POHJENTREK",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.75",
+      "cityName": "KOTA PASURUAN",
+      "districtCode": "35.75.02",
+      "districtName": "PURWOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67171,
+      "coordinate": {
+        "longitude": 112.8876913,
+        "latitude": -7.6662591,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.75.02.1002",
+      "name": "WIROGUNAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.75",
+      "cityName": "KOTA PASURUAN",
+      "districtCode": "35.75.02",
+      "districtName": "PURWOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67118,
+      "coordinate": {
+        "longitude": 112.8966426,
+        "latitude": -7.6710457,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.75.02.1003",
+      "name": "TEMBOKREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.75",
+      "cityName": "KOTA PASURUAN",
+      "districtCode": "35.75.02",
+      "districtName": "PURWOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67118,
+      "coordinate": {
+        "longitude": 112.8990808,
+        "latitude": -7.6742831,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.75.02.1004",
+      "name": "PURUTREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.75",
+      "cityName": "KOTA PASURUAN",
+      "districtCode": "35.75.02",
+      "districtName": "PURWOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67117,
+      "coordinate": {
+        "longitude": 112.9009256,
+        "latitude": -7.6628148,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.75.02.1005",
+      "name": "KEBONAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.75",
+      "cityName": "KOTA PASURUAN",
+      "districtCode": "35.75.02",
+      "districtName": "PURWOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67116,
+      "coordinate": {
+        "longitude": 112.8937409,
+        "latitude": -7.6568359,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.75.02.1006",
+      "name": "PURWOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.75",
+      "cityName": "KOTA PASURUAN",
+      "districtCode": "35.75.02",
+      "districtName": "PURWOREJO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95780,
+      "coordinate": {
+        "longitude": 124.3907499,
+        "latitude": 0.710546,
+        "elevation": 574
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.75.02.1011",
+      "name": "SEKARGADUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.75",
+      "cityName": "KOTA PASURUAN",
+      "districtCode": "35.75.02",
+      "districtName": "PURWOREJO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67127,
+      "coordinate": {
+        "longitude": 112.9057693,
+        "latitude": -7.675738,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,910 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.08.2001",
+      "name": "JURONG BALEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0135239,
+        "latitude": 5.3011372,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2002",
+      "name": "ARON ASAN KUMBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0178857,
+        "latitude": 5.3027832,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2003",
+      "name": "CEBREK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24181,
+      "coordinate": {
+        "longitude": 95.9774654,
+        "latitude": 5.366055,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2004",
+      "name": "JURONG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0208503,
+        "latitude": 5.3109869,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2005",
+      "name": "MEUNASAH GANTUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0209024,
+        "latitude": 5.3147796,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2006",
+      "name": "BABAH JURONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24358,
+      "coordinate": {
+        "longitude": 96.8114709,
+        "latitude": 5.2148788,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2007",
+      "name": "KEUPULA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24153,
+      "coordinate": {
+        "longitude": 95.8430736,
+        "latitude": 5.4636488,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2008",
+      "name": "MEUNASAH JARENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2009",
+      "name": "ARUSAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.033087,
+        "latitude": 5.3188894,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2010",
+      "name": "TANJONG KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24116,
+      "coordinate": {
+        "longitude": 95.9409403,
+        "latitude": 5.381319,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2011",
+      "name": "LANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24184,
+      "coordinate": {
+        "longitude": 96.1154536,
+        "latitude": 5.276798,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2012",
+      "name": "PASI LHOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0615662,
+        "latitude": 5.3002684,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2013",
+      "name": "JEUMEURANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0732311,
+        "latitude": 5.2949189,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2014",
+      "name": "PUSONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2267254,
+        "latitude": 5.1178137,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2015",
+      "name": "MEURAKSA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2450607,
+        "latitude": 5.25865,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2016",
+      "name": "KAYEE PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24370,
+      "coordinate": {
+        "longitude": 97.1901293,
+        "latitude": 5.083806,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2017",
+      "name": "PANJOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24183,
+      "coordinate": {
+        "longitude": 96.028353,
+        "latitude": 5.2405044,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2018",
+      "name": "ASAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2100786,
+        "latitude": 5.1217829,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2019",
+      "name": "MEUNASAH MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1260894,
+        "latitude": 5.1794528,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2020",
+      "name": "MEUNASAH MEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1404553,
+        "latitude": 5.1595701,
+        "elevation": -1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2021",
+      "name": "MEUNASAH TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.259696,
+        "latitude": 5.2215003,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2022",
+      "name": "PASI IE LEUBEUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0357754,
+        "latitude": 5.3317737,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2023",
+      "name": "KEUDE IE LEUBEUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0367122,
+        "latitude": 5.3245138,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2024",
+      "name": "MEUNASAH SUKON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23762,
+      "coordinate": {
+        "longitude": 96.9504092,
+        "latitude": 3.6030405,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2025",
+      "name": "MEUNASAH ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23681,
+      "coordinate": {
+        "longitude": 96.1722652,
+        "latitude": 4.216148,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2026",
+      "name": "MEUNASAH KRUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24187,
+      "coordinate": {
+        "longitude": 96.2851251,
+        "latitude": 5.2273857,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2027",
+      "name": "KRUENG DHOE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24151,
+      "coordinate": {
+        "longitude": 95.9279987,
+        "latitude": 5.3711302,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2028",
+      "name": "MEUNASAH BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24355,
+      "coordinate": {
+        "longitude": 96.9308231,
+        "latitude": 5.250452,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2029",
+      "name": "BENTAYAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30956,
+      "coordinate": {
+        "longitude": 104.128633,
+        "latitude": -2.4684738,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2030",
+      "name": "MEUNASAH KANDANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2031",
+      "name": "LAMKAWE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0050366,
+        "latitude": 5.3074907,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2032",
+      "name": "PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2308449,
+        "latitude": 5.1450867,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2033",
+      "name": "TANJONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91993,
+      "coordinate": {
+        "longitude": 120.2494031,
+        "latitude": -3.2236347,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2034",
+      "name": "DAYAH BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24181,
+      "coordinate": {
+        "longitude": 95.9787741,
+        "latitude": 5.3408732,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2035",
+      "name": "DAYAH MON ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24262,
+      "coordinate": {
+        "longitude": 96.6273082,
+        "latitude": 5.1722905,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2036",
+      "name": "KEUREUMBOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0172848,
+        "latitude": 5.3179396,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2037",
+      "name": "MEUNASAH MANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1311953,
+        "latitude": 5.1364333,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2038",
+      "name": "MATANG KULI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0143569,
+        "latitude": 5.3155082,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2039",
+      "name": "REUNG-REUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2040",
+      "name": "TEUMPEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0053456,
+        "latitude": 5.3097317,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2041",
+      "name": "BLANG CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24375,
+      "coordinate": {
+        "longitude": 97.1616439,
+        "latitude": 5.1377088,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2042",
+      "name": "GEULEUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2043",
+      "name": "ARON KUTA BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24182,
+      "coordinate": {
+        "longitude": 96.0002039,
+        "latitude": 5.320492,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2044",
+      "name": "BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67352,
+      "coordinate": {
+        "longitude": 113.1540007,
+        "latitude": -8.114821,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.08.2045",
+      "name": "ARAIH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.08",
+      "districtName": "KEMBANG TANJONG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 45
+  }
+}

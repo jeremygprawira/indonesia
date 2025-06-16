@@ -1,0 +1,370 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.20.01.2001",
+      "name": "KEDUNGMALANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64153,
+      "coordinate": {
+        "longitude": 112.1178089,
+        "latitude": -7.7087023,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2002",
+      "name": "KALIANYAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83664,
+      "coordinate": {
+        "longitude": 116.4051449,
+        "latitude": -8.6368878,
+        "elevation": 330
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2003",
+      "name": "KARANGAJI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6476171,
+        "latitude": -6.705611,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2004",
+      "name": "TEDUNAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51281,
+      "coordinate": {
+        "longitude": 110.0119194,
+        "latitude": -6.9975778,
+        "elevation": 190
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2005",
+      "name": "SOWAN LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.674391,
+        "latitude": -6.6865903,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2006",
+      "name": "SOWAN KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6680755,
+        "latitude": -6.6894019,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2007",
+      "name": "WANUSOBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6678465,
+        "latitude": -6.6790701,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2008",
+      "name": "SURODADI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51281,
+      "coordinate": {
+        "longitude": 109.9904644,
+        "latitude": -6.9778031,
+        "elevation": 190
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2009",
+      "name": "PANGGUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71662,
+      "coordinate": {
+        "longitude": 115.5076378,
+        "latitude": -2.3676012,
+        "elevation": 37
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2010",
+      "name": "BULAK BARU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6433464,
+        "latitude": -6.6651229,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2011",
+      "name": "JONDANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6628115,
+        "latitude": -6.6761396,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2012",
+      "name": "BUGEL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6059141,
+        "latitude": -6.1769462,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2013",
+      "name": "DONGOS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6822831,
+        "latitude": -6.6634541,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2014",
+      "name": "MENGANTI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61174,
+      "coordinate": {
+        "longitude": 112.5845194,
+        "latitude": -7.298837,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2015",
+      "name": "KERSO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6681326,
+        "latitude": -6.6537556,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2016",
+      "name": "TANGGUL TLARE",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6499595,
+        "latitude": -6.6505171,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2017",
+      "name": "RAU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.666881,
+        "latitude": -6.6480514,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.20.01.2018",
+      "name": "SUKOSONO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.20",
+      "cityName": "KAB. JEPARA",
+      "districtCode": "33.20.01",
+      "districtName": "KEDUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59463,
+      "coordinate": {
+        "longitude": 110.6763653,
+        "latitude": -6.6454542,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 18
+  }
+}

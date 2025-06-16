@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.12.2001",
+      "name": "SEBELE",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.12",
+      "districtName": "BELAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29660,
+      "coordinate": {
+        "longitude": 103.4933828,
+        "latitude": 0.8142366,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.12.2002",
+      "name": "LEBUH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.12",
+      "districtName": "BELAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29660,
+      "coordinate": {
+        "longitude": 103.5247294,
+        "latitude": 0.7827561,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.12.2003",
+      "name": "PENARAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.12",
+      "districtName": "BELAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29660,
+      "coordinate": {
+        "longitude": 103.5108415,
+        "latitude": 0.821907,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.12.2004",
+      "name": "SUNGAI ASAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.12",
+      "districtName": "BELAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70661,
+      "coordinate": {
+        "longitude": 114.9710339,
+        "latitude": -3.4418696,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.12.2005",
+      "name": "TEBIAS",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.12",
+      "districtName": "BELAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29660,
+      "coordinate": {
+        "longitude": 103.4399757,
+        "latitude": 0.8389076,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.12.2006",
+      "name": "DEGONG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.12",
+      "districtName": "BELAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29660,
+      "coordinate": {
+        "longitude": 103.5416664,
+        "latitude": 0.775116,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

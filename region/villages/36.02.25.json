@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.02.25.2001",
+      "name": "BANJARIRIGASI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.25",
+      "districtName": "LEBAKGEDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42351,
+      "coordinate": {
+        "longitude": 106.4140514,
+        "latitude": -6.5702761,
+        "elevation": 219
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.25.2002",
+      "name": "CILADAEUN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.25",
+      "districtName": "LEBAKGEDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42351,
+      "coordinate": {
+        "longitude": 106.411404,
+        "latitude": -6.6205294,
+        "elevation": 426
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.25.2003",
+      "name": "LEBAKGEDONG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.25",
+      "districtName": "LEBAKGEDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42351,
+      "coordinate": {
+        "longitude": 106.3945188,
+        "latitude": -6.6044105,
+        "elevation": 570
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.25.2004",
+      "name": "BANJARSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.25",
+      "districtName": "LEBAKGEDONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.25.2005",
+      "name": "LEBAKSITU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.25",
+      "districtName": "LEBAKGEDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42351,
+      "coordinate": {
+        "longitude": 106.4255795,
+        "latitude": -6.6544039,
+        "elevation": 1084
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.02.25.2006",
+      "name": "LEBAKSANGKA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.02",
+      "cityName": "KAB. LEBAK",
+      "districtCode": "36.02.25",
+      "districtName": "LEBAKGEDONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42351,
+      "coordinate": {
+        "longitude": 106.3773596,
+        "latitude": -6.5826774,
+        "elevation": 467
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

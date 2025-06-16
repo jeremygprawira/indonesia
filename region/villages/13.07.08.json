@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.07.08.2001",
+      "name": "PANDAM GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.08",
+      "districtName": "GUNUANG OMEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26256,
+      "coordinate": {
+        "longitude": 100.4012424,
+        "latitude": -0.090478,
+        "elevation": 867
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.08.2002",
+      "name": "KOTO TINGGI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.08",
+      "districtName": "GUNUANG OMEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3914819,
+        "latitude": -2.0605989,
+        "elevation": 860
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.08.2003",
+      "name": "TALANG ANAU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.08",
+      "districtName": "GUNUANG OMEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26256,
+      "coordinate": {
+        "longitude": 100.3978208,
+        "latitude": -0.0604394,
+        "elevation": 852
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

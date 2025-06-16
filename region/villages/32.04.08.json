@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.08.2001",
+      "name": "LENGKONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.08",
+      "districtName": "BOJONGSOANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91991,
+      "coordinate": {
+        "longitude": 120.2036867,
+        "latitude": -3.1363704,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.08.2002",
+      "name": "BOJONGSOANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.08",
+      "districtName": "BOJONGSOANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40288,
+      "coordinate": {
+        "longitude": 107.6426711,
+        "latitude": -6.9896916,
+        "elevation": 660
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.08.2003",
+      "name": "BUAHBATU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.08",
+      "districtName": "BOJONGSOANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40287,
+      "coordinate": {
+        "longitude": 107.6692248,
+        "latitude": -6.9852958,
+        "elevation": 663
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.08.2004",
+      "name": "CIPAGALO",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.08",
+      "districtName": "BOJONGSOANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40287,
+      "coordinate": {
+        "longitude": 107.6508775,
+        "latitude": -6.97101,
+        "elevation": 670
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.08.2005",
+      "name": "BOJONGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.08",
+      "districtName": "BOJONGSOANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52255,
+      "coordinate": {
+        "longitude": 108.77542,
+        "latitude": -6.9056627,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.08.2006",
+      "name": "TEGALLUAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.08",
+      "districtName": "BOJONGSOANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40287,
+      "coordinate": {
+        "longitude": 107.6964173,
+        "latitude": -6.9828962,
+        "elevation": 663
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.07.02.2001",
+      "name": "WAMESA TENGAH",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.02",
+      "districtName": "WINDESI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98336,
+      "coordinate": {
+        "longitude": 134.2416929,
+        "latitude": -2.4596758,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.02.2002",
+      "name": "YOPMEOS",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.02",
+      "districtName": "WINDESI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98336,
+      "coordinate": {
+        "longitude": 134.381601,
+        "latitude": -2.548063,
+        "elevation": -38
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.02.2004",
+      "name": "SOMBOKORO",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.02",
+      "districtName": "WINDESI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98336,
+      "coordinate": {
+        "longitude": 134.304094,
+        "latitude": -2.4879289,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.02.2007",
+      "name": "WINDESI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.02",
+      "districtName": "WINDESI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98336,
+      "coordinate": {
+        "longitude": 134.2085069,
+        "latitude": -2.4077957,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.07.02.2010",
+      "name": "SANDEY",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.07",
+      "cityName": "KAB. TELUK WONDAMA",
+      "districtCode": "92.07.02",
+      "districtName": "WINDESI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98336,
+      "coordinate": {
+        "longitude": 134.312141,
+        "latitude": -2.5806917,
+        "elevation": 54
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

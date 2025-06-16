@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.03.08.2001",
+      "name": "PONGOK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.08",
+      "districtName": "KEPULAUAN PONGOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79355,
+      "coordinate": {
+        "longitude": 109.4236068,
+        "latitude": 0.3133044,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.08.2002",
+      "name": "CELAGEN",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.08",
+      "districtName": "KEPULAUAN PONGOK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33791,
+      "coordinate": {
+        "longitude": 107.0148094,
+        "latitude": -2.8733171,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

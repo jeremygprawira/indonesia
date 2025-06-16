@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.01.15.2001",
+      "name": "KURIPAN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.01",
+      "cityName": "KAB. LOMBOK BARAT",
+      "districtCode": "52.01.15",
+      "districtName": "KURIPAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70236,
+      "coordinate": {
+        "longitude": 114.6139532,
+        "latitude": -3.3253677,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.01.15.2002",
+      "name": "JAGARAGA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.01",
+      "cityName": "KAB. LOMBOK BARAT",
+      "districtCode": "52.01.15",
+      "districtName": "KURIPAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83360,
+      "coordinate": {
+        "longitude": 116.1657767,
+        "latitude": -8.6554091,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.01.15.2003",
+      "name": "KURIPAN UTARA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.01",
+      "cityName": "KAB. LOMBOK BARAT",
+      "districtCode": "52.01.15",
+      "districtName": "KURIPAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83360,
+      "coordinate": {
+        "longitude": 116.1828292,
+        "latitude": -8.6578327,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.01.15.2004",
+      "name": "KURIPAN SELATAN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.01",
+      "cityName": "KAB. LOMBOK BARAT",
+      "districtCode": "52.01.15",
+      "districtName": "KURIPAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83360,
+      "coordinate": {
+        "longitude": 116.161955,
+        "latitude": -8.687633,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.01.15.2005",
+      "name": "KURIPAN TIMUR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.01",
+      "cityName": "KAB. LOMBOK BARAT",
+      "districtCode": "52.01.15",
+      "districtName": "KURIPAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83360,
+      "coordinate": {
+        "longitude": 116.183497,
+        "latitude": -8.6730559,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.01.15.2006",
+      "name": "GIRI SASAK",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.01",
+      "cityName": "KAB. LOMBOK BARAT",
+      "districtCode": "52.01.15",
+      "districtName": "KURIPAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83360,
+      "coordinate": {
+        "longitude": 116.1685322,
+        "latitude": -8.7166062,
+        "elevation": 58
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

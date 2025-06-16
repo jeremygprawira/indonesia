@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "34.01",
+      "name": "KAB. KULON PROGO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "34.02",
+      "name": "KAB. BANTUL",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "34.03",
+      "name": "KAB. GUNUNGKIDUL",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "34.04",
+      "name": "KAB. SLEMAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "34.71",
+      "name": "KOTA YOGYAKARTA",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

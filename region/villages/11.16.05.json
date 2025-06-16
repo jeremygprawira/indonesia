@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.16.05.2001",
+      "name": "KOTA KUALASIMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.05",
+      "districtName": "KOTA KUALASINPANG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.05.2002",
+      "name": "PERDAMAIAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.05",
+      "districtName": "KOTA KUALASINPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37483,
+      "coordinate": {
+        "longitude": 102.6740296,
+        "latitude": -2.5778398,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.05.2003",
+      "name": "SRIWIJAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.05",
+      "districtName": "KOTA KUALASINPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33143,
+      "coordinate": {
+        "longitude": 106.1137485,
+        "latitude": -2.1458342,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.05.2004",
+      "name": "BUKIT TEMPURUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.05",
+      "districtName": "KOTA KUALASINPANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36766,
+      "coordinate": {
+        "longitude": 103.5432416,
+        "latitude": -1.3007108,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.16.05.2005",
+      "name": "KOTA LINTANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.16",
+      "cityName": "KAB. ACEH TAMIANG",
+      "districtCode": "11.16.05",
+      "districtName": "KOTA KUALASINPANG",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

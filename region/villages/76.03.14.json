@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.03.14.1001",
+      "name": "TAWALIAN",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.03",
+      "cityName": "KAB. MAMASA",
+      "districtCode": "76.03.14",
+      "districtName": "TAWALIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91368,
+      "coordinate": {
+        "longitude": 119.3920727,
+        "latitude": -2.9616153,
+        "elevation": 1202
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.03.14.2002",
+      "name": "TAWALIAN TIMUR",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.03",
+      "cityName": "KAB. MAMASA",
+      "districtCode": "76.03.14",
+      "districtName": "TAWALIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91368,
+      "coordinate": {
+        "longitude": 119.4411548,
+        "latitude": -2.9562307,
+        "elevation": 1548
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.03.14.2003",
+      "name": "KARIANGO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.03",
+      "cityName": "KAB. MAMASA",
+      "districtCode": "76.03.14",
+      "districtName": "TAWALIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91368,
+      "coordinate": {
+        "longitude": 119.4209709,
+        "latitude": -2.9347472,
+        "elevation": 1231
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.03.14.2004",
+      "name": "RANTETANGNGA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.03",
+      "cityName": "KAB. MAMASA",
+      "districtCode": "76.03.14",
+      "districtName": "TAWALIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91368,
+      "coordinate": {
+        "longitude": 119.3722259,
+        "latitude": -2.9647047,
+        "elevation": 1180
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.05.2001",
+      "name": "BUMI MULIA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.05",
+      "districtName": "WANGGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98854,
+      "coordinate": {
+        "longitude": 135.4190311,
+        "latitude": -3.4060165,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.05.2002",
+      "name": "KARADIRI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.05",
+      "districtName": "WANGGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98854,
+      "coordinate": {
+        "longitude": 135.3777479,
+        "latitude": -3.3834521,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.05.2003",
+      "name": "WANGGAR MAKMUR",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.05",
+      "districtName": "WANGGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98854,
+      "coordinate": {
+        "longitude": 135.4138088,
+        "latitude": -3.4829185,
+        "elevation": 53
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

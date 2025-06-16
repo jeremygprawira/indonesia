@@ -1,0 +1,52 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "31.01",
+      "name": "KAB. ADM. KEP. SERIBU",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "31.71",
+      "name": "KOTA ADM. JAKARTA PUSAT",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "31.72",
+      "name": "KOTA ADM. JAKARTA UTARA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "31.73",
+      "name": "KOTA ADM. JAKARTA BARAT",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "31.74",
+      "name": "KOTA ADM. JAKARTA SELATAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA"
+    },
+    {
+      "type": "city",
+      "code": "31.75",
+      "name": "KOTA ADM. JAKARTA TIMUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

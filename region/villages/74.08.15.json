@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.08.15.2001",
+      "name": "LAWAKI JAYA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.08",
+      "cityName": "KAB. KOLAKA UTARA",
+      "districtCode": "74.08.15",
+      "districtName": "TOLALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93951,
+      "coordinate": {
+        "longitude": 121.0362149,
+        "latitude": -2.8327691,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.08.15.2002",
+      "name": "PATIKALA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.08",
+      "cityName": "KAB. KOLAKA UTARA",
+      "districtCode": "74.08.15",
+      "districtName": "TOLALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93951,
+      "coordinate": {
+        "longitude": 121.0847461,
+        "latitude": -2.8803602,
+        "elevation": 96
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.08.15.2003",
+      "name": "TOLALA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.08",
+      "cityName": "KAB. KOLAKA UTARA",
+      "districtCode": "74.08.15",
+      "districtName": "TOLALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93951,
+      "coordinate": {
+        "longitude": 121.0924011,
+        "latitude": -2.9468221,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.08.15.2004",
+      "name": "BAHARI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.08",
+      "cityName": "KAB. KOLAKA UTARA",
+      "districtCode": "74.08.15",
+      "districtName": "TOLALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93747,
+      "coordinate": {
+        "longitude": 122.7202285,
+        "latitude": -5.6689,
+        "elevation": 249
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.08.15.2005",
+      "name": "LELEULU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.08",
+      "cityName": "KAB. KOLAKA UTARA",
+      "districtCode": "74.08.15",
+      "districtName": "TOLALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93951,
+      "coordinate": {
+        "longitude": 121.1148251,
+        "latitude": -2.9314199,
+        "elevation": 176
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.08.15.2006",
+      "name": "LOKA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.08",
+      "cityName": "KAB. KOLAKA UTARA",
+      "districtCode": "74.08.15",
+      "districtName": "TOLALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93582,
+      "coordinate": {
+        "longitude": 121.9138553,
+        "latitude": -4.0031353,
+        "elevation": 82
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

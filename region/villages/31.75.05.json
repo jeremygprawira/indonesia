@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.75.05.1001",
+      "name": "GEDONG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.05",
+      "districtName": "PASAR REBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51364,
+      "coordinate": {
+        "longitude": 110.0668432,
+        "latitude": -7.0834051,
+        "elevation": 530
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.05.1002",
+      "name": "BARU",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.05",
+      "districtName": "PASAR REBO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99761,
+      "coordinate": {
+        "longitude": 139.8625859,
+        "latitude": -4.2736507,
+        "elevation": 1151
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.05.1003",
+      "name": "CIJANTUNG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.05",
+      "districtName": "PASAR REBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41167,
+      "coordinate": {
+        "longitude": 107.4258299,
+        "latitude": -6.5840428,
+        "elevation": 216
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.05.1004",
+      "name": "KALISARI",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.05",
+      "districtName": "PASAR REBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60112,
+      "coordinate": {
+        "longitude": 112.8190444,
+        "latitude": -7.2572891,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.75.05.1005",
+      "name": "PEKAYON",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.75",
+      "cityName": "KOTA ADM. JAKARTA TIMUR",
+      "districtCode": "31.75.05",
+      "districtName": "PASAR REBO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15532,
+      "coordinate": {
+        "longitude": 106.5511988,
+        "latitude": -6.0605716,
+        "elevation": 2
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

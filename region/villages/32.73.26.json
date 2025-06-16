@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.26.1003",
+      "name": "PASIR ENDAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.26",
+      "districtName": "UJUNGBERUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40619,
+      "coordinate": {
+        "longitude": 107.6901655,
+        "latitude": -6.9033622,
+        "elevation": 710
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.26.1004",
+      "name": "CIGENDING",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.26",
+      "districtName": "UJUNGBERUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40611,
+      "coordinate": {
+        "longitude": 107.6983089,
+        "latitude": -6.9095886,
+        "elevation": 692
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.26.1005",
+      "name": "PASIRWANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.26",
+      "districtName": "UJUNGBERUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40618,
+      "coordinate": {
+        "longitude": 107.7058478,
+        "latitude": -6.9014036,
+        "elevation": 758
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.26.1006",
+      "name": "PASIRJATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.26",
+      "districtName": "UJUNGBERUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40616,
+      "coordinate": {
+        "longitude": 107.7099064,
+        "latitude": -6.9034276,
+        "elevation": 736
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.26.1007",
+      "name": "PASANGGRAHAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.26",
+      "districtName": "UJUNGBERUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42163,
+      "coordinate": {
+        "longitude": 106.0703205,
+        "latitude": -6.2014609,
+        "elevation": 184
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

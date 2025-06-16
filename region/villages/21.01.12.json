@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.01.12.1004",
+      "name": "TOAPAYA ASRI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.12",
+      "districtName": "TOAPAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29157,
+      "coordinate": {
+        "longitude": 104.5262241,
+        "latitude": 0.9805636,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.12.2001",
+      "name": "TOAPAYA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.12",
+      "districtName": "TOAPAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29157,
+      "coordinate": {
+        "longitude": 104.5586198,
+        "latitude": 1.0372714,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.12.2002",
+      "name": "TOAPAYA UTARA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.12",
+      "districtName": "TOAPAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29157,
+      "coordinate": {
+        "longitude": 104.5431792,
+        "latitude": 1.0730764,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.12.2003",
+      "name": "TOAPAYA SELATAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.12",
+      "districtName": "TOAPAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29157,
+      "coordinate": {
+        "longitude": 104.5369239,
+        "latitude": 0.9588756,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

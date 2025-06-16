@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.72.03.1001",
+      "name": "TAMANSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.03",
+      "districtName": "PULOMERAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42438,
+      "coordinate": {
+        "longitude": 106.0013817,
+        "latitude": -5.9296445,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.03.1002",
+      "name": "LEBAKGEDE",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.03",
+      "districtName": "PULOMERAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42431,
+      "coordinate": {
+        "longitude": 106.0079606,
+        "latitude": -5.9115385,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.03.1003",
+      "name": "MEKARSARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.03",
+      "districtName": "PULOMERAK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98026,
+      "coordinate": {
+        "longitude": 133.0033406,
+        "latitude": -2.9814932,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.72.03.1004",
+      "name": "SURALAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.72",
+      "cityName": "KOTA CILEGON",
+      "districtCode": "36.72.03",
+      "districtName": "PULOMERAK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42439,
+      "coordinate": {
+        "longitude": 106.033089,
+        "latitude": -5.8893678,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

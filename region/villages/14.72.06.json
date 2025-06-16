@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.72.06.1001",
+      "name": "LAKSAMANA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.06",
+      "districtName": "DUMAI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28821,
+      "coordinate": {
+        "longitude": 101.4364108,
+        "latitude": 1.6809799,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.06.1002",
+      "name": "RIMBA SEKAMPUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.06",
+      "districtName": "DUMAI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28822,
+      "coordinate": {
+        "longitude": 101.4353572,
+        "latitude": 1.6722151,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.06.1003",
+      "name": "DUMAI KOTA",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.06",
+      "districtName": "DUMAI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28811,
+      "coordinate": {
+        "longitude": 101.4448576,
+        "latitude": 1.6827591,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.06.1004",
+      "name": "BINTAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.06",
+      "districtName": "DUMAI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28812,
+      "coordinate": {
+        "longitude": 101.445996,
+        "latitude": 1.6682466,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.72.06.1005",
+      "name": "SUKAJADI",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.72",
+      "cityName": "KOTA DUMAI",
+      "districtCode": "14.72.06",
+      "districtName": "DUMAI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6262424,
+        "latitude": -6.1809115,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.28.2001",
+      "name": "OELBITENO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.28",
+      "districtName": "FATULEU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85220,
+      "coordinate": {
+        "longitude": 123.7722178,
+        "latitude": -9.9347217,
+        "elevation": 279
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.28.2002",
+      "name": "NONBAUN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.28",
+      "districtName": "FATULEU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85220,
+      "coordinate": {
+        "longitude": 123.8813077,
+        "latitude": -9.8938872,
+        "elevation": 525
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.28.2003",
+      "name": "NUNSAEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.28",
+      "districtName": "FATULEU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85220,
+      "coordinate": {
+        "longitude": 123.9000026,
+        "latitude": -9.959632,
+        "elevation": 652
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.28.2004",
+      "name": "PASSI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.28",
+      "districtName": "FATULEU TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95751,
+      "coordinate": {
+        "longitude": 124.2810209,
+        "latitude": 0.7524619,
+        "elevation": 280
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

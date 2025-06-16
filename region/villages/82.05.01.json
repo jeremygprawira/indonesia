@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.05.01.2001",
+      "name": "WAITINA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.01",
+      "districtName": "MANGOLI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.0010482,
+        "latitude": -1.8935652,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.01.2006",
+      "name": "KAU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.01",
+      "districtName": "MANGOLI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.0604978,
+        "latitude": -1.8752867,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.01.2007",
+      "name": "WAITAMELA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.01",
+      "districtName": "MANGOLI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.1042214,
+        "latitude": -1.8590671,
+        "elevation": 256
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.01.2013",
+      "name": "KARAMAT TITDOY",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.01",
+      "districtName": "MANGOLI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 125.9685552,
+        "latitude": -1.9042908,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.05.01.2016",
+      "name": "NAFLO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.05",
+      "cityName": "KAB. KEPULAUAN SULA",
+      "districtCode": "82.05.01",
+      "districtName": "MANGOLI TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97793,
+      "coordinate": {
+        "longitude": 126.0232143,
+        "latitude": -1.8910706,
+        "elevation": 49
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

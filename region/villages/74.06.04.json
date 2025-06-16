@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.04.1002",
+      "name": "LAMERORO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.04",
+      "districtName": "RUMBIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0162796,
+        "latitude": -4.7525655,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.04.1003",
+      "name": "LAMPOPALA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.04",
+      "districtName": "RUMBIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0385253,
+        "latitude": -4.7639227,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.04.1004",
+      "name": "DOULE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.04",
+      "districtName": "RUMBIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0351677,
+        "latitude": -4.7828443,
+        "elevation": 79
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.04.1005",
+      "name": "KASIPUTE",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.04",
+      "districtName": "RUMBIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0465839,
+        "latitude": -4.7805163,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.04.2001",
+      "name": "LANTAWONUA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.04",
+      "districtName": "RUMBIA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93771,
+      "coordinate": {
+        "longitude": 122.0156791,
+        "latitude": -4.7773367,
+        "elevation": 94
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

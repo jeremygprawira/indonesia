@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.71.01.1001",
+      "name": "MOLAS",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.01",
+      "districtName": "BUNAKEN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96246,
+      "coordinate": {
+        "longitude": 122.8001094,
+        "latitude": 0.5873212,
+        "elevation": 179
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.01.1006",
+      "name": "TONGKAINA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.01",
+      "districtName": "BUNAKEN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95231,
+      "coordinate": {
+        "longitude": 124.81368,
+        "latitude": 1.5716131,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.01.1007",
+      "name": "MERAS",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.01",
+      "districtName": "BUNAKEN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95231,
+      "coordinate": {
+        "longitude": 124.8212916,
+        "latitude": 1.5499074,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.01.1008",
+      "name": "BAILANG",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.01",
+      "districtName": "BUNAKEN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95231,
+      "coordinate": {
+        "longitude": 124.8539653,
+        "latitude": 1.5335561,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.01.1009",
+      "name": "PANDU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.01",
+      "districtName": "BUNAKEN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95249,
+      "coordinate": {
+        "longitude": 124.871941,
+        "latitude": 1.5691025,
+        "elevation": 62
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

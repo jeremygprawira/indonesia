@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.04.20.2001",
+      "name": "SEMANDANG KANAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.04",
+      "cityName": "KAB. KETAPANG",
+      "districtCode": "61.04.20",
+      "districtName": "SIMPANG DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78854,
+      "coordinate": {
+        "longitude": 110.3139219,
+        "latitude": -0.7352767,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.04.20.2002",
+      "name": "GEMA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.04",
+      "cityName": "KAB. KETAPANG",
+      "districtCode": "61.04.20",
+      "districtName": "SIMPANG DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78854,
+      "coordinate": {
+        "longitude": 110.4061095,
+        "latitude": -0.8762374,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.04.20.2003",
+      "name": "MEKAR RAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.04",
+      "cityName": "KAB. KETAPANG",
+      "districtCode": "61.04.20",
+      "districtName": "SIMPANG DUA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70654,
+      "coordinate": {
+        "longitude": 114.6612773,
+        "latitude": -3.3757088,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.04.20.2004",
+      "name": "KAMPAR SEBOMBAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.04",
+      "cityName": "KAB. KETAPANG",
+      "districtCode": "61.04.20",
+      "districtName": "SIMPANG DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78854,
+      "coordinate": {
+        "longitude": 110.0811898,
+        "latitude": -0.6931583,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.04.20.2005",
+      "name": "BATU DAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.04",
+      "cityName": "KAB. KETAPANG",
+      "districtCode": "61.04.20",
+      "districtName": "SIMPANG DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78854,
+      "coordinate": {
+        "longitude": 110.3376158,
+        "latitude": -0.9999711,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.04.20.2006",
+      "name": "KAMORA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.04",
+      "cityName": "KAB. KETAPANG",
+      "districtCode": "61.04.20",
+      "districtName": "SIMPANG DUA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78854,
+      "coordinate": {
+        "longitude": 110.2865975,
+        "latitude": -0.9596171,
+        "elevation": 21
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

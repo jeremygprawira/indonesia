@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.07.11.1001",
+      "name": "SIMPANG KANAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.11",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78393,
+      "coordinate": {
+        "longitude": 109.4948756,
+        "latitude": -0.0880417,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.11.2002",
+      "name": "KOTA PARIT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.11",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.11.2003",
+      "name": "BAGAN NIBUNG",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.11",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28994,
+      "coordinate": {
+        "longitude": 100.3015207,
+        "latitude": 1.8212229,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.11.2004",
+      "name": "BUKIT DAMAR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.11",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28994,
+      "coordinate": {
+        "longitude": 100.3678677,
+        "latitude": 1.8400202,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.11.2005",
+      "name": "BUKIT MAS",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.11",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85881,
+      "coordinate": {
+        "longitude": 124.2295421,
+        "latitude": -8.2437581,
+        "elevation": 156
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.11.2006",
+      "name": "BUKIT SELAMAT",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.11",
+      "districtName": "SIMPANG KANAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28994,
+      "coordinate": {
+        "longitude": 100.3699002,
+        "latitude": 1.9584945,
+        "elevation": 10
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

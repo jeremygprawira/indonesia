@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.08.02.1001",
+      "name": "KUALA JELAI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.02",
+      "districtName": "JELAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74171,
+      "coordinate": {
+        "longitude": 110.7638312,
+        "latitude": -2.9670531,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.08.02.2002",
+      "name": "PULAU NIBUNG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.02",
+      "districtName": "JELAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74171,
+      "coordinate": {
+        "longitude": 110.9034718,
+        "latitude": -2.8718318,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.08.02.2003",
+      "name": "SUNGAI BARU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.02",
+      "districtName": "JELAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70233,
+      "coordinate": {
+        "longitude": 114.5995386,
+        "latitude": -3.3231561,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.08.02.2004",
+      "name": "SUNGAI BUNDUNG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.02",
+      "districtName": "JELAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74171,
+      "coordinate": {
+        "longitude": 110.8887864,
+        "latitude": -3.0213079,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.08.02.2005",
+      "name": "SUNGAI RAJA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.08",
+      "cityName": "KAB. SUKAMARA",
+      "districtCode": "62.08.02",
+      "districtName": "JELAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74171,
+      "coordinate": {
+        "longitude": 110.9418197,
+        "latitude": -3.0521899,
+        "elevation": 1
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

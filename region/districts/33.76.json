@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "33.76.01",
+      "name": "TEGAL BARAT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL"
+    },
+    {
+      "type": "district",
+      "code": "33.76.02",
+      "name": "TEGAL TIMUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL"
+    },
+    {
+      "type": "district",
+      "code": "33.76.03",
+      "name": "TEGAL SELATAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL"
+    },
+    {
+      "type": "district",
+      "code": "33.76.04",
+      "name": "MARGADANA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.76",
+      "cityName": "KOTA TEGAL"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

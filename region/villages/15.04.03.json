@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.04.03.1001",
+      "name": "MUARA BULIAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36613,
+      "coordinate": {
+        "longitude": 103.2554166,
+        "latitude": -1.7284655,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.1002",
+      "name": "TERATAI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96365,
+      "coordinate": {
+        "longitude": 121.9690879,
+        "latitude": 0.4766075,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.1003",
+      "name": "SRIDADI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52272,
+      "coordinate": {
+        "longitude": 109.0921266,
+        "latitude": -7.2248695,
+        "elevation": 936
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.1004",
+      "name": "PASAR BARU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.1005",
+      "name": "RENGAS CONDONG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2731787,
+        "latitude": -1.7221887,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2006",
+      "name": "PASAR TERUSAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.1524852,
+        "latitude": -1.6901731,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2007",
+      "name": "SIMPANG TERUSAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.1633394,
+        "latitude": -1.7385106,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2008",
+      "name": "MALAPARI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.1926087,
+        "latitude": -1.6894373,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2009",
+      "name": "NAPAL SISIK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2099191,
+        "latitude": -1.6695847,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2010",
+      "name": "RAMBAHAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36612,
+      "coordinate": {
+        "longitude": 103.2305265,
+        "latitude": -1.7037567,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2011",
+      "name": "OLAK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2555333,
+        "latitude": -1.6660626,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2012",
+      "name": "MUARO SINGOAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2522097,
+        "latitude": -1.6361636,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2013",
+      "name": "ARO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2739978,
+        "latitude": -1.6227239,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2014",
+      "name": "RANTAU PURI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.3155927,
+        "latitude": -1.6735578,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2015",
+      "name": "SUNGAI BAUNG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31656,
+      "coordinate": {
+        "longitude": 102.7321853,
+        "latitude": -2.6379089,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2016",
+      "name": "BAJUBANG LAUT",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2984996,
+        "latitude": -1.676924,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2017",
+      "name": "SINGKAWANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2666871,
+        "latitude": -1.8092996,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2018",
+      "name": "TENAM",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37263,
+      "coordinate": {
+        "longitude": 101.9206203,
+        "latitude": -1.4233928,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2019",
+      "name": "SUNGAI BULUH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71552,
+      "coordinate": {
+        "longitude": 115.3141771,
+        "latitude": -2.2499243,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2020",
+      "name": "KILANGAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36611,
+      "coordinate": {
+        "longitude": 103.2806623,
+        "latitude": -1.7671671,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.04.03.2021",
+      "name": "PELAYANGAN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.04",
+      "cityName": "KAB. BATANGHARI",
+      "districtCode": "15.04.03",
+      "districtName": "MUARA BULIAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45190,
+      "coordinate": {
+        "longitude": 108.7571215,
+        "latitude": -6.8200905,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

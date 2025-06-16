@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.12.02.2001",
+      "name": "KUALA MANDOR B",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.02",
+      "districtName": "KUALA MANDOR B",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78355,
+      "coordinate": {
+        "longitude": 109.610972,
+        "latitude": 0.0274868,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.02.2002",
+      "name": "KUBU PADI",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.02",
+      "districtName": "KUALA MANDOR B",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78355,
+      "coordinate": {
+        "longitude": 109.3939498,
+        "latitude": 0.1474383,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.02.2003",
+      "name": "KUALA MANDOR A",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.02",
+      "districtName": "KUALA MANDOR B",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78355,
+      "coordinate": {
+        "longitude": 109.5065711,
+        "latitude": -0.0007876,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.02.2004",
+      "name": "RETOK",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.02",
+      "districtName": "KUALA MANDOR B",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78355,
+      "coordinate": {
+        "longitude": 109.49655,
+        "latitude": 0.1408398,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.02.2005",
+      "name": "SUNGAI ENAU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.02",
+      "districtName": "KUALA MANDOR B",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78355,
+      "coordinate": {
+        "longitude": 109.4758985,
+        "latitude": 0.0586225,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.12.02.2006",
+      "name": "PADI JAYA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.12",
+      "cityName": "KAB. KUBU RAYA",
+      "districtCode": "61.12.02",
+      "districtName": "KUALA MANDOR B",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78355,
+      "coordinate": {
+        "longitude": 109.4308441,
+        "latitude": 0.1399395,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.05.11.2001",
+      "name": "SEURADEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2002",
+      "name": "LUBUK PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0642778,
+        "latitude": 4.5026894,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2003",
+      "name": "PAYA BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23653,
+      "coordinate": {
+        "longitude": 95.8225625,
+        "latitude": 4.4269999,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2004",
+      "name": "KUBU CAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0306787,
+        "latitude": 4.4903236,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2005",
+      "name": "PASI ARA WT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0211035,
+        "latitude": 4.4909271,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2006",
+      "name": "GAMPONG BARO WT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0390759,
+        "latitude": 4.4788803,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2007",
+      "name": "RAMBONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.2173992,
+        "latitude": 5.2291837,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2008",
+      "name": "COT PUNTI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23670,
+      "coordinate": {
+        "longitude": 96.3535591,
+        "latitude": 4.2468413,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2009",
+      "name": "ALUE EUMPEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0474533,
+        "latitude": 4.4633201,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2010",
+      "name": "ALUE BILIE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.4891287,
+        "latitude": 3.9500494,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2011",
+      "name": "PASI JANENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23391,
+      "coordinate": {
+        "longitude": 95.1376545,
+        "latitude": 5.6328288,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2012",
+      "name": "TANGKEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0643471,
+        "latitude": 4.4358402,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2013",
+      "name": "ALUE KUYUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5109542,
+        "latitude": 3.9030734,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2014",
+      "name": "BUKIT MEUGAJAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.1343263,
+        "latitude": 4.4416167,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2015",
+      "name": "BLANG DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3067826,
+        "latitude": 5.2072247,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2016",
+      "name": "TEUMIKET RANOM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.1174339,
+        "latitude": 4.4785477,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2017",
+      "name": "BLANG MAKMUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.1232442,
+        "latitude": 4.4435654,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2018",
+      "name": "GAMPONG BARO KB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.110426,
+        "latitude": 4.4567409,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2019",
+      "name": "ALUE MEUGANDA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.1067906,
+        "latitude": 4.4478131,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2020",
+      "name": "ALUE SEURALEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0901041,
+        "latitude": 4.4506717,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2021",
+      "name": "RAMBONG PINTO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0890412,
+        "latitude": 4.4406074,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2022",
+      "name": "TUWI EUMPEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23653,
+      "coordinate": {
+        "longitude": 95.7713055,
+        "latitude": 4.5464346,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2023",
+      "name": "BLANG LUAH KB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0843499,
+        "latitude": 4.4352087,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2024",
+      "name": "SEUNEUBOK DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24250,
+      "coordinate": {
+        "longitude": 96.7131579,
+        "latitude": 5.1088733,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2025",
+      "name": "PAYA MEUGENDRANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23683,
+      "coordinate": {
+        "longitude": 96.0626655,
+        "latitude": 4.4207905,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.11.2026",
+      "name": "GUNONG PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.11",
+      "districtName": "WOYLA TIMUR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 26
+  }
+}

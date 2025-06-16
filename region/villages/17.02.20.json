@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.02.20.2001",
+      "name": "KEPALA CURUP",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.02",
+      "cityName": "KAB. REJANG LEBONG",
+      "districtCode": "17.02.20",
+      "districtName": "BINDURIANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39182,
+      "coordinate": {
+        "longitude": 102.7303263,
+        "latitude": -3.469045,
+        "elevation": 647
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.02.20.2002",
+      "name": "KAMPUNG JERUK",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.02",
+      "cityName": "KAB. REJANG LEBONG",
+      "districtCode": "17.02.20",
+      "districtName": "BINDURIANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39182,
+      "coordinate": {
+        "longitude": 102.7274311,
+        "latitude": -3.4958681,
+        "elevation": 774
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.02.20.2003",
+      "name": "SIMPANG BELITI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.02",
+      "cityName": "KAB. REJANG LEBONG",
+      "districtCode": "17.02.20",
+      "districtName": "BINDURIANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39182,
+      "coordinate": {
+        "longitude": 102.7562271,
+        "latitude": -3.4489253,
+        "elevation": 515
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.02.20.2004",
+      "name": "TABA PADANG",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.02",
+      "cityName": "KAB. REJANG LEBONG",
+      "districtCode": "17.02.20",
+      "districtName": "BINDURIANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39377,
+      "coordinate": {
+        "longitude": 102.6043768,
+        "latitude": -3.7183556,
+        "elevation": 508
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.02.20.2005",
+      "name": "AIR APO",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.02",
+      "cityName": "KAB. REJANG LEBONG",
+      "districtCode": "17.02.20",
+      "districtName": "BINDURIANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39182,
+      "coordinate": {
+        "longitude": 102.7787145,
+        "latitude": -3.4123044,
+        "elevation": 330
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

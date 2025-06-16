@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.11.06.2001",
+      "name": "RAMUK",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.06",
+      "districtName": "PINU PAHAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87161,
+      "coordinate": {
+        "longitude": 120.1572271,
+        "latitude": -10.0937422,
+        "elevation": 414
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.06.2002",
+      "name": "WANGGA MBEWA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.06",
+      "districtName": "PINU PAHAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87161,
+      "coordinate": {
+        "longitude": 120.1334356,
+        "latitude": -10.1209988,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.06.2003",
+      "name": "LAILUNGGI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.06",
+      "districtName": "PINU PAHAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87161,
+      "coordinate": {
+        "longitude": 120.0978045,
+        "latitude": -10.1403255,
+        "elevation": 274
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.06.2004",
+      "name": "TAWUI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.06",
+      "districtName": "PINU PAHAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87161,
+      "coordinate": {
+        "longitude": 120.0723357,
+        "latitude": -10.1311967,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.06.2005",
+      "name": "WAHANG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.06",
+      "districtName": "PINU PAHAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87161,
+      "coordinate": {
+        "longitude": 120.0341574,
+        "latitude": -10.0905516,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.11.06.2006",
+      "name": "MAHANIWA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.11",
+      "cityName": "KAB. SUMBA TIMUR",
+      "districtCode": "53.11.06",
+      "districtName": "PINU PAHAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87161,
+      "coordinate": {
+        "longitude": 120.1967156,
+        "latitude": -10.0386421,
+        "elevation": 388
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

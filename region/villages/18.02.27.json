@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.02.27.2001",
+      "name": "GEDUNG SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.27",
+      "districtName": "ANAK RATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35513,
+      "coordinate": {
+        "longitude": 104.9480043,
+        "latitude": -4.9444703,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.27.2002",
+      "name": "SRIMULYO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.27",
+      "districtName": "ANAK RATU AJI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75764,
+      "coordinate": {
+        "longitude": 115.7613609,
+        "latitude": -0.2807999,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.27.2003",
+      "name": "GEDUNG RATU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.27",
+      "districtName": "ANAK RATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34791,
+      "coordinate": {
+        "longitude": 105.0626043,
+        "latitude": -4.5383457,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.27.2004",
+      "name": "BANDAR PUTIH TUA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.27",
+      "districtName": "ANAK RATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35513,
+      "coordinate": {
+        "longitude": 104.9573021,
+        "latitude": -4.9204194,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.27.2005",
+      "name": "KARANG JAWA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.27",
+      "districtName": "ANAK RATU AJI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71281,
+      "coordinate": {
+        "longitude": 115.2996029,
+        "latitude": -2.7815434,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.02.27.2006",
+      "name": "SUKAJAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.02",
+      "cityName": "KAB. LAMPUNG TENGAH",
+      "districtCode": "18.02.27",
+      "districtName": "ANAK RATU AJI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42171,
+      "coordinate": {
+        "longitude": 106.1612787,
+        "latitude": -6.1683366,
+        "elevation": 71
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

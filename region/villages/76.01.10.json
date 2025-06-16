@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.10.2001",
+      "name": "BAMBAIRA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.10",
+      "districtName": "BAMBAIRA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91574,
+      "coordinate": {
+        "longitude": 119.5271982,
+        "latitude": -0.9799857,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.10.2002",
+      "name": "KASOLOANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.10",
+      "districtName": "BAMBAIRA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91574,
+      "coordinate": {
+        "longitude": 119.4952,
+        "latitude": -1.018029,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.10.2003",
+      "name": "TAMPAURE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.10",
+      "districtName": "BAMBAIRA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91574,
+      "coordinate": {
+        "longitude": 119.5441647,
+        "latitude": -0.9577748,
+        "elevation": 174
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.10.2004",
+      "name": "KALUKU NANGKA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.10",
+      "districtName": "BAMBAIRA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91574,
+      "coordinate": {
+        "longitude": 119.5483682,
+        "latitude": -1.0041224,
+        "elevation": 382
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

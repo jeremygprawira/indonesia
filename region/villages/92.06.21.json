@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.21.2001",
+      "name": "WERIAGAR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.21",
+      "districtName": "WERIAGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98157,
+      "coordinate": {
+        "longitude": 132.8694727,
+        "latitude": -2.1559899,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.21.2002",
+      "name": "MOGOTIRA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.21",
+      "districtName": "WERIAGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98157,
+      "coordinate": {
+        "longitude": 132.8771709,
+        "latitude": -2.2388695,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.21.2003",
+      "name": "WERIAGAR BARU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.21",
+      "districtName": "WERIAGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98157,
+      "coordinate": {
+        "longitude": 132.899481,
+        "latitude": -2.073057,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.21.2004",
+      "name": "WERIAGAR UTARA",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.21",
+      "districtName": "WERIAGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98157,
+      "coordinate": {
+        "longitude": 132.8635304,
+        "latitude": -2.0138086,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.21.2005",
+      "name": "TUANAIKIN",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.21",
+      "districtName": "WERIAGAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98157,
+      "coordinate": {
+        "longitude": 132.7838974,
+        "latitude": -1.9020817,
+        "elevation": 52
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

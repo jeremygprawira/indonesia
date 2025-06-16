@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.72.01.1001",
+      "name": "SUNGAI PENUH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.01",
+      "districtName": "SUNGAI PENUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3986208,
+        "latitude": -2.0590922,
+        "elevation": 807
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.01.1003",
+      "name": "PASAR SUNGAI PENUH",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.01",
+      "districtName": "SUNGAI PENUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37113,
+      "coordinate": {
+        "longitude": 101.3931575,
+        "latitude": -2.0637795,
+        "elevation": 834
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.01.2004",
+      "name": "PASAR BARU",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.01",
+      "districtName": "SUNGAI PENUH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.01.2006",
+      "name": "GEDANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.01",
+      "districtName": "SUNGAI PENUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61274,
+      "coordinate": {
+        "longitude": 112.6978362,
+        "latitude": -7.5316482,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.72.01.2014",
+      "name": "AMAR SAKTI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.72",
+      "cityName": "KOTA SUNGAI PENUH",
+      "districtCode": "15.72.01",
+      "districtName": "SUNGAI PENUH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37111,
+      "coordinate": {
+        "longitude": 101.3921736,
+        "latitude": -2.0665831,
+        "elevation": 839
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.11.11.2001",
+      "name": "KAISENAR",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.11",
+      "cityName": "KAB. KEEROM",
+      "districtCode": "91.11.11",
+      "districtName": "KAISENAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99465,
+      "coordinate": {
+        "longitude": 140.7109031,
+        "latitude": -2.8462618,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.11.11.2002",
+      "name": "KIAMBRA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.11",
+      "cityName": "KAB. KEEROM",
+      "districtCode": "91.11.11",
+      "districtName": "KAISENAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99465,
+      "coordinate": {
+        "longitude": 140.4877157,
+        "latitude": -3.6833738,
+        "elevation": 287
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.11.11.2003",
+      "name": "LIKET",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.11",
+      "cityName": "KAB. KEEROM",
+      "districtCode": "91.11.11",
+      "districtName": "KAISENAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99465,
+      "coordinate": {
+        "longitude": 140.7109031,
+        "latitude": -2.8462607,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.11.11.2004",
+      "name": "ONAM",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.11",
+      "cityName": "KAB. KEEROM",
+      "districtCode": "91.11.11",
+      "districtName": "KAISENAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99465,
+      "coordinate": {
+        "longitude": 140.7109031,
+        "latitude": -2.8462596,
+        "elevation": 61
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.11.11.2005",
+      "name": "TEFANMA SATU",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.11",
+      "cityName": "KAB. KEEROM",
+      "districtCode": "91.11.11",
+      "districtName": "KAISENAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99465,
+      "coordinate": {
+        "longitude": 140.6353726,
+        "latitude": -3.7393847,
+        "elevation": 932
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

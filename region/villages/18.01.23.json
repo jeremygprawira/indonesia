@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.01.23.2001",
+      "name": "MEKAR SARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97865,
+      "coordinate": {
+        "longitude": 128.2817326,
+        "latitude": 1.159059,
+        "elevation": 517
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.23.2002",
+      "name": "SUMBER AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 127.8898438,
+        "latitude": 1.3047166,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.23.2003",
+      "name": "TALANG WAY SULAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35456,
+      "coordinate": {
+        "longitude": 105.5207408,
+        "latitude": -5.4865619,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.23.2004",
+      "name": "PAMULIHAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52262,
+      "coordinate": {
+        "longitude": 108.9381894,
+        "latitude": -7.0321157,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.23.2005",
+      "name": "PURWODADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72275,
+      "coordinate": {
+        "longitude": 115.5545311,
+        "latitude": -3.6658913,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.23.2006",
+      "name": "SUKAMAJU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.23.2007",
+      "name": "BANJARSARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.01.23.2008",
+      "name": "KARANG PUCUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.01",
+      "cityName": "KAB. LAMPUNG SELATAN",
+      "districtCode": "18.01.23",
+      "districtName": "WAY SULAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35456,
+      "coordinate": {
+        "longitude": 105.5405791,
+        "latitude": -5.4728572,
+        "elevation": 38
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.02.20.2001",
+      "name": "LEDUG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67157,
+      "coordinate": {
+        "longitude": 112.6329421,
+        "latitude": -7.7273367,
+        "elevation": 1349
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2002",
+      "name": "PLIKEN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.2895573,
+        "latitude": -7.4327159,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2003",
+      "name": "PURWODADI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72275,
+      "coordinate": {
+        "longitude": 115.5545311,
+        "latitude": -3.6658913,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2004",
+      "name": "KARANG TENGAH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15157,
+      "coordinate": {
+        "longitude": 106.7101342,
+        "latitude": -6.2167092,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2005",
+      "name": "KRAMAT",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3617033,
+        "latitude": -1.8856916,
+        "elevation": 121
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2006",
+      "name": "SAMBENG WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.3065188,
+        "latitude": -7.404672,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2007",
+      "name": "SAMBENG KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.3034838,
+        "latitude": -7.403947,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2008",
+      "name": "PURBADANA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.2930147,
+        "latitude": -7.4046216,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2009",
+      "name": "KEMBARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56191,
+      "coordinate": {
+        "longitude": 110.2708426,
+        "latitude": -7.4999753,
+        "elevation": 436
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2010",
+      "name": "BOJONGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52255,
+      "coordinate": {
+        "longitude": 108.77542,
+        "latitude": -6.9056627,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2011",
+      "name": "KARANGSOKA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.2783836,
+        "latitude": -7.406591,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2012",
+      "name": "DUKUHWALUH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.270074,
+        "latitude": -7.4102381,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2013",
+      "name": "TAMBAKSARI KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.2634833,
+        "latitude": -7.399098,
+        "elevation": 112
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2014",
+      "name": "BANTARWUNI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53182,
+      "coordinate": {
+        "longitude": 109.2717394,
+        "latitude": -7.394176,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2015",
+      "name": "KARANGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42277,
+      "coordinate": {
+        "longitude": 105.840127,
+        "latitude": -6.564011,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.02.20.2016",
+      "name": "LINGGASARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.02",
+      "cityName": "KAB. BANYUMAS",
+      "districtCode": "33.02.20",
+      "districtName": "KEMBARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 53461,
+      "coordinate": {
+        "longitude": 109.6585889,
+        "latitude": -7.372918,
+        "elevation": 250
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 16
+  }
+}

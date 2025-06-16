@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.05.1001",
+      "name": "SOSROMENDURAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.05",
+      "districtName": "GEDONGTENGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55271,
+      "coordinate": {
+        "longitude": 110.3636395,
+        "latitude": -7.7914819,
+        "elevation": 119
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.05.1002",
+      "name": "PRINGGOKUSUMAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.05",
+      "districtName": "GEDONGTENGEN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55272,
+      "coordinate": {
+        "longitude": 110.3575289,
+        "latitude": -7.7918454,
+        "elevation": 114
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

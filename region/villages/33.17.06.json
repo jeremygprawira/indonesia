@@ -1,0 +1,430 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.17.06.2001",
+      "name": "NGULAHAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62353,
+      "coordinate": {
+        "longitude": 111.7710028,
+        "latitude": -6.888059,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2002",
+      "name": "PACING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62366,
+      "coordinate": {
+        "longitude": 111.880045,
+        "latitude": -7.0623348,
+        "elevation": 160
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2003",
+      "name": "KARAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63393,
+      "coordinate": {
+        "longitude": 111.3838963,
+        "latitude": -7.5763605,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2004",
+      "name": "MOJOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62283,
+      "coordinate": {
+        "longitude": 112.3891396,
+        "latitude": -7.2964906,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2005",
+      "name": "GESIKAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62371,
+      "coordinate": {
+        "longitude": 111.9998134,
+        "latitude": -6.9822042,
+        "elevation": 299
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2006",
+      "name": "SAMBIROTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62181,
+      "coordinate": {
+        "longitude": 111.9131282,
+        "latitude": -7.1567593,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2007",
+      "name": "SEDAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59264,
+      "coordinate": {
+        "longitude": 111.5773448,
+        "latitude": -6.7734437,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2008",
+      "name": "KARANGASEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62352,
+      "coordinate": {
+        "longitude": 111.9019585,
+        "latitude": -6.8154449,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2009",
+      "name": "SIDOREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91342,
+      "coordinate": {
+        "longitude": 119.2193376,
+        "latitude": -3.4080598,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2010",
+      "name": "SIDOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2011",
+      "name": "KEDUNGRINGIN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67154,
+      "coordinate": {
+        "longitude": 112.7561369,
+        "latitude": -7.5789484,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2012",
+      "name": "GANDRIROJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2013",
+      "name": "CANDIMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63174,
+      "coordinate": {
+        "longitude": 111.5503453,
+        "latitude": -7.7651464,
+        "elevation": 190
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2014",
+      "name": "LEMAHPUTIH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59264,
+      "coordinate": {
+        "longitude": 111.5205609,
+        "latitude": -6.733123,
+        "elevation": 192
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2015",
+      "name": "KUMBO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99045,
+      "coordinate": {
+        "longitude": 138.4029124,
+        "latitude": -3.6959465,
+        "elevation": 2403
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2016",
+      "name": "DADAPAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62265,
+      "coordinate": {
+        "longitude": 112.301315,
+        "latitude": -6.9163666,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2017",
+      "name": "SAMBONG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62154,
+      "coordinate": {
+        "longitude": 111.7699846,
+        "latitude": -7.2312123,
+        "elevation": 63
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2018",
+      "name": "BOGOREJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62355,
+      "coordinate": {
+        "longitude": 112.0117241,
+        "latitude": -6.8805889,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2019",
+      "name": "KENONGO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61273,
+      "coordinate": {
+        "longitude": 112.6471709,
+        "latitude": -7.488228,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2020",
+      "name": "JAMBEYAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59264,
+      "coordinate": {
+        "longitude": 111.581784,
+        "latitude": -6.7247095,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.17.06.2021",
+      "name": "MENORO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.17",
+      "cityName": "KAB. REMBANG",
+      "districtCode": "33.17.06",
+      "districtName": "SEDAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 59264,
+      "coordinate": {
+        "longitude": 111.5954754,
+        "latitude": -6.7279142,
+        "elevation": 19
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 21
+  }
+}

@@ -1,0 +1,890 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.06.01.2001",
+      "name": "ELELIM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3968071,
+        "latitude": -3.802247,
+        "elevation": 641
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2002",
+      "name": "ALUIS",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3644729,
+        "latitude": -3.8066189,
+        "elevation": 611
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2003",
+      "name": "HONITA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3917826,
+        "latitude": -3.7810408,
+        "elevation": 434
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2004",
+      "name": "YABEMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3903349,
+        "latitude": -3.7683601,
+        "elevation": 424
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2005",
+      "name": "PIHEL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.4006064,
+        "latitude": -3.7974249,
+        "elevation": 497
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2006",
+      "name": "WALKEP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3994429,
+        "latitude": -3.7772919,
+        "elevation": 283
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2007",
+      "name": "PANGKIK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3848894,
+        "latitude": -3.7768744,
+        "elevation": 452
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2008",
+      "name": "MARIBU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3888455,
+        "latitude": -3.7976528,
+        "elevation": 301
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2009",
+      "name": "YAKIKMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3798566,
+        "latitude": -3.7996484,
+        "elevation": 347
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2010",
+      "name": "ULO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3863763,
+        "latitude": -3.8027946,
+        "elevation": 350
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2011",
+      "name": "SIRA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3842455,
+        "latitude": -3.794733,
+        "elevation": 395
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2012",
+      "name": "OHOAM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3956084,
+        "latitude": -3.7871514,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2013",
+      "name": "BULMU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3917101,
+        "latitude": -3.7912683,
+        "elevation": 266
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2014",
+      "name": "UBI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3777127,
+        "latitude": -3.8072478,
+        "elevation": 395
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2015",
+      "name": "PIRIP",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3819614,
+        "latitude": -3.7578766,
+        "elevation": 282
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2016",
+      "name": "MOMONHUSI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3780759,
+        "latitude": -3.7655057,
+        "elevation": 350
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2017",
+      "name": "HELABU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3691402,
+        "latitude": -3.7846003,
+        "elevation": 443
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2018",
+      "name": "PUNGKAHIK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3908545,
+        "latitude": -3.7611681,
+        "elevation": 413
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2019",
+      "name": "WEKOLANI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3762315,
+        "latitude": -3.7681303,
+        "elevation": 344
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2020",
+      "name": "HOBAKMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.4180373,
+        "latitude": -3.7723642,
+        "elevation": 407
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2021",
+      "name": "WASUA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.4741048,
+        "latitude": -3.7751657,
+        "elevation": 369
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2022",
+      "name": "WARIKMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.5103821,
+        "latitude": -3.7464059,
+        "elevation": 362
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2023",
+      "name": "KALAK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3948326,
+        "latitude": -3.7545349,
+        "elevation": 395
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2024",
+      "name": "ISILA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3993199,
+        "latitude": -3.7586302,
+        "elevation": 319
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2025",
+      "name": "FIMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3940265,
+        "latitude": -3.7502291,
+        "elevation": 329
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2026",
+      "name": "SOHI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99085,
+      "coordinate": {
+        "longitude": 139.151328,
+        "latitude": -3.9178603,
+        "elevation": 2715
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2027",
+      "name": "PASIMBOLO",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3995274,
+        "latitude": -3.754829,
+        "elevation": 308
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2028",
+      "name": "WAGAGU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3482946,
+        "latitude": -3.8034063,
+        "elevation": 636
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2029",
+      "name": "SOWI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3341047,
+        "latitude": -3.8186322,
+        "elevation": 913
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2030",
+      "name": "SIPSON",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3588543,
+        "latitude": -3.8169141,
+        "elevation": 733
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2031",
+      "name": "SIPSOI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3605671,
+        "latitude": -3.8257477,
+        "elevation": 627
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2032",
+      "name": "EREGI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3290862,
+        "latitude": -3.8259549,
+        "elevation": 1158
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2033",
+      "name": "OHONIAM",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3286144,
+        "latitude": -3.8487667,
+        "elevation": 581
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2034",
+      "name": "HILING",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3662455,
+        "latitude": -3.8153876,
+        "elevation": 584
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2035",
+      "name": "DUWONG",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3464806,
+        "latitude": -3.8371579,
+        "elevation": 662
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2036",
+      "name": "PISIREG",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3052687,
+        "latitude": -3.8589087,
+        "elevation": 642
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2037",
+      "name": "TANAPASIR",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3977521,
+        "latitude": -3.7800241,
+        "elevation": 310
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2038",
+      "name": "OLANI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3978559,
+        "latitude": -3.7826562,
+        "elevation": 278
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2039",
+      "name": "SILI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.4206396,
+        "latitude": -3.7890544,
+        "elevation": 450
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2040",
+      "name": "HESMAT",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3988905,
+        "latitude": -3.7702372,
+        "elevation": 297
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2041",
+      "name": "MOLINGGU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.4205106,
+        "latitude": -3.7790306,
+        "elevation": 452
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2042",
+      "name": "WEREKMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.3854677,
+        "latitude": -3.7810315,
+        "elevation": 449
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2043",
+      "name": "EMON",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.4680201,
+        "latitude": -3.8100028,
+        "elevation": 526
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.06.01.2044",
+      "name": "KWIKMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.06",
+      "cityName": "KAB. YALIMO",
+      "districtCode": "95.06.01",
+      "districtName": "ELELIM",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99082,
+      "coordinate": {
+        "longitude": 139.4194641,
+        "latitude": -3.8018101,
+        "elevation": 705
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 44
+  }
+}

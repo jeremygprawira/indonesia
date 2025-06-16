@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.02.08.2001",
+      "name": "BUNDE",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.08",
+      "districtName": "SAMPAGA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99739,
+      "coordinate": {
+        "longitude": 139.4645883,
+        "latitude": -4.5152197,
+        "elevation": 2172
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.08.2002",
+      "name": "KALONDING",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.08",
+      "districtName": "SAMPAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91563,
+      "coordinate": {
+        "longitude": 119.2566144,
+        "latitude": -2.369754,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.08.2003",
+      "name": "TARAILU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.08",
+      "districtName": "SAMPAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91563,
+      "coordinate": {
+        "longitude": 119.1718982,
+        "latitude": -2.3071292,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.08.2004",
+      "name": "SAMPAGA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.08",
+      "districtName": "SAMPAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91563,
+      "coordinate": {
+        "longitude": 119.1386676,
+        "latitude": -2.3092885,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.08.2005",
+      "name": "TANAMBUAH",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.08",
+      "districtName": "SAMPAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91563,
+      "coordinate": {
+        "longitude": 119.2172739,
+        "latitude": -2.3486974,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.08.2006",
+      "name": "SALUBARANA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.08",
+      "districtName": "SAMPAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91563,
+      "coordinate": {
+        "longitude": 119.2441536,
+        "latitude": -2.3857954,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.02.08.2007",
+      "name": "LOSSO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.02",
+      "cityName": "KAB. MAMUJU",
+      "districtCode": "76.02.08",
+      "districtName": "SAMPAGA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91563,
+      "coordinate": {
+        "longitude": 119.2100494,
+        "latitude": -2.3245595,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

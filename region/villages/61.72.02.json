@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.72.02.1001",
+      "name": "PASIRAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.02",
+      "districtName": "SINGKAWANG BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 79123,
+      "coordinate": {
+        "longitude": 108.9818463,
+        "latitude": 0.8966499,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.02.1002",
+      "name": "MELAYU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.02",
+      "districtName": "SINGKAWANG BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90171,
+      "coordinate": {
+        "longitude": 119.4155745,
+        "latitude": -5.1252165,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.02.1003",
+      "name": "TENGAH",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.02",
+      "districtName": "SINGKAWANG BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72181,
+      "coordinate": {
+        "longitude": 115.8002787,
+        "latitude": -4.3669841,
+        "elevation": 131
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.72.02.1004",
+      "name": "KUALA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.72",
+      "cityName": "KOTA SINGKAWANG",
+      "districtCode": "61.72.02",
+      "districtName": "SINGKAWANG BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95765,
+      "coordinate": {
+        "longitude": 123.2816993,
+        "latitude": 0.9006094,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

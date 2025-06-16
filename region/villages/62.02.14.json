@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.02.14.2001",
+      "name": "SEBABI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.14",
+      "districtName": "TELAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74281,
+      "coordinate": {
+        "longitude": 112.239188,
+        "latitude": -2.2834145,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.14.2002",
+      "name": "TANAH PUTIH",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.14",
+      "districtName": "TELAWANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96551,
+      "coordinate": {
+        "longitude": 123.0839184,
+        "latitude": 0.5293886,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.14.2003",
+      "name": "SUMBER MAKMUR",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.14",
+      "districtName": "TELAWANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97783,
+      "coordinate": {
+        "longitude": 127.8191087,
+        "latitude": -0.0506484,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.14.2004",
+      "name": "KENYALA",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.14",
+      "districtName": "TELAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74350,
+      "coordinate": {
+        "longitude": 112.6480791,
+        "latitude": -2.2435338,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.14.2005",
+      "name": "PENYANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.14",
+      "districtName": "TELAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73911,
+      "coordinate": {
+        "longitude": 114.4076282,
+        "latitude": -0.7007328,
+        "elevation": 91
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.02.14.2006",
+      "name": "BIRU MAJU",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.02",
+      "cityName": "KAB. KOTAWARINGIN TIMUR",
+      "districtCode": "62.02.14",
+      "districtName": "TELAWANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74350,
+      "coordinate": {
+        "longitude": 112.425849,
+        "latitude": -2.2979807,
+        "elevation": 44
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

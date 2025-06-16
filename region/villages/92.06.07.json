@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "92.06.07.2001",
+      "name": "WAMESA I / IDOOR",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.07",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98146,
+      "coordinate": {
+        "longitude": 134.0712275,
+        "latitude": -2.4656737,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.07.2002",
+      "name": "WAMESA II / YAKATI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.07",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98146,
+      "coordinate": {
+        "longitude": 134.0009502,
+        "latitude": -2.20525,
+        "elevation": 164
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.07.2003",
+      "name": "YANSEI",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.07",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98146,
+      "coordinate": {
+        "longitude": 134.02456,
+        "latitude": -2.3137917,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "92.06.07.2004",
+      "name": "MAMURANU",
+      "provinceCode": "92",
+      "provinceName": "PAPUA BARAT",
+      "cityCode": "92.06",
+      "cityName": "KAB. TELUK BINTUNI",
+      "districtCode": "92.06.07",
+      "districtName": "WAMESA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98146,
+      "coordinate": {
+        "longitude": 133.8534928,
+        "latitude": -2.2420075,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

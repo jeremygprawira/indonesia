@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "35.71.01",
+      "name": "MOJOROTO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.71",
+      "cityName": "KOTA KEDIRI"
+    },
+    {
+      "type": "district",
+      "code": "35.71.02",
+      "name": "KOTA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.71",
+      "cityName": "KOTA KEDIRI"
+    },
+    {
+      "type": "district",
+      "code": "35.71.03",
+      "name": "PESANTREN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.71",
+      "cityName": "KOTA KEDIRI"
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

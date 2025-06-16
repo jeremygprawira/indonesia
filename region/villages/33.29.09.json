@@ -1,0 +1,470 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.29.09.1002",
+      "name": "BREBES",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52212,
+      "coordinate": {
+        "longitude": 109.0417398,
+        "latitude": -6.8750427,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.1003",
+      "name": "GANDASULI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97791,
+      "coordinate": {
+        "longitude": 127.4966514,
+        "latitude": -0.6866635,
+        "elevation": 194
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.1011",
+      "name": "LIMBANGAN KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0545084,
+        "latitude": -6.8546893,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.1012",
+      "name": "LIMBANGAN WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52218,
+      "coordinate": {
+        "longitude": 109.0617773,
+        "latitude": -6.8526431,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.1015",
+      "name": "PASARBATANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52211,
+      "coordinate": {
+        "longitude": 109.0379514,
+        "latitude": -6.8550404,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2001",
+      "name": "BANJARANYAR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62192,
+      "coordinate": {
+        "longitude": 112.0572,
+        "latitude": -7.1498726,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2004",
+      "name": "KALIGANGSA KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52217,
+      "coordinate": {
+        "longitude": 109.0686428,
+        "latitude": -6.8707223,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2005",
+      "name": "KALIGANGSA WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52217,
+      "coordinate": {
+        "longitude": 109.0785039,
+        "latitude": -6.8712211,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2006",
+      "name": "KALIMATI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61265,
+      "coordinate": {
+        "longitude": 112.5543975,
+        "latitude": -7.4538355,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2007",
+      "name": "KALIWLINGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0500501,
+        "latitude": -6.7899096,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2008",
+      "name": "KEDUNGUTER",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.040781,
+        "latitude": -6.8360612,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2009",
+      "name": "KRASAK",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67358,
+      "coordinate": {
+        "longitude": 113.2172103,
+        "latitude": -8.0466888,
+        "elevation": 95
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2010",
+      "name": "LEMBARAWA",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0701915,
+        "latitude": -6.9032134,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2013",
+      "name": "PADASUGIH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52214,
+      "coordinate": {
+        "longitude": 109.0492557,
+        "latitude": -6.8893196,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2014",
+      "name": "PAGEJUGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0461065,
+        "latitude": -6.8364282,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2016",
+      "name": "PEMARON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81119,
+      "coordinate": {
+        "longitude": 115.0627134,
+        "latitude": -8.134255,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2017",
+      "name": "PULOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61474,
+      "coordinate": {
+        "longitude": 112.3422306,
+        "latitude": -7.6779908,
+        "elevation": 196
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2018",
+      "name": "RANDUSANGA KULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0706719,
+        "latitude": -6.8237452,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2019",
+      "name": "RANDUSANGA WETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0822163,
+        "latitude": -6.842823,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2020",
+      "name": "SIGAMBIR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0398589,
+        "latitude": -6.8578814,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2021",
+      "name": "TENGKI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0252375,
+        "latitude": -6.8488503,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2022",
+      "name": "TERLANGU",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52219,
+      "coordinate": {
+        "longitude": 109.0360749,
+        "latitude": -6.9075151,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.29.09.2023",
+      "name": "WANGANDALEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.29",
+      "cityName": "KAB. BREBES",
+      "districtCode": "33.29.09",
+      "districtName": "BREBES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52214,
+      "coordinate": {
+        "longitude": 109.0426431,
+        "latitude": -6.8964477,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 23
+  }
+}

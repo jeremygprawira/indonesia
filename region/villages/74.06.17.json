@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.17.2001",
+      "name": "MASALOKA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.17",
+      "districtName": "KEP. MASALOKA RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93778,
+      "coordinate": {
+        "longitude": 122.1292526,
+        "latitude": -4.8266164,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.17.2002",
+      "name": "BATU LAMBURI",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.17",
+      "districtName": "KEP. MASALOKA RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93778,
+      "coordinate": {
+        "longitude": 122.1266095,
+        "latitude": -4.8202424,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.17.2003",
+      "name": "MASALOKA SELATAN",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.17",
+      "districtName": "KEP. MASALOKA RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93778,
+      "coordinate": {
+        "longitude": 122.1346213,
+        "latitude": -4.8262242,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.17.2004",
+      "name": "MASALOKA TIMUR",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.17",
+      "districtName": "KEP. MASALOKA RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93778,
+      "coordinate": {
+        "longitude": 122.1481593,
+        "latitude": -4.8133803,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.17.2005",
+      "name": "MASALOKA BARAT",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.17",
+      "districtName": "KEP. MASALOKA RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93778,
+      "coordinate": {
+        "longitude": 122.1233927,
+        "latitude": -4.8293958,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

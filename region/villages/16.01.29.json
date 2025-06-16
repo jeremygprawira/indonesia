@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.01.29.2001",
+      "name": "KARYA JAYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.29",
+      "districtName": "SINAR PENINJAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93758,
+      "coordinate": {
+        "longitude": 123.1474285,
+        "latitude": -5.3619536,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.29.2002",
+      "name": "KARYA MUKTI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.29",
+      "districtName": "SINAR PENINJAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94356,
+      "coordinate": {
+        "longitude": 119.939496,
+        "latitude": 0.1768942,
+        "elevation": 82
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.29.2003",
+      "name": "MARGA BAKTI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.29",
+      "districtName": "SINAR PENINJAUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31619,
+      "coordinate": {
+        "longitude": 102.9097429,
+        "latitude": -3.180961,
+        "elevation": 86
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.29.2004",
+      "name": "SRI MULYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.29",
+      "districtName": "SINAR PENINJAUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30162,
+      "coordinate": {
+        "longitude": 104.8105961,
+        "latitude": -2.9336018,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.29.2005",
+      "name": "MARGA MULYA",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.29",
+      "districtName": "SINAR PENINJAUAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99631,
+      "coordinate": {
+        "longitude": 140.4887841,
+        "latitude": -8.4189429,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.01.29.2006",
+      "name": "TANJUNG MAKMUR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.01",
+      "cityName": "KAB. OGAN KOMERING ULU",
+      "districtCode": "16.01.29",
+      "districtName": "SINAR PENINJAUAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31456,
+      "coordinate": {
+        "longitude": 103.0852369,
+        "latitude": -3.5805727,
+        "elevation": 113
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.07.1001",
+      "name": "PASTEUR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.07",
+      "districtName": "SUKAJADI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40161,
+      "coordinate": {
+        "longitude": 107.5992832,
+        "latitude": -6.8905215,
+        "elevation": 762
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.07.1002",
+      "name": "CIPEDES",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.07",
+      "districtName": "SUKAJADI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46133,
+      "coordinate": {
+        "longitude": 108.2078252,
+        "latitude": -7.31191,
+        "elevation": 373
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.07.1003",
+      "name": "SUKAWARNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.07",
+      "districtName": "SUKAJADI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40164,
+      "coordinate": {
+        "longitude": 107.5770593,
+        "latitude": -6.8866304,
+        "elevation": 772
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.07.1004",
+      "name": "SUKAGALIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.07",
+      "districtName": "SUKAJADI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40163,
+      "coordinate": {
+        "longitude": 107.5869907,
+        "latitude": -6.885762,
+        "elevation": 779
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.07.1005",
+      "name": "SUKABUNGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.07",
+      "districtName": "SUKAJADI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40162,
+      "coordinate": {
+        "longitude": 107.5941162,
+        "latitude": -6.8952957,
+        "elevation": 753
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

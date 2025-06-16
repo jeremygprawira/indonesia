@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.04.26.2001",
+      "name": "GAIMU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.26",
+      "districtName": "GANE TIMUR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97787,
+      "coordinate": {
+        "longitude": 128.1187607,
+        "latitude": -0.5499122,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.26.2002",
+      "name": "GANE LUAR",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.26",
+      "districtName": "GANE TIMUR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97787,
+      "coordinate": {
+        "longitude": 128.3078747,
+        "latitude": -0.7884728,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.26.2003",
+      "name": "KUWO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.26",
+      "districtName": "GANE TIMUR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97787,
+      "coordinate": {
+        "longitude": 128.1385778,
+        "latitude": -0.6214363,
+        "elevation": 38
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.26.2004",
+      "name": "RANGA RANGA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.26",
+      "districtName": "GANE TIMUR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97787,
+      "coordinate": {
+        "longitude": 128.1621867,
+        "latitude": -0.6568649,
+        "elevation": 193
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.04.26.2005",
+      "name": "SAWAT",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.04",
+      "cityName": "KAB. HALMAHERA SELATAN",
+      "districtCode": "82.04.26",
+      "districtName": "GANE TIMUR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97787,
+      "coordinate": {
+        "longitude": 128.1250988,
+        "latitude": -0.5892653,
+        "elevation": 35
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

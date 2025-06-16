@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.71.08.1001",
+      "name": "PERIUK",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.08",
+      "districtName": "PERIUK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77152,
+      "coordinate": {
+        "longitude": 116.9048509,
+        "latitude": 3.4316354,
+        "elevation": 75
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.08.1002",
+      "name": "GEMBOR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.08",
+      "districtName": "PERIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15133,
+      "coordinate": {
+        "longitude": 106.5808539,
+        "latitude": -6.1705387,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.08.1003",
+      "name": "GEBANG RAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.08",
+      "districtName": "PERIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15132,
+      "coordinate": {
+        "longitude": 106.5891558,
+        "latitude": -6.172426,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.08.1004",
+      "name": "SANGIANG JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.08",
+      "districtName": "PERIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15132,
+      "coordinate": {
+        "longitude": 106.5981154,
+        "latitude": -6.1797353,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.08.1005",
+      "name": "PERIUK JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.08",
+      "districtName": "PERIUK",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15131,
+      "coordinate": {
+        "longitude": 106.6070776,
+        "latitude": -6.159807,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

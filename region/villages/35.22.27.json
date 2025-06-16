@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.22.27.2001",
+      "name": "BOBOL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.27",
+      "districtName": "SEKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62169,
+      "coordinate": {
+        "longitude": 111.6690742,
+        "latitude": -7.3933561,
+        "elevation": 197
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.27.2002",
+      "name": "MIYONO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.27",
+      "districtName": "SEKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62169,
+      "coordinate": {
+        "longitude": 111.7288197,
+        "latitude": -7.4178094,
+        "elevation": 397
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.27.2003",
+      "name": "SEKAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.27",
+      "districtName": "SEKAR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98016,
+      "coordinate": {
+        "longitude": 132.442621,
+        "latitude": -2.7004284,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.27.2004",
+      "name": "KLINO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.27",
+      "districtName": "SEKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62169,
+      "coordinate": {
+        "longitude": 111.7748323,
+        "latitude": -7.4397739,
+        "elevation": 478
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.27.2005",
+      "name": "DELING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.27",
+      "districtName": "SEKAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62169,
+      "coordinate": {
+        "longitude": 111.7564245,
+        "latitude": -7.377248,
+        "elevation": 157
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.22.27.2006",
+      "name": "BARENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.22",
+      "cityName": "KAB. BOJONEGORO",
+      "districtCode": "35.22.27",
+      "districtName": "SEKAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86692,
+      "coordinate": {
+        "longitude": 123.7768762,
+        "latitude": -8.1790014,
+        "elevation": 216
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

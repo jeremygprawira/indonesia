@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.03.18.2001",
+      "name": "RANTAU BUJUR",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.18",
+      "districtName": "TELAGA BAUNTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71416,
+      "coordinate": {
+        "longitude": 115.2788418,
+        "latitude": -2.4268469,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.18.2002",
+      "name": "LOK TANAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.18",
+      "districtName": "TELAGA BAUNTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70673,
+      "coordinate": {
+        "longitude": 115.2461683,
+        "latitude": -3.1139246,
+        "elevation": 168
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.18.2003",
+      "name": "TELAGA BARU",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.18",
+      "districtName": "TELAGA BAUNTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70673,
+      "coordinate": {
+        "longitude": 115.2073564,
+        "latitude": -3.1120597,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.18.2004",
+      "name": "RAMPAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.18",
+      "districtName": "TELAGA BAUNTUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70673,
+      "coordinate": {
+        "longitude": 115.2521216,
+        "latitude": -3.0878033,
+        "elevation": 93
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

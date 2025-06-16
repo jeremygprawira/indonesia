@@ -1,0 +1,510 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.25.11.2001",
+      "name": "DADAPKUNING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5171845,
+        "latitude": -7.25868,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2002",
+      "name": "LENGKONG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91991,
+      "coordinate": {
+        "longitude": 120.2036867,
+        "latitude": -3.1363704,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2003",
+      "name": "KANDANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60199,
+      "coordinate": {
+        "longitude": 112.6513782,
+        "latitude": -7.2510679,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2004",
+      "name": "DOORO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5214024,
+        "latitude": -7.2429593,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2005",
+      "name": "DAMPAAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5284074,
+        "latitude": -7.2439397,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2006",
+      "name": "NGEMBUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5259987,
+        "latitude": -7.2596804,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2007",
+      "name": "SUKOANYAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5336886,
+        "latitude": -7.2652067,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2008",
+      "name": "GEDANGKULUD",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5315217,
+        "latitude": -7.1947223,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2009",
+      "name": "WEDANI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5345612,
+        "latitude": -7.2130977,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2010",
+      "name": "DUNGUS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5383387,
+        "latitude": -7.2309584,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2011",
+      "name": "GURANGANYAR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5410472,
+        "latitude": -7.2473326,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2012",
+      "name": "KAMBINGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5474007,
+        "latitude": -7.2166201,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2013",
+      "name": "MOROWUDI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5539544,
+        "latitude": -7.2555795,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2014",
+      "name": "BETITING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5520257,
+        "latitude": -7.2383098,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2015",
+      "name": "NGABETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5501261,
+        "latitude": -7.2288191,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2016",
+      "name": "PADEG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.552633,
+        "latitude": -7.1876401,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2017",
+      "name": "IKER - IKER GEGER",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5634557,
+        "latitude": -7.2421744,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2018",
+      "name": "SEMAMPIR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64121,
+      "coordinate": {
+        "longitude": 112.0094459,
+        "latitude": -7.799564,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2019",
+      "name": "CAGAKAGUNG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5659742,
+        "latitude": -7.217536,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2020",
+      "name": "CERME KIDUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5729733,
+        "latitude": -7.2326067,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2021",
+      "name": "CERME LOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.5714206,
+        "latitude": -7.2208507,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2022",
+      "name": "PANDU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95249,
+      "coordinate": {
+        "longitude": 124.871941,
+        "latitude": 1.5691025,
+        "elevation": 62
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2023",
+      "name": "BANJARSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72166,
+      "coordinate": {
+        "longitude": 116.1962841,
+        "latitude": -2.6987835,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2024",
+      "name": "TAMBAKBERAS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61171,
+      "coordinate": {
+        "longitude": 112.591538,
+        "latitude": -7.1995977,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.25.11.2025",
+      "name": "JONO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.25",
+      "cityName": "KAB. GRESIK",
+      "districtCode": "35.25.11",
+      "districtName": "CERME",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94371,
+      "coordinate": {
+        "longitude": 119.8451912,
+        "latitude": -1.1068698,
+        "elevation": 1158
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 25
+  }
+}

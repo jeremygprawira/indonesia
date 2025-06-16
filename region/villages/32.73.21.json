@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.21.1001",
+      "name": "BATUNUNGGAL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.21",
+      "districtName": "BANDUNG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40266,
+      "coordinate": {
+        "longitude": 107.6338482,
+        "latitude": -6.9514791,
+        "elevation": 676
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.21.1002",
+      "name": "WATES",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.21",
+      "districtName": "BANDUNG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61317,
+      "coordinate": {
+        "longitude": 112.4487485,
+        "latitude": -7.4577161,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.21.1003",
+      "name": "MENGGER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.21",
+      "districtName": "BANDUNG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63257,
+      "coordinate": {
+        "longitude": 111.2186794,
+        "latitude": -7.3416238,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.21.1004",
+      "name": "KUJANGSARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.21",
+      "districtName": "BANDUNG KIDUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42394,
+      "coordinate": {
+        "longitude": 106.3939978,
+        "latitude": -6.7875864,
+        "elevation": 1067
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

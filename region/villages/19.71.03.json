@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.71.03.1004",
+      "name": "PASIR GARAM",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.03",
+      "districtName": "PANGKAL BALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33115,
+      "coordinate": {
+        "longitude": 106.1230375,
+        "latitude": -2.1032035,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.03.1005",
+      "name": "LONTONG PANCUR",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.03",
+      "districtName": "PANGKAL BALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33115,
+      "coordinate": {
+        "longitude": 106.1242788,
+        "latitude": -2.0926609,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.03.1006",
+      "name": "KETAPANG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.03",
+      "districtName": "PANGKAL BALAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96513,
+      "coordinate": {
+        "longitude": 123.0343637,
+        "latitude": 0.9320803,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.03.1007",
+      "name": "AMPUI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.03",
+      "districtName": "PANGKAL BALAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33113,
+      "coordinate": {
+        "longitude": 106.1263412,
+        "latitude": -2.1068785,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.71.03.1008",
+      "name": "REJOSARI",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.71",
+      "cityName": "KOTA PANGKAL PINANG",
+      "districtCode": "19.71.03",
+      "districtName": "PANGKAL BALAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72211,
+      "coordinate": {
+        "longitude": 115.7798503,
+        "latitude": -3.2118721,
+        "elevation": 44
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

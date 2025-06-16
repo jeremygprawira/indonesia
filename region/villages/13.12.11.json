@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.12.11.2001",
+      "name": "SASAK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.12",
+      "cityName": "KAB. PASAMAN BARAT",
+      "districtCode": "13.12.11",
+      "districtName": "SASAK RANAH PASISIE",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91896,
+      "coordinate": {
+        "longitude": 119.625603,
+        "latitude": -3.0080056,
+        "elevation": 1153
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.12.11.2002",
+      "name": "PADANG HARAPAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.12",
+      "cityName": "KAB. PASAMAN BARAT",
+      "districtCode": "13.12.11",
+      "districtName": "SASAK RANAH PASISIE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38225,
+      "coordinate": {
+        "longitude": 102.2876543,
+        "latitude": -3.824803,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.12.11.2003",
+      "name": "RANAH PASISIE",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.12",
+      "cityName": "KAB. PASAMAN BARAT",
+      "districtCode": "13.12.11",
+      "districtName": "SASAK RANAH PASISIE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26367,
+      "coordinate": {
+        "longitude": 99.6124466,
+        "latitude": 0.051214,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.12.11.2004",
+      "name": "MALIGI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.12",
+      "cityName": "KAB. PASAMAN BARAT",
+      "districtCode": "13.12.11",
+      "districtName": "SASAK RANAH PASISIE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26367,
+      "coordinate": {
+        "longitude": 99.6225722,
+        "latitude": 0.0640876,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

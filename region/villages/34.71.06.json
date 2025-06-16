@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.06.1001",
+      "name": "NGAMPILAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.06",
+      "districtName": "NGAMPILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55261,
+      "coordinate": {
+        "longitude": 110.3581815,
+        "latitude": -7.7989039,
+        "elevation": 108
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.06.1002",
+      "name": "NOTOPRAJAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.06",
+      "districtName": "NGAMPILAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55262,
+      "coordinate": {
+        "longitude": 110.3562848,
+        "latitude": -7.8041818,
+        "elevation": 105
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

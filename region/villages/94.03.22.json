@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.03.22.2001",
+      "name": "DETA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.22",
+      "districtName": "AWEIDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98732,
+      "coordinate": {
+        "longitude": 136.4540625,
+        "latitude": -3.819514,
+        "elevation": 1770
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.22.2002",
+      "name": "TUGUWAI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.22",
+      "districtName": "AWEIDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98732,
+      "coordinate": {
+        "longitude": 136.4635143,
+        "latitude": -3.8034409,
+        "elevation": 1992
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.22.2003",
+      "name": "TUGUWAI MOMA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.22",
+      "districtName": "AWEIDA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.22.2004",
+      "name": "BUMAIDA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.22",
+      "districtName": "AWEIDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98732,
+      "coordinate": {
+        "longitude": 136.5594411,
+        "latitude": -3.6999044,
+        "elevation": 2075
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.22.2005",
+      "name": "DEBAIYE",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.22",
+      "districtName": "AWEIDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98732,
+      "coordinate": {
+        "longitude": 136.5024688,
+        "latitude": -3.7387075,
+        "elevation": 1865
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.03.22.2007",
+      "name": "KOMOPA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.03",
+      "cityName": "KAB. PANIAI",
+      "districtCode": "94.03.22",
+      "districtName": "AWEIDA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98732,
+      "coordinate": {
+        "longitude": 136.5169288,
+        "latitude": -3.7780873,
+        "elevation": 1869
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

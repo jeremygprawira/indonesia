@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.10.1001",
+      "name": "PASIR PANJANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.10",
+      "districtName": "MERAL BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95553,
+      "coordinate": {
+        "longitude": 125.1781887,
+        "latitude": 1.3969501,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.10.1002",
+      "name": "DARUSSALAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.10",
+      "districtName": "MERAL BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71453,
+      "coordinate": {
+        "longitude": 115.1007552,
+        "latitude": -2.3880595,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.10.2003",
+      "name": "PANGKE",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.10",
+      "districtName": "MERAL BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74280,
+      "coordinate": {
+        "longitude": 111.9897584,
+        "latitude": -1.6857005,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.10.2004",
+      "name": "PANGKE BARAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.10",
+      "districtName": "MERAL BARAT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29667,
+      "coordinate": {
+        "longitude": 103.3204796,
+        "latitude": 1.0509246,
+        "elevation": 60
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.13.23.2001",
+      "name": "CIJENGKOL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.23",
+      "districtName": "SERANGPANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42398,
+      "coordinate": {
+        "longitude": 106.3608024,
+        "latitude": -6.9186,
+        "elevation": 310
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.23.2002",
+      "name": "TALAGASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.23",
+      "districtName": "SERANGPANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15710,
+      "coordinate": {
+        "longitude": 106.5190776,
+        "latitude": -6.2162298,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.23.2003",
+      "name": "CINTAMEKAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.23",
+      "districtName": "SERANGPANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41288,
+      "coordinate": {
+        "longitude": 107.6412286,
+        "latitude": -6.6415174,
+        "elevation": 427
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.23.2004",
+      "name": "PONGGANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.23",
+      "districtName": "SERANGPANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41288,
+      "coordinate": {
+        "longitude": 107.5905509,
+        "latitude": -6.6277138,
+        "elevation": 363
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.23.2005",
+      "name": "CIKUJANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.23",
+      "districtName": "SERANGPANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41288,
+      "coordinate": {
+        "longitude": 107.616266,
+        "latitude": -6.6845841,
+        "elevation": 636
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.13.23.2006",
+      "name": "CIPANCAR",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.13",
+      "cityName": "KAB. SUBANG",
+      "districtCode": "32.13.23",
+      "districtName": "SERANGPANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41288,
+      "coordinate": {
+        "longitude": 107.5986156,
+        "latitude": -6.6947494,
+        "elevation": 808
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

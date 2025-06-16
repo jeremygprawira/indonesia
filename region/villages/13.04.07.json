@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.04.07.2001",
+      "name": "SUNGAI PATAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.07",
+      "districtName": "SUNGAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27294,
+      "coordinate": {
+        "longitude": 100.6035366,
+        "latitude": -0.3648741,
+        "elevation": 621
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.07.2002",
+      "name": "ANDALEH BARUH BUKIK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.07",
+      "districtName": "SUNGAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27294,
+      "coordinate": {
+        "longitude": 100.6515884,
+        "latitude": -0.3882731,
+        "elevation": 829
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.07.2003",
+      "name": "TANJUNG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.07",
+      "districtName": "SUNGAYANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93790,
+      "coordinate": {
+        "longitude": 123.8026931,
+        "latitude": -5.550014,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.07.2004",
+      "name": "SUNGAYANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.07",
+      "districtName": "SUNGAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27294,
+      "coordinate": {
+        "longitude": 100.597558,
+        "latitude": -0.410176,
+        "elevation": 556
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.04.07.2005",
+      "name": "MINANG KABAU",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.04",
+      "cityName": "KAB. TANAH DATAR",
+      "districtCode": "13.04.07",
+      "districtName": "SUNGAYANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27294,
+      "coordinate": {
+        "longitude": 100.6092479,
+        "latitude": -0.4222597,
+        "elevation": 561
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.07.19.2001",
+      "name": "KEUDE TANGSE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2002",
+      "name": "PULO MESJID I",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.9173433,
+        "latitude": 5.0280858,
+        "elevation": 571
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2003",
+      "name": "PULO MESJID II",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.9197226,
+        "latitude": 5.0212358,
+        "elevation": 462
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2004",
+      "name": "PULO SEJAHTERA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8801499,
+        "latitude": 4.9533122,
+        "elevation": 848
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2005",
+      "name": "PULO KAWA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8702211,
+        "latitude": 4.9818755,
+        "elevation": 1265
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2006",
+      "name": "PULO SEUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8855659,
+        "latitude": 5.0533704,
+        "elevation": 633
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2007",
+      "name": "NUBOK BADEUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8462815,
+        "latitude": 5.0447782,
+        "elevation": 965
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2008",
+      "name": "BLANG JEURAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.9324572,
+        "latitude": 5.0169696,
+        "elevation": 497
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2009",
+      "name": "PULO BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24165,
+      "coordinate": {
+        "longitude": 95.8833755,
+        "latitude": 5.2488164,
+        "elevation": 53
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2010",
+      "name": "LAYAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30751,
+      "coordinate": {
+        "longitude": 103.6296295,
+        "latitude": -3.0917298,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2011",
+      "name": "BLANG DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3067826,
+        "latitude": 5.2072247,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2012",
+      "name": "PEUNALOM I",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2013",
+      "name": "PEUNALOM II",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2014",
+      "name": "KRUENG MEURIAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.9572908,
+        "latitude": 4.904426,
+        "elevation": 710
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2015",
+      "name": "BLANG TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23661,
+      "coordinate": {
+        "longitude": 96.2964098,
+        "latitude": 4.1137535,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2016",
+      "name": "BLANG DHOT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.9742205,
+        "latitude": 5.0642385,
+        "elevation": 1148
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2017",
+      "name": "BLANG BUNGONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.9342846,
+        "latitude": 5.0372141,
+        "elevation": 505
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2018",
+      "name": "ULEE GUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24382,
+      "coordinate": {
+        "longitude": 97.354394,
+        "latitude": 5.0068593,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2019",
+      "name": "KEUBON NILAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.926387,
+        "latitude": 5.0840933,
+        "elevation": 634
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2020",
+      "name": "PAYA GUCI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.9651251,
+        "latitude": 5.0683988,
+        "elevation": 1049
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2021",
+      "name": "RANTO PANYANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23654,
+      "coordinate": {
+        "longitude": 95.6737284,
+        "latitude": 4.650445,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2022",
+      "name": "BLANG MALO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8290711,
+        "latitude": 5.0734284,
+        "elevation": 900
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2023",
+      "name": "KRUENG SEUKEUEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8781135,
+        "latitude": 5.1100296,
+        "elevation": 449
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2024",
+      "name": "BEUNGGA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8870852,
+        "latitude": 5.1219543,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2025",
+      "name": "ALUE CALONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8748253,
+        "latitude": 5.1534298,
+        "elevation": 189
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2026",
+      "name": "PULO IE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5903287,
+        "latitude": 3.9712217,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2027",
+      "name": "LHOK KEUTAPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 95.8222467,
+        "latitude": 5.1942675,
+        "elevation": 711
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.07.19.2028",
+      "name": "BLANG PANDAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.07",
+      "cityName": "KAB. PIDIE",
+      "districtCode": "11.07.19",
+      "districtName": "TANGSE",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24166,
+      "coordinate": {
+        "longitude": 96.0657092,
+        "latitude": 5.0394427,
+        "elevation": 1574
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 28
+  }
+}

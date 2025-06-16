@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.71.09.1001",
+      "name": "CIBODAS",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.09",
+      "districtName": "CIBODAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15138,
+      "coordinate": {
+        "longitude": 106.6077617,
+        "latitude": -6.198842,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.09.1002",
+      "name": "CIBODAS SARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.09",
+      "districtName": "CIBODAS",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.09.1003",
+      "name": "CIBODAS BARU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.09",
+      "districtName": "CIBODAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15138,
+      "coordinate": {
+        "longitude": 106.6052857,
+        "latitude": -6.208161,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.09.1004",
+      "name": "PANUNGGANGAN BARAT",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.09",
+      "districtName": "CIBODAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15139,
+      "coordinate": {
+        "longitude": 106.6212005,
+        "latitude": -6.2215746,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.09.1005",
+      "name": "UWUNG JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.09",
+      "districtName": "CIBODAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15138,
+      "coordinate": {
+        "longitude": 106.5999326,
+        "latitude": -6.1936354,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.09.1006",
+      "name": "JATIUWUNG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.09",
+      "districtName": "CIBODAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15134,
+      "coordinate": {
+        "longitude": 106.5948855,
+        "latitude": -6.1932362,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

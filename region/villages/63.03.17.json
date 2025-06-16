@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "63.03.17.2001",
+      "name": "PARAMASAN ATAS",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.17",
+      "districtName": "PARAMASAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70675,
+      "coordinate": {
+        "longitude": 115.5230175,
+        "latitude": -2.9189457,
+        "elevation": 359
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.17.2002",
+      "name": "PARAMASAN BAWAH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.17",
+      "districtName": "PARAMASAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70675,
+      "coordinate": {
+        "longitude": 115.4852711,
+        "latitude": -3.0498086,
+        "elevation": 450
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.17.2003",
+      "name": "REMO",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.17",
+      "districtName": "PARAMASAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70675,
+      "coordinate": {
+        "longitude": 115.3056325,
+        "latitude": -3.0258512,
+        "elevation": 161
+      }
+    },
+    {
+      "type": "village",
+      "code": "63.03.17.2004",
+      "name": "ANGKIPIH",
+      "provinceCode": "63",
+      "provinceName": "KALIMANTAN SELATAN",
+      "cityCode": "63.03",
+      "cityName": "KAB. BANJAR",
+      "districtCode": "63.03.17",
+      "districtName": "PARAMASAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70675,
+      "coordinate": {
+        "longitude": 115.4015119,
+        "latitude": -3.11957,
+        "elevation": 361
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

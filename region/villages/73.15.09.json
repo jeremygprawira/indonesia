@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "73.15.09.1001",
+      "name": "PAMMASE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.09",
+      "districtName": "TIROANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91256,
+      "coordinate": {
+        "longitude": 119.6979292,
+        "latitude": -3.8461257,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.09.1002",
+      "name": "MARAWI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.09",
+      "districtName": "TIROANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98653,
+      "coordinate": {
+        "longitude": 136.3614612,
+        "latitude": -1.9373151,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.09.1003",
+      "name": "FAKKIE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.09",
+      "districtName": "TIROANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91256,
+      "coordinate": {
+        "longitude": 119.6859477,
+        "latitude": -3.7888301,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.09.1004",
+      "name": "TIROANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.09",
+      "districtName": "TIROANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91256,
+      "coordinate": {
+        "longitude": 119.7239374,
+        "latitude": -3.7789259,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.09.1005",
+      "name": "MATTIRO DECENG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.09",
+      "districtName": "TIROANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91256,
+      "coordinate": {
+        "longitude": 119.6946094,
+        "latitude": -3.8190986,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "73.15.09.1006",
+      "name": "SAMATURUE",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.15",
+      "cityName": "KAB. PINRANG",
+      "districtCode": "73.15.09",
+      "districtName": "TIROANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91256,
+      "coordinate": {
+        "longitude": 119.7314565,
+        "latitude": -3.8265153,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

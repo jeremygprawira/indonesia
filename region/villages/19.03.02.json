@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "19.03.02.2001",
+      "name": "TANJUNG LABU",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.02",
+      "districtName": "LEPAR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75683,
+      "coordinate": {
+        "longitude": 117.1517479,
+        "latitude": 0.6043859,
+        "elevation": 129
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.02.2002",
+      "name": "TANJUNG SANGKAR",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.02",
+      "districtName": "LEPAR",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.02.2004",
+      "name": "KUMBUNG",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.02",
+      "districtName": "LEPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45472,
+      "coordinate": {
+        "longitude": 108.3423253,
+        "latitude": -6.8039902,
+        "elevation": 233
+      }
+    },
+    {
+      "type": "village",
+      "code": "19.03.02.2005",
+      "name": "PENUTUK",
+      "provinceCode": "19",
+      "provinceName": "KEPULAUAN BANGKA BELITUNG",
+      "cityCode": "19.03",
+      "cityName": "KAB. BANGKA SELATAN",
+      "districtCode": "19.03.02",
+      "districtName": "LEPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33792,
+      "coordinate": {
+        "longitude": 106.697878,
+        "latitude": -2.9704898,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

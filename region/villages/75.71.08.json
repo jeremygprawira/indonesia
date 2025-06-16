@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "75.71.08.1001",
+      "name": "LEATO UTARA",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.08",
+      "districtName": "DUMBO RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96119,
+      "coordinate": {
+        "longitude": 123.0717868,
+        "latitude": 0.5051233,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.08.1002",
+      "name": "LEATO SELATAN",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.08",
+      "districtName": "DUMBO RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96119,
+      "coordinate": {
+        "longitude": 123.0798648,
+        "latitude": 0.4917828,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.08.1003",
+      "name": "TALUMOLO",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.08",
+      "districtName": "DUMBO RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96118,
+      "coordinate": {
+        "longitude": 123.0735232,
+        "latitude": 0.5172288,
+        "elevation": 177
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.08.1004",
+      "name": "BOTU",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.08",
+      "districtName": "DUMBO RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96118,
+      "coordinate": {
+        "longitude": 123.0764984,
+        "latitude": 0.5271995,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "75.71.08.1005",
+      "name": "BUGIS",
+      "provinceCode": "75",
+      "provinceName": "GORONTALO",
+      "cityCode": "75.71",
+      "cityName": "KOTA GORONTALO",
+      "districtCode": "75.71.08",
+      "districtName": "DUMBO RAYA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96112,
+      "coordinate": {
+        "longitude": 123.0623826,
+        "latitude": 0.5281714,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

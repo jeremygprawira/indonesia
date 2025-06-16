@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.07.12.2001",
+      "name": "MAEK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.12",
+      "districtName": "BUKIK BARISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26257,
+      "coordinate": {
+        "longitude": 100.4886376,
+        "latitude": 0.0263323,
+        "elevation": 319
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.12.2002",
+      "name": "BANJA LOWEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.12",
+      "districtName": "BUKIK BARISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26257,
+      "coordinate": {
+        "longitude": 100.5001734,
+        "latitude": -0.036923,
+        "elevation": 834
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.12.2003",
+      "name": "BARUAH GUNUANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.12",
+      "districtName": "BUKIK BARISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26257,
+      "coordinate": {
+        "longitude": 100.4039787,
+        "latitude": 0.0198981,
+        "elevation": 1039
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.12.2004",
+      "name": "SUNGAI NANIANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.12",
+      "districtName": "BUKIK BARISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26257,
+      "coordinate": {
+        "longitude": 100.4190688,
+        "latitude": -0.0210419,
+        "elevation": 858
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.07.12.2005",
+      "name": "KOTO TANGAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.07",
+      "cityName": "KAB. LIMA PULUH KOTA",
+      "districtCode": "13.07.12",
+      "districtName": "BUKIK BARISAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26223,
+      "coordinate": {
+        "longitude": 100.61182,
+        "latitude": -0.2247773,
+        "elevation": 518
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

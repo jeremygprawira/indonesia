@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.20.1001",
+      "name": "ANTAPANI KULON",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.20",
+      "districtName": "ANTAPANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40291,
+      "coordinate": {
+        "longitude": 107.656219,
+        "latitude": -6.9097145,
+        "elevation": 686
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.20.1004",
+      "name": "ANTAPANI TENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.20",
+      "districtName": "ANTAPANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40291,
+      "coordinate": {
+        "longitude": 107.6652331,
+        "latitude": -6.9217728,
+        "elevation": 675
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.20.1005",
+      "name": "ANTAPANI KIDUL",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.20",
+      "districtName": "ANTAPANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40291,
+      "coordinate": {
+        "longitude": 107.6605442,
+        "latitude": -6.9248932,
+        "elevation": 680
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.20.1006",
+      "name": "ANTAPANI WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.20",
+      "districtName": "ANTAPANI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40291,
+      "coordinate": {
+        "longitude": 107.6645449,
+        "latitude": -6.9091827,
+        "elevation": 684
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

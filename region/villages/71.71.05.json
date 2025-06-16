@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.71.05.1008",
+      "name": "TIKALA BARU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.05",
+      "districtName": "TIKALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95126,
+      "coordinate": {
+        "longitude": 124.8585858,
+        "latitude": 1.4773285,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.05.1009",
+      "name": "TAAS",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.05",
+      "districtName": "TIKALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95129,
+      "coordinate": {
+        "longitude": 124.8611345,
+        "latitude": 1.4668835,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.05.1010",
+      "name": "PAAL IV",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.05",
+      "districtName": "TIKALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95129,
+      "coordinate": {
+        "longitude": 124.8687699,
+        "latitude": 1.4720639,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.05.1011",
+      "name": "BANJER",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.05",
+      "districtName": "TIKALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95125,
+      "coordinate": {
+        "longitude": 124.8498247,
+        "latitude": 1.4775154,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.05.1012",
+      "name": "TIKALA ARES",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.05",
+      "districtName": "TIKALA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95124,
+      "coordinate": {
+        "longitude": 124.8503525,
+        "latitude": 1.4835127,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

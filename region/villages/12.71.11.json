@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.11.1001",
+      "name": "SUKA MAJU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.11",
+      "districtName": "MEDAN JOHOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99647,
+      "coordinate": {
+        "longitude": 140.2005407,
+        "latitude": -8.2484351,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.11.1002",
+      "name": "TITI KUNING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.11",
+      "districtName": "MEDAN JOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20146,
+      "coordinate": {
+        "longitude": 98.6845531,
+        "latitude": 3.5349905,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.11.1003",
+      "name": "KEDAI DURIAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.11",
+      "districtName": "MEDAN JOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20145,
+      "coordinate": {
+        "longitude": 98.6875723,
+        "latitude": 3.5213233,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.11.1004",
+      "name": "PANGKALAN MANSUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.11",
+      "districtName": "MEDAN JOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20143,
+      "coordinate": {
+        "longitude": 98.670828,
+        "latitude": 3.5352494,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.11.1005",
+      "name": "GEDUNG JOHOR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.11",
+      "districtName": "MEDAN JOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20144,
+      "coordinate": {
+        "longitude": 98.665063,
+        "latitude": 3.5223108,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.11.1006",
+      "name": "KWALA BEKALA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.11",
+      "districtName": "MEDAN JOHOR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20142,
+      "coordinate": {
+        "longitude": 98.6512357,
+        "latitude": 3.5228138,
+        "elevation": 47
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "13.72.01",
+      "name": "LUBUK SIKARAH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK"
+    },
+    {
+      "type": "district",
+      "code": "13.72.02",
+      "name": "TANJUNG HARAPAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.72",
+      "cityName": "KOTA SOLOK"
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

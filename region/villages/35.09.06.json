@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.06.2001",
+      "name": "TANGGULKULON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68155,
+      "coordinate": {
+        "longitude": 113.4436517,
+        "latitude": -8.1598685,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.06.2002",
+      "name": "TANGGULWETAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68155,
+      "coordinate": {
+        "longitude": 113.4651243,
+        "latitude": -8.1740258,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.06.2003",
+      "name": "PATEMON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 81153,
+      "coordinate": {
+        "longitude": 114.9306299,
+        "latitude": -8.2063862,
+        "elevation": 66
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.06.2004",
+      "name": "DARUNGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68155,
+      "coordinate": {
+        "longitude": 113.5209741,
+        "latitude": -8.0888986,
+        "elevation": 539
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.06.2005",
+      "name": "MANGGISAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68155,
+      "coordinate": {
+        "longitude": 113.4933679,
+        "latitude": -8.0836394,
+        "elevation": 583
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.06.2006",
+      "name": "SELODAKON",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68155,
+      "coordinate": {
+        "longitude": 113.5239803,
+        "latitude": -8.1365692,
+        "elevation": 271
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.06.2007",
+      "name": "KRAMAT SUKOHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68155,
+      "coordinate": {
+        "longitude": 113.4700969,
+        "latitude": -8.0898046,
+        "elevation": 419
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.06.2008",
+      "name": "KLATAKAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.06",
+      "districtName": "TANGGUL",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68352,
+      "coordinate": {
+        "longitude": 113.8955544,
+        "latitude": -7.6960959,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

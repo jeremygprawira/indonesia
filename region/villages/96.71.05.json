@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.71.05.1004",
+      "name": "SAWAGUMU",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.05",
+      "districtName": "SORONG UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98410,
+      "coordinate": {
+        "longitude": 131.310943,
+        "latitude": -0.8849824,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.05.1002",
+      "name": "MALASILEN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.05",
+      "districtName": "SORONG UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98410,
+      "coordinate": {
+        "longitude": 131.34555,
+        "latitude": -0.8796176,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.05.1003",
+      "name": "MATALAMAGI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.05",
+      "districtName": "SORONG UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98410,
+      "coordinate": {
+        "longitude": 131.3323206,
+        "latitude": -0.8698388,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.71.05.1001",
+      "name": "MALANU",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.71",
+      "cityName": "KOTA SORONG",
+      "districtCode": "96.71.05",
+      "districtName": "SORONG UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98410,
+      "coordinate": {
+        "longitude": 131.3172794,
+        "latitude": -0.8719649,
+        "elevation": 32
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

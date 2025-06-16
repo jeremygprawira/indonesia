@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.71.06.2001",
+      "name": "KEUDAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.71",
+      "cityName": "KOTA BANDA ACEH",
+      "districtCode": "11.71.06",
+      "districtName": "KUTA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23129,
+      "coordinate": {
+        "longitude": 95.3135651,
+        "latitude": 5.5613415,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.71.06.2002",
+      "name": "PEULANGGAHAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.71",
+      "cityName": "KOTA BANDA ACEH",
+      "districtCode": "11.71.06",
+      "districtName": "KUTA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23129,
+      "coordinate": {
+        "longitude": 95.310018,
+        "latitude": 5.5639513,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.71.06.2003",
+      "name": "MERDUATI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.71",
+      "cityName": "KOTA BANDA ACEH",
+      "districtCode": "11.71.06",
+      "districtName": "KUTA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23242,
+      "coordinate": {
+        "longitude": 95.3122984,
+        "latitude": 5.558513,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.71.06.2004",
+      "name": "LAMPASEH KOTA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.71",
+      "cityName": "KOTA BANDA ACEH",
+      "districtCode": "11.71.06",
+      "districtName": "KUTA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23231,
+      "coordinate": {
+        "longitude": 95.310852,
+        "latitude": 5.5570479,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.71.06.2005",
+      "name": "GAMPONG PANDE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.71",
+      "cityName": "KOTA BANDA ACEH",
+      "districtCode": "11.71.06",
+      "districtName": "KUTA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23128,
+      "coordinate": {
+        "longitude": 95.3129113,
+        "latitude": 5.5718807,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.71.06.2006",
+      "name": "GAMPONG JAWA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.71",
+      "cityName": "KOTA BANDA ACEH",
+      "districtCode": "11.71.06",
+      "districtName": "KUTA RAJA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23128,
+      "coordinate": {
+        "longitude": 95.315481,
+        "latitude": 5.5739751,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

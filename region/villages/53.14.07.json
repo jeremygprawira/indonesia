@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.14.07.2001",
+      "name": "SEDEOEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.07",
+      "districtName": "ROTE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85982,
+      "coordinate": {
+        "longitude": 122.8405589,
+        "latitude": -10.871077,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.07.2002",
+      "name": "NEMBERALA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.07",
+      "districtName": "ROTE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85982,
+      "coordinate": {
+        "longitude": 122.8407627,
+        "latitude": -10.8918235,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.07.2003",
+      "name": "OENGGAUT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.07",
+      "districtName": "ROTE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85982,
+      "coordinate": {
+        "longitude": 122.8346388,
+        "latitude": -10.9139228,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.07.2004",
+      "name": "BO\"A",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.07",
+      "districtName": "ROTE BARAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.07.2005",
+      "name": "OENITAS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.07",
+      "districtName": "ROTE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85981,
+      "coordinate": {
+        "longitude": 122.8697328,
+        "latitude": -10.8429252,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.07.2006",
+      "name": "OELOLOT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.07",
+      "districtName": "ROTE BARAT",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.14.07.2007",
+      "name": "MBUEAIN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.14",
+      "cityName": "KAB. ROTE NDAO",
+      "districtCode": "53.14.07",
+      "districtName": "ROTE BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85981,
+      "coordinate": {
+        "longitude": 122.811695,
+        "latitude": -10.8076077,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

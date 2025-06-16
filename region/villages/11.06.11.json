@@ -1,0 +1,950 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.06.11.2001",
+      "name": "KRUENG ANOI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3997566,
+        "latitude": 5.526849,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2002",
+      "name": "LAM PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3993797,
+        "latitude": 5.5305547,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2003",
+      "name": "COT BEUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4237696,
+        "latitude": 5.5329588,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2004",
+      "name": "BUENG BAKJOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4188676,
+        "latitude": 5.5262349,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2005",
+      "name": "LAM NEUHEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.401261,
+        "latitude": 5.5327457,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2006",
+      "name": "SEUPEU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.427888,
+        "latitude": 5.5279045,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2007",
+      "name": "COT MANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8481754,
+        "latitude": 3.716109,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2008",
+      "name": "LAM BAET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2009",
+      "name": "COT MASAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4059079,
+        "latitude": 5.522426,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2016",
+      "name": "GUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3964443,
+        "latitude": 5.5194091,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2018",
+      "name": "LAM SABANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3948284,
+        "latitude": 5.559604,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2019",
+      "name": "LAM ALUE RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3997052,
+        "latitude": 5.5622941,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2020",
+      "name": "LAM ALUE CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4008675,
+        "latitude": 5.5575187,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2021",
+      "name": "LEUPUNG MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4081369,
+        "latitude": 5.567189,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2022",
+      "name": "COT LAMEE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4277868,
+        "latitude": 5.5755977,
+        "elevation": 94
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2023",
+      "name": "LEUPUNG ULEE ALUE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2024",
+      "name": "LAMPOH TAROM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4059069,
+        "latitude": 5.5546696,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2025",
+      "name": "LAMTEUBE GEUPULA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.405114,
+        "latitude": 5.5586922,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2026",
+      "name": "LAMTEUBE MON ARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4071632,
+        "latitude": 5.5620375,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2027",
+      "name": "ARON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24152,
+      "coordinate": {
+        "longitude": 95.8988866,
+        "latitude": 5.421424,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2028",
+      "name": "BAK BULOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4082323,
+        "latitude": 5.552257,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2029",
+      "name": "LAM SEUNONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4130211,
+        "latitude": 5.5485847,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2030",
+      "name": "LAM RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4415783,
+        "latitude": 5.563104,
+        "elevation": 147
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2031",
+      "name": "LAM ROH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4112295,
+        "latitude": 5.5590806,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2032",
+      "name": "LAMBUNOT TANOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4417519,
+        "latitude": 5.5678939,
+        "elevation": 181
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2033",
+      "name": "TUMPOK LAMPOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4175501,
+        "latitude": 5.5554811,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2034",
+      "name": "PUUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24374,
+      "coordinate": {
+        "longitude": 97.2308449,
+        "latitude": 5.1450867,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2035",
+      "name": "LAMBUNOT PAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4503162,
+        "latitude": 5.5826117,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2036",
+      "name": "LAMPOH KEUDE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3881659,
+        "latitude": 5.5335196,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2037",
+      "name": "LAM ASAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23658,
+      "coordinate": {
+        "longitude": 95.5499033,
+        "latitude": 5.1304167,
+        "elevation": 551
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2038",
+      "name": "LAMBRO DEYAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3888793,
+        "latitude": 5.5307001,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2039",
+      "name": "LAMBRO BILEU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.395148,
+        "latitude": 5.5317745,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2040",
+      "name": "COT PEUTANO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3799401,
+        "latitude": 5.5352238,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2041",
+      "name": "COT CUT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3769155,
+        "latitude": 5.5398482,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2042",
+      "name": "MEUNASAH BAKTRIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23370,
+      "coordinate": {
+        "longitude": 95.3686795,
+        "latitude": 5.5605821,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2043",
+      "name": "BABAH JURONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24358,
+      "coordinate": {
+        "longitude": 96.8114709,
+        "latitude": 5.2148788,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2044",
+      "name": "LAM GLUMPANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3857625,
+        "latitude": 5.5378358,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2045",
+      "name": "RABEU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3873892,
+        "latitude": 5.5460592,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2046",
+      "name": "CUCUM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23918,
+      "coordinate": {
+        "longitude": 95.5524155,
+        "latitude": 5.2941375,
+        "elevation": 90
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2047",
+      "name": "DEYAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3888365,
+        "latitude": 5.5486246,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2048",
+      "name": "LAM TRIENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4049409,
+        "latitude": 5.547472,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2049",
+      "name": "BEURANGONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3978252,
+        "latitude": 5.5453803,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2050",
+      "name": "COT PREH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4255332,
+        "latitude": 5.5427652,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2051",
+      "name": "COT RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.4005717,
+        "latitude": 5.5530817,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2052",
+      "name": "COT YANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3940177,
+        "latitude": 5.5537266,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2053",
+      "name": "UJONG BLANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24351,
+      "coordinate": {
+        "longitude": 97.1170083,
+        "latitude": 5.2079671,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.06.11.2054",
+      "name": "LAMCEU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.06",
+      "cityName": "KAB. ACEH BESAR",
+      "districtCode": "11.06.11",
+      "districtName": "KUTA BARO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23372,
+      "coordinate": {
+        "longitude": 95.3984373,
+        "latitude": 5.5424524,
+        "elevation": 12
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 47
+  }
+}

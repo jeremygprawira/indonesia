@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.08.05.2001",
+      "name": "KOMAUTO/KAPIRAYA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI",
+      "districtCode": "94.08.05",
+      "districtName": "KAPIRAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98752,
+      "coordinate": {
+        "longitude": 136.1014253,
+        "latitude": -4.1831263,
+        "elevation": 851
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.08.05.2002",
+      "name": "MOGODAGI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI",
+      "districtCode": "94.08.05",
+      "districtName": "KAPIRAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98752,
+      "coordinate": {
+        "longitude": 136.0467637,
+        "latitude": -4.1716881,
+        "elevation": 1817
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.08.05.2003",
+      "name": "YAMOUWITINA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI",
+      "districtCode": "94.08.05",
+      "districtName": "KAPIRAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98752,
+      "coordinate": {
+        "longitude": 136.1838255,
+        "latitude": -4.1831306,
+        "elevation": 1571
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.08.05.2004",
+      "name": "IDEGO",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI",
+      "districtCode": "94.08.05",
+      "districtName": "KAPIRAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98752,
+      "coordinate": {
+        "longitude": 136.2397009,
+        "latitude": -4.1677783,
+        "elevation": 1705
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.08.05.2005",
+      "name": "UWE ONAGEI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.08",
+      "cityName": "KAB. DEIYAI",
+      "districtCode": "94.08.05",
+      "districtName": "KAPIRAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98752,
+      "coordinate": {
+        "longitude": 136.1838255,
+        "latitude": -4.1831306,
+        "elevation": 1571
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

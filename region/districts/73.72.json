@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "73.72.01",
+      "name": "BACUKIKI",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE"
+    },
+    {
+      "type": "district",
+      "code": "73.72.02",
+      "name": "UJUNG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE"
+    },
+    {
+      "type": "district",
+      "code": "73.72.03",
+      "name": "SOREANG",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE"
+    },
+    {
+      "type": "district",
+      "code": "73.72.04",
+      "name": "BACUKIKI BARAT",
+      "provinceCode": "73",
+      "provinceName": "SULAWESI SELATAN",
+      "cityCode": "73.72",
+      "cityName": "KOTA PAREPARE"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

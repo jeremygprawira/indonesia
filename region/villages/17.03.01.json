@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "17.03.01.2001",
+      "name": "BANJAR SARI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.01",
+      "districtName": "ENGGANO",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72275,
+      "coordinate": {
+        "longitude": 115.6351318,
+        "latitude": -3.6908535,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.01.2002",
+      "name": "MEOK",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.01",
+      "districtName": "ENGGANO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38387,
+      "coordinate": {
+        "longitude": 102.2143728,
+        "latitude": -5.3535498,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.01.2003",
+      "name": "MALAKONI",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.01",
+      "districtName": "ENGGANO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38387,
+      "coordinate": {
+        "longitude": 102.2747096,
+        "latitude": -5.3886326,
+        "elevation": 138
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.01.2004",
+      "name": "KAANA",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.01",
+      "districtName": "ENGGANO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38387,
+      "coordinate": {
+        "longitude": 102.3325106,
+        "latitude": -5.4232382,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.01.2005",
+      "name": "KAHYAPU",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.01",
+      "districtName": "ENGGANO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38387,
+      "coordinate": {
+        "longitude": 102.3549797,
+        "latitude": -5.4550986,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "17.03.01.2006",
+      "name": "APOHO",
+      "provinceCode": "17",
+      "provinceName": "BENGKULU",
+      "cityCode": "17.03",
+      "cityName": "KAB. BENGKULU UTARA",
+      "districtCode": "17.03.01",
+      "districtName": "ENGGANO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38387,
+      "coordinate": {
+        "longitude": 102.2399586,
+        "latitude": -5.3799064,
+        "elevation": 62
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

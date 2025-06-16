@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.06.2001",
+      "name": "TAMMARUNANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.06",
+      "districtName": "DURIPOKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91573,
+      "coordinate": {
+        "longitude": 119.4177072,
+        "latitude": -1.6591916,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.06.2002",
+      "name": "SAPTANAJAYA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.06",
+      "districtName": "DURIPOKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91573,
+      "coordinate": {
+        "longitude": 119.368654,
+        "latitude": -1.6466407,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.06.2003",
+      "name": "TARANGGI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.06",
+      "districtName": "DURIPOKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91573,
+      "coordinate": {
+        "longitude": 119.3964559,
+        "latitude": -1.6595255,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.06.2004",
+      "name": "SIPAKAINGA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.06",
+      "districtName": "DURIPOKU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91573,
+      "coordinate": {
+        "longitude": 119.5334101,
+        "latitude": -1.604813,
+        "elevation": 538
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

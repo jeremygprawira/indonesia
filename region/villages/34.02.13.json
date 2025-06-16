@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.02.13.2001",
+      "name": "WONOKROMO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.13",
+      "districtName": "PLERET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60243,
+      "coordinate": {
+        "longitude": 112.7312946,
+        "latitude": -7.3059743,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.13.2002",
+      "name": "PLERET",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.13",
+      "districtName": "PLERET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67171,
+      "coordinate": {
+        "longitude": 112.8839859,
+        "latitude": -7.6764605,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.13.2003",
+      "name": "SEGOROYOSO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.13",
+      "districtName": "PLERET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55791,
+      "coordinate": {
+        "longitude": 110.4088197,
+        "latitude": -7.8861541,
+        "elevation": 51
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.13.2004",
+      "name": "BAWURAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.13",
+      "districtName": "PLERET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55791,
+      "coordinate": {
+        "longitude": 110.4306463,
+        "latitude": -7.8723983,
+        "elevation": 136
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.02.13.2005",
+      "name": "WONOLELO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.02",
+      "cityName": "KAB. BANTUL",
+      "districtCode": "34.02.13",
+      "districtName": "PLERET",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55791,
+      "coordinate": {
+        "longitude": 110.4352509,
+        "latitude": -7.8831505,
+        "elevation": 67
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

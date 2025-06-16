@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.05.05.1001",
+      "name": "KWALA BEGUMIT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.05",
+      "cityName": "KAB. LANGKAT",
+      "districtCode": "12.05.05",
+      "districtName": "BINJAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20811,
+      "coordinate": {
+        "longitude": 98.4964716,
+        "latitude": 3.7306386,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.05.05.2002",
+      "name": "SAMBI REJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.05",
+      "cityName": "KAB. LANGKAT",
+      "districtCode": "12.05.05",
+      "districtName": "BINJAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20761,
+      "coordinate": {
+        "longitude": 98.4472146,
+        "latitude": 3.6656456,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.05.05.2003",
+      "name": "SENDANG REJO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.05",
+      "cityName": "KAB. LANGKAT",
+      "districtCode": "12.05.05",
+      "districtName": "BINJAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34178,
+      "coordinate": {
+        "longitude": 104.8916232,
+        "latitude": -5.2012773,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.05.05.2004",
+      "name": "TANJUNG JATI",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.05",
+      "cityName": "KAB. LANGKAT",
+      "districtCode": "12.05.05",
+      "districtName": "BINJAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78714,
+      "coordinate": {
+        "longitude": 112.9341583,
+        "latitude": 0.8498819,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.05.05.2005",
+      "name": "SIDOMULYO",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.05",
+      "cityName": "KAB. LANGKAT",
+      "districtCode": "12.05.05",
+      "districtName": "BINJAI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.05.05.2006",
+      "name": "PERDAMAIAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.05",
+      "cityName": "KAB. LANGKAT",
+      "districtCode": "12.05.05",
+      "districtName": "BINJAI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37483,
+      "coordinate": {
+        "longitude": 102.6740296,
+        "latitude": -2.5778398,
+        "elevation": 80
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.05.05.2007",
+      "name": "SUKA MAKMUR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.05",
+      "cityName": "KAB. LANGKAT",
+      "districtCode": "12.05.05",
+      "districtName": "BINJAI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96366,
+      "coordinate": {
+        "longitude": 121.8596106,
+        "latitude": 0.5257097,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

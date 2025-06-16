@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.08.06.2001",
+      "name": "ILWAKI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.06",
+      "districtName": "WETAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97446,
+      "coordinate": {
+        "longitude": 126.4136824,
+        "latitude": -7.85956,
+        "elevation": 679
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.06.2002",
+      "name": "ILPUTIH",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.06",
+      "districtName": "WETAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97446,
+      "coordinate": {
+        "longitude": 126.4288792,
+        "latitude": -7.7618818,
+        "elevation": 808
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.06.2003",
+      "name": "MAHUAN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.06",
+      "districtName": "WETAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97446,
+      "coordinate": {
+        "longitude": 126.4400401,
+        "latitude": -7.83014,
+        "elevation": 456
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.06.2004",
+      "name": "MASAPUN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.06",
+      "districtName": "WETAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97446,
+      "coordinate": {
+        "longitude": 126.5038189,
+        "latitude": -7.77346,
+        "elevation": 624
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.06.2021",
+      "name": "ARNAU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.06",
+      "districtName": "WETAR SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.06.2023",
+      "name": "HIAY",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.06",
+      "districtName": "WETAR SELATAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97446,
+      "coordinate": {
+        "longitude": 126.2781733,
+        "latitude": -7.8546274,
+        "elevation": 721
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

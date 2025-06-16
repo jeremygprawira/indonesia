@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.02.2001",
+      "name": "NAPAN",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.02",
+      "districtName": "NAPAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98862,
+      "coordinate": {
+        "longitude": 135.9313009,
+        "latitude": -3.0568056,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.02.2002",
+      "name": "MASIPAWA",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.02",
+      "districtName": "NAPAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98862,
+      "coordinate": {
+        "longitude": 135.854547,
+        "latitude": -3.201102,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.02.2003",
+      "name": "WEINAMI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.02",
+      "districtName": "NAPAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98862,
+      "coordinate": {
+        "longitude": 135.8008531,
+        "latitude": -3.0492922,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

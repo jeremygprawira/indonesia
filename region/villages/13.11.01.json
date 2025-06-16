@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.11.01.2001",
+      "name": "LUBUK GADANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.01",
+      "districtName": "SANGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27778,
+      "coordinate": {
+        "longitude": 101.2543571,
+        "latitude": -1.5555271,
+        "elevation": 571
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.01.2002",
+      "name": "LUBUK GADANG TIMUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.01",
+      "districtName": "SANGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27778,
+      "coordinate": {
+        "longitude": 101.2869516,
+        "latitude": -1.5642601,
+        "elevation": 602
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.01.2003",
+      "name": "LUBUK GADANG SELATAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.01",
+      "districtName": "SANGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27778,
+      "coordinate": {
+        "longitude": 101.2242557,
+        "latitude": -1.6099464,
+        "elevation": 887
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.01.2004",
+      "name": "LUBUK GADANG UTARA",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.01",
+      "districtName": "SANGIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27778,
+      "coordinate": {
+        "longitude": 101.3000985,
+        "latitude": -1.5140417,
+        "elevation": 623
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

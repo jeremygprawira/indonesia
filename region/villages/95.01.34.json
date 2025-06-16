@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.01.34.2001",
+      "name": "IRILIGA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.34",
+      "districtName": "BPIRI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.34.2002",
+      "name": "ONGGOBAGA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.34",
+      "districtName": "BPIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99542,
+      "coordinate": {
+        "longitude": 138.8463228,
+        "latitude": -3.8338255,
+        "elevation": 2073
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.34.2003",
+      "name": "WALAKMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.34",
+      "districtName": "BPIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99542,
+      "coordinate": {
+        "longitude": 138.8674462,
+        "latitude": -3.8385957,
+        "elevation": 1951
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.34.2004",
+      "name": "AYOMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.34",
+      "districtName": "BPIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99542,
+      "coordinate": {
+        "longitude": 138.8366368,
+        "latitude": -3.8533074,
+        "elevation": 1697
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.34.2005",
+      "name": "DLONGGOKI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.34",
+      "districtName": "BPIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99542,
+      "coordinate": {
+        "longitude": 138.830246,
+        "latitude": -3.8394517,
+        "elevation": 2005
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.34.2006",
+      "name": "TIRUNGGU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.34",
+      "districtName": "BPIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99542,
+      "coordinate": {
+        "longitude": 138.7685455,
+        "latitude": -3.966452,
+        "elevation": 1872
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.34.2007",
+      "name": "DLINGGAMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.34",
+      "districtName": "BPIRI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99542,
+      "coordinate": {
+        "longitude": 138.8213271,
+        "latitude": -3.8344948,
+        "elevation": 2028
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

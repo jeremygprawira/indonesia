@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.72.05.1001",
+      "name": "PADEMANGAN TIMUR",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.05",
+      "districtName": "PADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14410,
+      "coordinate": {
+        "longitude": 106.8504482,
+        "latitude": -6.140719,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.72.05.1002",
+      "name": "PADEMANGAN BARAT",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.05",
+      "districtName": "PADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14420,
+      "coordinate": {
+        "longitude": 106.8362372,
+        "latitude": -6.1332799,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.72.05.1003",
+      "name": "ANCOL",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.72",
+      "cityName": "KOTA ADM. JAKARTA UTARA",
+      "districtCode": "31.72.05",
+      "districtName": "PADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40254,
+      "coordinate": {
+        "longitude": 107.6166048,
+        "latitude": -6.9411908,
+        "elevation": 689
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

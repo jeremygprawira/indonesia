@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.01.14.2001",
+      "name": "WALAIK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.14",
+      "districtName": "WALAIK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99509,
+      "coordinate": {
+        "longitude": 138.7998438,
+        "latitude": -4.1490343,
+        "elevation": 2920
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.14.2002",
+      "name": "ELAREK",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.14",
+      "districtName": "WALAIK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99509,
+      "coordinate": {
+        "longitude": 138.7648431,
+        "latitude": -4.1424629,
+        "elevation": 3037
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.14.2003",
+      "name": "HOLIMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.14",
+      "districtName": "WALAIK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99509,
+      "coordinate": {
+        "longitude": 138.8388787,
+        "latitude": -4.1488761,
+        "elevation": 2222
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.14.2004",
+      "name": "YELAI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.14",
+      "districtName": "WALAIK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99509,
+      "coordinate": {
+        "longitude": 138.8294702,
+        "latitude": -4.1818249,
+        "elevation": 2477
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.01.14.2005",
+      "name": "WELEKAMA",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.01",
+      "cityName": "KAB. JAYAWIJAYA",
+      "districtCode": "95.01.14",
+      "districtName": "WALAIK",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99509,
+      "coordinate": {
+        "longitude": 138.7037,
+        "latitude": -4.1369537,
+        "elevation": 3353
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

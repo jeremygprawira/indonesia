@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.05.22.2001",
+      "name": "PUCANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.22",
+      "districtName": "SADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62391,
+      "coordinate": {
+        "longitude": 112.1320755,
+        "latitude": -6.9269224,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.22.2002",
+      "name": "SEBORO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.22",
+      "districtName": "SADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67284,
+      "coordinate": {
+        "longitude": 113.4196129,
+        "latitude": -7.8133206,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.22.2003",
+      "name": "WONOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.22",
+      "districtName": "SADANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98441,
+      "coordinate": {
+        "longitude": 131.4382023,
+        "latitude": -1.0860469,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.22.2004",
+      "name": "SADANGKULON",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.22",
+      "districtName": "SADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54354,
+      "coordinate": {
+        "longitude": 109.7269088,
+        "latitude": -7.4911217,
+        "elevation": 309
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.22.2005",
+      "name": "CANGKRING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.22",
+      "districtName": "SADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62274,
+      "coordinate": {
+        "longitude": 112.1256888,
+        "latitude": -7.3092941,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.22.2006",
+      "name": "SADANGWETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.22",
+      "districtName": "SADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54354,
+      "coordinate": {
+        "longitude": 109.7478534,
+        "latitude": -7.500962,
+        "elevation": 140
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.05.22.2007",
+      "name": "KEDUNGGONG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.05",
+      "cityName": "KAB. KEBUMEN",
+      "districtCode": "33.05.22",
+      "districtName": "SADANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54354,
+      "coordinate": {
+        "longitude": 109.7431671,
+        "latitude": -7.4755137,
+        "elevation": 366
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

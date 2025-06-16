@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.07.05.1006",
+      "name": "MADAWAT",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.05",
+      "districtName": "ALOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86112,
+      "coordinate": {
+        "longitude": 122.2000453,
+        "latitude": -8.6323096,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.05.1007",
+      "name": "NANGALIMANG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.05",
+      "districtName": "ALOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86118,
+      "coordinate": {
+        "longitude": 122.2035367,
+        "latitude": -8.6515596,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.05.1008",
+      "name": "KABOR",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.05",
+      "districtName": "ALOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86112,
+      "coordinate": {
+        "longitude": 122.2168792,
+        "latitude": -8.6219962,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.05.1009",
+      "name": "KOTA UNENG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.05",
+      "districtName": "ALOK",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.05.2014",
+      "name": "PEMANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.05",
+      "districtName": "ALOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86116,
+      "coordinate": {
+        "longitude": 122.3151011,
+        "latitude": -8.3542286,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.05.2015",
+      "name": "SAMPARONG",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.05",
+      "districtName": "ALOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86116,
+      "coordinate": {
+        "longitude": 122.1215649,
+        "latitude": -8.1152436,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.07.05.2016",
+      "name": "GUNUNG SARI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.07",
+      "cityName": "KAB. SIKKA",
+      "districtCode": "53.07.05",
+      "districtName": "ALOK",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91571,
+      "coordinate": {
+        "longitude": 119.4527124,
+        "latitude": -1.2096041,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

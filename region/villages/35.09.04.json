@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.09.04.2001",
+      "name": "KEPANJEN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64472,
+      "coordinate": {
+        "longitude": 111.943834,
+        "latitude": -7.6355856,
+        "elevation": 50
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.04.2002",
+      "name": "MAYANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67112,
+      "coordinate": {
+        "longitude": 112.9123706,
+        "latitude": -7.6367674,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.04.2003",
+      "name": "GUMUKMAS",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68165,
+      "coordinate": {
+        "longitude": 113.3941022,
+        "latitude": -8.3176378,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.04.2004",
+      "name": "MENAMPU",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68165,
+      "coordinate": {
+        "longitude": 113.4147146,
+        "latitude": -8.3378238,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.04.2005",
+      "name": "TEMBOKREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67118,
+      "coordinate": {
+        "longitude": 112.8990808,
+        "latitude": -7.6742831,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.04.2006",
+      "name": "PURWOASRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62185,
+      "coordinate": {
+        "longitude": 111.9720819,
+        "latitude": -7.2617956,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.04.2007",
+      "name": "BAGOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68165,
+      "coordinate": {
+        "longitude": 113.4365587,
+        "latitude": -8.3065779,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.09.04.2008",
+      "name": "KARANGREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.09",
+      "cityName": "KAB. JEMBER",
+      "districtCode": "35.09.04",
+      "districtName": "GUMUKMAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61151,
+      "coordinate": {
+        "longitude": 112.5878894,
+        "latitude": -7.0705063,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

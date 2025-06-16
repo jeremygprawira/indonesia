@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.02.03.2001",
+      "name": "LOLO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.03",
+      "districtName": "PANTAI CERMIN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76281,
+      "coordinate": {
+        "longitude": 116.0378734,
+        "latitude": -1.8880095,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.02.03.2002",
+      "name": "SURIAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.02",
+      "cityName": "KAB. SOLOK",
+      "districtCode": "13.02.03",
+      "districtName": "PANTAI CERMIN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71570,
+      "coordinate": {
+        "longitude": 115.479516,
+        "latitude": -2.0103092,
+        "elevation": 54
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

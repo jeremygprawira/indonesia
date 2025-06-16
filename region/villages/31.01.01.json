@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "31.01.01.1001",
+      "name": "PULAU PANGGANG",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU",
+      "districtCode": "31.01.01",
+      "districtName": "KEPULAUAN SERIBU UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14530,
+      "coordinate": {
+        "longitude": 106.5382992,
+        "latitude": -5.7003727,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.01.01.1002",
+      "name": "PULAU KELAPA",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU",
+      "districtCode": "31.01.01",
+      "districtName": "KEPULAUAN SERIBU UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 14540,
+      "coordinate": {
+        "longitude": 106.5605623,
+        "latitude": -5.6447407,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "31.01.01.1003",
+      "name": "PULAU HARAPAN",
+      "provinceCode": "31",
+      "provinceName": "DKI JAKARTA",
+      "cityCode": "31.01",
+      "cityName": "KAB. ADM. KEP. SERIBU",
+      "districtCode": "31.01.01",
+      "districtName": "KEPULAUAN SERIBU UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92616,
+      "coordinate": {
+        "longitude": 120.4197638,
+        "latitude": -5.0975014,
+        "elevation": 29
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

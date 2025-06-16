@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.08.05.2001",
+      "name": "PENU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.05",
+      "districtName": "TALIABU TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 125.1245248,
+        "latitude": -1.7159826,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.05.2002",
+      "name": "PARIGI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.05",
+      "districtName": "TALIABU TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 125.2024705,
+        "latitude": -1.7491244,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.05.2003",
+      "name": "SAMUYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.05",
+      "districtName": "TALIABU TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 125.2925807,
+        "latitude": -1.7698873,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.05.2004",
+      "name": "TUBANG",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.05",
+      "districtName": "TALIABU TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 125.039046,
+        "latitude": -1.7516175,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

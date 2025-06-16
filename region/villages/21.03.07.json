@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.07.1011",
+      "name": "RANAI KOTA",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.07",
+      "districtName": "BUNGURAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29777,
+      "coordinate": {
+        "longitude": 108.3847897,
+        "latitude": 3.9479531,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.07.1016",
+      "name": "RANAI DARAT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.07",
+      "districtName": "BUNGURAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29777,
+      "coordinate": {
+        "longitude": 108.3648044,
+        "latitude": 3.9456014,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.07.1017",
+      "name": "BANDARSYAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.07",
+      "districtName": "BUNGURAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29777,
+      "coordinate": {
+        "longitude": 108.3603335,
+        "latitude": 3.9148607,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.07.1019",
+      "name": "BATU HITAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.07",
+      "districtName": "BUNGURAN TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94754,
+      "coordinate": {
+        "longitude": 122.0015277,
+        "latitude": -1.0896921,
+        "elevation": 568
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.07.2002",
+      "name": "SUNGAI ULU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.07",
+      "districtName": "BUNGURAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29777,
+      "coordinate": {
+        "longitude": 108.3259307,
+        "latitude": 3.886472,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.07.2004",
+      "name": "SEPEMPANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.07",
+      "districtName": "BUNGURAN TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29777,
+      "coordinate": {
+        "longitude": 108.3674424,
+        "latitude": 3.9840214,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.07.2014",
+      "name": "BATU GAJAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.07",
+      "districtName": "BUNGURAN TIMUR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97127,
+      "coordinate": {
+        "longitude": 128.1880048,
+        "latitude": -3.707585,
+        "elevation": 60
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

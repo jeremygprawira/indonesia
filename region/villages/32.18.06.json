@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.18.06.2001",
+      "name": "SUKAMAJU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.06",
+      "districtName": "MANGUNJAYA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97762,
+      "coordinate": {
+        "longitude": 127.9710924,
+        "latitude": 1.4913595,
+        "elevation": 72
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.06.2002",
+      "name": "KERTAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.06",
+      "districtName": "MANGUNJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42283,
+      "coordinate": {
+        "longitude": 105.5870764,
+        "latitude": -6.6716319,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.06.2003",
+      "name": "MANGUNJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.06",
+      "districtName": "MANGUNJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46371,
+      "coordinate": {
+        "longitude": 108.696215,
+        "latitude": -7.4736183,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.06.2004",
+      "name": "SINDANGJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.06",
+      "districtName": "MANGUNJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52263,
+      "coordinate": {
+        "longitude": 108.8794673,
+        "latitude": -7.0815521,
+        "elevation": 78
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.18.06.2005",
+      "name": "JANGRAGA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.18",
+      "cityName": "KAB. PANGANDARAN",
+      "districtCode": "32.18.06",
+      "districtName": "MANGUNJAYA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46371,
+      "coordinate": {
+        "longitude": 108.6761018,
+        "latitude": -7.4834368,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

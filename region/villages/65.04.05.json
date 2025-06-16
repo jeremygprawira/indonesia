@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.04.05.2001",
+      "name": "SEPUTUK",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.05",
+      "districtName": "MURUK RIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77154,
+      "coordinate": {
+        "longitude": 116.7304164,
+        "latitude": 3.5298293,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.05.2002",
+      "name": "RIAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.05",
+      "districtName": "MURUK RIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77154,
+      "coordinate": {
+        "longitude": 116.8202702,
+        "latitude": 3.5590502,
+        "elevation": 36
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.05.2003",
+      "name": "BALAYAN ARI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.05",
+      "districtName": "MURUK RIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77154,
+      "coordinate": {
+        "longitude": 116.7546906,
+        "latitude": 3.468761,
+        "elevation": 76
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.05.2004",
+      "name": "RIAN RAYO",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.05",
+      "districtName": "MURUK RIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77154,
+      "coordinate": {
+        "longitude": 116.8041198,
+        "latitude": 3.5014049,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.05.2005",
+      "name": "KAPUAK",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.05",
+      "districtName": "MURUK RIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77154,
+      "coordinate": {
+        "longitude": 116.772304,
+        "latitude": 3.6293286,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.04.05.2006",
+      "name": "SAPARI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.04",
+      "cityName": "KAB. TANA TIDUNG",
+      "districtCode": "65.04.05",
+      "districtName": "MURUK RIAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77154,
+      "coordinate": {
+        "longitude": 116.8609481,
+        "latitude": 3.5322299,
+        "elevation": 27
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

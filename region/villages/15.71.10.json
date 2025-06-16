@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.71.10.1001",
+      "name": "SUNGAI PUTRI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.10",
+      "districtName": "DANAU SIPIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78813,
+      "coordinate": {
+        "longitude": 110.042804,
+        "latitude": -1.5835869,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.10.1002",
+      "name": "MURNI",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.10",
+      "districtName": "DANAU SIPIN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99053,
+      "coordinate": {
+        "longitude": 138.4494947,
+        "latitude": -3.437922,
+        "elevation": 2489
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.10.1003",
+      "name": "LEGOK",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.10",
+      "districtName": "DANAU SIPIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15820,
+      "coordinate": {
+        "longitude": 106.5906333,
+        "latitude": -6.285434,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.10.1004",
+      "name": "SELAMAT",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.10",
+      "districtName": "DANAU SIPIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36129,
+      "coordinate": {
+        "longitude": 103.5926747,
+        "latitude": -1.6146424,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.71.10.1005",
+      "name": "SOLOK SIPIN",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.71",
+      "cityName": "KOTA JAMBI",
+      "districtCode": "15.71.10",
+      "districtName": "DANAU SIPIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 36121,
+      "coordinate": {
+        "longitude": 103.5999206,
+        "latitude": -1.6017064,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

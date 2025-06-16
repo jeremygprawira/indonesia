@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.71.17.1001",
+      "name": "PETISAH HULU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.17",
+      "districtName": "MEDAN BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20153,
+      "coordinate": {
+        "longitude": 98.6662771,
+        "latitude": 3.5801994,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.17.1002",
+      "name": "BABURA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.17",
+      "districtName": "MEDAN BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20154,
+      "coordinate": {
+        "longitude": 98.6565546,
+        "latitude": 3.5812098,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.17.1003",
+      "name": "MERDEKA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.17",
+      "districtName": "MEDAN BARU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97586,
+      "coordinate": {
+        "longitude": 129.8977679,
+        "latitude": -4.5048592,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.17.1004",
+      "name": "DARAT",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.17",
+      "districtName": "MEDAN BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30659,
+      "coordinate": {
+        "longitude": 105.1218266,
+        "latitude": -3.2269615,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.17.1005",
+      "name": "PADANG BULAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.17",
+      "districtName": "MEDAN BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30652,
+      "coordinate": {
+        "longitude": 104.818422,
+        "latitude": -3.2364766,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.71.17.1006",
+      "name": "TITI RANTE",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.71",
+      "cityName": "KOTA MEDAN",
+      "districtCode": "12.71.17",
+      "districtName": "MEDAN BARU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20156,
+      "coordinate": {
+        "longitude": 98.6596407,
+        "latitude": 3.5507086,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

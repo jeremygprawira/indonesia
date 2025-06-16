@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.02.04.2001",
+      "name": "DATA DIAN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.04",
+      "districtName": "KAYAN HILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77571,
+      "coordinate": {
+        "longitude": 115.254775,
+        "latitude": 2.2083868,
+        "elevation": 1127
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.04.2002",
+      "name": "LONG PIPA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.04",
+      "districtName": "KAYAN HILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77571,
+      "coordinate": {
+        "longitude": 115.4341696,
+        "latitude": 1.8391391,
+        "elevation": 1399
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.04.2003",
+      "name": "LONG SULE",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.04",
+      "districtName": "KAYAN HILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77571,
+      "coordinate": {
+        "longitude": 115.9664475,
+        "latitude": 1.809829,
+        "elevation": 999
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.04.2004",
+      "name": "SUNGAI ANAI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.04",
+      "districtName": "KAYAN HILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77571,
+      "coordinate": {
+        "longitude": 115.01864,
+        "latitude": 2.130164,
+        "elevation": 679
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.02.04.2005",
+      "name": "LONG METUN",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.02",
+      "cityName": "KAB. MALINAU",
+      "districtCode": "65.02.04",
+      "districtName": "KAYAN HILIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77571,
+      "coordinate": {
+        "longitude": 115.1373561,
+        "latitude": 1.9537869,
+        "elevation": 614
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

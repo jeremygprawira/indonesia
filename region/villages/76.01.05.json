@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.05.2001",
+      "name": "DAPURANG",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.05",
+      "districtName": "DAPURANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91581,
+      "coordinate": {
+        "longitude": 119.3566575,
+        "latitude": -1.7329571,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.05.2002",
+      "name": "BENGGAULU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.05",
+      "districtName": "DAPURANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91460,
+      "coordinate": {
+        "longitude": 119.4141224,
+        "latitude": -1.7623471,
+        "elevation": 30
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.05.2003",
+      "name": "TIRTABUANA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.05",
+      "districtName": "DAPURANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91581,
+      "coordinate": {
+        "longitude": 119.3615563,
+        "latitude": -1.7538681,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.05.2004",
+      "name": "BULU BONGGU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.05",
+      "districtName": "DAPURANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91581,
+      "coordinate": {
+        "longitude": 119.5019006,
+        "latitude": -1.6656175,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.05.2005",
+      "name": "SARASA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.05",
+      "districtName": "DAPURANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91581,
+      "coordinate": {
+        "longitude": 119.3301688,
+        "latitude": -1.7762393,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

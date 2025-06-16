@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.06.2001",
+      "name": "TIMPEH",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.06",
+      "districtName": "TIMPEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27679,
+      "coordinate": {
+        "longitude": 101.5421774,
+        "latitude": -0.8692666,
+        "elevation": 158
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.06.2002",
+      "name": "TARATAK TINGGI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.06",
+      "districtName": "TIMPEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27679,
+      "coordinate": {
+        "longitude": 101.4730362,
+        "latitude": -0.8479527,
+        "elevation": 122
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.06.2003",
+      "name": "TABEK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.06",
+      "districtName": "TIMPEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27679,
+      "coordinate": {
+        "longitude": 101.612316,
+        "latitude": -0.9270239,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.06.2004",
+      "name": "PANYUBARANGAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.06",
+      "districtName": "TIMPEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27679,
+      "coordinate": {
+        "longitude": 101.6623242,
+        "latitude": -0.9522302,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.06.2005",
+      "name": "RANAH PALABI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.06",
+      "districtName": "TIMPEH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27679,
+      "coordinate": {
+        "longitude": 101.6934767,
+        "latitude": -0.9836464,
+        "elevation": 87
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

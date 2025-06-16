@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.71.12.1001",
+      "name": "KARANG TENGAH",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.12",
+      "districtName": "KARANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15157,
+      "coordinate": {
+        "longitude": 106.7101342,
+        "latitude": -6.2167092,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.12.1002",
+      "name": "KARANG MULYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.12",
+      "districtName": "KARANG TENGAH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72270,
+      "coordinate": {
+        "longitude": 115.7869676,
+        "latitude": -3.5429032,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.12.1003",
+      "name": "PONDOK BAHAR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.12",
+      "districtName": "KARANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15159,
+      "coordinate": {
+        "longitude": 106.6993023,
+        "latitude": -6.2043361,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.12.1004",
+      "name": "PONDOK PUCUNG",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.12",
+      "districtName": "KARANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15229,
+      "coordinate": {
+        "longitude": 106.7095729,
+        "latitude": -6.2828905,
+        "elevation": 33
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.12.1005",
+      "name": "KARANG TIMUR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.12",
+      "districtName": "KARANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15157,
+      "coordinate": {
+        "longitude": 106.7180477,
+        "latitude": -6.2174182,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.12.1006",
+      "name": "PADURENAN",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.12",
+      "districtName": "KARANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15159,
+      "coordinate": {
+        "longitude": 106.6972175,
+        "latitude": -6.2183663,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.12.1007",
+      "name": "PARUNG JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.12",
+      "districtName": "KARANG TENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15159,
+      "coordinate": {
+        "longitude": 106.7095684,
+        "latitude": -6.200183,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

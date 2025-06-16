@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.08.14.2001",
+      "name": "TELEMAR",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.14",
+      "districtName": "WETAR BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97447,
+      "coordinate": {
+        "longitude": 125.9415549,
+        "latitude": -7.881893,
+        "elevation": 408
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.14.2002",
+      "name": "KARBUBU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.14",
+      "districtName": "WETAR BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97447,
+      "coordinate": {
+        "longitude": 125.8750658,
+        "latitude": -7.9400731,
+        "elevation": 412
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.14.2003",
+      "name": "USTUTUN",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.14",
+      "districtName": "WETAR BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97447,
+      "coordinate": {
+        "longitude": 125.7401693,
+        "latitude": -8.0035762,
+        "elevation": 328
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.14.2004",
+      "name": "KLISHATU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.14",
+      "districtName": "WETAR BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97447,
+      "coordinate": {
+        "longitude": 125.8156656,
+        "latitude": -7.9358734,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.14.2005",
+      "name": "ILMAMAU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.14",
+      "districtName": "WETAR BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97447,
+      "coordinate": {
+        "longitude": 125.870599,
+        "latitude": -7.817043,
+        "elevation": 85
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

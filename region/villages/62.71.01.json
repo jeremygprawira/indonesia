@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.71.01.1001",
+      "name": "PAHANDUT",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.01",
+      "districtName": "PAHANDUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73111,
+      "coordinate": {
+        "longitude": 113.94574,
+        "latitude": -2.2023094,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.01.1002",
+      "name": "PANARUNG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.01",
+      "districtName": "PAHANDUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73111,
+      "coordinate": {
+        "longitude": 113.9465939,
+        "latitude": -2.2400513,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.01.1003",
+      "name": "LANGKAI",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.01",
+      "districtName": "PAHANDUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73111,
+      "coordinate": {
+        "longitude": 113.9247803,
+        "latitude": -2.219691,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.01.1004",
+      "name": "TUMBANG RUNGAN",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.01",
+      "districtName": "PAHANDUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73111,
+      "coordinate": {
+        "longitude": 113.9292872,
+        "latitude": -2.1675563,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.01.1005",
+      "name": "PAHANDUT SEBERANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.01",
+      "districtName": "PAHANDUT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73111,
+      "coordinate": {
+        "longitude": 113.935836,
+        "latitude": -2.1922191,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.71.01.1006",
+      "name": "TANJUNG PINANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.71",
+      "cityName": "KOTA PALANGKARAYA",
+      "districtCode": "62.71.01",
+      "districtName": "PAHANDUT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93655,
+      "coordinate": {
+        "longitude": 122.5369455,
+        "latitude": -4.7097303,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

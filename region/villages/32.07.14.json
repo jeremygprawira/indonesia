@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.07.14.2001",
+      "name": "SUKADANA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.14",
+      "districtName": "SUKADANA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72168,
+      "coordinate": {
+        "longitude": 116.3378563,
+        "latitude": -2.7600863,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.14.2002",
+      "name": "SALAKARIA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.14",
+      "districtName": "SUKADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46272,
+      "coordinate": {
+        "longitude": 108.424413,
+        "latitude": -7.2708109,
+        "elevation": 199
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.14.2003",
+      "name": "MARGAHARJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.14",
+      "districtName": "SUKADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46272,
+      "coordinate": {
+        "longitude": 108.4542874,
+        "latitude": -7.2547662,
+        "elevation": 196
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.14.2004",
+      "name": "MARGAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.14",
+      "districtName": "SUKADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42361,
+      "coordinate": {
+        "longitude": 106.2472042,
+        "latitude": -6.4265678,
+        "elevation": 58
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.14.2005",
+      "name": "BUNTER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.14",
+      "districtName": "SUKADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46272,
+      "coordinate": {
+        "longitude": 108.4706229,
+        "latitude": -7.2859562,
+        "elevation": 182
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.14.2006",
+      "name": "CIPARIGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.14",
+      "districtName": "SUKADANA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16157,
+      "coordinate": {
+        "longitude": 106.816569,
+        "latitude": -6.5452828,
+        "elevation": 175
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

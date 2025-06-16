@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.12.03.2001",
+      "name": "CEMARA",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68354,
+      "coordinate": {
+        "longitude": 113.7223305,
+        "latitude": -7.8057761,
+        "elevation": 318
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.03.2002",
+      "name": "MOJODUNGKOL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.03.2003",
+      "name": "GUNUNG MALANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83654,
+      "coordinate": {
+        "longitude": 116.6458022,
+        "latitude": -8.4377365,
+        "elevation": 387
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.03.2004",
+      "name": "GUNUNG PUTRI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68354,
+      "coordinate": {
+        "longitude": 113.7456788,
+        "latitude": -7.7775681,
+        "elevation": 269
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.03.2005",
+      "name": "SUBOH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68354,
+      "coordinate": {
+        "longitude": 113.7362803,
+        "latitude": -7.7432935,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.03.2006",
+      "name": "DAWUAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68354,
+      "coordinate": {
+        "longitude": 113.7243076,
+        "latitude": -7.759071,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.03.2007",
+      "name": "BUDUAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68354,
+      "coordinate": {
+        "longitude": 113.7269268,
+        "latitude": -7.7356593,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.12.03.2008",
+      "name": "KETAH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.12",
+      "cityName": "KAB. SITUBONDO",
+      "districtCode": "35.12.03",
+      "districtName": "SUBOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68354,
+      "coordinate": {
+        "longitude": 113.7186458,
+        "latitude": -7.7250761,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

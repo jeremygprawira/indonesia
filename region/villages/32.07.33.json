@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.07.33.2001",
+      "name": "SUKAMANTRI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.33",
+      "districtName": "SUKAMANTRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15560,
+      "coordinate": {
+        "longitude": 106.5488515,
+        "latitude": -6.1640126,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.33.2002",
+      "name": "TENGGERRAHARJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.33",
+      "districtName": "SUKAMANTRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46265,
+      "coordinate": {
+        "longitude": 108.2312482,
+        "latitude": -7.0785456,
+        "elevation": 752
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.33.2003",
+      "name": "CIBEUREUM",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.33",
+      "districtName": "SUKAMANTRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42397,
+      "coordinate": {
+        "longitude": 106.1217368,
+        "latitude": -6.6912587,
+        "elevation": 401
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.33.2004",
+      "name": "SINDANGLAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.33",
+      "districtName": "SUKAMANTRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42315,
+      "coordinate": {
+        "longitude": 106.3067251,
+        "latitude": -6.6563628,
+        "elevation": 579
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.07.33.2005",
+      "name": "MEKARWANGI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.07",
+      "cityName": "KAB. CIAMIS",
+      "districtCode": "32.07.33",
+      "districtName": "SUKAMANTRI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42364,
+      "coordinate": {
+        "longitude": 106.3067039,
+        "latitude": -6.5157098,
+        "elevation": 147
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

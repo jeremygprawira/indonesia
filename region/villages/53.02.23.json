@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.02.23.2001",
+      "name": "LOTAS",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.23",
+      "districtName": "KOK BAUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85764,
+      "coordinate": {
+        "longitude": 124.7859374,
+        "latitude": -9.5884297,
+        "elevation": 315
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.23.2002",
+      "name": "SABNALA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.23",
+      "districtName": "KOK BAUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85577,
+      "coordinate": {
+        "longitude": 124.747776,
+        "latitude": -9.6390625,
+        "elevation": 284
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.23.2003",
+      "name": "KOLOTO",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.23",
+      "districtName": "KOK BAUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85577,
+      "coordinate": {
+        "longitude": 124.752494,
+        "latitude": -9.6234365,
+        "elevation": 375
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.23.2004",
+      "name": "NITI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.23",
+      "districtName": "KOK BAUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85764,
+      "coordinate": {
+        "longitude": 124.7114139,
+        "latitude": -9.6238863,
+        "elevation": 450
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.23.2005",
+      "name": "OBAKI",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.23",
+      "districtName": "KOK BAUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85577,
+      "coordinate": {
+        "longitude": 124.7926393,
+        "latitude": -9.6377027,
+        "elevation": 150
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.02.23.2006",
+      "name": "BENEHE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.02",
+      "cityName": "KAB TIMOR TENGAH SELATAN",
+      "districtCode": "53.02.23",
+      "districtName": "KOK BAUN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85577,
+      "coordinate": {
+        "longitude": 124.77658,
+        "latitude": -9.600874,
+        "elevation": 360
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

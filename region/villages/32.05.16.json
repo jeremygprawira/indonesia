@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.05.16.2001",
+      "name": "CARINGIN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.16",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15820,
+      "coordinate": {
+        "longitude": 106.579543,
+        "latitude": -6.3143901,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.16.2002",
+      "name": "CINTAMANIK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.16",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52466,
+      "coordinate": {
+        "longitude": 109.087744,
+        "latitude": -7.1920589,
+        "elevation": 754
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.16.2003",
+      "name": "CINTA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.16",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44184,
+      "coordinate": {
+        "longitude": 108.0642843,
+        "latitude": -7.1639577,
+        "elevation": 1130
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.16.2004",
+      "name": "SINDANGGALIH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.16",
+      "districtName": "KARANGTENGAH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 45364,
+      "coordinate": {
+        "longitude": 107.8383951,
+        "latitude": -6.9434919,
+        "elevation": 862
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.04.19.2003",
+      "name": "ARAF MAFAT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.19",
+      "districtName": "WILHEM ROUMBOUTS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98377,
+      "coordinate": {
+        "longitude": 132.625247,
+        "latitude": -0.8650031,
+        "elevation": 620
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.19.2001",
+      "name": "TABAMSERE",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.19",
+      "districtName": "WILHEM ROUMBOUTS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98377,
+      "coordinate": {
+        "longitude": 132.6271248,
+        "latitude": -0.8337078,
+        "elevation": 689
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.19.2004",
+      "name": "ESYUOM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.19",
+      "districtName": "WILHEM ROUMBOUTS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98377,
+      "coordinate": {
+        "longitude": 132.5999666,
+        "latitude": -0.8747634,
+        "elevation": 531
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.04.19.2002",
+      "name": "SAYAM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.04",
+      "cityName": "KAB. TAMBRAUW",
+      "districtCode": "96.04.19",
+      "districtName": "WILHEM ROUMBOUTS",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98377,
+      "coordinate": {
+        "longitude": 132.6511032,
+        "latitude": -0.8177274,
+        "elevation": 864
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

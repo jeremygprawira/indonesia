@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "65.71.04.1001",
+      "name": "JUATA LAUT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.04",
+      "districtName": "TARAKAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77116,
+      "coordinate": {
+        "longitude": 117.5866856,
+        "latitude": 3.3949191,
+        "elevation": 81
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.04.1002",
+      "name": "JUATA PERMAI",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.04",
+      "districtName": "TARAKAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77116,
+      "coordinate": {
+        "longitude": 117.5379848,
+        "latitude": 3.3795461,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "65.71.04.1003",
+      "name": "JUATA KERIKIL",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN",
+      "districtCode": "65.71.04",
+      "districtName": "TARAKAN UTARA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77116,
+      "coordinate": {
+        "longitude": 117.5719777,
+        "latitude": 3.3725793,
+        "elevation": 48
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

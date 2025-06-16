@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.74.03.1001",
+      "name": "MAYANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.03",
+      "districtName": "MAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67112,
+      "coordinate": {
+        "longitude": 112.9123706,
+        "latitude": -7.6367674,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.03.1002",
+      "name": "MANGUNHARJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.03",
+      "districtName": "MAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67217,
+      "coordinate": {
+        "longitude": 113.2282547,
+        "latitude": -7.7402359,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.03.1004",
+      "name": "JATI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.03",
+      "districtName": "MAYANGAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97716,
+      "coordinate": {
+        "longitude": 127.3706044,
+        "latitude": 0.7779466,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.03.1007",
+      "name": "SUKABUMI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.03",
+      "districtName": "MAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67219,
+      "coordinate": {
+        "longitude": 113.204407,
+        "latitude": -7.7410763,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.03.1010",
+      "name": "WIROBORANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.03",
+      "districtName": "MAYANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67216,
+      "coordinate": {
+        "longitude": 113.2313005,
+        "latitude": -7.7575985,
+        "elevation": 9
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

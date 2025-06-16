@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.01.22.2001",
+      "name": "LARIKE",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.22",
+      "districtName": "LEIHITU BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97581,
+      "coordinate": {
+        "longitude": 127.935834,
+        "latitude": -3.7286982,
+        "elevation": 211
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.22.2002",
+      "name": "WAKASIHU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.22",
+      "districtName": "LEIHITU BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97581,
+      "coordinate": {
+        "longitude": 127.9514137,
+        "latitude": -3.7624031,
+        "elevation": 159
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.22.2003",
+      "name": "ALLANG",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.22",
+      "districtName": "LEIHITU BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97581,
+      "coordinate": {
+        "longitude": 128.0040888,
+        "latitude": -3.7707311,
+        "elevation": 169
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.22.2004",
+      "name": "LILIBOY",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.22",
+      "districtName": "LEIHITU BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97581,
+      "coordinate": {
+        "longitude": 128.0290554,
+        "latitude": -3.7356022,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.01.22.2005",
+      "name": "HATU",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.01",
+      "cityName": "KAB. MALUKU TENGAH",
+      "districtCode": "81.01.22",
+      "districtName": "LEIHITU BARAT",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97581,
+      "coordinate": {
+        "longitude": 128.0451563,
+        "latitude": -3.7090069,
+        "elevation": 327
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

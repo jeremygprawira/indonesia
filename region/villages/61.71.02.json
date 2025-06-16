@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "61.71.02.1001",
+      "name": "PARITMAYOR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.02",
+      "districtName": "PONTIANAK TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78231,
+      "coordinate": {
+        "longitude": 109.3725292,
+        "latitude": -0.0568123,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.02.1002",
+      "name": "BANJAR SERASAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.02",
+      "districtName": "PONTIANAK TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78233,
+      "coordinate": {
+        "longitude": 109.3608052,
+        "latitude": -0.0462082,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.02.1003",
+      "name": "SAIGON",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.02",
+      "districtName": "PONTIANAK TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78132,
+      "coordinate": {
+        "longitude": 109.3731983,
+        "latitude": -0.0374489,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.02.1004",
+      "name": "TANJUNG HULU",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.02",
+      "districtName": "PONTIANAK TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77457,
+      "coordinate": {
+        "longitude": 116.7227176,
+        "latitude": 3.7654398,
+        "elevation": 45
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.02.1005",
+      "name": "TANJUNG HILIR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.02",
+      "districtName": "PONTIANAK TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77457,
+      "coordinate": {
+        "longitude": 116.6967307,
+        "latitude": 3.7568637,
+        "elevation": 248
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.02.1006",
+      "name": "DALAMBUGIS",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.02",
+      "districtName": "PONTIANAK TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78235,
+      "coordinate": {
+        "longitude": 109.3502385,
+        "latitude": -0.0261543,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "61.71.02.1007",
+      "name": "TAMBELANSAMPIT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK",
+      "districtCode": "61.71.02",
+      "districtName": "PONTIANAK TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78234,
+      "coordinate": {
+        "longitude": 109.3506828,
+        "latitude": -0.0333924,
+        "elevation": 1
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

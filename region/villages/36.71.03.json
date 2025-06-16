@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "36.71.03.1001",
+      "name": "BATUCEPER",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.03",
+      "districtName": "BATUCEPER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15122,
+      "coordinate": {
+        "longitude": 106.667323,
+        "latitude": -6.1610594,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.03.1002",
+      "name": "BATU JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.03",
+      "districtName": "BATUCEPER",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93892,
+      "coordinate": {
+        "longitude": 122.8897469,
+        "latitude": -4.3929136,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.03.1003",
+      "name": "PORIS GAGA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.03",
+      "districtName": "BATUCEPER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15122,
+      "coordinate": {
+        "longitude": 106.685668,
+        "latitude": -6.166649,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.03.1004",
+      "name": "PORIS GAGA BARU",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.03",
+      "districtName": "BATUCEPER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15122,
+      "coordinate": {
+        "longitude": 106.6737662,
+        "latitude": -6.1695497,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.03.1005",
+      "name": "KEBON BESAR",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.03",
+      "districtName": "BATUCEPER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15122,
+      "coordinate": {
+        "longitude": 106.6816263,
+        "latitude": -6.1588434,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.03.1006",
+      "name": "BATU SARI",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.03",
+      "districtName": "BATUCEPER",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "36.71.03.1007",
+      "name": "PORIS JAYA",
+      "provinceCode": "36",
+      "provinceName": "BANTEN",
+      "cityCode": "36.71",
+      "cityName": "KOTA TANGERANG",
+      "districtCode": "36.71.03",
+      "districtName": "BATUCEPER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15122,
+      "coordinate": {
+        "longitude": 106.6787087,
+        "latitude": -6.1696314,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

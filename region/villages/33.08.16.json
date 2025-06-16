@@ -1,0 +1,410 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.08.16.2001",
+      "name": "PAKIS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60256,
+      "coordinate": {
+        "longitude": 112.7266342,
+        "latitude": -7.2872466,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2002",
+      "name": "BANYUSIDI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.3366933,
+        "latitude": -7.4678747,
+        "elevation": 799
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2003",
+      "name": "LOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 90112,
+      "coordinate": {
+        "longitude": 119.4100889,
+        "latitude": -5.1454239,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2004",
+      "name": "DASEH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.3219268,
+        "latitude": -7.4466299,
+        "elevation": 723
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2005",
+      "name": "GUMELEM",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51193,
+      "coordinate": {
+        "longitude": 109.7425816,
+        "latitude": -7.176191,
+        "elevation": 1646
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2006",
+      "name": "KAPONAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63472,
+      "coordinate": {
+        "longitude": 111.5147813,
+        "latitude": -7.9073701,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2007",
+      "name": "KRAGILAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42184,
+      "coordinate": {
+        "longitude": 106.293807,
+        "latitude": -6.1360437,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2008",
+      "name": "KETUNDAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.3914461,
+        "latitude": -7.4537544,
+        "elevation": 1336
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2009",
+      "name": "DALEMAN KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.348924,
+        "latitude": -7.4838462,
+        "elevation": 882
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2010",
+      "name": "PETUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76144,
+      "coordinate": {
+        "longitude": 116.6313043,
+        "latitude": -1.34043,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2011",
+      "name": "BAWANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64136,
+      "coordinate": {
+        "longitude": 112.0615434,
+        "latitude": -7.8569828,
+        "elevation": 113
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2012",
+      "name": "REJOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72211,
+      "coordinate": {
+        "longitude": 115.7798503,
+        "latitude": -3.2118721,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2013",
+      "name": "KAJANGKOSO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.3261514,
+        "latitude": -7.4416952,
+        "elevation": 758
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2014",
+      "name": "MUNENGWARANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.3475539,
+        "latitude": -7.4353501,
+        "elevation": 956
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2015",
+      "name": "GONDANGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57691,
+      "coordinate": {
+        "longitude": 111.1353072,
+        "latitude": -7.8504861,
+        "elevation": 345
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2016",
+      "name": "KENALAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56193,
+      "coordinate": {
+        "longitude": 110.4072869,
+        "latitude": -7.4390163,
+        "elevation": 1664
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2017",
+      "name": "POGALAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66371,
+      "coordinate": {
+        "longitude": 111.7443858,
+        "latitude": -8.0542946,
+        "elevation": 118
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2018",
+      "name": "GEJAGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64471,
+      "coordinate": {
+        "longitude": 111.8909973,
+        "latitude": -7.6288903,
+        "elevation": 67
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2019",
+      "name": "MUNENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63154,
+      "coordinate": {
+        "longitude": 111.6089187,
+        "latitude": -7.4957526,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.08.16.2020",
+      "name": "JAMBEWANGI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.08",
+      "cityName": "KAB. MAGELANG",
+      "districtCode": "33.08.16",
+      "districtName": "PAKIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68468,
+      "coordinate": {
+        "longitude": 114.1270974,
+        "latitude": -8.259321,
+        "elevation": 400
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 20
+  }
+}

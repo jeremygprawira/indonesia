@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.78.02.1001",
+      "name": "PANGLAYUNGAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.02",
+      "districtName": "CIPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46134,
+      "coordinate": {
+        "longitude": 108.2064836,
+        "latitude": -7.3182405,
+        "elevation": 368
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.02.1002",
+      "name": "CIPEDES",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.02",
+      "districtName": "CIPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46133,
+      "coordinate": {
+        "longitude": 108.2078252,
+        "latitude": -7.31191,
+        "elevation": 373
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.02.1003",
+      "name": "NAGARASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.02",
+      "districtName": "CIPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 46132,
+      "coordinate": {
+        "longitude": 108.2232666,
+        "latitude": -7.3080294,
+        "elevation": 355
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.78.02.1004",
+      "name": "SUKAMANAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.78",
+      "cityName": "KOTA TASIKMALAYA",
+      "districtCode": "32.78.02",
+      "districtName": "CIPEDES",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42173,
+      "coordinate": {
+        "longitude": 106.1275496,
+        "latitude": -6.2253519,
+        "elevation": 136
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

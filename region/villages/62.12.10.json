@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "62.12.10.2001",
+      "name": "TUMBANG TUJANG",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.12",
+      "cityName": "KAB. MURUNG RAYA",
+      "districtCode": "62.12.10",
+      "districtName": "UUT MURUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73983,
+      "coordinate": {
+        "longitude": 114.6082307,
+        "latitude": 0.3578798,
+        "elevation": 574
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.12.10.2002",
+      "name": "TUMBANG OLONG I",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.12",
+      "cityName": "KAB. MURUNG RAYA",
+      "districtCode": "62.12.10",
+      "districtName": "UUT MURUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73983,
+      "coordinate": {
+        "longitude": 114.2138115,
+        "latitude": 0.1198917,
+        "elevation": 452
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.12.10.2003",
+      "name": "KALASIN",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.12",
+      "cityName": "KAB. MURUNG RAYA",
+      "districtCode": "62.12.10",
+      "districtName": "UUT MURUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73983,
+      "coordinate": {
+        "longitude": 114.2544854,
+        "latitude": 0.1891871,
+        "elevation": 192
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.12.10.2004",
+      "name": "TUMBANG TOPUS",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.12",
+      "cityName": "KAB. MURUNG RAYA",
+      "districtCode": "62.12.10",
+      "districtName": "UUT MURUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73983,
+      "coordinate": {
+        "longitude": 114.8621393,
+        "latitude": 0.4651788,
+        "elevation": 334
+      }
+    },
+    {
+      "type": "village",
+      "code": "62.12.10.2005",
+      "name": "TUMBANG OLONG II",
+      "provinceCode": "62",
+      "provinceName": "KALIMANTAN TENGAH",
+      "cityCode": "62.12",
+      "cityName": "KAB. MURUNG RAYA",
+      "districtCode": "62.12.10",
+      "districtName": "UUT MURUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 73983,
+      "coordinate": {
+        "longitude": 114.2992282,
+        "latitude": -0.1869738,
+        "elevation": 390
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "18.72.01",
+      "name": "METRO PUSAT",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO"
+    },
+    {
+      "type": "district",
+      "code": "18.72.02",
+      "name": "METRO UTARA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO"
+    },
+    {
+      "type": "district",
+      "code": "18.72.03",
+      "name": "METRO BARAT",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO"
+    },
+    {
+      "type": "district",
+      "code": "18.72.04",
+      "name": "METRO TIMUR",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO"
+    },
+    {
+      "type": "district",
+      "code": "18.72.05",
+      "name": "METRO SELATAN",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.72",
+      "cityName": "KOTA METRO"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

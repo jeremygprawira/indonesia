@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.71.10.1001",
+      "name": "KAMBU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.10",
+      "districtName": "KAMBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93231,
+      "coordinate": {
+        "longitude": 122.5247526,
+        "latitude": -4.0072676,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.10.1002",
+      "name": "MOKOAU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.10",
+      "districtName": "KAMBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93231,
+      "coordinate": {
+        "longitude": 122.5400649,
+        "latitude": -4.041364,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.10.1003",
+      "name": "PADALEU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.10",
+      "districtName": "KAMBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93231,
+      "coordinate": {
+        "longitude": 122.5145915,
+        "latitude": -4.0174586,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.71.10.1004",
+      "name": "LALOLARA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.71",
+      "cityName": "KOTA KENDARI",
+      "districtCode": "74.71.10",
+      "districtName": "KAMBU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93231,
+      "coordinate": {
+        "longitude": 122.5156089,
+        "latitude": -4.0034359,
+        "elevation": 3
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

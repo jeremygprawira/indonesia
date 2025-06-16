@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "74.06.13.2001",
+      "name": "LANGKEMA",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.13",
+      "districtName": "KABAENA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93782,
+      "coordinate": {
+        "longitude": 121.8232695,
+        "latitude": -5.2886762,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.13.2002",
+      "name": "BATUAWU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.13",
+      "districtName": "KABAENA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93743,
+      "coordinate": {
+        "longitude": 122.5106431,
+        "latitude": -5.6309863,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.13.2003",
+      "name": "PONGKALAERO",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.13",
+      "districtName": "KABAENA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93782,
+      "coordinate": {
+        "longitude": 121.8970364,
+        "latitude": -5.387212,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "74.06.13.2004",
+      "name": "PUU NUNU",
+      "provinceCode": "74",
+      "provinceName": "SULAWESI TENGGARA",
+      "cityCode": "74.06",
+      "cityName": "KAB. BOMBANA",
+      "districtCode": "74.06.13",
+      "districtName": "KABAENA SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93782,
+      "coordinate": {
+        "longitude": 121.8658049,
+        "latitude": -5.3446059,
+        "elevation": 78
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

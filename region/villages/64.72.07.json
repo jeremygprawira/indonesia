@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "64.72.07.1001",
+      "name": "SUNGAI KAPIH",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.07",
+      "districtName": "SAMBUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75114,
+      "coordinate": {
+        "longitude": 117.1683397,
+        "latitude": -0.5326955,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.07.1002",
+      "name": "SAMBUTAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.07",
+      "districtName": "SAMBUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75115,
+      "coordinate": {
+        "longitude": 117.1861237,
+        "latitude": -0.5038348,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.07.1003",
+      "name": "MAKROMAN",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.07",
+      "districtName": "SAMBUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75115,
+      "coordinate": {
+        "longitude": 117.245073,
+        "latitude": -0.5183677,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.07.1004",
+      "name": "SINDANG SARI",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.07",
+      "districtName": "SAMBUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94766,
+      "coordinate": {
+        "longitude": 122.233052,
+        "latitude": -1.5284031,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "64.72.07.1005",
+      "name": "PULAU ATAS",
+      "provinceCode": "64",
+      "provinceName": "KALIMANTAN TIMUR",
+      "cityCode": "64.72",
+      "cityName": "KOTA SAMARINDA",
+      "districtCode": "64.72.07",
+      "districtName": "SAMBUTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75114,
+      "coordinate": {
+        "longitude": 117.2081955,
+        "latitude": -0.5622851,
+        "elevation": 1
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.76.01.1006",
+      "name": "DEPOK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.01",
+      "districtName": "PANCORAN MAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 66351,
+      "coordinate": {
+        "longitude": 111.7300338,
+        "latitude": -7.9727908,
+        "elevation": 643
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.01.1007",
+      "name": "DEPOK JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.01",
+      "districtName": "PANCORAN MAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16432,
+      "coordinate": {
+        "longitude": 106.8126,
+        "latitude": -6.3941156,
+        "elevation": 93
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.01.1008",
+      "name": "PANCORAN MAS",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.01",
+      "districtName": "PANCORAN MAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16436,
+      "coordinate": {
+        "longitude": 106.8043891,
+        "latitude": -6.4038605,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.01.1009",
+      "name": "MAMPANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.01",
+      "districtName": "PANCORAN MAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16433,
+      "coordinate": {
+        "longitude": 106.7987183,
+        "latitude": -6.3887974,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.01.1010",
+      "name": "RANGKAPAN JAYA BARU",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.01",
+      "districtName": "PANCORAN MAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16434,
+      "coordinate": {
+        "longitude": 106.7762282,
+        "latitude": -6.4007438,
+        "elevation": 77
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.76.01.1011",
+      "name": "RANGKAPAN JAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.76",
+      "cityName": "KOTA DEPOK",
+      "districtCode": "32.76.01",
+      "districtName": "PANCORAN MAS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16435,
+      "coordinate": {
+        "longitude": 106.7916645,
+        "latitude": -6.3994288,
+        "elevation": 91
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

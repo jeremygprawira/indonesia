@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.07.13.1002",
+      "name": "RANTAU KOPAR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.13",
+      "districtName": "RANTAU KOPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28984,
+      "coordinate": {
+        "longitude": 100.9975264,
+        "latitude": 1.3849794,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.13.1003",
+      "name": "SUNGAI RANGAU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.13",
+      "districtName": "RANTAU KOPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28984,
+      "coordinate": {
+        "longitude": 101.0467589,
+        "latitude": 1.3962945,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.13.2001",
+      "name": "SEKAPAS",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.13",
+      "districtName": "RANTAU KOPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28984,
+      "coordinate": {
+        "longitude": 100.9684649,
+        "latitude": 1.394079,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.07.13.2004",
+      "name": "BAGAN CEMPEDAK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.07",
+      "cityName": "KAB.  ROKAN HILIR",
+      "districtCode": "14.07.13",
+      "districtName": "RANTAU KOPAR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28984,
+      "coordinate": {
+        "longitude": 100.9876345,
+        "latitude": 1.3719164,
+        "elevation": 11
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "91.19.02.2003",
+      "name": "WARSA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.19",
+      "cityName": "KAB. SUPIORI",
+      "districtCode": "91.19.02",
+      "districtName": "SUPIORI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98582,
+      "coordinate": {
+        "longitude": 135.6009382,
+        "latitude": -0.7083974,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.19.02.2008",
+      "name": "WARBOR",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.19",
+      "cityName": "KAB. SUPIORI",
+      "districtCode": "91.19.02",
+      "districtName": "SUPIORI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98582,
+      "coordinate": {
+        "longitude": 135.6153253,
+        "latitude": -0.6821176,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.19.02.2009",
+      "name": "KOBARI JAYA",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.19",
+      "cityName": "KAB. SUPIORI",
+      "districtCode": "91.19.02",
+      "districtName": "SUPIORI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98582,
+      "coordinate": {
+        "longitude": 135.6355715,
+        "latitude": -0.6732285,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.19.02.2010",
+      "name": "FANJUR",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.19",
+      "cityName": "KAB. SUPIORI",
+      "districtCode": "91.19.02",
+      "districtName": "SUPIORI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98582,
+      "coordinate": {
+        "longitude": 135.6618733,
+        "latitude": -0.682583,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "91.19.02.2015",
+      "name": "PUWERI",
+      "provinceCode": "91",
+      "provinceName": "P A P U A",
+      "cityCode": "91.19",
+      "cityName": "KAB. SUPIORI",
+      "districtCode": "91.19.02",
+      "districtName": "SUPIORI UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98582,
+      "coordinate": {
+        "longitude": 135.6640887,
+        "latitude": -0.7195198,
+        "elevation": 193
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

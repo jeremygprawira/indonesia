@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "76.01.04.2001",
+      "name": "SARUDU",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.04",
+      "districtName": "SARUDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91576,
+      "coordinate": {
+        "longitude": 119.2981919,
+        "latitude": -1.6905521,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.04.2003",
+      "name": "BULU MARIO",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.04",
+      "districtName": "SARUDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91576,
+      "coordinate": {
+        "longitude": 119.3607168,
+        "latitude": -1.6758529,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.04.2005",
+      "name": "KUMASARI",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.04",
+      "districtName": "SARUDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91576,
+      "coordinate": {
+        "longitude": 119.3614043,
+        "latitude": -1.7004358,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.04.2011",
+      "name": "PATIKA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.04",
+      "districtName": "SARUDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91576,
+      "coordinate": {
+        "longitude": 119.3462919,
+        "latitude": -1.6404058,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "76.01.04.2012",
+      "name": "DODA",
+      "provinceCode": "76",
+      "provinceName": "SULAWESI BARAT",
+      "cityCode": "76.01",
+      "cityName": "KAB. PASANGKAYU",
+      "districtCode": "76.01.04",
+      "districtName": "SARUDU",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91576,
+      "coordinate": {
+        "longitude": 119.3115585,
+        "latitude": -1.6317479,
+        "elevation": 23
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

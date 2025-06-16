@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.71.10.1001",
+      "name": "BUKITSANGKAL",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.10",
+      "districtName": "KALIDONI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.10.1002",
+      "name": "KALIDONI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.10",
+      "districtName": "KALIDONI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30119,
+      "coordinate": {
+        "longitude": 104.7937375,
+        "latitude": -2.9555861,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.10.1003",
+      "name": "SUNGAISELAYUR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.10",
+      "districtName": "KALIDONI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.10.1004",
+      "name": "SUNGAISELINCAH",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.10",
+      "districtName": "KALIDONI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.71.10.1005",
+      "name": "SUNGAILAIS",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.71",
+      "cityName": "KOTA PALEMBANG",
+      "districtCode": "16.71.10",
+      "districtName": "KALIDONI",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

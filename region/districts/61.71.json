@@ -1,0 +1,64 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "61.71.01",
+      "name": "PONTIANAK SELATAN",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK"
+    },
+    {
+      "type": "district",
+      "code": "61.71.02",
+      "name": "PONTIANAK TIMUR",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK"
+    },
+    {
+      "type": "district",
+      "code": "61.71.03",
+      "name": "PONTIANAK BARAT",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK"
+    },
+    {
+      "type": "district",
+      "code": "61.71.04",
+      "name": "PONTIANAK UTARA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK"
+    },
+    {
+      "type": "district",
+      "code": "61.71.05",
+      "name": "PONTIANAK KOTA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK"
+    },
+    {
+      "type": "district",
+      "code": "61.71.06",
+      "name": "PONTIANAK TENGGARA",
+      "provinceCode": "61",
+      "provinceName": "KALIMANTAN BARAT",
+      "cityCode": "61.71",
+      "cityName": "KOTA PONTIANAK"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

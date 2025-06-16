@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.10.04.2001",
+      "name": "SITIUNG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.04",
+      "districtName": "SITIUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27678,
+      "coordinate": {
+        "longitude": 101.6301014,
+        "latitude": -1.000132,
+        "elevation": 98
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.04.2002",
+      "name": "SIGUNTUR",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.04",
+      "districtName": "SITIUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27678,
+      "coordinate": {
+        "longitude": 101.5782414,
+        "latitude": -0.9622302,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.04.2004",
+      "name": "GUNUNG MEDAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.04",
+      "districtName": "SITIUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27678,
+      "coordinate": {
+        "longitude": 101.6113791,
+        "latitude": -1.0287053,
+        "elevation": 99
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.10.04.2005",
+      "name": "SUNGAI DUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.10",
+      "cityName": "KAB. DHARMASRAYA",
+      "districtCode": "13.10.04",
+      "districtName": "SITIUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27678,
+      "coordinate": {
+        "longitude": 101.6740447,
+        "latitude": -1.0256129,
+        "elevation": 92
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

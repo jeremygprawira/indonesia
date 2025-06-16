@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "15.02.20.2001",
+      "name": "TAMBANG EMAS",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.20",
+      "districtName": "PAMENANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37319,
+      "coordinate": {
+        "longitude": 102.3713605,
+        "latitude": -2.2185931,
+        "elevation": 87
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.20.2002",
+      "name": "TANJUNG BENUANG",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.20",
+      "districtName": "PAMENANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37319,
+      "coordinate": {
+        "longitude": 102.3672239,
+        "latitude": -2.2380531,
+        "elevation": 145
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.20.2003",
+      "name": "PULAU BAYUR",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.20",
+      "districtName": "PAMENANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37319,
+      "coordinate": {
+        "longitude": 102.3390721,
+        "latitude": -2.3291483,
+        "elevation": 278
+      }
+    },
+    {
+      "type": "village",
+      "code": "15.02.20.2004",
+      "name": "SELANGO",
+      "provinceCode": "15",
+      "provinceName": "JAMBI",
+      "cityCode": "15.02",
+      "cityName": "KAB.  MERANGIN",
+      "districtCode": "15.02.20",
+      "districtName": "PAMENANG SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 37319,
+      "coordinate": {
+        "longitude": 102.4028078,
+        "latitude": -2.3076716,
+        "elevation": 103
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

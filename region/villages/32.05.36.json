@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.05.36.2001",
+      "name": "CARINGIN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.36",
+      "districtName": "CARINGIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15820,
+      "coordinate": {
+        "longitude": 106.579543,
+        "latitude": -6.3143901,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.36.2002",
+      "name": "INDRALAYANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.36",
+      "districtName": "CARINGIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44166,
+      "coordinate": {
+        "longitude": 107.474894,
+        "latitude": -7.5015844,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.36.2003",
+      "name": "CIMAHI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.36",
+      "districtName": "CARINGIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40525,
+      "coordinate": {
+        "longitude": 107.5456578,
+        "latitude": -6.8716903,
+        "elevation": 768
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.36.2004",
+      "name": "SUKARAME",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.36",
+      "districtName": "CARINGIN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75515,
+      "coordinate": {
+        "longitude": 116.9767282,
+        "latitude": -0.4037575,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.36.2005",
+      "name": "PURBAYANI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.36",
+      "districtName": "CARINGIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44166,
+      "coordinate": {
+        "longitude": 107.4850572,
+        "latitude": -7.5247697,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.05.36.2006",
+      "name": "SAMUDERAJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.05",
+      "cityName": "KAB. GARUT",
+      "districtCode": "32.05.36",
+      "districtName": "CARINGIN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 44166,
+      "coordinate": {
+        "longitude": 107.4531701,
+        "latitude": -7.49326,
+        "elevation": 51
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

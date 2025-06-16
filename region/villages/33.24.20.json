@@ -1,0 +1,170 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.24.20.2001",
+      "name": "JERUK GILING",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.24.20.2002",
+      "name": "KEDUNGSUREN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51372,
+      "coordinate": {
+        "longitude": 110.2344372,
+        "latitude": -7.0137547,
+        "elevation": 56
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.24.20.2003",
+      "name": "DARUPONO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51372,
+      "coordinate": {
+        "longitude": 110.2689038,
+        "latitude": -7.0171591,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.24.20.2004",
+      "name": "PROTOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51372,
+      "coordinate": {
+        "longitude": 110.2615732,
+        "latitude": -6.9826121,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.24.20.2005",
+      "name": "MAGELUNG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51372,
+      "coordinate": {
+        "longitude": 110.2423736,
+        "latitude": -6.9887069,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.24.20.2006",
+      "name": "PLANTARAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51372,
+      "coordinate": {
+        "longitude": 110.2407042,
+        "latitude": -6.965323,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.24.20.2007",
+      "name": "SUKOMULYO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75766,
+      "coordinate": {
+        "longitude": 115.6492015,
+        "latitude": -0.0084907,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.24.20.2008",
+      "name": "SIDOMAKMUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.24",
+      "cityName": "KAB. KENDAL",
+      "districtCode": "33.24.20",
+      "districtName": "KALIWUNGU SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 92967,
+      "coordinate": {
+        "longitude": 120.5590221,
+        "latitude": -2.6488413,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 8
+  }
+}

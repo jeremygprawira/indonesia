@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.05.14.2001",
+      "name": "KUDU GANTIANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.14",
+      "districtName": "V KOTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25575,
+      "coordinate": {
+        "longitude": 100.1676388,
+        "latitude": -0.5191335,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.14.2002",
+      "name": "LIMAU PURUIK",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.14",
+      "districtName": "V KOTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25575,
+      "coordinate": {
+        "longitude": 100.1337831,
+        "latitude": -0.5694447,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.14.2003",
+      "name": "GUNUNG PADANG ALAI",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.14",
+      "districtName": "V KOTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25575,
+      "coordinate": {
+        "longitude": 100.2053921,
+        "latitude": -0.471146,
+        "elevation": 197
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.05.14.2004",
+      "name": "KUDU GANTIANG BARAT",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.05",
+      "cityName": "KAB. PADANG PARIAMAN",
+      "districtCode": "13.05.14",
+      "districtName": "V KOTO TIMUR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 25575,
+      "coordinate": {
+        "longitude": 100.155771,
+        "latitude": -0.5102812,
+        "elevation": 119
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

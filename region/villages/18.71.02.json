@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.71.02.1003",
+      "name": "SUKARAME",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.02",
+      "districtName": "SUKARAME",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 75515,
+      "coordinate": {
+        "longitude": 116.9767282,
+        "latitude": -0.4037575,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.02.1004",
+      "name": "WAY DADI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.02",
+      "districtName": "SUKARAME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35131,
+      "coordinate": {
+        "longitude": 105.2887024,
+        "latitude": -5.3837302,
+        "elevation": 105
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.02.1006",
+      "name": "SUKARAME BARU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.02",
+      "districtName": "SUKARAME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35131,
+      "coordinate": {
+        "longitude": 105.3149562,
+        "latitude": -5.3887407,
+        "elevation": 97
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.02.1007",
+      "name": "WAY DADI BARU",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.02",
+      "districtName": "SUKARAME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35131,
+      "coordinate": {
+        "longitude": 105.2848701,
+        "latitude": -5.377024,
+        "elevation": 100
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.02.1008",
+      "name": "KORPRI JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.02",
+      "districtName": "SUKARAME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35131,
+      "coordinate": {
+        "longitude": 105.3038473,
+        "latitude": -5.3704421,
+        "elevation": 104
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.71.02.1009",
+      "name": "KORPRI RAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.71",
+      "cityName": "KOTA BANDAR LAMPUNG",
+      "districtCode": "18.71.02",
+      "districtName": "SUKARAME",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35131,
+      "coordinate": {
+        "longitude": 105.2989428,
+        "latitude": -5.3691511,
+        "elevation": 98
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

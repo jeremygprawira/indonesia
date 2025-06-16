@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.04.01.2001",
+      "name": "BALECATUR",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.01",
+      "districtName": "GAMPING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55295,
+      "coordinate": {
+        "longitude": 110.2939539,
+        "latitude": -7.8107304,
+        "elevation": 136
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.01.2002",
+      "name": "AMBARKETAWANG",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.01",
+      "districtName": "GAMPING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55294,
+      "coordinate": {
+        "longitude": 110.3148522,
+        "latitude": -7.8069337,
+        "elevation": 92
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.01.2003",
+      "name": "BANYURADEN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.01",
+      "districtName": "GAMPING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55293,
+      "coordinate": {
+        "longitude": 110.3363304,
+        "latitude": -7.7873647,
+        "elevation": 116
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.01.2004",
+      "name": "NOGOTIRTO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.01",
+      "districtName": "GAMPING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55592,
+      "coordinate": {
+        "longitude": 110.3396904,
+        "latitude": -7.7691142,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.04.01.2005",
+      "name": "TRIHANGGO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.04",
+      "cityName": "KAB. SLEMAN",
+      "districtCode": "34.04.01",
+      "districtName": "GAMPING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55291,
+      "coordinate": {
+        "longitude": 110.3462407,
+        "latitude": -7.7565591,
+        "elevation": 142
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

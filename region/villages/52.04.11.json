@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "52.04.11.2002",
+      "name": "LEBIN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.11",
+      "districtName": "ROPANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84375,
+      "coordinate": {
+        "longitude": 117.4546979,
+        "latitude": -8.7951268,
+        "elevation": 482
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.11.2003",
+      "name": "LEBANGKAR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.11",
+      "districtName": "ROPANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84375,
+      "coordinate": {
+        "longitude": 117.5141005,
+        "latitude": -8.9646057,
+        "elevation": 348
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.11.2008",
+      "name": "ROPANG",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.11",
+      "districtName": "ROPANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84375,
+      "coordinate": {
+        "longitude": 117.4252653,
+        "latitude": -8.9178878,
+        "elevation": 454
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.11.2009",
+      "name": "LAWIN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.11",
+      "districtName": "ROPANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84375,
+      "coordinate": {
+        "longitude": 117.4467009,
+        "latitude": -8.9641187,
+        "elevation": 396
+      }
+    },
+    {
+      "type": "village",
+      "code": "52.04.11.2010",
+      "name": "RANAN",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.04",
+      "cityName": "KAB. SUMBAWA",
+      "districtCode": "52.04.11",
+      "districtName": "ROPANG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 84375,
+      "coordinate": {
+        "longitude": 117.5810471,
+        "latitude": -8.8974918,
+        "elevation": 442
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

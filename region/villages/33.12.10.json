@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.12.10.1006",
+      "name": "PAGUTAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.10",
+      "districtName": "MANYARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 83117,
+      "coordinate": {
+        "longitude": 116.1120775,
+        "latitude": -8.617392,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.10.1007",
+      "name": "PUNDUHSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.10",
+      "districtName": "MANYARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57662,
+      "coordinate": {
+        "longitude": 110.8014127,
+        "latitude": -7.8076203,
+        "elevation": 251
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.10.2001",
+      "name": "KEPUHSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.10",
+      "districtName": "MANYARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57662,
+      "coordinate": {
+        "longitude": 110.7899319,
+        "latitude": -7.8715087,
+        "elevation": 394
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.10.2002",
+      "name": "PIJIHARJO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.10",
+      "districtName": "MANYARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57662,
+      "coordinate": {
+        "longitude": 110.8196433,
+        "latitude": -7.8752137,
+        "elevation": 233
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.10.2003",
+      "name": "BERO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.10",
+      "districtName": "MANYARAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93656,
+      "coordinate": {
+        "longitude": 122.3271198,
+        "latitude": -4.57821,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.10.2004",
+      "name": "GUNUNGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.10",
+      "districtName": "MANYARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63394,
+      "coordinate": {
+        "longitude": 111.4746746,
+        "latitude": -7.5278781,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.12.10.2005",
+      "name": "KARANGLOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.12",
+      "cityName": "KAB. WONOGIRI",
+      "districtCode": "33.12.10",
+      "districtName": "MANYARAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 57662,
+      "coordinate": {
+        "longitude": 110.8116603,
+        "latitude": -7.8364109,
+        "elevation": 223
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

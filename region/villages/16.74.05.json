@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "16.74.05.1001",
+      "name": "PASAR PRABUMULIH I",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.05",
+      "districtName": "PRABUMULIH UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31121,
+      "coordinate": {
+        "longitude": 104.2396617,
+        "latitude": -3.4303797,
+        "elevation": 44
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.05.1002",
+      "name": "PASAR PRABUMULIH II",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.05",
+      "districtName": "PRABUMULIH UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31121,
+      "coordinate": {
+        "longitude": 104.237013,
+        "latitude": -3.4271263,
+        "elevation": 55
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.05.1003",
+      "name": "WONOSARI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.05",
+      "districtName": "PRABUMULIH UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98441,
+      "coordinate": {
+        "longitude": 131.4382023,
+        "latitude": -1.0860469,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.05.1004",
+      "name": "MANGGA BESAR",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.05",
+      "districtName": "PRABUMULIH UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 11180,
+      "coordinate": {
+        "longitude": 106.8189025,
+        "latitude": -6.1446637,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.05.1005",
+      "name": "ANAK PETAI",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.05",
+      "districtName": "PRABUMULIH UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31121,
+      "coordinate": {
+        "longitude": 104.2130277,
+        "latitude": -3.4153284,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.05.1006",
+      "name": "SIDOMULYO",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.05",
+      "districtName": "PRABUMULIH UTARA",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98321,
+      "coordinate": {
+        "longitude": 134.1716085,
+        "latitude": -1.3117036,
+        "elevation": 288
+      }
+    },
+    {
+      "type": "village",
+      "code": "16.74.05.1007",
+      "name": "SIDOGEDE",
+      "provinceCode": "16",
+      "provinceName": "SUMATERA SELATAN",
+      "cityCode": "16.74",
+      "cityName": "KOTA PRABUMULIH",
+      "districtCode": "16.74.05",
+      "districtName": "PRABUMULIH UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56196,
+      "coordinate": {
+        "longitude": 110.327564,
+        "latitude": -7.3567776,
+        "elevation": 648
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

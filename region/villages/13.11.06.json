@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.11.06.2001",
+      "name": "ALAM PAUH DUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.06",
+      "districtName": "PAUH DUO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27776,
+      "coordinate": {
+        "longitude": 101.1772455,
+        "latitude": -1.4912063,
+        "elevation": 1019
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.06.2002",
+      "name": "KAPAU ALAM PAUH DUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.06",
+      "districtName": "PAUH DUO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27776,
+      "coordinate": {
+        "longitude": 101.0468454,
+        "latitude": -1.5654528,
+        "elevation": 1357
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.06.2003",
+      "name": "LUAK KAPAU ALAM PAUH DUO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.06",
+      "districtName": "PAUH DUO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27776,
+      "coordinate": {
+        "longitude": 101.1026024,
+        "latitude": -1.5967519,
+        "elevation": 1258
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.11.06.2004",
+      "name": "PAUH DUO NAN BATIGO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.11",
+      "cityName": "KAB. SOLOK SELATAN",
+      "districtCode": "13.11.06",
+      "districtName": "PAUH DUO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 27776,
+      "coordinate": {
+        "longitude": 101.1034652,
+        "latitude": -1.5534195,
+        "elevation": 598
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

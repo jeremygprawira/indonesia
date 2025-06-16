@@ -1,0 +1,52 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "city",
+      "code": "96.01",
+      "name": "KAB. SORONG",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA"
+    },
+    {
+      "type": "city",
+      "code": "96.02",
+      "name": "KAB. SORONG SELATAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA"
+    },
+    {
+      "type": "city",
+      "code": "96.03",
+      "name": "KAB. RAJA AMPAT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA"
+    },
+    {
+      "type": "city",
+      "code": "96.04",
+      "name": "KAB. TAMBRAUW",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA"
+    },
+    {
+      "type": "city",
+      "code": "96.05",
+      "name": "KAB. MAYBRAT",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA"
+    },
+    {
+      "type": "city",
+      "code": "96.71",
+      "name": "KOTA SORONG",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

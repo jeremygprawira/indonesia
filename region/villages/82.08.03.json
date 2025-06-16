@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.08.03.2001",
+      "name": "LEDE",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.03",
+      "districtName": "LEDE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3719915,
+        "latitude": -1.7244681,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.03.2002",
+      "name": "TODOLI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.03",
+      "districtName": "LEDE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.4715561,
+        "latitude": -1.6940613,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.03.2003",
+      "name": "TOLONG",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.03",
+      "districtName": "LEDE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.4300205,
+        "latitude": -1.678562,
+        "elevation": 139
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.03.2004",
+      "name": "LANGGANU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.03",
+      "districtName": "LEDE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.3805473,
+        "latitude": -1.7093055,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.08.03.2005",
+      "name": "BALOHANG",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.08",
+      "cityName": "KAB. PULAU TALIABU",
+      "districtCode": "82.08.03",
+      "districtName": "LEDE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97794,
+      "coordinate": {
+        "longitude": 124.392144,
+        "latitude": -1.7072611,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

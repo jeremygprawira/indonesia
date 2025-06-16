@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.76.05.1001",
+      "name": "MANDAILING",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.76",
+      "cityName": "KOTA TEBING TINGGI",
+      "districtCode": "12.76.05",
+      "districtName": "TEBING TINGGI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20626,
+      "coordinate": {
+        "longitude": 99.1545665,
+        "latitude": 3.323395,
+        "elevation": 19
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.76.05.1002",
+      "name": "PASAR BARU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.76",
+      "cityName": "KOTA TEBING TINGGI",
+      "districtCode": "12.76.05",
+      "districtName": "TEBING TINGGI KOTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 72273,
+      "coordinate": {
+        "longitude": 115.9294207,
+        "latitude": -3.6048095,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.76.05.1003",
+      "name": "PASAR GAMBIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.76",
+      "cityName": "KOTA TEBING TINGGI",
+      "districtCode": "12.76.05",
+      "districtName": "TEBING TINGGI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20628,
+      "coordinate": {
+        "longitude": 99.1597184,
+        "latitude": 3.3240288,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.76.05.1004",
+      "name": "BADAK BEJUANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.76",
+      "cityName": "KOTA TEBING TINGGI",
+      "districtCode": "12.76.05",
+      "districtName": "TEBING TINGGI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20615,
+      "coordinate": {
+        "longitude": 99.1609976,
+        "latitude": 3.3317842,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.76.05.1005",
+      "name": "BANDAR UTAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.76",
+      "cityName": "KOTA TEBING TINGGI",
+      "districtCode": "12.76.05",
+      "districtName": "TEBING TINGGI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20613,
+      "coordinate": {
+        "longitude": 99.157289,
+        "latitude": 3.3323722,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.76.05.1006",
+      "name": "RAMBUNG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.76",
+      "cityName": "KOTA TEBING TINGGI",
+      "districtCode": "12.76.05",
+      "districtName": "TEBING TINGGI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20633,
+      "coordinate": {
+        "longitude": 99.1651329,
+        "latitude": 3.3227195,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.76.05.1007",
+      "name": "TEBING TINGGI LAMA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.76",
+      "cityName": "KOTA TEBING TINGGI",
+      "districtCode": "12.76.05",
+      "districtName": "TEBING TINGGI KOTA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 20632,
+      "coordinate": {
+        "longitude": 99.1651714,
+        "latitude": 3.3289473,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

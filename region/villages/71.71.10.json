@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "71.71.10.1001",
+      "name": "BUNAKEN",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.10",
+      "districtName": "BUNAKEN KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95246,
+      "coordinate": {
+        "longitude": 124.7732191,
+        "latitude": 1.6118261,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.10.1002",
+      "name": "MANADO TUA SATU",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.10",
+      "districtName": "BUNAKEN KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95231,
+      "coordinate": {
+        "longitude": 124.702305,
+        "latitude": 1.6442241,
+        "elevation": 103
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.10.1003",
+      "name": "MANADO TUA DUA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.10",
+      "districtName": "BUNAKEN KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95231,
+      "coordinate": {
+        "longitude": 124.6924559,
+        "latitude": 1.6232336,
+        "elevation": 212
+      }
+    },
+    {
+      "type": "village",
+      "code": "71.71.10.1004",
+      "name": "ALUNG BANUA",
+      "provinceCode": "71",
+      "provinceName": "SULAWESI UTARA",
+      "cityCode": "71.71",
+      "cityName": "KOTA MANADO",
+      "districtCode": "71.71.10",
+      "districtName": "BUNAKEN KEPULAUAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95231,
+      "coordinate": {
+        "longitude": 124.7465929,
+        "latitude": 1.6254529,
+        "elevation": 56
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "51.03.01.1001",
+      "name": "TUBAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.01",
+      "districtName": "KUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80361,
+      "coordinate": {
+        "longitude": 115.1722512,
+        "latitude": -8.7467715,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.01.1002",
+      "name": "KUTA",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.01",
+      "districtName": "KUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87154,
+      "coordinate": {
+        "longitude": 120.1826546,
+        "latitude": -9.6228704,
+        "elevation": 371
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.01.1003",
+      "name": "KEDONGANAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.01",
+      "districtName": "KUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80361,
+      "coordinate": {
+        "longitude": 115.1803794,
+        "latitude": -8.763752,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.01.1004",
+      "name": "LEGIAN",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.01",
+      "districtName": "KUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80361,
+      "coordinate": {
+        "longitude": 115.1738047,
+        "latitude": -8.7024176,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "51.03.01.1005",
+      "name": "SEMINYAK",
+      "provinceCode": "51",
+      "provinceName": "BALI",
+      "cityCode": "51.03",
+      "cityName": "KAB. BADUNG",
+      "districtCode": "51.03.01",
+      "districtName": "KUTA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 80361,
+      "coordinate": {
+        "longitude": 115.1674334,
+        "latitude": -8.6898378,
+        "elevation": 14
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

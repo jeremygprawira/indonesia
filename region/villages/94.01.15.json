@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "94.01.15.2001",
+      "name": "KUNUPI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.15",
+      "districtName": "MENOU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98855,
+      "coordinate": {
+        "longitude": 135.2791156,
+        "latitude": -3.7573313,
+        "elevation": 1337
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.15.2002",
+      "name": "OGIYAI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.15",
+      "districtName": "MENOU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98855,
+      "coordinate": {
+        "longitude": 135.5414966,
+        "latitude": -3.7489878,
+        "elevation": 595
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.15.2003",
+      "name": "LOKODIMI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.15",
+      "districtName": "MENOU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98855,
+      "coordinate": {
+        "longitude": 135.166117,
+        "latitude": -3.7872069,
+        "elevation": 719
+      }
+    },
+    {
+      "type": "village",
+      "code": "94.01.15.2004",
+      "name": "YEGEUGI",
+      "provinceCode": "94",
+      "provinceName": "PAPUA TENGAH",
+      "cityCode": "94.01",
+      "cityName": "KAB. NABIRE",
+      "districtCode": "94.01.15",
+      "districtName": "MENOU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98855,
+      "coordinate": {
+        "longitude": 135.4284824,
+        "latitude": -3.8254913,
+        "elevation": 1195
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

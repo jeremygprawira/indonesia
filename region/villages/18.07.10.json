@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "18.07.10.2001",
+      "name": "KIBANG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.10",
+      "districtName": "METRO KIBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34331,
+      "coordinate": {
+        "longitude": 105.306184,
+        "latitude": -5.1806057,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.10.2002",
+      "name": "MARGA JAYA",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.10",
+      "districtName": "METRO KIBANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98842,
+      "coordinate": {
+        "longitude": 135.533069,
+        "latitude": -3.4722242,
+        "elevation": 255
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.10.2003",
+      "name": "MARGOTOTO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.10",
+      "districtName": "METRO KIBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34335,
+      "coordinate": {
+        "longitude": 105.333028,
+        "latitude": -5.1709444,
+        "elevation": 49
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.10.2004",
+      "name": "PURBOSEMBODO",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.10",
+      "districtName": "METRO KIBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34333,
+      "coordinate": {
+        "longitude": 105.3000618,
+        "latitude": -5.2075342,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.10.2005",
+      "name": "SUMBER AGUNG",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.10",
+      "districtName": "METRO KIBANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97764,
+      "coordinate": {
+        "longitude": 127.8898438,
+        "latitude": 1.3047166,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.10.2006",
+      "name": "MARGASARI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.10",
+      "districtName": "METRO KIBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15113,
+      "coordinate": {
+        "longitude": 106.6114541,
+        "latitude": -6.1774528,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "18.07.10.2007",
+      "name": "JAYA ASRI",
+      "provinceCode": "18",
+      "provinceName": "LAMPUNG",
+      "cityCode": "18.07",
+      "cityName": "KAB. LAMPUNG TIMUR",
+      "districtCode": "18.07.10",
+      "districtName": "METRO KIBANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 34331,
+      "coordinate": {
+        "longitude": 105.3552369,
+        "latitude": -5.2261653,
+        "elevation": 34
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

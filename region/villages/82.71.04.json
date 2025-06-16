@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.71.04.1001",
+      "name": "TAKOFI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.04",
+      "districtName": "MOTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97741,
+      "coordinate": {
+        "longitude": 127.4100373,
+        "latitude": 0.434765,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.04.1002",
+      "name": "MOTI KOTA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.04",
+      "districtName": "MOTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97741,
+      "coordinate": {
+        "longitude": 127.4179067,
+        "latitude": 0.4747685,
+        "elevation": 47
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.04.1003",
+      "name": "TAFAMUTU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.04",
+      "districtName": "MOTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97741,
+      "coordinate": {
+        "longitude": 127.3935419,
+        "latitude": 0.4713474,
+        "elevation": 137
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.04.1004",
+      "name": "TAFAGA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.04",
+      "districtName": "MOTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97741,
+      "coordinate": {
+        "longitude": 127.4320747,
+        "latitude": 0.4431702,
+        "elevation": 14
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.04.1006",
+      "name": "FIGUR",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.04",
+      "districtName": "MOTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97741,
+      "coordinate": {
+        "longitude": 127.388397,
+        "latitude": 0.4449253,
+        "elevation": 26
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.04.1007",
+      "name": "TADENAS",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.04",
+      "districtName": "MOTI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97741,
+      "coordinate": {
+        "longitude": 127.4340431,
+        "latitude": 0.4582558,
+        "elevation": 15
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

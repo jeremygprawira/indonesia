@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.01.18.1001",
+      "name": "BURAEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.18",
+      "districtName": "AMARASI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85377,
+      "coordinate": {
+        "longitude": 123.8939076,
+        "latitude": -10.299762,
+        "elevation": 120
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.18.1002",
+      "name": "SONRAEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.18",
+      "districtName": "AMARASI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85377,
+      "coordinate": {
+        "longitude": 123.8202947,
+        "latitude": -10.2865577,
+        "elevation": 325
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.18.2003",
+      "name": "NEKMESE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.18",
+      "districtName": "AMARASI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85575,
+      "coordinate": {
+        "longitude": 124.5684746,
+        "latitude": -9.8830969,
+        "elevation": 657
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.18.2004",
+      "name": "RETRAEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.18",
+      "districtName": "AMARASI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85377,
+      "coordinate": {
+        "longitude": 123.8442876,
+        "latitude": -10.311494,
+        "elevation": 390
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.01.18.2005",
+      "name": "SAHRAEN",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.01",
+      "cityName": "KAB. KUPANG",
+      "districtCode": "53.01.18",
+      "districtName": "AMARASI SELATAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 85377,
+      "coordinate": {
+        "longitude": 123.8008372,
+        "latitude": -10.3335587,
+        "elevation": 330
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

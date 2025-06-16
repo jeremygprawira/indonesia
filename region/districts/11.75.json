@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "11.75.01",
+      "name": "SIMPANG KIRI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.75",
+      "cityName": "KOTA SUBULUSSALAM"
+    },
+    {
+      "type": "district",
+      "code": "11.75.02",
+      "name": "PENANGGALAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.75",
+      "cityName": "KOTA SUBULUSSALAM"
+    },
+    {
+      "type": "district",
+      "code": "11.75.03",
+      "name": "RUNDENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.75",
+      "cityName": "KOTA SUBULUSSALAM"
+    },
+    {
+      "type": "district",
+      "code": "11.75.04",
+      "name": "SULTAN DAULAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.75",
+      "cityName": "KOTA SUBULUSSALAM"
+    },
+    {
+      "type": "district",
+      "code": "11.75.05",
+      "name": "LONGKIB",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.75",
+      "cityName": "KOTA SUBULUSSALAM"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

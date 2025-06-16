@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "53.12.18.2001",
+      "name": "WEE TANA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.12",
+      "cityName": "KAB. SUMBA BARAT",
+      "districtCode": "53.12.18",
+      "districtName": "LABOYA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87270,
+      "coordinate": {
+        "longitude": 119.1977997,
+        "latitude": -9.7238528,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.12.18.2002",
+      "name": "GAURA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.12",
+      "cityName": "KAB. SUMBA BARAT",
+      "districtCode": "53.12.18",
+      "districtName": "LABOYA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87270,
+      "coordinate": {
+        "longitude": 119.2639834,
+        "latitude": -9.726502,
+        "elevation": 141
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.12.18.2003",
+      "name": "PATIALA DETE",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.12",
+      "cityName": "KAB. SUMBA BARAT",
+      "districtCode": "53.12.18",
+      "districtName": "LABOYA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87270,
+      "coordinate": {
+        "longitude": 119.3043228,
+        "latitude": -9.7148315,
+        "elevation": 173
+      }
+    },
+    {
+      "type": "village",
+      "code": "53.12.18.2004",
+      "name": "HARONA KALLA",
+      "provinceCode": "53",
+      "provinceName": "NUSA TENGGARA TIMUR",
+      "cityCode": "53.12",
+      "cityName": "KAB. SUMBA BARAT",
+      "districtCode": "53.12.18",
+      "districtName": "LABOYA BARAT",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 87270,
+      "coordinate": {
+        "longitude": 119.3079194,
+        "latitude": -9.7426967,
+        "elevation": 29
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.02.1001",
+      "name": "BUMIJO",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.02",
+      "districtName": "JETIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55231,
+      "coordinate": {
+        "longitude": 110.3589866,
+        "latitude": -7.7842387,
+        "elevation": 124
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.02.1002",
+      "name": "COKRODININGRATAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.02",
+      "districtName": "JETIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55233,
+      "coordinate": {
+        "longitude": 110.3678773,
+        "latitude": -7.7782137,
+        "elevation": 130
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.02.1003",
+      "name": "GOWONGAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.02",
+      "districtName": "JETIS",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55232,
+      "coordinate": {
+        "longitude": 110.3663049,
+        "latitude": -7.7854415,
+        "elevation": 122
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

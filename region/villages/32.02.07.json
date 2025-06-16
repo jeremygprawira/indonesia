@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.02.07.2001",
+      "name": "LENGKONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.07",
+      "districtName": "LENGKONG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91991,
+      "coordinate": {
+        "longitude": 120.2036867,
+        "latitude": -3.1363704,
+        "elevation": 220
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.07.2002",
+      "name": "CILANGKAP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.07",
+      "districtName": "LENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42312,
+      "coordinate": {
+        "longitude": 106.2132255,
+        "latitude": -6.3686469,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.07.2003",
+      "name": "TEGALLEGA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.07",
+      "districtName": "LENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 16129,
+      "coordinate": {
+        "longitude": 106.8126418,
+        "latitude": -6.595677,
+        "elevation": 244
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.07.2004",
+      "name": "NEGLASARI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.07",
+      "districtName": "LENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15129,
+      "coordinate": {
+        "longitude": 106.6249531,
+        "latitude": -6.1467797,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.02.07.2005",
+      "name": "LANGKAPJAYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.02",
+      "cityName": "KAB. SUKABUMI",
+      "districtCode": "32.02.07",
+      "districtName": "LENGKONG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 43174,
+      "coordinate": {
+        "longitude": 106.6354468,
+        "latitude": -7.089523,
+        "elevation": 735
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

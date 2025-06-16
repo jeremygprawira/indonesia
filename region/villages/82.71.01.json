@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.71.01.1001",
+      "name": "JAMBULA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.01",
+      "districtName": "PULAU TERNATE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.3199171,
+        "latitude": 0.7607769,
+        "elevation": 42
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.01.1002",
+      "name": "FORAMADIAHI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.01",
+      "districtName": "PULAU TERNATE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.3240885,
+        "latitude": 0.7834692,
+        "elevation": 739
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.01.1003",
+      "name": "KASTELA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.01",
+      "districtName": "PULAU TERNATE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.3109679,
+        "latitude": 0.763628,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.01.1004",
+      "name": "RUA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.01",
+      "districtName": "PULAU TERNATE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.3020371,
+        "latitude": 0.780598,
+        "elevation": 32
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.01.1005",
+      "name": "AFE TADUMA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.01",
+      "districtName": "PULAU TERNATE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.2979903,
+        "latitude": 0.8021573,
+        "elevation": 162
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.71.01.1019",
+      "name": "DORPEDU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.71",
+      "cityName": "KOTA TERNATE",
+      "districtCode": "82.71.01",
+      "districtName": "PULAU TERNATE",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97747,
+      "coordinate": {
+        "longitude": 127.2986518,
+        "latitude": 0.7925533,
+        "elevation": 104
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.02.13.2001",
+      "name": "PARIT",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.13",
+      "districtName": "SELAT GELAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74359,
+      "coordinate": {
+        "longitude": 113.1041839,
+        "latitude": -2.152818,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.13.2002",
+      "name": "TULANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.13",
+      "districtName": "SELAT GELAM",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77452,
+      "coordinate": {
+        "longitude": 116.8045136,
+        "latitude": 3.8056963,
+        "elevation": 52
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.02.13.2003",
+      "name": "SELAT MENDAUN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.02",
+      "cityName": "KAB. KARIMUN",
+      "districtCode": "21.02.13",
+      "districtName": "SELAT GELAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29661,
+      "coordinate": {
+        "longitude": 103.4461246,
+        "latitude": 0.9506784,
+        "elevation": 22
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

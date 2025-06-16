@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "34.71.07.1001",
+      "name": "PAKUNCEN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.07",
+      "districtName": "WIROBRAJAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42454,
+      "coordinate": {
+        "longitude": 106.0526233,
+        "latitude": -5.9406065,
+        "elevation": 232
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.07.1002",
+      "name": "WIROBRAJAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.07",
+      "districtName": "WIROBRAJAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55252,
+      "coordinate": {
+        "longitude": 110.3496496,
+        "latitude": -7.8047128,
+        "elevation": 102
+      }
+    },
+    {
+      "type": "village",
+      "code": "34.71.07.1003",
+      "name": "PATANGPULUHAN",
+      "provinceCode": "34",
+      "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+      "cityCode": "34.71",
+      "cityName": "KOTA YOGYAKARTA",
+      "districtCode": "34.71.07",
+      "districtName": "WIROBRAJAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55251,
+      "coordinate": {
+        "longitude": 110.3485474,
+        "latitude": -7.8097504,
+        "elevation": 101
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

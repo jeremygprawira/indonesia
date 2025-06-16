@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "52.72.01",
+      "name": "RASANAE BARAT",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA"
+    },
+    {
+      "type": "district",
+      "code": "52.72.02",
+      "name": "RASANAE TIMUR",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA"
+    },
+    {
+      "type": "district",
+      "code": "52.72.03",
+      "name": "ASAKOTA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA"
+    },
+    {
+      "type": "district",
+      "code": "52.72.04",
+      "name": "RABA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA"
+    },
+    {
+      "type": "district",
+      "code": "52.72.05",
+      "name": "MPUNDA",
+      "provinceCode": "52",
+      "provinceName": "NUSA TENGGARA BARAT",
+      "cityCode": "52.72",
+      "cityName": "KOTA BIMA"
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

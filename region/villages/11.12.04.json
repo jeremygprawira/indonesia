@@ -1,0 +1,590 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.12.04.2001",
+      "name": "PANTAI PERAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8246909,
+        "latitude": 3.7291607,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2002",
+      "name": "DURIAN RAMPAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 31619,
+      "coordinate": {
+        "longitude": 102.8493083,
+        "latitude": -3.17815,
+        "elevation": 83
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2003",
+      "name": "BARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67352,
+      "coordinate": {
+        "longitude": 113.1540007,
+        "latitude": -8.114821,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2004",
+      "name": "PALAK HULU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8220561,
+        "latitude": 3.7200751,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2005",
+      "name": "PALAK HILIR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8203718,
+        "latitude": 3.7219582,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2006",
+      "name": "DURIAN JANGEK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8199564,
+        "latitude": 3.7230736,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2007",
+      "name": "RUMAH DUA LAPIS",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8198013,
+        "latitude": 3.7204072,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2008",
+      "name": "PINANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 91711,
+      "coordinate": {
+        "longitude": 119.7563818,
+        "latitude": -3.5884971,
+        "elevation": 170
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2009",
+      "name": "RUMAH PANJANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.815249,
+        "latitude": 3.7200628,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2010",
+      "name": "BAHARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8177224,
+        "latitude": 3.7230583,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2011",
+      "name": "PAWOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8164662,
+        "latitude": 3.7256151,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2012",
+      "name": "PADANG BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 33684,
+      "coordinate": {
+        "longitude": 106.164561,
+        "latitude": -2.1681437,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2013",
+      "name": "PULAU KAYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8005274,
+        "latitude": 3.7275845,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2014",
+      "name": "UJUNG PADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 38714,
+      "coordinate": {
+        "longitude": 101.1170252,
+        "latitude": -2.5635802,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2015",
+      "name": "KEDAI SUSOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8161823,
+        "latitude": 3.7183743,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2016",
+      "name": "PANJANG BARU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51141,
+      "coordinate": {
+        "longitude": 109.676947,
+        "latitude": -6.8649744,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2017",
+      "name": "KEDAI PALAK KERAMBIL",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8221957,
+        "latitude": 3.7154172,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2018",
+      "name": "LADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 78612,
+      "coordinate": {
+        "longitude": 111.4881265,
+        "latitude": 0.0660447,
+        "elevation": 20
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2019",
+      "name": "KEPALA BANDAR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8386478,
+        "latitude": 3.733059,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2020",
+      "name": "TANGAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8328264,
+        "latitude": 3.7320289,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2021",
+      "name": "GADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 70231,
+      "coordinate": {
+        "longitude": 114.5969895,
+        "latitude": -3.3178068,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2022",
+      "name": "PADANG HILIR",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8282017,
+        "latitude": 3.7288427,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2023",
+      "name": "BLANG DALAM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24188,
+      "coordinate": {
+        "longitude": 96.3067826,
+        "latitude": 5.2072247,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2024",
+      "name": "MEUNASAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8451524,
+        "latitude": 3.7230431,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2025",
+      "name": "LAMPOH DRIEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.841548,
+        "latitude": 3.7158289,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2026",
+      "name": "PADANG PANJANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 71561,
+      "coordinate": {
+        "longitude": 115.4695633,
+        "latitude": -2.2452469,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2027",
+      "name": "RUBEK MEUPAYONG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8488769,
+        "latitude": 3.7042165,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2028",
+      "name": "COT MANCANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.8481754,
+        "latitude": 3.716109,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.12.04.2029",
+      "name": "GEULIMA JAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.12",
+      "cityName": "KAB. ACEH BARAT DAYA",
+      "districtCode": "11.12.04",
+      "districtName": "SUSOH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23765,
+      "coordinate": {
+        "longitude": 96.7888927,
+        "latitude": 3.7360343,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 29
+  }
+}

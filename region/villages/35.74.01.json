@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.74.01.1001",
+      "name": "KETAPANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.01",
+      "districtName": "KADEMANGAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96513,
+      "coordinate": {
+        "longitude": 123.0343637,
+        "latitude": 0.9320803,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.01.1002",
+      "name": "TRIWUNG LOR",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.01",
+      "districtName": "KADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67223,
+      "coordinate": {
+        "longitude": 113.1753165,
+        "latitude": -7.767324,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.01.1003",
+      "name": "TRIWUNG KIDUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.01",
+      "districtName": "KADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67224,
+      "coordinate": {
+        "longitude": 113.1732969,
+        "latitude": -7.7732563,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.01.1007",
+      "name": "POHSANGIT KIDUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.01",
+      "districtName": "KADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67226,
+      "coordinate": {
+        "longitude": 113.1880345,
+        "latitude": -7.7866282,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.01.1008",
+      "name": "KADEMANGAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.01",
+      "districtName": "KADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 15313,
+      "coordinate": {
+        "longitude": 106.6685354,
+        "latitude": -6.3358032,
+        "elevation": 48
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.01.1009",
+      "name": "PILANG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.01",
+      "districtName": "KADEMANGAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 74816,
+      "coordinate": {
+        "longitude": 114.2228863,
+        "latitude": -2.4122414,
+        "elevation": 20
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

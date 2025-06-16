@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.01.15.1003",
+      "name": "TELUK LOBAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.15",
+      "districtName": "SERI KUALA LOBAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29153,
+      "coordinate": {
+        "longitude": 104.2699661,
+        "latitude": 1.0281835,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.15.1005",
+      "name": "TANJUNG PERMAI",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.15",
+      "districtName": "SERI KUALA LOBAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29153,
+      "coordinate": {
+        "longitude": 104.2389945,
+        "latitude": 1.0439574,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.15.2001",
+      "name": "BUSUNG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.15",
+      "districtName": "SERI KUALA LOBAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29153,
+      "coordinate": {
+        "longitude": 104.324275,
+        "latitude": 1.0157005,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.15.2002",
+      "name": "TELUK SASAH",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.15",
+      "districtName": "SERI KUALA LOBAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29153,
+      "coordinate": {
+        "longitude": 104.2477769,
+        "latitude": 0.9846697,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.01.15.2004",
+      "name": "KUALA SEMPANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.01",
+      "cityName": "KAB. BINTAN",
+      "districtCode": "21.01.15",
+      "districtName": "SERI KUALA LOBAM",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29153,
+      "coordinate": {
+        "longitude": 104.3211757,
+        "latitude": 1.0459801,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

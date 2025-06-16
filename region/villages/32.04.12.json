@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.12.1001",
+      "name": "PASAWAHAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.12",
+      "districtName": "DAYEUHKOLOT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 41172,
+      "coordinate": {
+        "longitude": 107.4895251,
+        "latitude": -6.581696,
+        "elevation": 117
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.12.2002",
+      "name": "DAYEUHKOLOT",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.12",
+      "districtName": "DAYEUHKOLOT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40258,
+      "coordinate": {
+        "longitude": 107.6214904,
+        "latitude": -6.9846544,
+        "elevation": 662
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.12.2003",
+      "name": "CANGKUANG WETAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.12",
+      "districtName": "DAYEUHKOLOT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40238,
+      "coordinate": {
+        "longitude": 107.6046515,
+        "latitude": -6.9712521,
+        "elevation": 661
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.12.2004",
+      "name": "CANGKUANG KULON",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.12",
+      "districtName": "DAYEUHKOLOT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40239,
+      "coordinate": {
+        "longitude": 107.593916,
+        "latitude": -6.9694349,
+        "elevation": 669
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.12.2005",
+      "name": "SUKAPURA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.12",
+      "districtName": "DAYEUHKOLOT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67254,
+      "coordinate": {
+        "longitude": 113.0453167,
+        "latitude": -7.8748704,
+        "elevation": 811
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.12.2006",
+      "name": "CITEUREUP",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.12",
+      "districtName": "DAYEUHKOLOT",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42281,
+      "coordinate": {
+        "longitude": 105.6883064,
+        "latitude": -6.5410984,
+        "elevation": 50
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

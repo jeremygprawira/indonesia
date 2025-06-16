@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "13.08.18.2001",
+      "name": "KOTO NOPAN",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.18",
+      "districtName": "RAO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26357,
+      "coordinate": {
+        "longitude": 99.895972,
+        "latitude": 0.8125139,
+        "elevation": 749
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.18.2002",
+      "name": "KOTO RAJO",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.18",
+      "districtName": "RAO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29562,
+      "coordinate": {
+        "longitude": 101.7282208,
+        "latitude": -0.4865121,
+        "elevation": 54
+      }
+    },
+    {
+      "type": "village",
+      "code": "13.08.18.2003",
+      "name": "LANGUANG",
+      "provinceCode": "13",
+      "provinceName": "SUMATERA BARAT",
+      "cityCode": "13.08",
+      "cityName": "KAB. PASAMAN",
+      "districtCode": "13.08.18",
+      "districtName": "RAO UTARA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 26357,
+      "coordinate": {
+        "longitude": 100.0530614,
+        "latitude": 0.6171506,
+        "elevation": 573
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 3
+  }
+}

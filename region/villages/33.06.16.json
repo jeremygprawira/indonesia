@@ -1,0 +1,570 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "33.06.16.2001",
+      "name": "BENOWO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60195,
+      "coordinate": {
+        "longitude": 112.6071703,
+        "latitude": -7.2397637,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2002",
+      "name": "KALITAPAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.1070785,
+        "latitude": -7.6375263,
+        "elevation": 437
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2003",
+      "name": "KALIWADER",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0788365,
+        "latitude": -7.6394184,
+        "elevation": 272
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2004",
+      "name": "KEDUNGPUCANG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0482571,
+        "latitude": -7.6487742,
+        "elevation": 150
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2005",
+      "name": "SENDANGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 55562,
+      "coordinate": {
+        "longitude": 110.2547489,
+        "latitude": -7.7228133,
+        "elevation": 133
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2006",
+      "name": "KALIBOTO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64152,
+      "coordinate": {
+        "longitude": 111.9553358,
+        "latitude": -7.7197722,
+        "elevation": 65
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2007",
+      "name": "KALIURIP",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0579905,
+        "latitude": -7.6384714,
+        "elevation": 149
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2008",
+      "name": "KEDUNGLOTENG",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0701727,
+        "latitude": -7.6271515,
+        "elevation": 200
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2009",
+      "name": "WADAS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51362,
+      "coordinate": {
+        "longitude": 109.9978365,
+        "latitude": -7.0527762,
+        "elevation": 461
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2010",
+      "name": "CACABAN KIDUL",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.1022777,
+        "latitude": -7.6234329,
+        "elevation": 337
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2011",
+      "name": "CACABAN LOR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.1050152,
+        "latitude": -7.6179537,
+        "elevation": 320
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2012",
+      "name": "PEKACANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0981189,
+        "latitude": -7.6128031,
+        "elevation": 366
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2013",
+      "name": "MEDONO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 51111,
+      "coordinate": {
+        "longitude": 109.665886,
+        "latitude": -6.9029193,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2014",
+      "name": "BLEBER",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 64172,
+      "coordinate": {
+        "longitude": 111.9717623,
+        "latitude": -7.9868274,
+        "elevation": 88
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2015",
+      "name": "BENER",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63155,
+      "coordinate": {
+        "longitude": 111.6804488,
+        "latitude": -7.5157991,
+        "elevation": 84
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2016",
+      "name": "KARANGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42277,
+      "coordinate": {
+        "longitude": 105.840127,
+        "latitude": -6.564011,
+        "elevation": 29
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2017",
+      "name": "GUNTUR",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 56229,
+      "coordinate": {
+        "longitude": 110.2054803,
+        "latitude": -7.3276512,
+        "elevation": 502
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2018",
+      "name": "LEGETAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0414945,
+        "latitude": -7.6021075,
+        "elevation": 270
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2019",
+      "name": "KETOSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0542809,
+        "latitude": -7.6055823,
+        "elevation": 294
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2020",
+      "name": "KAMIJORO",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0693112,
+        "latitude": -7.6035893,
+        "elevation": 272
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2021",
+      "name": "JATI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97716,
+      "coordinate": {
+        "longitude": 127.3706044,
+        "latitude": 0.7779466,
+        "elevation": 109
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2022",
+      "name": "MAYUNGSARI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0854709,
+        "latitude": -7.5808858,
+        "elevation": 367
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2023",
+      "name": "KALIJAMBE",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52184,
+      "coordinate": {
+        "longitude": 109.1904567,
+        "latitude": -6.916579,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2024",
+      "name": "SUKOWUWUH",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0446861,
+        "latitude": -7.5815903,
+        "elevation": 383
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2025",
+      "name": "LIMBANGAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 52255,
+      "coordinate": {
+        "longitude": 108.8318147,
+        "latitude": -6.8142573,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2026",
+      "name": "NGLARIS",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 54183,
+      "coordinate": {
+        "longitude": 110.0285717,
+        "latitude": -7.5662087,
+        "elevation": 485
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2027",
+      "name": "SIDOMUKTI",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 96157,
+      "coordinate": {
+        "longitude": 122.6533617,
+        "latitude": 0.6760994,
+        "elevation": 57
+      }
+    },
+    {
+      "type": "village",
+      "code": "33.06.16.2028",
+      "name": "NGASINAN",
+      "provinceCode": "33",
+      "provinceName": "JAWA TENGAH",
+      "cityCode": "33.06",
+      "cityName": "KAB. PURWOREJO",
+      "districtCode": "33.06.16",
+      "districtName": "BENER",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 62162,
+      "coordinate": {
+        "longitude": 111.6124489,
+        "latitude": -7.1783136,
+        "elevation": 33
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 28
+  }
+}

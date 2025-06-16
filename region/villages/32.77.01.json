@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.77.01.1001",
+      "name": "MELONG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.01",
+      "districtName": "CIMAHI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40534,
+      "coordinate": {
+        "longitude": 107.5571364,
+        "latitude": -6.9219247,
+        "elevation": 702
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.01.1002",
+      "name": "CIBEUREUM",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.01",
+      "districtName": "CIMAHI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42397,
+      "coordinate": {
+        "longitude": 106.1217368,
+        "latitude": -6.6912587,
+        "elevation": 401
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.01.1003",
+      "name": "UTAMA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.01",
+      "districtName": "CIMAHI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40533,
+      "coordinate": {
+        "longitude": 107.5412439,
+        "latitude": -6.9095665,
+        "elevation": 711
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.01.1004",
+      "name": "LEUWIGAJAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.01",
+      "districtName": "CIMAHI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40532,
+      "coordinate": {
+        "longitude": 107.5276742,
+        "latitude": -6.9088949,
+        "elevation": 721
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.77.01.1005",
+      "name": "CIBEBER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.77",
+      "cityName": "KOTA CIMAHI",
+      "districtCode": "32.77.01",
+      "districtName": "CIMAHI SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42423,
+      "coordinate": {
+        "longitude": 106.0709569,
+        "latitude": -6.0306453,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

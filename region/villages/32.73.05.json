@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.05.1001",
+      "name": "MALEBER",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.05",
+      "districtName": "ANDIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40184,
+      "coordinate": {
+        "longitude": 107.5719206,
+        "latitude": -6.9092883,
+        "elevation": 729
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.05.1002",
+      "name": "DUNGUS CARIANG",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.05",
+      "districtName": "ANDIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40183,
+      "coordinate": {
+        "longitude": 107.5810237,
+        "latitude": -6.9140819,
+        "elevation": 725
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.05.1003",
+      "name": "CIROYOM",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.05",
+      "districtName": "ANDIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40182,
+      "coordinate": {
+        "longitude": 107.5879382,
+        "latitude": -6.9157038,
+        "elevation": 722
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.05.1004",
+      "name": "KEBON JERUK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.05",
+      "districtName": "ANDIR",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40181,
+      "coordinate": {
+        "longitude": 107.5985225,
+        "latitude": -6.917508,
+        "elevation": 715
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.05.1005",
+      "name": "GARUDA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.05",
+      "districtName": "ANDIR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 93442,
+      "coordinate": {
+        "longitude": 121.8674033,
+        "latitude": -3.610652,
+        "elevation": 352
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.05.1006",
+      "name": "CAMPAKA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.05",
+      "districtName": "ANDIR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97758,
+      "coordinate": {
+        "longitude": 127.5173156,
+        "latitude": 1.1692566,
+        "elevation": 103
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

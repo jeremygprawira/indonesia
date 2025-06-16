@@ -1,0 +1,630 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.04.07.2001",
+      "name": "ARUL BADAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.6908704,
+        "latitude": 4.5180228,
+        "elevation": 1453
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2004",
+      "name": "BERAWANG BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.695418,
+        "latitude": 4.4250454,
+        "elevation": 1399
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2008",
+      "name": "GELELUNGI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8155648,
+        "latitude": 4.5622671,
+        "elevation": 1233
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2009",
+      "name": "IE RELOP",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2010",
+      "name": "KAYU KUL",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8171454,
+        "latitude": 4.6056851,
+        "elevation": 1250
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2011",
+      "name": "KEDELAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8200878,
+        "latitude": 4.5639848,
+        "elevation": 1227
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2012",
+      "name": "KUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.822641,
+        "latitude": 4.5862148,
+        "elevation": 1239
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2013",
+      "name": "KUTE LINTANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24581,
+      "coordinate": {
+        "longitude": 96.8576794,
+        "latitude": 4.7040899,
+        "elevation": 1338
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2014",
+      "name": "LELUMU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8024564,
+        "latitude": 4.5212464,
+        "elevation": 1594
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2016",
+      "name": "PAYA JEGET",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8203987,
+        "latitude": 4.5709698,
+        "elevation": 1223
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2017",
+      "name": "PEDEKOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8358268,
+        "latitude": 4.5431857,
+        "elevation": 1441
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2018",
+      "name": "PEGASING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8351268,
+        "latitude": 4.5957934,
+        "elevation": 1265
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2019",
+      "name": "PEPALANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.7947892,
+        "latitude": 4.56664,
+        "elevation": 1252
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2021",
+      "name": "SIMPANG KELAPING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.796383,
+        "latitude": 4.5890958,
+        "elevation": 1266
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2024",
+      "name": "TEBUK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 86151,
+      "coordinate": {
+        "longitude": 122.1738294,
+        "latitude": -8.6950046,
+        "elevation": 240
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2025",
+      "name": "TERANG ULEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8009272,
+        "latitude": 4.5614207,
+        "elevation": 1237
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2026",
+      "name": "UJUNG GELE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24581,
+      "coordinate": {
+        "longitude": 96.8826313,
+        "latitude": 4.7221546,
+        "elevation": 1357
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2029",
+      "name": "WIH ILANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.7416065,
+        "latitude": 4.4897965,
+        "elevation": 1668
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2030",
+      "name": "WIH NAREH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8203863,
+        "latitude": 4.5778724,
+        "elevation": 1228
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2031",
+      "name": "WIH LAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8282953,
+        "latitude": 4.5376604,
+        "elevation": 1407
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2032",
+      "name": "JEJEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.7734231,
+        "latitude": 4.5065719,
+        "elevation": 1654
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2033",
+      "name": "JURUSEN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8109745,
+        "latitude": 4.6050613,
+        "elevation": 1225
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2034",
+      "name": "KALA PEGASING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.817452,
+        "latitude": 4.5811513,
+        "elevation": 1227
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2035",
+      "name": "LINUNG AYU",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.7854356,
+        "latitude": 4.534535,
+        "elevation": 1627
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2036",
+      "name": "PANANGAN MATA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.7761738,
+        "latitude": 4.5256212,
+        "elevation": 1743
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2037",
+      "name": "PANTAN MUSARA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.7247315,
+        "latitude": 4.4679707,
+        "elevation": 1708
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2038",
+      "name": "WIH TERJUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.7881854,
+        "latitude": 4.47911,
+        "elevation": 1654
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2039",
+      "name": "BELANG BEBANGKA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24560,
+      "coordinate": {
+        "longitude": 96.8150428,
+        "latitude": 4.600266,
+        "elevation": 1241
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2040",
+      "name": "UNING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24586,
+      "coordinate": {
+        "longitude": 97.2362507,
+        "latitude": 4.6574568,
+        "elevation": 258
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2041",
+      "name": "URING",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24581,
+      "coordinate": {
+        "longitude": 96.8697088,
+        "latitude": 4.7186578,
+        "elevation": 1374
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.04.07.2042",
+      "name": "SUKA DAMAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.04",
+      "cityName": "KAB. ACEH TENGAH",
+      "districtCode": "11.04.07",
+      "districtName": "PEGASING",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97789,
+      "coordinate": {
+        "longitude": 127.7464899,
+        "latitude": -0.2245384,
+        "elevation": 634
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 31
+  }
+}

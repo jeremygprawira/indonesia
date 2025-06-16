@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.74.04.1001",
+      "name": "SEI MERBAU",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.04",
+      "districtName": "TELUK NIBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21334,
+      "coordinate": {
+        "longitude": 99.8039674,
+        "latitude": 2.9968543,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.04.1002",
+      "name": "PEMATANG PASIR",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.04",
+      "districtName": "TELUK NIBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 35596,
+      "coordinate": {
+        "longitude": 105.7851164,
+        "latitude": -5.6839735,
+        "elevation": 12
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.04.1003",
+      "name": "PERJUANGAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.04",
+      "districtName": "TELUK NIBUNG",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 95777,
+      "coordinate": {
+        "longitude": 124.4478409,
+        "latitude": 0.4545591,
+        "elevation": 127
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.04.1004",
+      "name": "KAPIAS PULAU BUAYA",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.04",
+      "districtName": "TELUK NIBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21331,
+      "coordinate": {
+        "longitude": 99.7963693,
+        "latitude": 2.9981612,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.74.04.1005",
+      "name": "BETING KUALA KAPIAS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.74",
+      "cityName": "KOTA TANJUNG BALAI",
+      "districtCode": "12.74.04",
+      "districtName": "TELUK NIBUNG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 21335,
+      "coordinate": {
+        "longitude": 99.8012423,
+        "latitude": 2.9815873,
+        "elevation": 4
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

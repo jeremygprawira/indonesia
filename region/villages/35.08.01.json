@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.08.01.2001",
+      "name": "TEGALREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.01",
+      "districtName": "TEMPURSARI",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94615,
+      "coordinate": {
+        "longitude": 120.7810818,
+        "latitude": -1.373442,
+        "elevation": 27
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.01.2002",
+      "name": "BULUREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.01",
+      "districtName": "TEMPURSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 61172,
+      "coordinate": {
+        "longitude": 112.5031145,
+        "latitude": -7.2623919,
+        "elevation": 15
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.01.2003",
+      "name": "PUROREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.01",
+      "districtName": "TEMPURSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67375,
+      "coordinate": {
+        "longitude": 112.9455255,
+        "latitude": -8.2974056,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.01.2004",
+      "name": "TEMPUREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.01",
+      "districtName": "TEMPURSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 68173,
+      "coordinate": {
+        "longitude": 113.6888794,
+        "latitude": -8.2986926,
+        "elevation": 64
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.01.2005",
+      "name": "TEMPURSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.01",
+      "districtName": "TEMPURSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 63181,
+      "coordinate": {
+        "longitude": 111.5584748,
+        "latitude": -7.6209139,
+        "elevation": 70
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.01.2006",
+      "name": "PUNDUNGSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.01",
+      "districtName": "TEMPURSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67375,
+      "coordinate": {
+        "longitude": 112.9857094,
+        "latitude": -8.2654592,
+        "elevation": 115
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.08.01.2007",
+      "name": "KALIULING",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.08",
+      "cityName": "KAB. LUMAJANG",
+      "districtCode": "35.08.01",
+      "districtName": "TEMPURSARI",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67375,
+      "coordinate": {
+        "longitude": 112.9621862,
+        "latitude": -8.2569542,
+        "elevation": 510
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 7
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "11.05.05.2001",
+      "name": "ALUE RAYA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23662,
+      "coordinate": {
+        "longitude": 96.5259723,
+        "latitude": 3.9254123,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2002",
+      "name": "COT DARAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0636481,
+        "latitude": 4.2159818,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2003",
+      "name": "COT PLUH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0748726,
+        "latitude": 4.2166781,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2004",
+      "name": "COT SEUMEUREUNG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2005",
+      "name": "COT MESJID",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23246,
+      "coordinate": {
+        "longitude": 95.339235,
+        "latitude": 5.533185,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2006",
+      "name": "COT LAMPISE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0406379,
+        "latitude": 4.2530692,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2007",
+      "name": "COT SEULAMAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.043909,
+        "latitude": 4.2405093,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2008",
+      "name": "COT AMUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0656768,
+        "latitude": 4.2461774,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2009",
+      "name": "DEUAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0571523,
+        "latitude": 4.2663829,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2010",
+      "name": "GAMPONG TEUNGOH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23674,
+      "coordinate": {
+        "longitude": 96.3091829,
+        "latitude": 4.2018694,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2011",
+      "name": "GAMPONG LADANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0596518,
+        "latitude": 4.2379689,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2012",
+      "name": "GAMPONG COT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24186,
+      "coordinate": {
+        "longitude": 96.3196482,
+        "latitude": 5.2280807,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2013",
+      "name": "KEUREUSENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0789338,
+        "latitude": 4.2714367,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2014",
+      "name": "KRUENG TINGGAI",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0590905,
+        "latitude": 4.2757278,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2015",
+      "name": "KUALA BUBON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0433546,
+        "latitude": 4.2130292,
+        "elevation": 3
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2016",
+      "name": "LEUBOK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0738665,
+        "latitude": 4.2632917,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2017",
+      "name": "LHOK BUBON",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0285062,
+        "latitude": 4.1991508,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2018",
+      "name": "LEUKEUN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0818885,
+        "latitude": 4.259789,
+        "elevation": 1
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2019",
+      "name": "MESJID BARO",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24264,
+      "coordinate": {
+        "longitude": 96.3497681,
+        "latitude": 5.181166,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2020",
+      "name": "PAYA LUMPAT",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0841023,
+        "latitude": 4.2296898,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2021",
+      "name": "PINEM",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0607231,
+        "latitude": 4.2452127,
+        "elevation": 8
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2022",
+      "name": "PANGE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.066931,
+        "latitude": 4.2807972,
+        "elevation": 17
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2023",
+      "name": "PUCOK LUENG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0438976,
+        "latitude": 4.2204757,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2024",
+      "name": "RANGKILEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 24372,
+      "coordinate": {
+        "longitude": 97.1996943,
+        "latitude": 5.0904057,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2025",
+      "name": "REUSAK",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0568604,
+        "latitude": 4.2561778,
+        "elevation": 13
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2026",
+      "name": "SUAK PANDAN",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.022445,
+        "latitude": 4.2199549,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2027",
+      "name": "SUAK SEUKE",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0200005,
+        "latitude": 4.2290207,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2028",
+      "name": "SUAK PANTE BREUH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2029",
+      "name": "SUAK GEUDEUBANG",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 95.9832604,
+        "latitude": 4.2558685,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2030",
+      "name": "SUAK SEUMASEH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 95.9715544,
+        "latitude": 4.270347,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2031",
+      "name": "SUAK TIMAH",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0623585,
+        "latitude": 4.2044672,
+        "elevation": 9
+      }
+    },
+    {
+      "type": "village",
+      "code": "11.05.05.2032",
+      "name": "UJONG NGA",
+      "provinceCode": "11",
+      "provinceName": "ACEH",
+      "cityCode": "11.05",
+      "cityName": "KAB. ACEH BARAT",
+      "districtCode": "11.05.05",
+      "districtName": "SAMATIGA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 23650,
+      "coordinate": {
+        "longitude": 96.0673338,
+        "latitude": 4.2336648,
+        "elevation": 6
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 32
+  }
+}

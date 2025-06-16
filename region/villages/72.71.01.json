@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.71.01.1004",
+      "name": "BESUSU BARAT",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.01",
+      "districtName": "PALU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94111,
+      "coordinate": {
+        "longitude": 119.8653875,
+        "latitude": -0.8874386,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.01.1006",
+      "name": "BESUSU TENGAH",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.01",
+      "districtName": "PALU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94111,
+      "coordinate": {
+        "longitude": 119.8749047,
+        "latitude": -0.8891076,
+        "elevation": 22
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.01.1007",
+      "name": "BESUSU TIMUR",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.01",
+      "districtName": "PALU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94111,
+      "coordinate": {
+        "longitude": 119.8828011,
+        "latitude": -0.8925109,
+        "elevation": 40
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.01.1009",
+      "name": "LOLU SELATAN",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.01",
+      "districtName": "PALU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94235,
+      "coordinate": {
+        "longitude": 119.8748273,
+        "latitude": -0.9059952,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.71.01.1010",
+      "name": "LOLU UTARA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.71",
+      "cityName": "KOTA PALU",
+      "districtCode": "72.71.01",
+      "districtName": "PALU TIMUR",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94235,
+      "coordinate": {
+        "longitude": 119.8737681,
+        "latitude": -0.8990772,
+        "elevation": 26
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

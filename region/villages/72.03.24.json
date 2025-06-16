@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "72.03.24.2001",
+      "name": "TIBO",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.24",
+      "districtName": "SINDUE TOMBUSABORA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94344,
+      "coordinate": {
+        "longitude": 119.7897298,
+        "latitude": -0.5097578,
+        "elevation": 354
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.24.2002",
+      "name": "KALIBURU",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.24",
+      "districtName": "SINDUE TOMBUSABORA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94344,
+      "coordinate": {
+        "longitude": 119.8485636,
+        "latitude": -0.4792542,
+        "elevation": 335
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.24.2003",
+      "name": "BATUSUYA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.24",
+      "districtName": "SINDUE TOMBUSABORA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94344,
+      "coordinate": {
+        "longitude": 119.7799946,
+        "latitude": -0.4290419,
+        "elevation": 178
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.24.2004",
+      "name": "SALOYA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.24",
+      "districtName": "SINDUE TOMBUSABORA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94344,
+      "coordinate": {
+        "longitude": 119.8481713,
+        "latitude": -0.5250868,
+        "elevation": 326
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.24.2005",
+      "name": "BATUSUYA GO-O",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.24",
+      "districtName": "SINDUE TOMBUSABORA",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "72.03.24.2006",
+      "name": "KALIBURU KATA",
+      "provinceCode": "72",
+      "provinceName": "SULAWESI TENGAH",
+      "cityCode": "72.03",
+      "cityName": "KAB. DONGGALA",
+      "districtCode": "72.03.24",
+      "districtName": "SINDUE TOMBUSABORA",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 94344,
+      "coordinate": {
+        "longitude": 119.8012566,
+        "latitude": -0.4513411,
+        "elevation": 264
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

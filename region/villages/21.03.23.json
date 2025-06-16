@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.03.23.2001",
+      "name": "PULAU PANJANG",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.23",
+      "districtName": "PULAU PANJANG",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97599,
+      "coordinate": {
+        "longitude": 131.2309552,
+        "latitude": -4.0184555,
+        "elevation": 46
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.03.23.2002",
+      "name": "PULAU KERDAU",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.03",
+      "cityName": "KAB. NATUNA",
+      "districtCode": "21.03.23",
+      "districtName": "PULAU PANJANG",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29779,
+      "coordinate": {
+        "longitude": 108.8781796,
+        "latitude": 2.702213,
+        "elevation": 8
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 2
+  }
+}

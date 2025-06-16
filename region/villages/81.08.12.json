@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "81.08.12.2001",
+      "name": "KETTY",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.12",
+      "districtName": "PULAU LAKOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97443,
+      "coordinate": {
+        "longitude": 128.1657705,
+        "latitude": -8.2607847,
+        "elevation": 23
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.12.2002",
+      "name": "LETODA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.12",
+      "districtName": "PULAU LAKOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97443,
+      "coordinate": {
+        "longitude": 128.1189119,
+        "latitude": -8.2354332,
+        "elevation": 18
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.12.2003",
+      "name": "SERA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.12",
+      "districtName": "PULAU LAKOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97443,
+      "coordinate": {
+        "longitude": 128.1786465,
+        "latitude": -8.2164846,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.12.2004",
+      "name": "YAMLULI",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.12",
+      "districtName": "PULAU LAKOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97443,
+      "coordinate": {
+        "longitude": 128.2137482,
+        "latitude": -8.2221158,
+        "elevation": 11
+      }
+    },
+    {
+      "type": "village",
+      "code": "81.08.12.2005",
+      "name": "LOLOTUARA",
+      "provinceCode": "81",
+      "provinceName": "MALUKU",
+      "cityCode": "81.08",
+      "cityName": "KAB. MALUKU BARAT DAYA",
+      "districtCode": "81.08.12",
+      "districtName": "PULAU LAKOR",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97443,
+      "coordinate": {
+        "longitude": 128.2102428,
+        "latitude": -8.259521,
+        "elevation": 18
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

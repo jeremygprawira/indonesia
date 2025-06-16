@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.73.06.1001",
+      "name": "HUSEIN SASTRANEGARA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.06",
+      "districtName": "CICENDO",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.06.1002",
+      "name": "ARJUNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.06",
+      "districtName": "CICENDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40172,
+      "coordinate": {
+        "longitude": 107.593046,
+        "latitude": -6.9099834,
+        "elevation": 725
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.06.1003",
+      "name": "PAJAJARAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.06",
+      "districtName": "CICENDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40173,
+      "coordinate": {
+        "longitude": 107.5869915,
+        "latitude": -6.8993559,
+        "elevation": 741
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.06.1004",
+      "name": "PASIRKALIKI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.06",
+      "districtName": "CICENDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40514,
+      "coordinate": {
+        "longitude": 107.5658174,
+        "latitude": -6.8840908,
+        "elevation": 775
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.06.1005",
+      "name": "PAMOYANAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.06",
+      "districtName": "CICENDO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40173,
+      "coordinate": {
+        "longitude": 107.5940793,
+        "latitude": -6.9030779,
+        "elevation": 730
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.73.06.1006",
+      "name": "SUKARAJA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.73",
+      "cityName": "KOTA BANDUNG",
+      "districtCode": "32.73.06",
+      "districtName": "CICENDO",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97561,
+      "coordinate": {
+        "longitude": 128.7204285,
+        "latitude": -2.8930777,
+        "elevation": 161
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

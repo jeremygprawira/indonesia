@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "district",
+      "code": "65.71.01",
+      "name": "TARAKAN BARAT",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN"
+    },
+    {
+      "type": "district",
+      "code": "65.71.02",
+      "name": "TARAKAN TENGAH",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN"
+    },
+    {
+      "type": "district",
+      "code": "65.71.03",
+      "name": "TARAKAN TIMUR",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN"
+    },
+    {
+      "type": "district",
+      "code": "65.71.04",
+      "name": "TARAKAN UTARA",
+      "provinceCode": "65",
+      "provinceName": "KALIMANTAN UTARA",
+      "cityCode": "65.71",
+      "cityName": "KOTA TARAKAN"
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

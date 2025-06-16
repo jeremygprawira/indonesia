@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.04.09.1004",
+      "name": "SULAIMAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.09",
+      "districtName": "MARGAHAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40229,
+      "coordinate": {
+        "longitude": 107.5737737,
+        "latitude": -6.9853135,
+        "elevation": 663
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.09.2001",
+      "name": "MARGAHAYU TENGAH",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.09",
+      "districtName": "MARGAHAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40225,
+      "coordinate": {
+        "longitude": 107.5728124,
+        "latitude": -6.9609418,
+        "elevation": 672
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.09.2002",
+      "name": "MARGAHAYU SELATAN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.09",
+      "districtName": "MARGAHAYU",
+      "indonesiaTimezone": "",
+      "ianaTimezone": "",
+      "timezoneOffset": "",
+      "postalCode": 0,
+      "coordinate": {
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.09.2003",
+      "name": "SUKAMENAK",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.09",
+      "districtName": "MARGAHAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 42175,
+      "coordinate": {
+        "longitude": 106.2183316,
+        "latitude": -6.212096,
+        "elevation": 43
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.04.09.2005",
+      "name": "SAYATI",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.04",
+      "cityName": "KAB. BANDUNG",
+      "districtCode": "32.04.09",
+      "districtName": "MARGAHAYU",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 40228,
+      "coordinate": {
+        "longitude": 107.5752707,
+        "latitude": -6.9697368,
+        "elevation": 668
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "95.02.29.2001",
+      "name": "MOT",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.29",
+      "districtName": "MOFINOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99443,
+      "coordinate": {
+        "longitude": 140.9397756,
+        "latitude": -4.1875418,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.29.2002",
+      "name": "MILKI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.29",
+      "districtName": "MOFINOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99443,
+      "coordinate": {
+        "longitude": 140.728919,
+        "latitude": -4.0651789,
+        "elevation": 299
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.29.2003",
+      "name": "YUBU",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.29",
+      "districtName": "MOFINOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99443,
+      "coordinate": {
+        "longitude": 140.8367531,
+        "latitude": -4.0776842,
+        "elevation": 155
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.29.2004",
+      "name": "MUARA ASBI",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.29",
+      "districtName": "MOFINOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99443,
+      "coordinate": {
+        "longitude": 140.9301624,
+        "latitude": -4.230044,
+        "elevation": 101
+      }
+    },
+    {
+      "type": "village",
+      "code": "95.02.29.2005",
+      "name": "TUAL",
+      "provinceCode": "95",
+      "provinceName": "PAPUA PEGUNUNGAN",
+      "cityCode": "95.02",
+      "cityName": "KAB PEGUNUNGAN BINTANG",
+      "districtCode": "95.02.29",
+      "districtName": "MOFINOP",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 99443,
+      "coordinate": {
+        "longitude": 140.8479843,
+        "latitude": -4.2676028,
+        "elevation": 424
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

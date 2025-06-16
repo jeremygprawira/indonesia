@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "14.71.05.1001",
+      "name": "PADANG BULAN",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.05",
+      "districtName": "SENAPELAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 30652,
+      "coordinate": {
+        "longitude": 104.818422,
+        "latitude": -3.2364766,
+        "elevation": 6
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.05.1002",
+      "name": "SAGO",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.05",
+      "districtName": "SENAPELAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28151,
+      "coordinate": {
+        "longitude": 101.4457195,
+        "latitude": 0.5343208,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.05.1003",
+      "name": "KAMPUNG BARU",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.05",
+      "districtName": "SENAPELAN",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98414,
+      "coordinate": {
+        "longitude": 131.2492128,
+        "latitude": -0.876178,
+        "elevation": 25
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.05.1004",
+      "name": "KAMPUNG DALAM",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.05",
+      "districtName": "SENAPELAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 39259,
+      "coordinate": {
+        "longitude": 102.1985764,
+        "latitude": -3.1213947,
+        "elevation": 345
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.05.1005",
+      "name": "KAMPUNG BANDAR",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.05",
+      "districtName": "SENAPELAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28153,
+      "coordinate": {
+        "longitude": 101.4410942,
+        "latitude": 0.5387762,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "14.71.05.1006",
+      "name": "PADANG TERUBUK",
+      "provinceCode": "14",
+      "provinceName": "RIAU",
+      "cityCode": "14.71",
+      "cityName": "KOTA PEKANBARU",
+      "districtCode": "14.71.05",
+      "districtName": "SENAPELAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 28155,
+      "coordinate": {
+        "longitude": 101.4343819,
+        "latitude": 0.5307537,
+        "elevation": 13
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.78.02.1001",
+      "name": "SIDOSERMO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.02",
+      "districtName": "WONOCOLO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60239,
+      "coordinate": {
+        "longitude": 112.7509511,
+        "latitude": -7.3094745,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.02.1002",
+      "name": "BENDUL MERISI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.02",
+      "districtName": "WONOCOLO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60239,
+      "coordinate": {
+        "longitude": 112.7457135,
+        "latitude": -7.3100131,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.02.1003",
+      "name": "MARGOREJO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.02",
+      "districtName": "WONOCOLO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60238,
+      "coordinate": {
+        "longitude": 112.7399234,
+        "latitude": -7.3151725,
+        "elevation": 5
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.02.1004",
+      "name": "JEMUR WONOSARI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.02",
+      "districtName": "WONOCOLO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60237,
+      "coordinate": {
+        "longitude": 112.7385386,
+        "latitude": -7.322366,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.78.02.1005",
+      "name": "SIWALANKERTO",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.78",
+      "cityName": "KOTA SURABAYA",
+      "districtCode": "35.78.02",
+      "districtName": "WONOCOLO",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 60236,
+      "coordinate": {
+        "longitude": 112.737849,
+        "latitude": -7.3385866,
+        "elevation": 7
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "96.03.23.2001",
+      "name": "ABIDON",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.23",
+      "districtName": "KEPULAUAN AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98461,
+      "coordinate": {
+        "longitude": 131.1247807,
+        "latitude": 0.4994639,
+        "elevation": 24
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.23.2002",
+      "name": "RUTUM",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.23",
+      "districtName": "KEPULAUAN AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98461,
+      "coordinate": {
+        "longitude": 131.188913,
+        "latitude": 0.5602751,
+        "elevation": 7
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.23.2004",
+      "name": "MEOSBEKWAN",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.23",
+      "districtName": "KEPULAUAN AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98461,
+      "coordinate": {
+        "longitude": 131.1387175,
+        "latitude": 0.3999922,
+        "elevation": 10
+      }
+    },
+    {
+      "type": "village",
+      "code": "96.03.23.2003",
+      "name": "RENI",
+      "provinceCode": "96",
+      "provinceName": "PAPUA BARAT DAYA",
+      "cityCode": "96.03",
+      "cityName": "KAB. RAJA AMPAT",
+      "districtCode": "96.03.23",
+      "districtName": "KEPULAUAN AYAU",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 98461,
+      "coordinate": {
+        "longitude": 131.2638414,
+        "latitude": 1.0615239,
+        "elevation": 16
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

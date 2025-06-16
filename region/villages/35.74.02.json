@@ -1,0 +1,130 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "35.74.02.1001",
+      "name": "JREBENG KIDUL",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.02",
+      "districtName": "WONOASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67233,
+      "coordinate": {
+        "longitude": 113.2127294,
+        "latitude": -7.7972469,
+        "elevation": 34
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.02.1002",
+      "name": "PAKISTAJI",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.02",
+      "districtName": "WONOASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67239,
+      "coordinate": {
+        "longitude": 113.2178844,
+        "latitude": -7.8005864,
+        "elevation": 35
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.02.1003",
+      "name": "KEDUNGGALENG",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.02",
+      "districtName": "WONOASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67239,
+      "coordinate": {
+        "longitude": 113.2202156,
+        "latitude": -7.8111079,
+        "elevation": 41
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.02.1005",
+      "name": "KEDUNG ASEM",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.02",
+      "districtName": "WONOASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67236,
+      "coordinate": {
+        "longitude": 113.2347436,
+        "latitude": -7.8001053,
+        "elevation": 28
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.02.1006",
+      "name": "SUMBER TAMAN",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.02",
+      "districtName": "WONOASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67237,
+      "coordinate": {
+        "longitude": 113.2336673,
+        "latitude": -7.7769594,
+        "elevation": 21
+      }
+    },
+    {
+      "type": "village",
+      "code": "35.74.02.1007",
+      "name": "WONOASIH",
+      "provinceCode": "35",
+      "provinceName": "JAWA TIMUR",
+      "cityCode": "35.74",
+      "cityName": "KOTA PROBOLINGGO",
+      "districtCode": "35.74.02",
+      "districtName": "WONOASIH",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 67232,
+      "coordinate": {
+        "longitude": 113.2045677,
+        "latitude": -7.8022021,
+        "elevation": 45
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 6
+  }
+}

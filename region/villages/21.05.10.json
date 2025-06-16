@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "21.05.10.2001",
+      "name": "PAYALAMAN",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.10",
+      "districtName": "KUTE SIANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29796,
+      "coordinate": {
+        "longitude": 107.6285955,
+        "latitude": -6.8911374,
+        "elevation": 738
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.10.2002",
+      "name": "PAYAMARAM",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.10",
+      "districtName": "KUTE SIANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29796,
+      "coordinate": {
+        "longitude": 106.2541142,
+        "latitude": 3.3360599,
+        "elevation": 31
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.10.2003",
+      "name": "BATU AMPAR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.10",
+      "districtName": "KUTE SIANTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 76136,
+      "coordinate": {
+        "longitude": 116.8478645,
+        "latitude": -1.2145731,
+        "elevation": 16
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.10.2004",
+      "name": "MATAK",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.10",
+      "districtName": "KUTE SIANTAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 29796,
+      "coordinate": {
+        "longitude": 106.1609684,
+        "latitude": 3.2061109,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "21.05.10.2005",
+      "name": "TELUK BAYUR",
+      "provinceCode": "21",
+      "provinceName": "KEPULAUAN RIAU",
+      "cityCode": "21.05",
+      "cityName": "KAB. KEPULAUAN ANAMBAS",
+      "districtCode": "21.05.10",
+      "districtName": "KUTE SIANTAN",
+      "indonesiaTimezone": "WITA",
+      "ianaTimezone": "Asia/Makassar",
+      "timezoneOffset": "+08:00",
+      "postalCode": 77315,
+      "coordinate": {
+        "longitude": 117.4014099,
+        "latitude": 2.1394665,
+        "elevation": 25
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "32.75.10.1001",
+      "name": "JATISAMPURNA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.10",
+      "districtName": "JATISAMPURNA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17433,
+      "coordinate": {
+        "longitude": 106.9196382,
+        "latitude": -6.3667177,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.10.1002",
+      "name": "JATIKARYA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.10",
+      "districtName": "JATISAMPURNA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17435,
+      "coordinate": {
+        "longitude": 106.9181849,
+        "latitude": -6.3874869,
+        "elevation": 73
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.10.1003",
+      "name": "JATIRANGGON",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.10",
+      "districtName": "JATISAMPURNA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17432,
+      "coordinate": {
+        "longitude": 106.9239001,
+        "latitude": -6.3409632,
+        "elevation": 59
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.10.1004",
+      "name": "JATIRANGGA",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.10",
+      "districtName": "JATISAMPURNA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17434,
+      "coordinate": {
+        "longitude": 106.9429848,
+        "latitude": -6.362233,
+        "elevation": 69
+      }
+    },
+    {
+      "type": "village",
+      "code": "32.75.10.1005",
+      "name": "JATIRADEN",
+      "provinceCode": "32",
+      "provinceName": "JAWA BARAT",
+      "cityCode": "32.75",
+      "cityName": "KOTA BEKASI",
+      "districtCode": "32.75.10",
+      "districtName": "JATISAMPURNA",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 17433,
+      "coordinate": {
+        "longitude": 106.9180424,
+        "latitude": -6.3551762,
+        "elevation": 64
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "12.73.03.1001",
+      "name": "AEK HABIL",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.03",
+      "districtName": "SIBOLGA SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22533,
+      "coordinate": {
+        "longitude": 98.8008169,
+        "latitude": 1.7231556,
+        "elevation": 2
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.03.1002",
+      "name": "AEK MANIS",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.03",
+      "districtName": "SIBOLGA SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22536,
+      "coordinate": {
+        "longitude": 98.7944345,
+        "latitude": 1.7329674,
+        "elevation": 39
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.03.1003",
+      "name": "AEK MUARA PINANG",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.03",
+      "districtName": "SIBOLGA SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22537,
+      "coordinate": {
+        "longitude": 98.801342,
+        "latitude": 1.7259989,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "12.73.03.1004",
+      "name": "AEK PAROMBUNAN",
+      "provinceCode": "12",
+      "provinceName": "SUMATERA UTARA",
+      "cityCode": "12.73",
+      "cityName": "KOTA SIBOLGA",
+      "districtCode": "12.73.03",
+      "districtName": "SIBOLGA SELATAN",
+      "indonesiaTimezone": "WIB",
+      "ianaTimezone": "Asia/Jakarta",
+      "timezoneOffset": "+07:00",
+      "postalCode": 22538,
+      "coordinate": {
+        "longitude": 98.8001484,
+        "latitude": 1.7350443,
+        "elevation": 58
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 4
+  }
+}

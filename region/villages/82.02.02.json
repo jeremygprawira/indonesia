@@ -1,0 +1,110 @@
+{
+  "code": 200,
+  "status": "OK",
+  "message": "Request has been successfully processed.",
+  "data": [
+    {
+      "type": "village",
+      "code": "82.02.02.2004",
+      "name": "WAILEGI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.02",
+      "districtName": "PATANI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97855,
+      "coordinate": {
+        "longitude": 128.838366,
+        "latitude": 0.2536019,
+        "elevation": 0
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.02.2005",
+      "name": "KIPAI",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.02",
+      "districtName": "PATANI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97855,
+      "coordinate": {
+        "longitude": 128.7058172,
+        "latitude": 0.2995537,
+        "elevation": 68
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.02.2006",
+      "name": "YEISOWO",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.02",
+      "districtName": "PATANI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97855,
+      "coordinate": {
+        "longitude": 128.772858,
+        "latitude": 0.2811191,
+        "elevation": 74
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.02.2012",
+      "name": "YONDELIU",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.02",
+      "districtName": "PATANI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97855,
+      "coordinate": {
+        "longitude": 128.7560964,
+        "latitude": 0.2820074,
+        "elevation": 4
+      }
+    },
+    {
+      "type": "village",
+      "code": "82.02.02.2013",
+      "name": "BAKA JAYA",
+      "provinceCode": "82",
+      "provinceName": "MALUKU UTARA",
+      "cityCode": "82.02",
+      "cityName": "KAB. HALMAHERA TENGAH",
+      "districtCode": "82.02.02",
+      "districtName": "PATANI",
+      "indonesiaTimezone": "WIT",
+      "ianaTimezone": "Asia/Jayapura",
+      "timezoneOffset": "+09:00",
+      "postalCode": 97855,
+      "coordinate": {
+        "longitude": 128.7894801,
+        "latitude": 0.2768215,
+        "elevation": 68
+      }
+    }
+  ],
+  "metadata": {
+    "totalRow": 5
+  }
+}
